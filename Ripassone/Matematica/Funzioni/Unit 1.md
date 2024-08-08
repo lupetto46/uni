@@ -62,3 +62,5 @@ Serve per rappresentare tutti i punti in modo numerico
 proviamo a fare il grafico di $f:[a,b] \rightarrow ℝ$ : 
 Considerando il prodotto cartesiano $[a,b] \times ℝ \subseteq ℝ \times ℝ$ il grafico è un sottoinsieme: $g(f) = \{(x,y) \in [a, b] \times ℝ: y=f(x)\}$ 
 Ovvero si prendono solo le coordinate il cui risultato della funzione per la prima coordinata è uguale alla seconda coordinata
+![[Pasted image 20240809003806.png]]
+Lezione 2 Unit 1 pagina 10
