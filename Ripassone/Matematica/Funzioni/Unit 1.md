@@ -19,4 +19,11 @@ Prendiamo di esempio:
 $f: ℝ \rightarrow ℝ,\ f(x)=x^2$
 Non è iniettiva in quanto per esempio
 $f(-2)=4$ e $f(2) = 4$
-Due valori **distinti** di $x$ danno qu
+Due valori **distinti** di $x$ danno quindi lo stesso risultato
+Non è nemmeno suriettiva in quanto per esempio $-4 \neq f(x) \forall x\in ℝ$   
+Quindi non esistendo un numero in cui viene dato $-4$ non può essere iniettiva 
+
+Mentre invece:
+$f:ℕ \rightarrow ℕ,\ f(x)=x^2$
+è iniettiva in quanto non ci sono numeri negativi
+Ma non è su
