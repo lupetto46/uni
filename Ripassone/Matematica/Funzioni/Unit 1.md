@@ -48,8 +48,14 @@ $g(f(x))=x\ \forall x \in ℝ\qquad\qquad f(g(y))=y\ \forall y \in ℝ$
 
 Ma come si trova l'inversa di $f$
 $$
-\begin{align*}
-y=2x+1\\
-
-\end{align*}
+\begin{align}
+&y=2x+1\\
+&y-1 = 2x\\
+&{y-1 \over 2} =x
+\end{align}
 $$
+
+La nostra $g$ sarà quindi ${y-1 \over 2}$
+# Il piano cartesiano
+Serve per rappresentare tutti i punti in modo numerico
+proviamo a fare
