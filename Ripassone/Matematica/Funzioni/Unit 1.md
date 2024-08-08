@@ -44,5 +44,12 @@ $f:ℝ\rightarrow ℝ, f(x)= 2x+1$
 è biiettiva (lo abbiamo visto prima)
 $g: ℝ \rightarrow ℝ$
 
-$g(f(x))=x\ \ \ \ \ \ \ \ \ \ \ \ \ \ f(g(y))=y$
-$\ \ \ \ \ \ \ \forall$
+$g(f(x))=x\ \forall x \in ℝ\qquad\qquad f(g(y))=y\ \forall y \in ℝ$
+
+Ma come si trova l'inversa di $f$
+$$
+\begin{align*}
+y=2x+1\\
+
+\end{align*}
+$$
