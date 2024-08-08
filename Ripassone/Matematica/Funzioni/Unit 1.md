@@ -33,4 +33,16 @@ Come per esempio $2, 3\ o\ 5$
 Una funzione invertibile è una funzione in cui $A \rightarrow B$ può diventare $B \rightarrow A$
 E deve soddisfare quindi  queste condizioni:
 $f:A\rightarrow B$
-$g:B\rightarrow A\ tale\ che:$
+$g:B\rightarrow A$ tale che:
+- $a\in A:\ g(f(a))=a$
+- $b\in B:\ f(g(b))=b$
+
+Una funzione é inoltre invertibile solo se [[#Biiettiva]]
+
+## Esempio
+$f:ℝ\rightarrow ℝ, f(x)= 2x+1$
+è biiettiva (lo abbiamo visto prima)
+$g: ℝ \rightarrow ℝ$
+
+$g(f(x))=x\ \ \ \ \ \ \ \ \ \ \ \ \ \ f(g(y))=y$
+$\ \ \ \ \ \ \ \forall$
