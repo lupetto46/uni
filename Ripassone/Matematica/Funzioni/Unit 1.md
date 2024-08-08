@@ -60,4 +60,5 @@ La nostra $g$ sarà quindi ${y-1 \over 2}$
 Serve per rappresentare tutti i punti in modo numerico
 ![[Pasted image 20240809001739.png]]
 proviamo a fare il grafico di $f:[a,b] \rightarrow ℝ$ : 
-Considerando il prodotto cartesiano $[a,b] \times ℝ \subseteq ℝ \times ℝ$ il grafico è un
+Considerando il prodotto cartesiano $[a,b] \times ℝ \subseteq ℝ \times ℝ$ il grafico è un sottoinsieme: $g(f) = \{(x,y) \in [a, b] \times ℝ: y=f(x)\}$ 
+Ovvero si prendono solo le coordinate il cui risultato della funzione per la prima coordinata è uguale alla seconda coordinata
