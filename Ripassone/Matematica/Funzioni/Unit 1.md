@@ -26,4 +26,11 @@ Quindi non esistendo un numero in cui viene dato $-4$ non può essere iniettiva
 Mentre invece:
 $f:ℕ \rightarrow ℕ,\ f(x)=x^2$
 è iniettiva in quanto non ci sono numeri negativi
-Ma non è su
+Ma non è suriettiva in quanto ci sono numeri che non sono il quadrato di nessun numero
+Come per esempio $2, 3\ o\ 5$
+
+# Funzioni invertibili
+Una funzione invertibile è una funzione in cui $A \rightarrow B$ può diventare $B \rightarrow A$
+E deve soddisfare quindi  queste condizioni:
+$f:A\rightarrow B$
+$g:B\rightarrow A\ tale\ che:$
