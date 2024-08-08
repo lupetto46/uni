@@ -21,7 +21,7 @@
           "commandId": "obsidian-git:push2"
         }
       ],
-      "name": "Backup",
+      "name": "Save",
       "icon": "star",
       "startup": false
     }
