@@ -98,13 +98,13 @@ Si può vedere che:
 
 ## Pari o Dispari
 ### Pari
-Una funzione è detta **pari** se, avendo $f: [-a,a] \rightarrow ℝ$ , $f(-x) = f(x)$
+Una funzione $f: [-a,a] \rightarrow ℝ$ è detta **pari** se per ogni $x \in [-a, a]$ si ha $f(-x) = f(x)$
 
 E lo si nota dal grafico in quanto questo viene specchiato rispetto all'asse delle ordinate
 ![[Pasted image 20240809130539.png]]
 
 ### Dispari
-$f:[-a,a] \rightarrow ℝ$ è dispari se $f(-x)= -f(x)$
+$f:[-a,a] \rightarrow ℝ$ è dispari se per ogni $x \in [-a, a]$ si ha  $f(-x)= -f(x)$
 
 E lo si nota dal grafico in quanto viene specchiata sia dall'asse delle ordinate ($y$) che da quello delle ascisse ($x$)
 ![[Pasted image 20240809131202.png]]
