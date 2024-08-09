@@ -64,4 +64,16 @@ Considerando il prodotto cartesiano $[a,b] \times ℝ \subseteq ℝ \times ℝ$ 
 Ovvero si prendono solo le coordinate il cui risultato della funzione per la prima coordinata è uguale alla seconda coordinata
 
 ![[Pasted image 20240809003806.png]]
-Lezione 2 Unit 1 pagina 10
+# Il grafico e come trovare le sue proprietà
+## Suriettiva o Iniettiva
+Prendendo una funzione $f: [a,b] \rightarrow ℝ$ 
+![[Pasted image 20240809125204.png]]
+Si può vedere che:
+- **Non** è [[#iniettiva]] in quanto ci sono due punti con la stessa ordinata (scritti in blu)
+- **Non** è [[#Suriettiva]] in quanto il punto $d$ non viene toccato nonostante il codominio sia $ℝ$
+
+
+---
+Mentre invece prendendo sempre la stessa funzione $f: [a,b] \rightarrow ℝ$ 
+![[Pasted image 20240809125512.png]]
+È iniettiva in quanto
