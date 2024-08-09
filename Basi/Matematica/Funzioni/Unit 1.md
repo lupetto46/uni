@@ -123,8 +123,17 @@ Avendo $f:[0,2] \rightarrow [0,4],\ f(x) = x^2$
 È biiettiva e quindi invertibile
 L'inverso è $f^{-1}:[0,4]\rightarrow [0,2], f^{-1}(x)= \sqrt{x}$
 
-Come prima cosa possiamo fare una tabella la cui prima colonna è la nostra $x$ e la seconda il risultato
+Come prima cosa possiamo fare una tabella la cui prima colonna è la nostra $x$ e la seconda il risultato della funzione
 ![[Pasted image 20240809135804.png]]
 e segnare i punti nel grafico
 ![[Pasted image 20240809135915.png]]
 Dopodiché si può fare la tabella dell'inverso
+![[Pasted image 20240809140020.png]]
+E ne inseriamo nello stesso grafico i punti
+![[Pasted image 20240809140146.png]]
+
+Possiamo quindi notare che tracciando la bisettrice
+![[Pasted image 20240809140216.png]]L'inverso della funzione è la stessa funzione specchiata rispetto alla bisettrice.
+
+## Funzione periodica
+Una funzione  è chiamata periodica se esiste un $T \in \mathbb{R} (t \$ 
