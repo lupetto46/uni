@@ -132,8 +132,8 @@ Dopodiché si può fare la tabella dell'inverso
 E ne inseriamo nello stesso grafico i punti
 ![[Pasted image 20240809140146.png]]
 
-Possiamo quindi notare che tracciando la bisettrice
-![[Pasted image 20240809140216.png]]L'inverso della funzione è la stessa funzione specchiata rispetto alla bisettrice.
+Possiamo quindi notare che tracciando la bisettrice l'inverso della funzione è la stessa funzione specchiata rispetto alla bisettrice.
+![[Pasted image 20240809140216.png]]
 
 ## Funzione periodica
-Una funzione  è chiamata periodica se esiste un $T \in \mathbb{R} (t \$ 
+Una funzione  è chiamata periodica se esiste un $T \in \mathbb{R} (T > 0)$ tale che $f(x +nT) = f(x)$ di cui $T$ si chiama periodo
