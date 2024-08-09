@@ -104,4 +104,10 @@ E lo si nota dal grafico in quanto questo viene specchiato rispetto all'asse del
 ![[Pasted image 20240809130539.png]]
 
 ### Dispari
-$f:[-a,a] \rightarrow ℝ$
+$f:[-a,a] \rightarrow ℝ$ è dispari se $f(-x)= -f(x)$
+
+E lo si nota dal grafico in quanto viene specchiata sia dall'asse delle ordinate ($y$) che da quello delle ascisse ($x$)
+![[Pasted image 20240809131202.png]]
+
+## Crescente o Decrescente
+Una funzione $f: [a,b] \rightarrow ℝ$ è crescente
