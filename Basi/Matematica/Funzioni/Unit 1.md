@@ -86,4 +86,17 @@ Prendendo sempre una funzione $f: [a,b] \rightarrow ℝ$
 ![[Pasted image 20240809125844.png]]
 Si può vedere che:
 - **Non** è [[#iniettiva]] in quanto la parte iniziale e la parte finale è dritta e quindi hanno lo stesso valore $y$ con diverse $x$
-- È [[#suriettiva]] in quanto le funzioni
+- È [[#suriettiva]] in quanto la funzione (come si vede dal tratteggiato agli estremi) continua per l'asse $y$ all'infinito prendendo quindi qualsiasi numero in $ℝ$
+
+---
+Prendiamo anche il caso in cui sia dominio che codominio sono finiti
+$f: [a,b] \rightarrow [c, d]$
+![[Pasted image 20240809130213.png]]
+Si può vedere che:
+- **Non** é [[#iniettiva]] in quanto ci sono dei punti che vengono toccati più di una volta
+- Ma è [[#suriettiva]] in quanto tutta l'asse $y$ coperta dal codominio $[c,d]$ viene toccata dal grafico della funzione
+
+## Pari o Dispari
+Una funzione è detta pari se, avendo $f: [a,b] \rightarrow ℝ$ , $f(-x) = f(x)$
+
+E lo si nota dal grafico
