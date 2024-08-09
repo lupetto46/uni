@@ -110,4 +110,7 @@ E lo si nota dal grafico in quanto viene specchiata sia dall'asse delle ordinate
 ![[Pasted image 20240809131202.png]]
 
 ## Crescente o Decrescente
-Una funzione $f: [a,b] \rightarrow ℝ$ è crescente
+### Crescente
+Una funzione $f: [a,b] \rightarrow ℝ$ è **crescente** se $f(x) \leq f(y)$ 
+![[Pasted image 20240809131643.png]]
+### Decrescente
