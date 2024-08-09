@@ -46,7 +46,7 @@ $g: ℝ \rightarrow ℝ$
 
 $g(f(x))=x\ \forall x \in ℝ\qquad\qquad f(g(y))=y\ \forall y \in ℝ$
 
-Ma come si trova l'inversa di $f$
+Ma come si trova l'inversa di $f$ ?
 $$
 \begin{align}
 &y=2x+1\\
@@ -76,4 +76,14 @@ Si può vedere che:
 ---
 Mentre invece prendendo sempre la stessa funzione $f: [a,b] \rightarrow ℝ$ 
 ![[Pasted image 20240809125512.png]]
-È iniettiva in quanto
+Si può vedere che:
+- È [[#iniettiva]] in quanto non ci sono punti dell'asse $y$ che vengono toccati 
+- **Non** è [[#suriettiva]] in quanto il punto $d$ (scritto in blu) non viene toccato nonostante il codominio sia tutto $ℝ$
+
+---
+Un altro esempio un po' più complicato è:
+Prendendo sempre una funzione $f: [a,b] \rightarrow ℝ$
+![[Pasted image 20240809125844.png]]
+Si può vedere che:
+- **Non** è [[#iniettiva]] in quanto la parte iniziale e la parte finale è dritta e quindi hanno lo stesso valore $y$ con diverse $x$
+- È [[#suriettiva]] in quanto le funzioni

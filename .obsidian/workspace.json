@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ripassone/Matematica/Funzioni/Unit 1.md",
+                "file": "Basi/Matematica/Funzioni/Unit 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ripassone/Matematica/Funzioni/Unit 1.md",
+                "file": "Basi/Matematica/Funzioni/Unit 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ripassone/Matematica/Funzioni/Unit 1.md",
+                "file": "Basi/Matematica/Funzioni/Unit 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ripassone/Matematica/Funzioni/Unit 1.md"
+                "file": "Basi/Matematica/Funzioni/Unit 1.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "1d944fe831361028",
   "lastOpenFiles": [
+    "Pasted image 20240809125844.png",
     "Pasted image 20240809125512.png",
     "Pasted image 20240809125204.png",
-    "Ripassone/Matematica/Immagini/Pasted image 20240809003806.png",
-    "Ripassone/Matematica/Immagini",
-    "Ripassone/Matematica/Immagini/Pasted image 20240809001739.png",
-    "Ripassone/Matematica/Funzioni",
-    "Ripassone/Fisica/Fisica 1.md",
+    "Basi/Matematica/Immagini/Pasted image 20240809003806.png",
+    "Basi/Matematica/Immagini",
+    "Basi/Matematica/Immagini/Pasted image 20240809001739.png",
+    "Basi/Matematica/Funzioni",
+    "Basi/Fisica/Fisica 1.md",
     "Readme.md",
-    "Ripassone/Matematica/Funzioni/Unit 1.md",
+    "Basi/Matematica/Funzioni/Unit 1.md",
     "conflict-files-obsidian-git.md",
-    "Ripassone/Matematica",
+    "Basi/Matematica",
     "Ripassone/Untitled.md",
-    "Ripassone/Fisica",
-    "Ripassone",
+    "Basi/Fisica",
+    "Basi",
     "Welcome.md"
   ]
 }
