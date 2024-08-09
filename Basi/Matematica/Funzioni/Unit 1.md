@@ -111,6 +111,12 @@ E lo si nota dal grafico in quanto viene specchiata sia dall'asse delle ordinate
 
 ## Crescente o Decrescente
 ### Crescente
-Una funzione $f: [a,b] \rightarrow ℝ$ è **crescente** se $f(x) \leq f(y)$ 
+Una funzione $f: [a,b] \rightarrow ℝ$ è **crescente** se per ogni $x \leq y \in [a,b]$ si ha
+$f(x) \leq f(y)$ 
 ![[Pasted image 20240809131643.png]]
 ### Decrescente
+Una funzione $f: [a,b] \rightarrow ℝ$ è **decrescente** se per ogni $x \leq y \in [a,b]$ si ha
+$f(x) \geq f(y)$ 
+![[Pasted image 20240809135326.png]]
+## Grafico funzioni invertibili
+Avendo
