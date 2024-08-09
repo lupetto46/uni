@@ -49,9 +49,9 @@ $g(f(x))=x\ \forall x \in ℝ\qquad\qquad f(g(y))=y\ \forall y \in ℝ$
 Ma come si trova l'inversa di $f$ ?
 $$
 \begin{align}
-&y=2x+1\\
-&y-1 = 2x\\
-&{y-1 \over 2} =x
+y&=2x+1\\
+y-1 &= 2x\\
+{y-1 \over 2} &=x
 \end{align}
 $$
 
@@ -97,6 +97,11 @@ Si può vedere che:
 - Ma è [[#suriettiva]] in quanto tutta l'asse $y$ coperta dal codominio $[c,d]$ viene toccata dal grafico della funzione
 
 ## Pari o Dispari
-Una funzione è detta pari se, avendo $f: [a,b] \rightarrow ℝ$ , $f(-x) = f(x)$
+### Pari
+Una funzione è detta **pari** se, avendo $f: [-a,a] \rightarrow ℝ$ , $f(-x) = f(x)$
 
-E lo si nota dal grafico
+E lo si nota dal grafico in quanto questo viene specchiato rispetto all'asse delle ordinate
+![[Pasted image 20240809130539.png]]
+
+### Dispari
+$f:[-a,a] \rightarrow ℝ$

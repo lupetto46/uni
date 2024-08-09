@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "00c1d363d13e4238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0cd2ded2f58477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basi/Matematica/Funzioni/Unit 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d944fe831361028",
+  "active": "ec0cd2ded2f58477",
   "lastOpenFiles": [
+    "Pasted image 20240809130539.png",
     "Pasted image 20240809130213.png",
     "Pasted image 20240809125844.png",
     "Pasted image 20240809125512.png",
