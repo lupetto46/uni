@@ -89,6 +89,7 @@ pi
 parte
 possiamo
 periodica
+periodo
 HBz
 HN
 HU
@@ -263,6 +264,7 @@ crescente
 cosa
 colonna
 chiamata
+chiama
 av
 as
 aIT

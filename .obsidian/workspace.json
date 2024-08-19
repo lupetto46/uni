@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "32f65aa04fbcd2f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d944fe831361028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basi/Matematica/Funzioni/Unit 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "00c1d363d13e4238",
         "type": "tabs",
         "children": [
@@ -164,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d944fe831361028",
+  "active": "ec0cd2ded2f58477",
   "lastOpenFiles": [
     "Basi/Matematica/Immagini/Pasted image 20240809140216.png",
     "Basi/Matematica/Funzioni/Unit 1.md",
