@@ -16,4 +16,10 @@ Inserire poi valori come:
 è inoltre consigliabile nei normali grafici quando si sta trattando di dati che da un numero molto grande raggiungono numeri molto piccoli come: 
 ![[Pasted image 20240902145531.png]]
 In questo caso conviene utilizzare le proprietà dei logaritmi delle potenze di 10:
-$log10^1 = 0$
+$\log{10^1} = 0$
+$\log{10^{10}} = 1$
+$\log{10^{100}} = 2$
+$\log{10^{k}} = k$
+Questa proprietà permette di rendere molto più leggibili questi grafici rendendoli praticamente delle rette:
+
+![[Pasted image 20240902150059.png]]
