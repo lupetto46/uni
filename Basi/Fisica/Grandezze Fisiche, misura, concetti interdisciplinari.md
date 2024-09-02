@@ -3,4 +3,4 @@ L'S.I. è il sistema internazionale delle unità di misura.
 ## Come convertire la varie unità di misura
 Mettiamo caso abbiamo una distanza in chilometri orari $({km\over h})$ e vogliamo avere quanto è la distanza in metri:
 In questo caso dovremmo prendere le due unità di misura e cambiarle in quelle dell'S.I.
-$15{km\over h} \cdot {3600 \over 1000}= 15{km\over h} \cdot 3.6 $
+$15{km\over h} \cdot {1000 \over 3600}= 15{km\over h} \cdot {1\over3.6} \approx 0,42 {m\over S}$
