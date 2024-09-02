@@ -9,4 +9,11 @@ $4,17 {m\over s} \cdot (15min*60)s = 4,17 {m\over s} \cdot 900S = 3753m$
 
 ## Grafici
 Ci sono diversi tipi di grafici.
-Tra cui gli istogrammi i quali come consiglio viene dato quello d
+Tra cui gli istogrammi i quali come consiglio viene dato quello di preferire l'utilizzo della media nell'asse verticale soprattutto quando si stanno trattando numeri molto grandi
+Inserire poi valori come:
+![[Pasted image 20240902145322.png]]
+
+è inoltre consigliabile nei normali grafici quando si sta trattando di dati che da un numero molto grande raggiungono numeri molto piccoli come: 
+![[Pasted image 20240902145531.png]]
+In questo caso conviene utilizzare le proprietà dei logaritmi delle potenze di 10:
+$log10^1 = 0$
