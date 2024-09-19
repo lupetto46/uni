@@ -6,37 +6,13 @@
       {
         "id": "00c1d363d13e4238",
         "type": "tabs",
-        "dimension": 46.95431472081218,
         "children": [
           {
             "id": "ec0cd2ded2f58477",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d9063c6480b3a63",
-        "type": "tabs",
-        "dimension": 53.04568527918782,
-        "children": [
-          {
-            "id": "1d82efccdf8d2ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -169,8 +143,10 @@
   },
   "active": "3ab14f41d6adb4a0",
   "lastOpenFiles": [
-    "Basi/Matematica/Funzioni/Unit 1.md",
+    "Corsi zero",
     "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
+    "Untitled.md",
+    "Basi/Matematica/Funzioni/Unit 1.md",
     "Basi/Fisica/Immagini/Pasted image 20240902150059.png",
     "Basi/Fisica/Immagini/Pasted image 20240902145531.png",
     "Basi/Fisica/Immagini/Pasted image 20240902145322.png",
