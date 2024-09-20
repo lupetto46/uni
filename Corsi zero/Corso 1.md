@@ -77,4 +77,10 @@ $P(x)<0,\ \emptyset$
 Il caso in cui $\Delta > 0$ allora si avranno due risultati (quindi due zeri)
 ![[Pasted image 20240920182248.png]]
 in cui:
-$P(x) \geq 0, \forall x_1<x<x_2$
+$P(x) > 0,  \forall x\in ℝ, x<x_1\cup x>x_2$
+$P(x) < 0, \forall ℝ, x_1<x<x_2$
+
+Nel caso in cui invece $\Delta < 0$ quindi nessun risultato nell'insieme dei numeri reali
+![[Pasted image 20240920182851.png]]
+
+$P(x) \geq 0, \fora$
