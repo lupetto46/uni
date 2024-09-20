@@ -83,4 +83,6 @@ $P(x) < 0, \forall ℝ, x_1<x<x_2$
 Nel caso in cui invece $\Delta < 0$ quindi nessun risultato nell'insieme dei numeri reali
 ![[Pasted image 20240920182851.png]]
 
-$P(x) \geq 0, \fora$
+$P(x) \geq 0, \forall x \in ℝ$
+$P(x) < 0, \emptyset$
+
