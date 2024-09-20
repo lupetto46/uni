@@ -45,7 +45,7 @@ Questo può avere tre comportamenti
 - $\Delta < 0$
 
 Ma per spiegarne le conseguenze prendiamo la funzione $y = a_2x^2 + a_1x + a_0$ e per semplicità diamo per scontato che $a_2 > 0$
-La concavità della parabola sarà verso "l'*alto*" anche se a causa della decontestualizzazione della matematica ciò che si dice è che **ha la concavità verso l'asse le ascisse positive**
+La concavità della parabola sarà verso "l'*alto*" anche se a causa della decontestualizzazione della matematica ciò che si dice è che **ha la concavità verso l'asse le ordinate positive**
 
 quindi avendo il $\Delta > 0$ allora si ha:
 $Se\ \Delta>0\ si\ ha\ che\ \exists x_1,x_2 \in ℝ : a_2x^2 + a_1x + a_0 = a(x-x_1)(x-x_2)$
@@ -68,3 +68,7 @@ Bisogna considerare in che insieme io stia lavorando
 Ma come spiegare e mostrare questi risultati di delta:
 Nel caso in cui $\Delta = 0$ allora si avrà solo un risultato (*o meglio si avrà lo stesso risultato molteplici volte*) in quanto $x_1\equiv x_2$ e quindi si avrà il vertice ($-\frac{b}{2a}$) che toccherà l'asse delle ascisse
 ![[Pasted image 20240920181112.png]]
+In questo caso:
+$P(x)\geq 0, \forall x\in ℝ$
+$P(x) > 0, \forall x \in ℝ \backslash\{ -\frac{b}{2a} \}$
+$P \leq 0, x= \{ -\frac{b}{2a}\}$
