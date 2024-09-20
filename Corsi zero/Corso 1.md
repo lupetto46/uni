@@ -16,5 +16,10 @@ $K\in ℝ, K>0, \exists h \in ℝ , h>0:, h > K$
 Gli zeri del polinomio indicano il valore che $x$ deve assumere per far restituire al polinomio $0$
 
 Per poter essere risolto con delle normali formule risolutive il polinomio deve essere in **forma normale**
- > [!info]- esempio
- > $3x^2-\frac{1}{2} + 2x + 2x^2 + x^3 - x^3$
+ > [!info] esempio
+ > $3x^2-\frac{1}{2} + 2x + 2x^2 + x^3 - x^3 - 1 =$
+ > $= 3x^2-\frac{1}{2} + 2x + 2x^2 - 1 =$
+ > $= 5x^2 + 2x - \frac{3}{2}$ quindi in forma normale ovvero: $a_2x^2 + a_1x + a_0$
+ 
+È importante ricordare inoltre che se si ha:
+$sia\ A\in ℝ:-A\in ℝ$ 
