@@ -7,6 +7,4 @@ Quanti numeri Naturali $ℕ$ ci sono? $\infty$
 Quanti numeri ci sono tra $0$ e $1$? $\infty$
 
 Bisogna inoltre prendere consapevolezza che la matematica non ha contesto prendiamo quindi di esempio
-$$
-
-$$
+$K \in ℝ,\ K > 0 \quad \rightarrow$ Comunque si segni $K$ esso é maggiore di 0
