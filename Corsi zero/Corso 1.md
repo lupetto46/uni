@@ -23,3 +23,9 @@ Per poter essere risolto con delle normali formule risolutive il polinomio deve 
  
 È importante ricordare inoltre che se si ha:
 $sia\ A\in ℝ:-A\in ℝ$ 
+Non significa che si ha $A$ ma negativo ma che si ha il contrario di $A$ 
+
+Un operatore da ricordare é il valore assoluto $|\cdot|$ il cui scopo é di restituire il valore positivo del numero che gli è stato inserito:
+$$
+|A|=\cases{A\ se\ A\geq0\\ -A\ se\ A < 0}
+$$
