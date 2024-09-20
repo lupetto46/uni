@@ -1,3 +1,4 @@
+## Concetti e notazioni
 Per esistere, una funzione, si devono specificare le condizioni di esistenza quindi l'**Insieme di esistenza** o "**Dominio**" 
 Una funzione dal terzo grado in poi non si può risolvere con le solite formule per esempio $\Delta= b^2 - 4ac$ 
 Anche se in realtà è meglio abituarsi alle formule scritte con la notazione $a_2x^2 + a_1x + a_0$  invece di: $ax^2 + bx + c$
@@ -5,6 +6,13 @@ Anche se in realtà è meglio abituarsi alle formule scritte con la notazione $a
 Ci sono infiniti più grandi di altri
 Quanti numeri Naturali $ℕ$ ci sono? $\infty$
 Quanti numeri ci sono tra $0$ e $1$? $\infty$
-
+## Linguaggio matematico
 Bisogna inoltre prendere consapevolezza che la matematica non ha contesto prendiamo quindi di esempio
 $K \in ℝ,\ K > 0 \quad \rightarrow$ Comunque si segni $K$ esso é maggiore di 0
+Si può quindi anche dire
+$K\in ℝ, K>0, \exists h \in ℝ , h>0:, h > K$
+
+## Polinomi
+Gli zeri del polinomio indicano il valore che $x$ deve assumere per far restituire al polinomio $0$
+
+Per poter e
