@@ -63,5 +63,6 @@ $Se\ \Delta =0\ si\ ha\ che\ a_2x^2 + a_1x + a_0 = (x+\alpha)^2, \alpha \in ℝ$
 Bisogna considerare in che insieme io stia lavorando
 - Se sto lavorando nell'insieme dei numeri reali: $ℝ:a_2x^2+a_1x+a_0$ e non viene scomposto
 - Se sto lavorando nell'insieme dei numeri complessi allora: $ℂ\ \exists z_1,z_2: a_2x^2+a_1x+a_0 = a(x-z_1)(x-z_2)$
+	Esisteranno due numeri $z_1, z_2$
 
-
+Ma come spiegare e mostrare questi risultati di delta:
