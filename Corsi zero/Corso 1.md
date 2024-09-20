@@ -29,3 +29,16 @@ Un operatore da ricordare é il valore assoluto $|\cdot|$ il cui scopo é di res
 $$
 |A|=\cases{A\ se\ A\geq0\\ -A\ se\ A < 0}
 $$
+
+Ma dopo aver fatto tutto questo la domanda è a questo polinomio che domande posso fare?
+$a_2x^2 + a_1x + a_0 = 0$ Tutti i valori di $x$ che fanno ritornare al trinomio $0$
+$a_2x^2 + a_1x + a_0 \geq 0$
+$a_2x^2 + a_1x + a_0 \leq 0$
+$y = a_2x^2 + a_1x + a_0$
+
+Dando per scontato che $a\in ℝa_2 \neq 0$ e
+
+Sul polinomio si può sapere tantissimo solo conoscendone il $\Delta$ e questo può avere tre comportamenti
+- $\Delta>0$
+- $\Delta = 0$
+- $\Delta < 0$
