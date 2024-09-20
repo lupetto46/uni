@@ -55,3 +55,4 @@ $Se\ \Delta =0\ si\ ha\ che\ a_2x^2 + a_1x + a_0 = (x+\alpha)^2, \alpha \in ℝ$
 
 > [!info] esempio
 > $3x^2+\sqrt{3}x+\frac{1}{4}$
+> $\Delta=\sqrt{3}^2-4(3)(\frac{1}{4})=3-3=0$
