@@ -66,3 +66,5 @@ Bisogna considerare in che insieme io stia lavorando
 	Esisteranno due numeri $z_1, z_2$
 
 Ma come spiegare e mostrare questi risultati di delta:
+Nel caso in cui $\Delta = 0$ allora si avrà solo un risultato (*o meglio si avrà lo stesso risultato molteplici volte*) in quanto $x_1\equiv x_2$ e quindi si avrà il vertice ($-\frac{b}{2a}$) che toccherà l'asse delle ascisse
+![[Pasted image 20240920181112.png]]
