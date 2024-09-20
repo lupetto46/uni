@@ -11,8 +11,12 @@
             "id": "ec0cd2ded2f58477",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Corsi zero/Corso 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Corsi zero/Corso 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Corsi zero/Corso 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Corsi zero/Corso 1.md"
               }
             }
           }
@@ -141,8 +147,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab14f41d6adb4a0",
+  "active": "ec0cd2ded2f58477",
   "lastOpenFiles": [
+    "Corsi zero/Corso 1.md",
+    "Corsi zero/Untitled",
     "Corsi zero",
     "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
     "Untitled.md",
