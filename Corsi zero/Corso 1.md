@@ -71,4 +71,10 @@ Nel caso in cui $\Delta = 0$ allora si avrà solo un risultato (*o meglio si avr
 In questo caso:
 $P(x)\geq 0, \forall x\in ℝ$
 $P(x) > 0, \forall x \in ℝ \backslash\{ -\frac{b}{2a} \}$
-$P \leq 0, x= \{ -\frac{b}{2a}\}$
+$P(x) \leq 0, x= \{ -\frac{b}{2a}\}$
+$P(x)<0,\ \emptyset$
+
+Il caso in cui $\Delta > 0$ allora si avranno due risultati (quindi due zeri)
+![[Pasted image 20240920182248.png]]
+in cui:
+$P(x) \geq 0, \forall x_1<x<x_2$
