@@ -44,3 +44,8 @@ Questo può avere tre comportamenti
 - $\Delta = 0$
 - $\Delta < 0$
 
+Ma per spiegarne le conseguenze prendiamo la funzione $y = a_2x^2 + a_1x + a_0$ e per semplicità diamo per scontato che $a_2 > 0$
+La concavità della parabola sarà verso "l'*alto*" anche se a causa della decontestualizzazione della matematica ciò che si dice è che **ha la concavità verso l'asse le ascisse positive**
+
+quindi avendo il $\Delta > 0$ allora si ha:
+$$
