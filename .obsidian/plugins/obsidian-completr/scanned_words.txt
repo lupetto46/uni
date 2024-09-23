@@ -76,6 +76,11 @@ scontato
 sapere
 spiegarne
 semplicit
+ss
+sf
+stia
+scomposto
+spiegare
 gAMA
 go
 gW
@@ -153,6 +158,7 @@ lo
 le
 logaritmi
 leggibili
+lavorando
 oooEDD
 oo
 osv
@@ -184,6 +190,8 @@ Questo
 Quindi
 Questa
 Quanti
+QhU
+Qz
 wo
 wx
 ww
@@ -225,6 +233,7 @@ uguale
 unit
 utilizzo
 utilizzare
+uW
 Xx
 Xh
 Xr
@@ -234,6 +243,7 @@ XQ
 Xym
 Xl
 XT
+XW
 TQ
 Td
 TR
@@ -270,6 +280,8 @@ risolto
 risolutive
 ricordare
 ritornare
+reali
+risultati
 SL
 SZ
 SO
@@ -284,6 +296,7 @@ Si
 Suriettiva
 Serve
 Sul
+Se
 Zy
 Zar
 ZN
@@ -347,6 +360,9 @@ comportamenti
 conseguenze
 concavit
 causa
+cY
+considerare
+complessi
 av
 as
 aIT
@@ -372,6 +388,8 @@ assoluto
 alto
 avendo
 allora
+avr
+avranno
 GM
 Gr
 GD
@@ -416,6 +434,7 @@ EDDDD
 ED
 ES
 Esempio
+Esisteranno
 bfl
 bE
 bg
@@ -453,6 +472,8 @@ matematico
 matematica
 maggiore
 ma
+mostrare
+molteplici
 xUu
 xeV
 xn
@@ -477,6 +498,7 @@ quelle
 quali
 quando
 questi
+qg
 ip
 iz
 iU
@@ -501,6 +523,8 @@ infiniti
 indicano
 importante
 inserito
+insieme
+io
 Ot
 Ok
 OU
@@ -618,6 +642,9 @@ velocit
 viaggiato
 verticale
 verso
+vB
+volte
+vertice
 tA
 te
 td
@@ -649,6 +676,7 @@ trasformare
 trinomio
 tantissimo
 tre
+toccher
 CG
 Cf
 CDDDDD
@@ -666,6 +694,7 @@ Nf
 NR
 Non
 Naturali
+Nel
 UFF
 Uu
 Uy
@@ -692,15 +721,18 @@ far
 forma
 fatto
 fanno
+fM
 Au
 AV
 AX
 AL
 Avendo
 Anche
+Allora
 LG
 La
 Linguaggio
+LLL
 dU
 df
 dI
@@ -742,6 +774,7 @@ domande
 diamo
 decontestualizzazione
 dice
+diverso
 eA
 eWf
 eddh
