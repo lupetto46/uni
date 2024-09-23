@@ -25,22 +25,26 @@ Per poter essere risolto con delle normali formule risolutive il polinomio deve 
 ## Il segno opposto non il negativo
 È importante ricordare che se si ha:
 $sia\ A\in ℝ:-A\in ℝ$ 
-Non significa che si ha $A$ ma negativo ma che si ha il contrario di $A$ 
+Non significa che si ha il negativo $A$ ma che si ha il contrario di $A$ 
 
 Un operatore da ricordare é il valore assoluto $|\cdot|$ il cui scopo é di restituire il valore positivo del numero che gli è stato inserito:
 $$
 |A|=\cases{A\ se\ A\geq0\\ -A\ se\ A < 0}
 $$
 
-Ma dopo aver fatto tutto questo la domanda è questo polinomio come si può trasformare?
+## Trasformazioni del polinomio
+Il polinomio si può tra sformare in vari modi ma come?
 $a_2x^2 + a_1x + a_0 = 0$ Tutti i valori di $x$ che fanno ritornare al trinomio $0$
 $a_2x^2 + a_1x + a_0 \geq 0$
 $a_2x^2 + a_1x + a_0 \leq 0$
 $y = a_2x^2 + a_1x + a_0$
 
-Dando per scontato che $a\in ℝ,a_2 \neq 0$ e $b, c \in ℝ$ 
+Dando per scontato che 
+$a_2\in ℝ,a_2 \neq 0$ 
+$b, c \in ℝ$
 
-Sul polinomio si può sapere tantissimo solo conoscendone il delta $\Delta$ o discriminante che ci permette di "predirne" il comportamento e ci permette di fare delle "**domande**" al polinomio
+## Il discriminante $(\Delta)$
+Sul polinomio si può sapere tantissimo solo conoscendone il delta $\Delta$ o **discriminante** che ci permette di "predirne" il comportamento e ci permette di fare delle "**domande**" al polinomio
 Questo può avere tre comportamenti
 - $\Delta>0$
 - $\Delta = 0$
@@ -50,7 +54,7 @@ Ma per spiegarne le conseguenze prendiamo la funzione $y = a_2x^2 + a_1x + a_0$ 
 La concavità della parabola sarà verso "l'*alto*" anche se a causa della decontestualizzazione della matematica ciò che si dice è che **ha la concavità verso l'asse le ordinate positive**
 
 quindi avendo il $\Delta > 0$ allora si ha:
-$Se\ \Delta>0\ si\ ha\ che\ \exists x_1,x_2 \in ℝ : a_2x^2 + a_1x + a_0 = a(x-x_1)(x-x_2)$
+$Se\ \Delta>0\ si\ ha\ che\ \exists x_1,x_2 \in ℝ : a_2x^2 + a_1x + a_0 = a_2(x-x_1)(x-x_2)$
 
 Mentre invece con $\Delta = 0$ si ha:
 $Se\ \Delta =0\ si\ ha\ che\ a_2x^2 + a_1x + a_0 = (x+\alpha)^2, \alpha \in ℝ$ 
