@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "00c1d363d13e4238",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec0cd2ded2f58477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corsi zero/Corso 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "de53a80575430c03",
         "type": "tabs",
         "children": [
@@ -32,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Corsi zero/Corso 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -165,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec0cd2ded2f58477",
+  "active": "df4831e084467630",
   "lastOpenFiles": [
     "Corsi zero/Immagini/Pasted image 20240920182851.png",
     "Corsi zero/Corso 1.md",

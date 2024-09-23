@@ -12,16 +12,18 @@ $K \in ℝ,\ K > 0 \quad \rightarrow$ Comunque si segni $K$ esso é maggiore di 
 Si può quindi anche dire
 $K\in ℝ, K>0, \exists h \in ℝ , h>0:, h > K$
 
+Comunque si segni $K$ esso é maggiore di zero ed esisterà un numero $h$ maggiore di 0 a sua volta maggiore di $K$
 ## Polinomi
 Gli zeri del polinomio indicano il valore che $x$ deve assumere per far restituire al polinomio $0$
 
 Per poter essere risolto con delle normali formule risolutive il polinomio deve essere in **forma normale**
  > [!info] esempio
- > $3x^2-\frac{1}{2} + 2x + 2x^2 + x^3 - x^3 - 1 =$
+ > $3x^2-\frac{1}{2} + 2x + 2x^2 \cancel{+ x^3} \cancel{- x^3} - 1 =$ Non è in forma normale
  > $= 3x^2-\frac{1}{2} + 2x + 2x^2 - 1 =$
  > $= 5x^2 + 2x - \frac{3}{2}$ quindi in forma normale ovvero: $a_2x^2 + a_1x + a_0$
- 
-È importante ricordare inoltre che se si ha:
+
+## Il segno opposto non il negativo
+È importante ricordare che se si ha:
 $sia\ A\in ℝ:-A\in ℝ$ 
 Non significa che si ha $A$ ma negativo ma che si ha il contrario di $A$ 
 
