@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Corsi zero/Corso 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Readme.md",
+            "file": "Corsi zero/Corso 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Readme.md",
+            "file": "Corsi zero/Corso 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Readme.md"
+            "file": "Corsi zero/Corso 1.md"
           }
         }
       },
@@ -142,8 +142,8 @@
   },
   "active": "c258e8cdd615a129",
   "lastOpenFiles": [
-    "Corsi zero/Corso 1.md",
     "Readme.md",
+    "Corsi zero/Corso 1.md",
     "Corsi zero",
     "Corsi zero/Immagini/Pasted image 20240920181112.png",
     "Corsi zero/Immagini/Pasted image 20240920182851.png",

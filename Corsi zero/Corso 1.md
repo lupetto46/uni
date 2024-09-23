@@ -72,7 +72,7 @@ Bisogna considerare in che insieme io stia lavorando
 	Esisteranno due numeri $z_1, z_2$
 
 Ma come spiegare e mostrare questi risultati di delta:
-Nel caso in cui $\Delta = 0$ allora si avrà solo un risultato (*o meglio si avrà lo stesso risultato molteplici volte*) in quanto $x_1\equiv x_2$ e quindi si avrà il vertice ($-\frac{b}{2a}$) che toccherà l'asse delle ascisse
+Nel caso in cui $\Delta = 0$ allora si avrà solo un risultato (*o meglio si avrà lo stesso risultato molteplici volte in quanto $x_1\equiv x_2$*) e quindi si avrà il vertice ($-\frac{b}{2a}$) che toccherà l'asse delle ascisse
 ![[Pasted image 20240920181112.png]]
 In questo caso:
 $P(x)\geq 0, \forall x\in ℝ$
@@ -85,6 +85,7 @@ Il caso in cui $\Delta > 0$ allora si avranno due risultati (quindi due zeri)
 in cui:
 $P(x) > 0,  \forall x\in ℝ, x<x_1\cup x>x_2$
 $P(x) < 0, \forall ℝ, x_1<x<x_2$
+$P(x)= 0, \forea$
 
 Nel caso in cui invece $\Delta < 0$ quindi nessun risultato nell'insieme dei numeri reali
 ![[Pasted image 20240920182851.png]]
