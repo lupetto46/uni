@@ -13,7 +13,7 @@ $P(x)= (x-1)(x-\frac{1}{2})^2(x+5)(7-x)^2(x^2+x+1)(x^2+x+3)^2$
 
 Questa tipologia di scrittura si chiama **fattorizzazione**
 
-E ci permette di semplificare e fare molte cose:
+E ci permette di semplificare e fare varie cose:
 Per esempio come posso sapere il grado del polinomio?
 $x-1$ ammette $1$ zeri
 $(x-\frac{1}{2})^2$ ammette $2$ zeri
