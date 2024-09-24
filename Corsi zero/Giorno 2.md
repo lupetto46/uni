@@ -77,4 +77,12 @@ Qualche altro dettaglio da dire su $m$ è:
 ![[Pasted image 20240924092430.png]]
 $m$ sarebbe la tangente dell'angolo $(\alpha)$ che fa la retta con l'asse delle ascisse 
 
-Quindi quando si pone un 
+Quindi quando si pone un polinomio > 0 si sta cercando il momento in cui la retta o il grafico va nei quadranti in basso
+
+## Disequazioni razionali fratte
+È importante ricordare che quando si scrive una disequazione razionale fratta bisogna specificarne le condizioni di esistenza
+Quindi:
+$$
+\frac{N(x)}{D(x)}=\frac{3x^3+2x^2-x+2}{4x^5+6x^2-\frac{7}{2}x+\frac{1}{2}}
+$$
+La cui condizione di esistenza è: $\forall x \in ℝ:4x^5+6x^2-\frac{7}{2}x+\frac{1}{2}\neq0$
