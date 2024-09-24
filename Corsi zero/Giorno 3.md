@@ -91,7 +91,7 @@ Se $g(x)\leq 0$ allora il sistema è sempre verificato in quanto $f(x)$ che è *
 
 Cambia invece nel caso in cui $g(x)\geq0$ qui entra il fatto che *elevare al quadrato due polinomi sempre positivi non cambia il risultato* permettendoci di **rimuovere la radice**
 
-Ma se $f(x) \geq [g(x)]^2$ e $[g(x)]^2\geq0$ allora $f(x)\geq[g(x)]^2$ questo implica che $f(x)\geq 0$ e quindi non è necessario scriverlo nel sistema rimanendo con
+Ma se $f(x) \geq [g(x)]^2$ e $[g(x)]^2\geq0$ allora $f(x)\geq[g(x)]^2$ questo implica che $f(x)\geq 0$ e quindi non è necessario scriverlo nel sistema rimanendo con:
 $$
 \begin{cases}
 f(x)\geq 0\\
@@ -104,4 +104,15 @@ f(x)\geq [g(x)]^2
 \end{cases}
 $$
 
-In questo caso 
+Nel caso in cui invece:
+$\sqrt{f(x)}\leq g(x)$
+otteniamo che:
+$f(x)\geq 0$ deve essere maggiore o uguale a zero per dare senso alla radice
+$g(x)\geq0$ deve essere maggiore di zero per permettere poi di fare
+$f(x)\leq[g(x)]^2$
+ottenendo quindi
+$$
+\begin{cases}
+
+\end{cases}
+$$
