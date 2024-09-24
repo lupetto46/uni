@@ -48,4 +48,13 @@ $$
 ### Cosa si intende dire per maggiore di 0?
 Considerando che un polinomio può essere una retta in quanto l'equazione della retta è
 
-$a,b,c \in ℝ\qquad ax+by+c=0$ questa equazione racchiude al cambiare di $a$ e $b$ 
+$a,b,c \in ℝ\qquad ax+by+c=0$ questa equazione racchiude al cambiare di $a$ e $b$ TUTTE le rette
+Ma questa forma della retta si chiama **forma implicita** che non ha molto valore a causa della presenza di **due variabili *indipendenti*** 
+
+Per ovviare a questo problema dobbiamo trovare il modo di rendere una delle due variabili **dipendenti** e quindi si ottiene
+$$
+\begin{flalign}
+&by=-ax-c\\
+&y=
+\end{flalign}
+$$
