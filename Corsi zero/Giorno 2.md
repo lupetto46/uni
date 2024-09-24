@@ -39,6 +39,13 @@ $$
 x-1\qquad x-1\geq 0\qquad x\geq1\\
 (x-\frac{1}{2})^2\qquad (x-\frac{1}{2})^2\geq0\qquad x\geq\frac{1}{2}\\
 x+5\qquad x+5\geq0\qquad x\geq-5\\
-(7-x)^2\qquad (7-x)^2\geq0\qquad -x\
+(7-x)^2\qquad (7-x)^2\geq0\qquad \forall x \in ℝ
 \end{align}
 $$
+
+![[Pasted image 20240924090744.png]]
+
+### Cosa si intende dire per maggiore di 0?
+Considerando che un polinomio può essere una retta in quanto l'equazione della retta è
+
+$a,b,c \in ℝ\qquad ax+by+c=0$ questa equazione racchiude al cambiare di $a$ e $b$ 
