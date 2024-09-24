@@ -54,7 +54,18 @@ Ma questa forma della retta si chiama **forma implicita** che non ha molto valor
 Per ovviare a questo problema dobbiamo trovare il modo di rendere una delle due variabili **dipendenti** e quindi si ottiene
 $$
 \begin{flalign}
-&by=-ax-c\\
-&y=
+by&=-ax-c\\
+y&=-\frac{ax}{b}-\frac{c}{b}
+\end{flalign}
+$$
+Si ottiene quindi l'equazione di tutte le rette tranne quelle in cui non esiste $y$
+è quindi importante porre $b\neq 0$
+
+Per semplicità si scrive quindi che
+$$
+\begin{flalign}
+m&=-\frac{a}{b}\\
+q&=-\frac{c}{b}\\
+y
 \end{flalign}
 $$
