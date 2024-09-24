@@ -66,6 +66,15 @@ $$
 \begin{flalign}
 m&=-\frac{a}{b}\\
 q&=-\frac{c}{b}\\
-y
+y&=mx+q
 \end{flalign}
 $$
+Di cui 
+- $m$ è il coefficiente angolare 
+- $q$ è l'ordinata all'origine
+
+Qualche altro dettaglio da dire su $m$ è:
+![[Pasted image 20240924092430.png]]
+$m$ sarebbe la tangente dell'angolo $(\alpha)$ che fa la retta con l'asse delle ascisse 
+
+Quindi quando si pone un 
