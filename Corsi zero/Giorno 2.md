@@ -115,7 +115,7 @@ $$
 
 L'ultima è particolare:
 $x^2+x-2$ ha il $\Delta = 9$ allora si possono dividere due strade:
-1. Scompongo il polinomio e ottengo $(x+1)(x-2)$
+1. Scompongo il polinomio e ottengo $(x-1)(x+2)$
 2. Risolvo la disequazione e ottengo $x< -2 \cup x>1$
 
 In ogni caso va bene poi nella parte finale
@@ -129,3 +129,19 @@ Di cui $b+c = x_1$ e $b\cdot c = x_2$
 con un Trinomio monico è molto semplice perché allora equivale a semplicemente:
 $x^2+bx+c=(x+x_1)(x+x_2)$
 
+Se ho eseguito il primo caso ho quindi trasformato la mia disequazione in
+$$
+\begin{cases}
+\frac{\cancel{(x-1)}(5-x)(x^2-x+2)}{(\frac{1}{2}-x)\cancel{(x-1}(x+2)}\geq 0\\
+x\neq-3\ \cup\ x\neq1
+\end{cases}
+$$
+Diventando quindi:
+$$
+\begin{cases}
+\frac{(5-x)(x^2-x+2)}{(\frac{1}{2}-x)(x+2)}\geq 0\\
+x\neq-3\ \cup\ x\neq1
+\end{cases}
+$$
+
+E quindi facendo il grafico otteniamo in entrambi i casi qualcosa di simile a 
