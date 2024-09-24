@@ -10,8 +10,10 @@ Prendiamo come esempio la funzione:
 $f(x)=|\frac{x+2}{x-1}| +|x^2+4x=3|+1$
 Innanzitutto vediamo dove il valore assoluto mostra il suo effetto studiando il segno:
 $$
-\begin{align}
-\frac{x+2}{x-1}\geq 0\\
-x
-\end{align}
+\begin{flalign}
+&\frac{x+2}{x-1}\geq 0\\
+&x+2\qquad x+2 \geq 0 \qquad &x\geq -2\\
+&x-1 \qquad x-1>0 \qquad &x>1
+\end{flalign}
 $$
+
