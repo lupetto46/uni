@@ -108,6 +108,7 @@ semplice
 semplicemente
 seO
 sG
+simile
 gAMA
 go
 gW
@@ -184,6 +185,8 @@ pS
 pG
 pp
 pR
+posti
+potendo
 HBz
 HN
 HU
@@ -238,6 +241,7 @@ ottengo
 oP
 oG
 oj
+otteniamo
 QR
 QIYKI
 QG
@@ -281,6 +285,7 @@ Mentre
 Mettiamo
 MVRd
 Mr
+MAI
 JHH
 Jx
 JIIQTTT
@@ -481,6 +486,7 @@ condizione
 compongono
 cj
 cD
+casi
 av
 as
 aIT
@@ -624,6 +630,8 @@ monico
 mA
 mi
 mO
+minori
+mia
 xUu
 xeV
 xn
@@ -660,6 +668,7 @@ qj
 qpss
 qp
 qwk
+qualcosa
 ip
 iz
 iU
@@ -792,6 +801,7 @@ Divisioni
 Disequazioni
 DG
 Dm
+Diventando
 yJJJr
 yyy
 ye
@@ -838,6 +848,7 @@ va
 vD
 vR
 vH
+vanno
 tA
 te
 td
@@ -876,6 +887,7 @@ tutte
 tranne
 tangente
 ti
+trasformato
 CG
 Cf
 CDDDDD
@@ -935,6 +947,7 @@ fratte
 fratta
 farlo
 fk
+facendo
 Au
 AV
 AX
@@ -999,6 +1012,7 @@ disequazione
 dividere
 diminuire
 darsi
+denominatore
 eA
 eWf
 eddh
@@ -1028,6 +1042,8 @@ esegue
 eseguire
 equivale
 en
+eseguito
+entrambi
 Ve
 VM
 Vka

@@ -11,9 +11,11 @@
             "id": "df4831e084467630",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924101710.png"
+                "file": "Corsi zero/Giorno 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924101710.png",
+                "file": "Corsi zero/Giorno 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924101710.png",
+                "file": "Corsi zero/Giorno 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924101710.png"
+                "file": "Corsi zero/Giorno 2.md"
               }
             }
           },
@@ -172,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab14f41d6adb4a0",
+  "active": "df4831e084467630",
   "lastOpenFiles": [
-    "Corsi zero/Giorno 2.md",
     "Corsi zero/Immagini/Pasted image 20240924101710.png",
+    "Corsi zero/Giorno 2.md",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Pasted image 20240924092430.png",
     "Corsi zero/Immagini/Pasted image 20240924090744.png",
