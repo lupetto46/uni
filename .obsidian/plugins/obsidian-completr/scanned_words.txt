@@ -11,6 +11,10 @@ Prendendo
 Pari
 Possiamo
 Polinomi
+Py
+Pm
+PA
+Ps
 IHDR
 IDATx
 Ii
@@ -29,6 +33,8 @@ Il
 Inserire
 Insieme
 Innanzitutto
+ImZ
+IS
 sRGB
 sq
 sN
@@ -100,6 +106,8 @@ semplificando
 strade
 semplice
 semplicemente
+seO
+sG
 gAMA
 go
 gW
@@ -115,6 +123,9 @@ grande
 grado
 generale
 gradi
+gi
+gY
+gN
 pHYs
 pJ
 pn
@@ -169,6 +180,10 @@ particolare
 possono
 primo
 perch
+pS
+pG
+pp
+pR
 HBz
 HN
 HU
@@ -176,6 +191,8 @@ HRZ
 Hko
 HC
 Hb
+Hy
+HS
 RDD
 RW
 RL
@@ -218,6 +235,9 @@ ovviare
 ottiene
 origine
 ottengo
+oP
+oG
+oj
 QR
 QIYKI
 QG
@@ -234,6 +254,7 @@ Quanti
 QhU
 Qz
 Qualche
+QA
 wo
 wx
 ww
@@ -243,6 +264,12 @@ wG
 wu
 wLJX
 wc
+wr
+wD
+wLL
+wz
+wn
+wj
 MO
 MR
 Ma
@@ -252,12 +279,16 @@ MXZ
 Mn
 Mentre
 Mettiamo
+MVRd
+Mr
 JHH
 Jx
 JIIQTTT
 Ju
 JLK
 JY
+JC
+JQ
 ue
 uE
 uT
@@ -280,6 +311,10 @@ usare
 unica
 uguali
 ultima
+uG
+uR
+uN
+uk
 Xx
 Xh
 Xr
@@ -290,6 +325,10 @@ Xym
 Xl
 XT
 XW
+Xn
+XDkK
+Xz
+Xj
 TQ
 Td
 TR
@@ -305,6 +344,7 @@ Tutti
 Trasformazioni
 TUTTE
 Trinomio
+Tj
 rJ
 rU
 rTkb
@@ -336,6 +376,8 @@ racchiude
 razionali
 razionale
 regola
+rj
+ryQ
 SL
 SZ
 SO
@@ -353,6 +395,11 @@ Sul
 Se
 Sbagliato
 Scompongo
+Sy
+Sq
+SA
+SU
+Sj
 Zy
 Zar
 ZN
@@ -364,6 +411,8 @@ ZGO
 Zp
 Zt
 ZDDDDD
+ZRd
+ZM
 FU
 Fx
 Fao
@@ -374,6 +423,7 @@ FkMLr
 FHE
 Funzioni
 Funzione
+Fp
 cS
 cL
 cNt
@@ -429,6 +479,8 @@ coefficiente
 cercando
 condizione
 compongono
+cj
+cD
 av
 as
 aIT
@@ -460,6 +512,8 @@ ammette
 angolare
 angolo
 annullamento
+ar
+ay
 GM
 Gr
 GD
@@ -478,6 +532,8 @@ hl
 hanno
 ha
 ho
+hPQ
+hQ
 Kx
 Kl
 KS
@@ -485,6 +541,9 @@ Kjkt
 Kjh
 KoH
 KDDDDD
+Ke
+Kp
+KEr
 ki
 keY
 kP
@@ -494,6 +553,9 @@ kh
 kc
 kt
 kOR
+kk
+kz
+km
 EZ
 Ef
 Er
@@ -505,6 +567,7 @@ ED
 ES
 Esempio
 Esisteranno
+Ey
 bfl
 bE
 bg
@@ -519,6 +582,8 @@ basso
 bisogna
 bassi
 bene
+bzaJY
+bqs
 Ys
 YV
 Yh
@@ -526,6 +591,8 @@ Ye
 Yy
 YM
 Yo
+YI
+YXb
 ml
 mlBQ
 mBN
@@ -554,10 +621,17 @@ momento
 mantenendo
 maggiori
 monico
+mA
+mi
+mO
 xUu
 xeV
 xn
 xi
+xH
+xD
+xK
+xyS
 qN
 qX
 qw
@@ -582,6 +656,10 @@ qg
 questa
 quadranti
 quella
+qj
+qpss
+qp
+qwk
 ip
 iz
 iU
@@ -611,6 +689,8 @@ io
 intende
 implicita
 indipendenti
+iG
+iR
 Ot
 Ok
 OU
@@ -625,6 +705,8 @@ Os
 OV
 Ol
 Ovvero
+Oo
+On
 nl
 nf
 nP
@@ -657,6 +739,7 @@ negativo
 nostro
 necessario
 nella
+ni
 Wp
 Wsv
 We
@@ -665,6 +748,8 @@ WFR
 WS
 WD
 WU
+WPH
+Wa
 zZ
 zG
 zu
@@ -675,6 +760,10 @@ zp
 ztE
 zeri
 zero
+zc
+zV
+zU
+zH
 jx
 jY
 jV
@@ -682,6 +771,9 @@ jz
 jQ
 jdtT
 jg
+jT
+jN
+jj
 DX
 DsM
 DDDDD
@@ -698,6 +790,8 @@ Dopodich
 Dando
 Divisioni
 Disequazioni
+DG
+Dm
 yJJJr
 yyy
 ye
@@ -710,6 +804,7 @@ yP
 yW
 yo
 yh
+yZ
 vn
 vi
 vr
@@ -740,6 +835,9 @@ vertice
 vari
 variabili
 va
+vD
+vR
+vH
 tA
 te
 td
@@ -777,6 +875,7 @@ tipologia
 tutte
 tranne
 tangente
+ti
 CG
 Cf
 CDDDDD
@@ -792,11 +891,15 @@ Concetti
 Comunque
 Capire
 Cosa
+Cy
+CMS
+Caaa
 Nf
 NR
 Non
 Naturali
 Nel
+Nu
 UFF
 Uu
 Uy
@@ -831,6 +934,7 @@ fa
 fratte
 fratta
 farlo
+fk
 Au
 AV
 AX
@@ -838,11 +942,14 @@ AL
 Avendo
 Anche
 Allora
+Ab
+Ao
 LG
 La
 Linguaggio
 LLL
 Lo
+LC
 dU
 df
 dI
@@ -920,6 +1027,7 @@ evitare
 esegue
 eseguire
 equivale
+en
 Ve
 VM
 Vka
@@ -927,7 +1035,11 @@ Vn
 Vw
 Vo
 Vr
+VQ
 BdD
 Bp
 Biiettiva
 Bisogna
+Bc
+BH
+BT

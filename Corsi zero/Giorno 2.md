@@ -117,7 +117,7 @@ Mentre i polinomi al denominatore vanno posti solo maggiori o minori ma ***MAI**
 $$
 \begin{align}
 &\frac{1}{2}-x \qquad &\frac{1}{2}-x > 0 \qquad &x<\frac{1}{2}\\
-&x^2+x-2 \qquad &x \qquad &
+&x^2+x-2 \qquad &x^2+x-2 > 0
 \end{align}
 $$
 L'ultima è particolare:
@@ -156,6 +156,7 @@ E quindi facendo il grafico otteniamo in entrambi i casi qualcosa di simile a:
 potendo quindi dire che:
 $$
 \begin{align}
-x>
+&x\geq 0\ \forall x\in -2<x<\frac{1}{2}\cup x\geq5\\
+&x\leq 0\ \forall x\in x< -2\ \cup\ \frac{1}{2}<x\leq5 
 \end{align}
 $$
