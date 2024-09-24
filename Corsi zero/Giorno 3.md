@@ -80,4 +80,20 @@ g(x)\geq 0\\
 f(x)\geq [g(x)]^2
 \end{cases}
 $$
-Se $g(x)\leq 0$ allora il sistema è sempre verificato in quanto $f(x)$
+Se $g(x)\leq 0$ allora il sistema è sempre verificato in quanto $f(x)$ che è **sempre positivo** sarà sempre maggiore o uguale a $g(x)$ che è **sempre negativo**
+
+Cambia invece nel caso in cui $g(x)\geq0$ qui entra il fatto che *elevare al quadrato due polinomi sempre positivi non cambia il risultato* permettendoci di **rimuovere la radice**
+
+Ma se $f(x) \geq [g(x)]^2$ e $[g(x)]^2\geq0$ allora $f(x)\geq[g(x)]^2$ questo implica che $f(x)\geq 0$ e quindi non è necessario scriverlo nel sistema rimanendo con
+$$
+\begin{cases}
+f(x)\geq 0\\
+g(x)\leq 0
+\end{cases}\ 
+\cup\ 
+\begin{cases}
+g(x)\geq 0\\
+f(x)\geq [g(x)]^2
+\end{cases}
+$$
+
