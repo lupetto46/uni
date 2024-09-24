@@ -112,3 +112,7 @@ $$
 &x^2-x+2\qquad x^2-x+2 > 0 \qquad \Delta = 1-4\cdot2 = -7 &\forall x\in ℝ
 \end{flalign}
 $$
+
+L'ultima è particolare:
+$x^2+x-2$ ha il $\Delta = 9$ allora si possono dividere due strade:
+Scompongo il polinomio $(x+1)(x-2)$
