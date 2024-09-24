@@ -84,6 +84,7 @@ spiegare
 sua
 segno
 sformare
+scrittura
 gAMA
 go
 gW
@@ -97,6 +98,7 @@ grafici
 grandi
 grande
 grado
+generale
 pHYs
 pJ
 pn
