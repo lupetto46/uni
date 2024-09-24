@@ -61,7 +61,11 @@ f(x)=\cases{
 $$
 
 ## Equazioni in valore assoluto
-$|-f(x)|=$
+$|-f(x)|=k$ con $k\in ℝ$
+- Impossibile se $k<0$
+- Risolvibile se $k\geq 0$
+
+$|f(x)|= k$ con $k\geq 0 \rightarrow \begin{cases}\begin{align}f(x)=k\ &se\ f(x)\geq 0\\ -f(x)=k\ &se\ f(x)<0\end{align}\end{cases}$
 
 ## Disequazioni irrazionali
 Le radici hanno
