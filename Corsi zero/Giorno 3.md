@@ -48,7 +48,7 @@ $x^2+4x+3<0\qquad\forall x \in ℝ:-3<x< -1$
 
 Otteniamo quindi unendo tutti e due i polinomi sotto valore assoluto:
 ![[Pasted image 20240924232052.png]]
-$f(x)$ le cui condizioni di esistenza $\forall x\in ℝ:x\neq1$
+si ottiene quindi in tutto $f(x)$ le cui condizioni di esistenza $\forall x\in ℝ:x\neq1$
 $$
 f(x)=\cases{
 \begin{align}
@@ -61,3 +61,10 @@ f(x)=\cases{
 $$
 
 ## Disequazioni irrazionali
+Le radici hanno
+$\sqrt[n]{radicando}$
+
+Il cui risultato è: *quel numero che elevato a $n$ restituisce il $radicando$*
+Per adesso però considereremo solo radici la cui $n=2$
+
+Prendiamo quindi di esempio 2
