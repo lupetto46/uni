@@ -36,6 +36,12 @@ $$
 \begin{align}
 &x^2+4x+3\geq 0\\
 &\frac{\Delta}{4}=(\frac{b}{2})^2-ac=4-3 = 1\\
-&x_{1,2} = \frac{-\frac{b}{2}}{a}
+&x_{1,2} = \frac{-\frac{b}{2}\pm\sqrt{\frac{\Delta}{4}}}{a}=-2\pm1\\
+&x_1 = -2-1=-3\\
+&x_2 = -2 + 1 = -1
 \end{align}
 $$
+
+Ottenendo quindi:
+$x^2+4x+3\geq0\qquad \forall x\in ℝ:x\leq-3$
+$x^2+4x+3<0\qquad\forall x \in ℝ:-3<x< -1$
