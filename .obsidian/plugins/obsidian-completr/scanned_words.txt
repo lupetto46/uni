@@ -15,6 +15,10 @@ Py
 Pm
 PA
 Ps
+Pj
+PyDb
+PO
+PM
 IHDR
 IDATx
 Ii
@@ -35,6 +39,9 @@ Insieme
 Innanzitutto
 ImZ
 IS
+Ia
+IL
+IZv
 sRGB
 sq
 sN
@@ -109,6 +116,7 @@ semplicemente
 seO
 sG
 simile
+sB
 gAMA
 go
 gW
@@ -127,6 +135,8 @@ gradi
 gi
 gY
 gN
+gD
+ghD
 pHYs
 pJ
 pn
@@ -187,6 +197,9 @@ pp
 pR
 posti
 potendo
+pN
+pX
+pmJZ
 HBz
 HN
 HU
@@ -196,6 +209,9 @@ HC
 Hb
 Hy
 HS
+HlY
+Hm
+Hq
 RDD
 RW
 RL
@@ -205,6 +221,9 @@ RRR
 Rl
 Ruffini
 Risolvo
+Rhh
+RIvo
+RsT
 lL
 lk
 lkS
@@ -215,6 +234,9 @@ le
 logaritmi
 leggibili
 lavorando
+ljN
+lOG
+lf
 oooEDD
 oo
 osv
@@ -242,6 +264,9 @@ oP
 oG
 oj
 otteniamo
+oSpp
+oYA
+okP
 QR
 QIYKI
 QG
@@ -259,6 +284,7 @@ QhU
 Qz
 Qualche
 QA
+Ql
 wo
 wx
 ww
@@ -274,6 +300,9 @@ wLL
 wz
 wn
 wj
+wBIA
+wX
+wO
 MO
 MR
 Ma
@@ -286,6 +315,8 @@ Mettiamo
 MVRd
 Mr
 MAI
+Mvgw
+Mx
 JHH
 Jx
 JIIQTTT
@@ -294,6 +325,7 @@ JLK
 JY
 JC
 JQ
+Jz
 ue
 uE
 uT
@@ -320,6 +352,7 @@ uG
 uR
 uN
 uk
+uD
 Xx
 Xh
 Xr
@@ -334,6 +367,10 @@ Xn
 XDkK
 Xz
 Xj
+XZ
+Xs
+XU
+Xv
 TQ
 Td
 TR
@@ -350,6 +387,12 @@ Trasformazioni
 TUTTE
 Trinomio
 Tj
+TA
+Tt
+TM
+TD
+TPo
+Tq
 rJ
 rU
 rTkb
@@ -383,6 +426,8 @@ razionale
 regola
 rj
 ryQ
+rue
+rlK
 SL
 SZ
 SO
@@ -405,6 +450,7 @@ Sq
 SA
 SU
 Sj
+Sb
 Zy
 Zar
 ZN
@@ -418,6 +464,7 @@ Zt
 ZDDDDD
 ZRd
 ZM
+Zr
 FU
 Fx
 Fao
@@ -429,6 +476,8 @@ FHE
 Funzioni
 Funzione
 Fp
+FP
+FC
 cS
 cL
 cNt
@@ -487,6 +536,8 @@ compongono
 cj
 cD
 casi
+cU
+cz
 av
 as
 aIT
@@ -520,6 +571,8 @@ angolo
 annullamento
 ar
 ay
+aq
+at
 GM
 Gr
 GD
@@ -540,6 +593,10 @@ ha
 ho
 hPQ
 hQ
+hA
+hK
+hlH
+hT
 Kx
 Kl
 KS
@@ -550,6 +607,7 @@ KDDDDD
 Ke
 Kp
 KEr
+KOl
 ki
 keY
 kP
@@ -574,6 +632,8 @@ ES
 Esempio
 Esisteranno
 Ey
+Eg
+En
 bfl
 bE
 bg
@@ -590,6 +650,9 @@ bassi
 bene
 bzaJY
 bqs
+bw
+bU
+bO
 Ys
 YV
 Yh
@@ -599,6 +662,8 @@ YM
 Yo
 YI
 YXb
+Yg
+YWp
 ml
 mlBQ
 mBN
@@ -632,6 +697,8 @@ mi
 mO
 minori
 mia
+mAU
+mG
 xUu
 xeV
 xn
@@ -640,6 +707,7 @@ xH
 xD
 xK
 xyS
+xB
 qN
 qX
 qw
@@ -669,6 +737,8 @@ qpss
 qp
 qwk
 qualcosa
+qW
+qCHH
 ip
 iz
 iU
@@ -700,6 +770,9 @@ implicita
 indipendenti
 iG
 iR
+iw
+ih
+ir
 Ot
 Ok
 OU
@@ -716,6 +789,7 @@ Ol
 Ovvero
 Oo
 On
+Ox
 nl
 nf
 nP
@@ -759,6 +833,7 @@ WD
 WU
 WPH
 Wa
+Wj
 zZ
 zG
 zu
@@ -773,6 +848,7 @@ zc
 zV
 zU
 zH
+zP
 jx
 jY
 jV
@@ -783,6 +859,7 @@ jg
 jT
 jN
 jj
+jhAj
 DX
 DsM
 DDDDD
@@ -802,6 +879,10 @@ Disequazioni
 DG
 Dm
 Diventando
+Dn
+DW
+DR
+Dc
 yJJJr
 yyy
 ye
@@ -849,6 +930,9 @@ vD
 vR
 vH
 vanno
+vw
+vE
+ve
 tA
 te
 td
@@ -888,6 +972,9 @@ tranne
 tangente
 ti
 trasformato
+tpc
+th
+tx
 CG
 Cf
 CDDDDD
@@ -906,12 +993,21 @@ Cosa
 Cy
 CMS
 Caaa
+CUr
+CYOy
+CU
+CS
+CE
+CDD
 Nf
 NR
 Non
 Naturali
 Nel
 Nu
+NU
+Nm
+No
 UFF
 Uu
 Uy
@@ -921,6 +1017,9 @@ UK
 UJV
 Una
 Un
+Um
+Ul
+UC
 fN
 feun
 fs
@@ -957,12 +1056,17 @@ Anche
 Allora
 Ab
 Ao
+AB
+Ag
+AY
+Aß
 LG
 La
 Linguaggio
 LLL
 Lo
 LC
+Lz
 dU
 df
 dI
@@ -1044,6 +1148,7 @@ equivale
 en
 eseguito
 entrambi
+eVE
 Ve
 VM
 Vka
@@ -1052,6 +1157,10 @@ Vw
 Vo
 Vr
 VQ
+Vg
+VF
+VG
+VS
 BdD
 Bp
 Biiettiva
@@ -1059,3 +1168,7 @@ Bisogna
 Bc
 BH
 BT
+BW
+Bb
+BoZ
+äA

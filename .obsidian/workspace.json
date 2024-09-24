@@ -11,11 +11,9 @@
             "id": "8cb124e30e39a125",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
+                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
+                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corsi zero/Giorno 3.md"
+                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png"
               }
             }
           },
@@ -174,14 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cb124e30e39a125",
+  "active": "3ab14f41d6adb4a0",
   "lastOpenFiles": [
-    "Pasted image 20240924232052.png",
-    "Pasted image 20240924231636.png",
-    "Pasted image 20240924230413.png",
+    "Corsi zero/Giorno 3.md",
+    "Corsi zero/Immagini/Pasted image 20240924232052.png",
+    "Corsi zero/Immagini/Pasted image 20240924231636.png",
+    "Corsi zero/Immagini/Pasted image 20240924230413.png",
     "untitled.jpg",
     "Corsi zero/Giorno 2.md",
-    "Corsi zero/Giorno 3.md",
     "Corsi zero/Immagini/Pasted image 20240924101710.png",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Pasted image 20240924092430.png",
@@ -194,7 +192,6 @@
     "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
     "Untitled.md",
     "Basi/Matematica/Funzioni/Unit 1.md",
-    "Basi/Fisica/Immagini/Pasted image 20240902150059.png",
     "Basi/Fisica/Immagini",
     "Basi/Matematica/Immagini",
     "Basi/Matematica/Funzioni",
