@@ -51,6 +51,13 @@ Otteniamo quindi unendo tutti e due i polinomi sotto valore assoluto:
 $f(x)$ le cui condizioni di esistenza $\forall x\in ℝ:x\neq1$
 $$
 f(x)=\cases{
-\frac{x+2}{x-1} + (x^2+4x+3) +1\ se\ 
+\begin{align}
+\frac{x+2}{x-1} &+ (x^2+4x+3) +1\ se\ x\leq-3\ \cup\ x>1\\
+\frac{x+2}{x-1} &- (x^2+4x+3) +1\ se\ -3<x\leq-2\\
+-(\frac{x+2}{x-1}) &- (x^2+4x+3) +1\ se\ -2<x\leq -1\\
+-(\frac{x+2}{x-1}) &+ (x^2+4x+3) +1\ se\ -1<x<1
+\end{align}
 }
 $$
+
+## Disequazioni irrazionali
