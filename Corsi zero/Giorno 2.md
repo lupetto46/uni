@@ -89,4 +89,16 @@ La cui condizione di esistenza è: $\forall x \in ℝ:4x^5+6x^2-\frac{7}{2}x+\fr
 
 Ma conviene dividere per gradi più bassi e per farlo si può usare la regola di Ruffini la cui unica esigenza é quella di avere gli eventuali zeri **razionali**
 
-Lo scopo è quindi diminuire il grado delle disequazioni
+Lo scopo è quindi diminuire il grado dei polinomi al più basso possibile mantenendo il $\Delta$ maggiore di 0
+
+L'esempio é quindi:
+$$
+\frac{N(x)}{D(x)}=\frac{(x-1)(5-x)(x^2-x+2)(x+3)}{(x+3)(\frac{1}{2}-x)(x^2+x-2)}
+$$
+
+In questo caso si potrebbero semplificare i due $(x+3)$ ma é necessario evitare l'annullamento del valore che stiamo semplificando
+$$
+\begin{\begin{cases}
+
+\end{cases}}
+$$
