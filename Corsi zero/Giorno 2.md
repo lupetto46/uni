@@ -34,5 +34,11 @@ Innanzitutto prendere il nostro polinomio fattorizzato e studiare singolarmente 
 Esempio.
 $P(x)=(x-1)(x-\frac{1}{2})^2(x+5)(7-x)^2$
 
-$x-1\qquad x-1\geq 0\qquad x\geq1$
-$(x-\frac{1}{2})^2$
+$$
+\begin{align}
+x-1\qquad x-1\geq 0\qquad x\geq1\\
+(x-\frac{1}{2})^2\qquad (x-\frac{1}{2})^2\geq0\qquad x\geq\frac{1}{2}\\
+x+5\qquad x+5\geq0\qquad x\geq-5\\
+(7-x)^2\qquad (7-x)^2\geq0\qquad -x\
+\end{align}
+$$
