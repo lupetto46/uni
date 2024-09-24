@@ -17,3 +17,17 @@ $$
 \end{flalign}
 $$
 
+Ottenendo quindi:
+![[Pasted image 20240924230413.png]]
+Concludendo quindi che:
+$$
+\begin{flalign}
+&\frac{x+2}{x-1}\geq 0\qquad \forall x\in ℝ:x\leq-2\ \cup\ x>1\\
+&\frac{x+2}{x-1} < 0\qquad \forall x \in ℝ:-2\leq x<1
+\end{flalign}
+$$
+
+Poi prendiamo l'altro polinomio messo sotto valore assoluto:
+$x^2+4x+3$
+> [!per sapere]
+> Il professore qui ha fatto utilizzare una cosa chiamat 
