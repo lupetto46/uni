@@ -67,4 +67,17 @@ $\sqrt[n]{radicando}$
 Il cui risultato è: *quel numero che elevato a $n$ restituisce il $radicando$*
 Per adesso però considereremo solo radici la cui $n=2$
 
-Prendiamo quindi di esempio 2
+Prendiamo quindi il caso in cui 
+$\sqrt{f(x)}\geq g(x)$
+Ma quello che stiamo scrivendo deve avere senso e per avere senso è necessario porre $f(x)\geq 0$ in quanto una radice quadrata non ha risultati nei numeri reali se il radicando è negativo
+$$
+\begin{cases}
+f(x)\geq 0\\
+g(x)\leq 0
+\end{cases}\ \cup\ \begin{cases}
+f(x)\geq 0\\
+g(x)\geq 0\\
+f(x)\geq [g(x)]^2
+\end{cases}
+$$
+Se $g(x)\leq 0$ allora il sistema è sempre verificato in quanto $f(x)$
