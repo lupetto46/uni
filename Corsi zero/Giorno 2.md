@@ -29,3 +29,10 @@ $1+2+1+2+2+4=12$
 ## Divisioni tra Polinomi
 Come prima cosa è importante sapere lo studio del segno come funziona
 
+Innanzitutto prendere il nostro polinomio fattorizzato e studiare singolarmente il segno dei singoli termini
+
+Esempio.
+$P(x)=(x-1)(x-\frac{1}{2})^2(x+5)(7-x)^2$
+
+$x-1\qquad x-1\geq 0\qquad x\geq1$
+$(x-\frac{1}{2})^2$
