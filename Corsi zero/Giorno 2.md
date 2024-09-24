@@ -115,4 +115,11 @@ $$
 
 L'ultima è particolare:
 $x^2+x-2$ ha il $\Delta = 9$ allora si possono dividere due strade:
-Scompongo il polinomio $(x+1)(x-2)$
+1. Scompongo il polinomio e ottengo $(x+1)(x-2)$
+2. Risolvo la disequazione e ottengo $x< -2 \cup x>1$
+
+In ogni caso va bene poi nella parte finale
+
+#### Ma come si esegue il primo caso?
+Per poter eseguire il primo caso è necessario considerare la regola che:
+$se\ ax^2+bx+c\ ha\ \Delta>0\ allora\ può\ dar \exists x_1,x_2$
