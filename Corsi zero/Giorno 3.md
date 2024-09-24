@@ -30,4 +30,12 @@ $$
 Poi prendiamo l'altro polinomio messo sotto valore assoluto:
 $x^2+4x+3$
 > [!per sapere]
-> Il professore qui ha fatto utilizzare una cosa chiamat 
+> Il professore qui ha fatto utilizzare una cosa chiamata "delta 4" ($\frac{\Delta}{4}$) che si può utilizzare **solo** se il coefficiente della $x$ di primo grado è pari e serve nel caso in cui i numeri da calcolare nel delta sono troppo alti
+
+$$
+\begin{align}
+&x^2+4x+3\geq 0\\
+&\frac{\Delta}{4}=(\frac{b}{2})^2-ac=4-3 = 1\\
+&x_{1,2} = \frac{-\frac{b}{2}}{a}
+\end{align}
+$$
