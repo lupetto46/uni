@@ -8,3 +8,10 @@ $|f(x)|$ ha due situazioni:
 
 Prendiamo come esempio la funzione:
 $f(x)=|\frac{x+2}{x-1}| +|x^2+4x=3|+1$
+Innanzitutto vediamo dove il valore assoluto mostra il suo effetto studiando il segno:
+$$
+\begin{align}
+\frac{x+2}{x-1}\geq 0\\
+x
+\end{align}
+$$
