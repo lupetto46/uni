@@ -86,3 +86,7 @@ $$
 \frac{N(x)}{D(x)}=\frac{3x^3+2x^2-x+2}{4x^5+6x^2-\frac{7}{2}x+\frac{1}{2}}
 $$
 La cui condizione di esistenza è: $\forall x \in ℝ:4x^5+6x^2-\frac{7}{2}x+\frac{1}{2}\neq0$
+
+Ma conviene dividere per gradi più bassi e per farlo si può usare la regola di Ruffini la cui unica esigenza é quella di avere gli eventuali zeri **razionali**
+
+Lo scopo è quindi diminuire il grado delle disequazioni
