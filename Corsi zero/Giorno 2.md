@@ -98,7 +98,10 @@ $$
 
 In questo caso si potrebbero semplificare i due $(x+3)$ ma é necessario evitare l'annullamento del valore che stiamo semplificando
 $$
-\begin{\begin{cases}
-
-\end{cases}}
+\begin{cases}
+\frac{(x-1)(5-x)(x^2-x+2)\cancel{(x+3)}}{\cancel{(x+3)}(\frac{1}{2}-x)(x^2+x-2)}\\
+x\neq-3
+\end{cases}
 $$
+
+Quindi per studiare il segno della disequazione
