@@ -43,5 +43,14 @@ $$
 $$
 
 Ottenendo quindi:
-$x^2+4x+3\geq0\qquad \forall x\in ℝ:x\leq-3$
+$x^2+4x+3\geq0\qquad \forall x\in ℝ:x\leq-3\ \cup\ x> -1$
 $x^2+4x+3<0\qquad\forall x \in ℝ:-3<x< -1$
+
+Otteniamo quindi unendo tutti e due i polinomi sotto valore assoluto:
+![[Pasted image 20240924232052.png]]
+$f(x)$ le cui condizioni di esistenza $\forall x\in ℝ:x\neq1$
+$$
+f(x)=\cases{
+\frac{x+2}{x-1} + (x^2+4x+3) +1\ se\ 
+}
+$$
