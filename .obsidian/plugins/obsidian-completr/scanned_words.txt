@@ -81,6 +81,9 @@ sf
 stia
 scomposto
 spiegare
+sua
+segno
+sformare
 gAMA
 go
 gW
@@ -177,6 +180,7 @@ ordinate
 orari
 ovvero
 operatore
+opposto
 QR
 QIYKI
 QG
@@ -256,6 +260,7 @@ TDDDDD
 TH
 Tra
 Tutti
+Trasformazioni
 rJ
 rU
 rTkb
@@ -474,6 +479,7 @@ maggiore
 ma
 mostrare
 molteplici
+modi
 xUu
 xeV
 xn
@@ -585,6 +591,7 @@ za
 zp
 ztE
 zeri
+zero
 jx
 jY
 jV
@@ -645,6 +652,7 @@ verso
 vB
 volte
 vertice
+vari
 tA
 te
 td
@@ -794,6 +802,8 @@ esiste
 esistere
 esistenza
 esso
+ed
+esister
 Ve
 VM
 Vka
