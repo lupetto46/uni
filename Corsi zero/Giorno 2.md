@@ -10,11 +10,22 @@ $P(x)=\sum^{n}_{i=0}a_ix^i$
 
 Il polinomio lo posso anche scrivere come prodotto i cui termini sono vari polinomi:
 $P(x)= (x-1)(x-\frac{1}{2})^2(x+5)(7-x)^2(x^2+x+1)(x^2+x+3)^2$
-In questo caso come posso sapere il grado del polinomio?
-$x-1$ ammette due zeri
-$(x-\frac{1}{2})^2$ ammette 2 zeri
-$x+5$ ammette uno zero
-$(7-x)^2$ ammette 2 zeri
+
+Questa tipologia di scrittura si chiama **fattorizzazione**
+
+E ci permette di semplificare e fare molte cose:
+Per esempio come posso sapere il grado del polinomio?
+$x-1$ ammette $1$ zeri
+$(x-\frac{1}{2})^2$ ammette $2$ zeri
+$x+5$ ammette $1$ zero
+$(7-x)^2$ ammette $2$ zeri
 Gli altri due hanno $\Delta < 0$ ma stiamo comunque lavorando nel campo dei numeri reali se dobbiamo solo capirne il numero di zeri
-$x^2+x+1$ ammette 2 zeri
-$(x^2+x)^2$
+$x^2+x+1$ ammette $2$ zeri
+$(x^2+x+3)^2$ ammette $4$ zeri
+
+Quindi il polinomio da cui solo risultati tutti questi polinomi è di grado
+$1+2+1+2+2+4=12$
+
+## Divisioni tra Polinomi
+Come prima cosa è importante sapere lo studio del segno come funziona
+
