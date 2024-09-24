@@ -128,3 +128,4 @@ Di cui $b+c = x_1$ e $b\cdot c = x_2$
 
 con un Trinomio monico è molto semplice perché allora equivale a semplicemente:
 $x^2+bx+c=(x+x_1)(x+x_2)$
+

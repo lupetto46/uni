@@ -57,7 +57,7 @@ quindi avendo il $\Delta > 0$ allora si ha:
 $Se\ \Delta>0\ si\ ha\ che\ \exists x_1,x_2 \in ℝ : a_2x^2 + a_1x + a_0 = a_2(x-x_1)(x-x_2)$
 
 Mentre invece con $\Delta = 0$ si ha:
-$Se\ \Delta =0\ si\ ha\ che\ a_2x^2 + a_1x + a_0 = (x+\alpha)^2, \alpha \in ℝ$ Sbagliato??
+$Se\ \Delta =0\ si\ ha\ che\ a_2x^2 + a_1x + a_0 = (x+\alpha)^2, \alpha \in ℝ$ ***Sbagliato??***
 
 > [!info] esempio
 > $3x^2+\sqrt{3}x+\frac{1}{4}$

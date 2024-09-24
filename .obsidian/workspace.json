@@ -146,8 +146,17 @@
                 "file": "Corsi zero/Giorno 2.md"
               }
             }
+          },
+          {
+            "id": "b9175ac769ee3656",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,12 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cb124e30e39a125",
+  "active": "df4831e084467630",
   "lastOpenFiles": [
+    "Corsi zero/Giorno 1.md",
+    "Corsi zero/Giorno 2.md",
     "Pasted image 20240924092430.png",
     "Pasted image 20240924090744.png",
-    "Corsi zero/Giorno 2.md",
-    "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Pasted image 20240920182851.png",
     "Corsi zero/Immagini",
     "Corsi zero/Immagini/Pasted image 20240920182248.png",
@@ -185,7 +194,6 @@
     "Basi/Fisica/Immagini",
     "Basi/Fisica/Immagini/Pasted image 20240902142457.png",
     "Basi/Matematica/Immagini/Pasted image 20240809140216.png",
-    "Basi/Matematica/Immagini/Pasted image 20240809140146.png",
     "Basi/Matematica/Immagini",
     "Basi/Matematica/Funzioni",
     "Readme.md",
