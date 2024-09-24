@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "17ed194905b1b440",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cb124e30e39a125",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "44e243d12090d4c5",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
+                "file": "Corsi zero/Giorno 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png",
+                "file": "Corsi zero/Giorno 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png",
+                "file": "Corsi zero/Giorno 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corsi zero/Immagini/Pasted image 20240924232052.png"
+                "file": "Corsi zero/Giorno 2.md"
               }
             }
           },
@@ -172,14 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ab14f41d6adb4a0",
+  "active": "8506c1fe470f5a06",
   "lastOpenFiles": [
+    "untitled.jpg",
+    "Corsi zero/Giorno 2.md",
     "Corsi zero/Giorno 3.md",
     "Corsi zero/Immagini/Pasted image 20240924232052.png",
     "Corsi zero/Immagini/Pasted image 20240924231636.png",
     "Corsi zero/Immagini/Pasted image 20240924230413.png",
-    "untitled.jpg",
-    "Corsi zero/Giorno 2.md",
     "Corsi zero/Immagini/Pasted image 20240924101710.png",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Pasted image 20240924092430.png",
