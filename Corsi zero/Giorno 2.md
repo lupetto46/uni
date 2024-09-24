@@ -93,15 +93,22 @@ Lo scopo è quindi diminuire il grado dei polinomi al più basso possibile mante
 
 L'esempio é quindi:
 $$
-\frac{N(x)}{D(x)}=\frac{(x-1)(5-x)(x^2-x+2)(x+3)}{(x+3)(\frac{1}{2}-x)(x^2+x-2)}
+\frac{(x-1)(5-x)(x^2-x+2)(x+3)}{(x+3)(\frac{1}{2}-x)(x^2+x-2)} \geq 0
 $$
 
 In questo caso si potrebbero semplificare i due $(x+3)$ ma é necessario evitare l'annullamento del valore che stiamo semplificando
 $$
 \begin{cases}
-\frac{(x-1)(5-x)(x^2-x+2)\cancel{(x+3)}}{\cancel{(x+3)}(\frac{1}{2}-x)(x^2+x-2)}\\
+\frac{(x-1)(5-x)(x^2-x+2)\cancel{(x+3)}}{\cancel{(x+3)}(\frac{1}{2}-x)(x^2+x-2)}\geq 0\\
 x\neq-3
 \end{cases}
 $$
 
-Quindi per studiare il segno della disequazione
+Quindi per studiare il segno della disequazione bisogna considerare quando tutti i polinomi che lo compongono sono maggiori o uguali a zero:
+$$
+\begin{flalign}
+&x-1\qquad x-1\geq0\qquad &x\geq 1\\
+&5-x\qquad 5-x\geq 0 \qquad &x\leq5\\
+&x^2-x+2\qquad x^2-x+2 > 0 \qquad \Delta = 1-4\cdot2 = -7 &\forall x\in ℝ
+\end{flalign}
+$$
