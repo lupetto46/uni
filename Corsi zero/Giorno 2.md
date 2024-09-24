@@ -122,4 +122,9 @@ In ogni caso va bene poi nella parte finale
 
 #### Ma come si esegue il primo caso?
 Per poter eseguire il primo caso è necessario considerare la regola che:
-$se\ ax^2+bx+c\ ha\ \Delta>0\ allora\ può\ dar \exists x_1,x_2$
+$se\ ax^2+bx+c\ ha\ \Delta>0$
+Allora può darsi che $\exists x_1,x_2:ax^2+bx+c =a(x+x_1)(x+x_2)$
+Di cui $b+c = x_1$ e $b\cdot c = x_2$
+
+con un Trinomio monico è molto semplice perché allora equivale a semplicemente:
+$x^2+bx+c=(x+x_1)(x+x_2)$
