@@ -60,6 +60,9 @@ f(x)=\cases{
 }
 $$
 
+## Equazioni in valore assoluto
+$|-f(x)|=$
+
 ## Disequazioni irrazionali
 Le radici hanno
 $\sqrt[n]{radicando}$
@@ -97,3 +100,4 @@ f(x)\geq [g(x)]^2
 \end{cases}
 $$
 
+In questo caso 
