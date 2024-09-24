@@ -113,6 +113,10 @@ $f(x)\leq[g(x)]^2$
 ottenendo quindi
 $$
 \begin{cases}
-
+\begin{align}
+f(x)&\geq0\\
+g(x)&\geq 0\\
+f(x)&\leq [g(x)]^2
+\end{align}
 \end{cases}
 $$
