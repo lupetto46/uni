@@ -109,10 +109,17 @@ $$
 \begin{flalign}
 &x-1\qquad x-1\geq0\qquad &x\geq 1\\
 &5-x\qquad 5-x\geq 0 \qquad &x\leq5\\
-&x^2-x+2\qquad x^2-x+2 > 0 \qquad \Delta = 1-4\cdot2 = -7 &\forall x\in ℝ
+&x^2-x+2\qquad x^2-x+2 \geq 0 \qquad \Delta = 1-4\cdot2 = -7 &\forall x\in ℝ
 \end{flalign}
 $$
 
+Mentre i polinomi al denominatore vanno posti solo maggiori o minori ma ***MAI*** uguali a zero
+$$
+\begin{align}
+&\frac{1}{2}-x \qquad &\frac{1}{2}-x > 0 \qquad &x<\frac{1}{2}\\
+&x^2+x-2 \qquad &x \qquad &
+\end{align}
+$$
 L'ultima è particolare:
 $x^2+x-2$ ha il $\Delta = 9$ allora si possono dividere due strade:
 1. Scompongo il polinomio e ottengo $(x-1)(x+2)$
@@ -144,4 +151,11 @@ x\neq-3\ \cup\ x\neq1
 \end{cases}
 $$
 
-E quindi facendo il grafico otteniamo in entrambi i casi qualcosa di simile a 
+E quindi facendo il grafico otteniamo in entrambi i casi qualcosa di simile a:
+![[Pasted image 20240924101710.png]]
+potendo quindi dire che:
+$$
+\begin{align}
+x>
+\end{align}
+$$
