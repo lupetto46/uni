@@ -24,6 +24,9 @@ PAf
 PG
 PwX
 PPVZ
+Pu
+Pi
+PSiXb
 IHDR
 IDATx
 Ii
@@ -134,6 +137,7 @@ serve
 scrivendo
 senso
 scriverlo
+sz
 gAMA
 go
 gW
@@ -155,6 +159,14 @@ gN
 gD
 ghD
 gX
+gl
+gAYc
+gI
+gR
+gA
+gd
+gz
+gbK
 pHYs
 pJ
 pn
@@ -223,6 +235,10 @@ positivi
 permettendoci
 permettere
 ph
+pK
+pV
+pZ
+pDX
 HBz
 HN
 HU
@@ -236,6 +252,7 @@ HlY
 Hm
 Hq
 Handle
+HG
 RDD
 RW
 RL
@@ -249,6 +266,10 @@ Rhh
 RIvo
 RsT
 Risolvibile
+REB
+RU
+RoL
+Rg
 lL
 lk
 lkS
@@ -265,6 +286,7 @@ lf
 lE
 lu
 lT
+lw
 oooEDD
 oo
 osv
@@ -298,6 +320,7 @@ okP
 operazionale
 ottenendo
 oV
+oZ
 QR
 QIYKI
 QG
@@ -321,6 +344,12 @@ QY
 QD
 QE
 QM
+Qf
+QH
+Qh
+QzJW
+QoHsG
+Qe
 wo
 wx
 ww
@@ -341,6 +370,8 @@ wX
 wO
 wHde
 wHRmj
+wny
+weQ
 MO
 MR
 Ma
@@ -359,6 +390,8 @@ MATLAB
 MathWorks
 MB
 MM
+MN
+MZ
 JHH
 Jx
 JIIQTTT
@@ -370,6 +403,8 @@ JQ
 Jz
 JFIF
 JA
+JK
+JL
 ue
 uE
 uT
@@ -401,6 +436,9 @@ utilizzato
 utilizzeremo
 unendo
 ui
+uV
+ub
+uy
 Xx
 Xh
 Xr
@@ -419,6 +457,9 @@ XZ
 Xs
 XU
 Xv
+XG
+XWD
+XB
 TQ
 Td
 TR
@@ -442,6 +483,8 @@ TD
 TPo
 Tq
 The
+TU
+TC
 rJ
 rU
 rTkb
@@ -484,6 +527,7 @@ radicando
 rimuovere
 rimanendo
 rdY
+rL
 SL
 SZ
 SO
@@ -509,6 +553,7 @@ Sj
 Sb
 SQ
 Sx
+Sg
 Zy
 Zar
 ZN
@@ -525,6 +570,7 @@ ZM
 Zr
 ZIP
 ZH
+Zov
 FU
 Fx
 Fao
@@ -539,6 +585,7 @@ Fp
 FP
 FC
 Fw
+FH
 cS
 cL
 cNt
@@ -603,6 +650,9 @@ considereremo
 cambia
 ca
 cP
+cV
+cR
+czS
 av
 as
 aIT
@@ -641,6 +691,9 @@ at
 alti
 adesso
 aH
+axYPoy
+ag
+ab
 GM
 Gr
 GD
@@ -650,6 +703,8 @@ Grafici
 Gli
 Graphics
 GeQ
+GBF
+Gd
 hf
 hN
 hI
@@ -668,6 +723,8 @@ hK
 hlH
 hT
 hc
+hM
+hjt
 Kx
 Kl
 KS
@@ -683,6 +740,12 @@ Kb
 KV
 Kq
 KgI
+Kj
+KXH
+Kf
+KFC
+Kz
+Kw
 ki
 keY
 kP
@@ -701,6 +764,9 @@ kJ
 kH
 kx
 kpd
+kb
+kW
+kG
 EZ
 Ef
 Er
@@ -720,6 +786,7 @@ EW
 Et
 EJ
 Ew
+EkB
 bfl
 bE
 bg
@@ -740,6 +807,9 @@ bw
 bU
 bO
 byee
+bKf
+by
+bTp
 Ys
 YV
 Yh
@@ -752,6 +822,9 @@ YXb
 Yg
 YWp
 YW
+Yr
+YU
+YG
 ml
 mlBQ
 mBN
@@ -789,6 +862,8 @@ mAU
 mG
 mostra
 mz
+my
+mlF
 xUu
 xeV
 xn
@@ -799,6 +874,12 @@ xK
 xyS
 xB
 xU
+xl
+xh
+xYh
+xo
+xf
+xC
 qN
 qX
 qw
@@ -838,6 +919,8 @@ qU
 qI
 qy
 qv
+qLla
+qO
 ip
 iz
 iU
@@ -876,6 +959,10 @@ irrazionali
 iI
 ig
 iu
+iSY
+ib
+ix
+iAS
 Ot
 Ok
 OU
@@ -897,6 +984,8 @@ Ottenendo
 Otteniamo
 OI
 OW
+OVe
+Ov
 nl
 nf
 nP
@@ -933,6 +1022,8 @@ ni
 nzYv
 nmd
 nG
+nS
+nV
 Wp
 Wsv
 We
@@ -947,6 +1038,8 @@ Wj
 Wr
 Wd
 WW
+Wu
+Wh
 zZ
 zG
 zu
@@ -963,6 +1056,11 @@ zU
 zH
 zP
 zM
+zy
+zw
+zvN
+zD
+zKRRR
 jx
 jY
 jV
@@ -974,6 +1072,9 @@ jT
 jN
 jj
 jhAj
+jX
+jw
+jU
 DX
 DsM
 DDDDD
@@ -999,6 +1100,10 @@ DR
 Dc
 DQ
 Do
+DT
+DNU
+DB
+DC
 yJJJr
 yyy
 ye
@@ -1017,6 +1122,9 @@ yes
 yu
 ygbI
 yqe
+yVS
+yO
+ys
 vn
 vi
 vr
@@ -1059,6 +1167,12 @@ verificato
 vnC
 vt
 vmn
+vZ
+vF
+vl
+vXG
+vMc
+vo
 tA
 te
 td
@@ -1104,6 +1218,9 @@ tx
 troppo
 tq
 tM
+tQ
+tzxP
+ty
 CG
 Cf
 CDDDDD
@@ -1131,6 +1248,10 @@ CDD
 Concludendo
 Cambia
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+Cj
+CW
+Ca
+Cc
 Nf
 NR
 Non
@@ -1141,6 +1262,8 @@ NU
 Nm
 No
 Noi
+NT
+Nuv
 UFF
 Uu
 Uy
@@ -1155,6 +1278,8 @@ Ul
 UC
 Uq
 UR
+UzI
+Uz
 fN
 feun
 fs
@@ -1183,6 +1308,11 @@ farlo
 fk
 facendo
 funzionale
+fH
+fqi
+flF
+fxl
+fQ
 Au
 AV
 AX
@@ -1197,6 +1327,9 @@ Ag
 AY
 Aß
 Aybo
+AtIz
+AR
+Ac
 LG
 La
 Linguaggio
@@ -1209,6 +1342,13 @@ LzU
 LzUwz
 Lh
 LAq
+LbC
+LD
+LO
+LYF
+LFd
+Lc
+LM
 dU
 df
 dI
@@ -1267,6 +1407,8 @@ ds
 dn
 dl
 dDpJ
+dF
+dD
 eA
 eWf
 eddh
@@ -1307,6 +1449,10 @@ eu
 ev
 eIFe
 eo
+ewJ
+eU
+eV
+ej
 Ve
 VM
 Vka
@@ -1319,6 +1465,12 @@ Vg
 VF
 VG
 VS
+Vh
+VK
+Vl
+VT
+VXC
+Vc
 BdD
 Bp
 Biiettiva

@@ -20,3 +20,4 @@ E questi possono essere di 4 tipi:
 - Aperto a sinistra chiuso a destra : $\forall x \in ℝ: a<x\leq b; ]a,b]$![[Pasted image 20240925164037.png]]
 - Chiuso a sinistra aperto a destra : $\forall x \in ℝ : a \leq x < b: [a,b[$![[Pasted image 20240925164050.png]]
 
+Poi i complementari prendono gli uguali dove l'intervallo non lo ha![[Pasted image 20240925164135.png]]

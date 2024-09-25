@@ -29,11 +29,9 @@
             "id": "3b846f5684666e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Corsi zero/Giorno 4.md",
-                "mode": "preview",
-                "source": false
+                "file": "Corsi zero/Immagini/Pasted image 20240925164135.png"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corsi zero/Giorno 4.md",
+                "file": "Corsi zero/Immagini/Pasted image 20240925164135.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corsi zero/Giorno 4.md",
+                "file": "Corsi zero/Immagini/Pasted image 20240925164135.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corsi zero/Giorno 4.md"
+                "file": "Corsi zero/Immagini/Pasted image 20240925164135.png"
               }
             }
           },
@@ -174,22 +172,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8506c1fe470f5a06",
+  "active": "3ab14f41d6adb4a0",
   "lastOpenFiles": [
-    "Pasted image 20240925164050.png",
-    "Pasted image 20240925164037.png",
-    "Pasted image 20240925164024.png",
-    "Pasted image 20240925164015.png",
-    "Pasted image 20240925163454.png",
-    "Pasted image 20240925163446.png",
-    "Pasted image 20240925163431.png",
-    "Pasted image 20240925163414.png",
-    "Corsi zero/Giorno 3.md",
     "Corsi zero/Giorno 4.md",
+    "Corsi zero/Immagini/Pasted image 20240925164135.png",
+    "Corsi zero/Immagini/Pasted image 20240925164050.png",
+    "Corsi zero/Immagini/Pasted image 20240925164037.png",
+    "Corsi zero/Immagini/Pasted image 20240925164024.png",
+    "Corsi zero/Immagini/Pasted image 20240925164015.png",
+    "Corsi zero/Immagini/Pasted image 20240925163454.png",
+    "Corsi zero/Immagini/Pasted image 20240925163446.png",
+    "Corsi zero/Immagini/Pasted image 20240925163431.png",
+    "Corsi zero/Immagini/Pasted image 20240925163414.png",
+    "Corsi zero/Giorno 3.md",
     "Corsi zero/Giorno 2.md",
     "untitled.jpg",
-    "Corsi zero/Immagini/Pasted image 20240924232052.png",
-    "Corsi zero/Immagini/Pasted image 20240924231636.png",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini",
     "Corsi zero",
