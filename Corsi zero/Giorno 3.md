@@ -30,7 +30,7 @@ $$
 Poi prendiamo l'altro polinomio messo sotto valore assoluto:
 $x^2+4x+3$
 > [!per sapere]
-> Il professore qui ha fatto utilizzare una cosa chiamata "delta 4" ($\frac{\Delta}{4}$) che si può utilizzare **solo** se il coefficiente della $x$ di primo grado è pari e serve nel caso in cui i numeri da calcolare nel delta sono troppo alti
+> Il professore qui ha fatto utilizzare una cosa chiamata "delta 4 ($\frac{\Delta}{4}$)” che si può utilizzare **solo** se il coefficiente della $x$ di primo grado è pari e serve nel caso in cui i numeri da calcolare nel delta sono troppo alti
 
 $$
 \begin{align}

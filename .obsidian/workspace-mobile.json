@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corsi zero/Giorno 2.md",
+                "file": "Corsi zero/Giorno 3.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Corsi zero/Giorno 2.md",
+            "file": "Corsi zero/Giorno 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Corsi zero/Giorno 2.md",
+            "file": "Corsi zero/Giorno 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Corsi zero/Giorno 2.md"
+            "file": "Corsi zero/Giorno 3.md"
           }
         }
       },
@@ -142,22 +142,25 @@
   },
   "active": "c258e8cdd615a129",
   "lastOpenFiles": [
+    "Corsi zero/Giorno 2.md",
+    "Corsi zero/Giorno 3.md",
+    "Corsi zero/Immagini/Pasted image 20240924232052.png",
+    "Corsi zero/Immagini/Pasted image 20240924231636.png",
+    "Corsi zero/Immagini/Pasted image 20240924230413.png",
+    "/Corsi zero/Giorno 3.md",
+    "/Corsi zero/Immagini/Pasted image 20240924232052.png",
+    "/Corsi zero/Immagini/Pasted image 20240924231636.png",
+    "/Corsi zero/Immagini/Pasted image 20240924230413.png",
     "Readme.md",
     "Corsi zero/Corso 1.md",
     "Corsi zero/Immagini/Pasted image 20240924092430.png",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Pasted image 20240924090744.png",
-    "Corsi zero/Giorno 2.md",
     "Corsi zero/Immagini/Pasted image 20240924101710.png",
     "/Corsi zero/Giorno 2.md",
     "/Corsi zero/Immagini/Pasted image 20240924101710.png",
-    "/Corsi zero/Immagini/Pasted image 20240924092430.png",
-    "/Corsi zero/Immagini/Pasted image 20240924090744.png",
     "/Corsi zero/Giorno 1.md",
     "Corsi zero",
-    "Corsi zero/Immagini/Pasted image 20240920181112.png",
-    "Corsi zero/Immagini/Pasted image 20240920182851.png",
-    "Corsi zero/Immagini/Pasted image 20240920182248.png",
     "Corsi zero/Immagini"
   ]
 }
