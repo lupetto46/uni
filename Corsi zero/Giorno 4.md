@@ -85,4 +85,7 @@ $3^{log_3 7}=7$
 
 ## Proprietà dei logaritmi
 Siano $A,B,a\inℝ:A>0,B>0,a>0,a\neq1$
-$log_aA+log_aB=log_a(A)$
+$log_aA+log_aB=log_a(A\cdot B)$
+$log_aA-log_aB=log_a(\frac{A}{B})$ 
+$\alpha log_aA=log_aA^\alpha$
+
