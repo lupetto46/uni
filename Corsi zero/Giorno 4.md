@@ -68,5 +68,9 @@ Se $a>0$:
 - $a^{f(x)}\leq a^{g(x)}\rightleftharpoons f(x)\leq g(x)$
 
 Se $0<a<1$:
-- $a^{f(x)}\geq a^{g(x)}\rightleftharpoons f(x)\geq g(x)$
-- $a^{f(x)}\leq a^{g(x)}\rightleftharpoons f(x)\leq g(x)$
+- $a^{f(x)}\geq a^{g(x)}\rightleftharpoons f(x)\leq g(x)$
+- $a^{f(x)}\leq a^{g(x)}\rightleftharpoons f(x)\geq g(x)$
+
+## logaritmi
+### Definizione formale
+Sia 
