@@ -59,4 +59,14 @@ Notiamo come in questo caso se $x_1>x_2 \rightleftharpoons a^{x_1} > a^{x_2}$
 
 Nel caso in cui invece $0<a<1$:
 ![[untitled 1.jpg]]
-Notiamo come al contrario quando 
+Notiamo come al contrario quando $x_1<x_2 \rightleftharpoons a^{x_1} > a^{x_2}$
+
+Ottenendo quindi compattato:
+Sia $a\in ℝ\quad a>0\qquad a\neq 1$ allora
+Se $a>0$:
+- $a^{f(x)}\geq a^{g(x)}\rightleftharpoons f(x)\geq g(x)$
+- $a^{f(x)}\leq a^{g(x)}\rightleftharpoons f(x)\leq g(x)$
+
+Se $0<a<1$:
+- $a^{f(x)}\geq a^{g(x)}\rightleftharpoons f(x)\geq g(x)$
+- $a^{f(x)}\leq a^{g(x)}\rightleftharpoons f(x)\leq g(x)$
