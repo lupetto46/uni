@@ -43,4 +43,13 @@ Nel caso in cui $\alpha=\frac{m}{n}\qquad n\neq0$ allora $A^{\frac{m}{n}=\sqrt[n
 
 
 
-## Equazione esponenziale
+## Equazioni e disequazioni esponenziale
+Quando un'equazione  è esponenziale?
+Quando la $x$ si trova all'esponente: $2^{\sin x}+5^x+3=0$
+Queste sono eseguibili a patto che siamo in grado di ricondurle alle forme normali ovvero:
+$Sia\ a\inℝ,\qquad a\neq0$
+$a^{f(x)}=a^{g(x)}\rightleftharpoons f(x)=g(x)$
+Ma abbiamo adesso delle cose molto importanti da dire prima di arrivare al perché le forme normali delle disequazioni:
+
+Presa $y=a^x\qquad a>0\qquad a\neq
+1$
