@@ -28,3 +28,10 @@ $rapporto \rightleftharpoons differenza\ :\ \frac{A^n}{A^m}=A^{n-m}$
 $potenza \rightleftharpoons prodotto\ :\ \{[(A^n)^m]^p\}^y=A^{n\cdot m\cdot p\cdot y}$
 ### Con stesso esponente
 $A^n\cdot B^n \cdot C^n=(A\cdot B\cdot C)^n$
+$B\neq 0\ allora\ \frac{A^n}{B^n}=(\frac{A}{B})^n$
+
+### A esponente intero o razionale
+Avendo $A^\alpha$ con $A\in ℝ\qquad A\neq 0\qquad\alpha\in ℝ$  
+
+Nel caso in cui $\alpha = 0$ allora $A=1$
+Nel caso in cui $\alpha\inℕ$ e $\alpha=n$ allora $\underbrace{A\cdot}$
