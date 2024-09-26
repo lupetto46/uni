@@ -92,3 +92,9 @@ $\alpha log_aA=log_aA^\alpha\qquad,\qquad \alpha\inℝ$
 ## Come lo calcolo il logaritmo
 Qui possiamo usare la formula del cambio base:
 $log_ab=\frac{log_\alpha b}{log_\alpha a}$ di cui $\alpha>0,\alpha\neq1$
+
+Riguardante il grafico
+![[Pasted image 20240926191412.png]]
+Notiamo che:
+- $x_1 \geq x_2 \rightleftharpoons log_ax_1 \leq log_ax_2$ 
+- 
