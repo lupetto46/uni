@@ -54,6 +54,7 @@ Impossibile
 Inc
 IW
 It
+Illimitati
 sRGB
 sq
 sN
@@ -138,6 +139,9 @@ scrivendo
 senso
 scriverlo
 sz
+superiormente
+specifichiamo
+sinistra
 gAMA
 go
 gW
@@ -287,6 +291,7 @@ lE
 lu
 lT
 lw
+limitati
 oooEDD
 oo
 osv
@@ -321,6 +326,7 @@ operazionale
 ottenendo
 oV
 oZ
+ovviamente
 QR
 QIYKI
 QG
@@ -653,6 +659,8 @@ cP
 cV
 cR
 czS
+chiuso
+complementari
 av
 as
 aIT
@@ -694,6 +702,8 @@ aH
 axYPoy
 ag
 ab
+ai
+aperto
 GM
 Gr
 GD
@@ -963,6 +973,9 @@ iSY
 ib
 ix
 iAS
+intervalli
+inferiormente
+intervallo
 Ot
 Ok
 OU
@@ -1104,6 +1117,7 @@ DT
 DNU
 DB
 DC
+Diamo
 yJJJr
 yyy
 ye
@@ -1221,6 +1235,7 @@ tM
 tQ
 tzxP
 ty
+trovano
 CG
 Cf
 CDDDDD
@@ -1252,6 +1267,7 @@ Cj
 CW
 Ca
 Cc
+Chiuso
 Nf
 NR
 Non
@@ -1330,6 +1346,7 @@ Aybo
 AtIz
 AR
 Ac
+Aperto
 LG
 La
 Linguaggio
@@ -1349,6 +1366,7 @@ LYF
 LFd
 Lc
 LM
+Limitati
 dU
 df
 dI
@@ -1409,6 +1427,7 @@ dl
 dDpJ
 dF
 dD
+destra
 eA
 eWf
 eddh
