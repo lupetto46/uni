@@ -54,3 +54,5 @@ Ma abbiamo adesso delle cose molto importanti da dire prima di arrivare al perch
 Presa $y=a^x\qquad a>0\qquad a\neq1$ otteniamo un grafico
 ![[untitled.jpg]]
 Nel caso in cui abbiamo $a>1$ e prendiamo due valori $x_1,x_2$:
+![[untitled.jpg]]
+Notiamo come in questo caso se $x_1>x_2 \rightleftharpoons a^{x_1} > a^{x_2}$
