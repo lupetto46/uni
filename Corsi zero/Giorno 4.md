@@ -124,3 +124,21 @@ Le disequazioni logaritmiche sono di due tipi:
    e il caso in cui $0<a<1$ che ci fa ottenere:
    $\cases{Insieme\ di\ esistenza\\ f(x)\geq g(x)}$
 
+Il caso in cui la nostra disequazione è:
+$log_{a(x)}f(x)\geq log_{a(x)}g(x)$ 
+È più complicato. In questo caso si ottengono due sistemi
+$$
+\begin{align}
+&log_{a(x)}f(x)\geq log_{a(x)}g(x)\\\\
+&1)\begin{cases}
+I.E. Argomenti\\
+a(x)>1\\
+f(x)\leq g(x)
+\end{cases}\\\\
+&2)\begin{cases}
+I.E. Argomenti\\
+0<a(x)<1\implies\cases{a>0\\ a(x)<1}\\
+f(x)\geq g(x)
+\end{cases}
+\end{align}
+$$
