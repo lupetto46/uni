@@ -83,3 +83,6 @@ $3^x=7$
 $x = log_3 7$
 $3^{log_3 7}=7$
 
+## Proprietà dei logaritmi
+Siano $A,B,a\inℝ:A>0,B>0,a>0,a\neq1$
+$$
