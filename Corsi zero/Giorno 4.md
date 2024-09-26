@@ -104,4 +104,13 @@ Le equazioni logaritmiche hanno come forma normale:
 $log_af(x)=log_ag(x)$
 Dove $a>0\qquad a\neq1$
 Avendo definito le condizioni di esistenza otteniamo quindi
-$\cases{}$
+$\cases{Insieme\ di\ esistenza\\ f(x)=g(x)}$
+
+Ci sono un altro tipo di equazioni logaritmiche:
+$log_{a(x)}f(x)=log_{a(x)}g(x)$
+In quel caso si devono specificare le condizioni di esistenza degli argomenti
+$\cases{C.E.argomenti\\ a(x)>0\ \land\ a(x)\neq1\\ f(x)= g(x)}$
+
+## Disequazioni logaritmiche
+Le disequazioni logaritmiche sono di due tipi:
+1. $log_af(x)$
