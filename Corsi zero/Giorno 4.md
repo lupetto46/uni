@@ -113,4 +113,14 @@ $\cases{C.E.argomenti\\ a(x)>0\ \land\ a(x)\neq1\\ f(x)= g(x)}$
 
 ## Disequazioni logaritmiche
 Le disequazioni logaritmiche sono di due tipi:
-1. $log_af(x)$
+1. $log_af(x)\geq log_ag(x)$
+	 Dobbiamo vedere il caso in cui $a>1$ che mi fa ottenere:
+	 $\cases{Insieme\ di\ esistenza\\ f(x)\geq g(x)}$
+	 E il caso in cui $0<a<1$ che ci fa ottenere:
+	 $\cases{I.E.\\ f(x)\leq g(x)}$
+2. $log_af(x)\leq log_ag(x)$
+   Esattamente come prima dobbiamo vedere se $a>1$ che ci fa ottenere:
+   $\cases{I.E.\\ f(x)\leq g(x)}$
+   e il caso in cui $0<a<1$ che ci fa ottenere:
+   $\cases{Insieme\ di\ esistenza\\ f(x)\geq g(x)}$
+
