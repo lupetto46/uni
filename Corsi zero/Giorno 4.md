@@ -73,4 +73,13 @@ Se $0<a<1$:
 
 ## logaritmi
 ### Definizione formale
-Sia 
+Sia $a,b\in ℝ:b>0,\qquad a>0,\qquad a\neq 1$
+Sia $c \in ℝ:a^c=b$ allora diciamo che $c=log_ab$
+
+In relazione a ciò si può dire $a^c=b\rightleftharpoons c=log_ab$
+
+Quindi per esempio se abbiamo:
+$3^x=7$
+$x = log_3 7$
+$3^{log_3 7}=7$
+
