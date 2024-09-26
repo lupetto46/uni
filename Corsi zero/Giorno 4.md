@@ -38,4 +38,9 @@ Nel caso in cui $\alpha\inℕ$ e $\alpha=n$ allora $A^n=\underbrace{A\cdot A\cdo
 Nel caso in cui $\alpha<0$ allora $A^{-n}=\frac{1}{A^n}$
 Nel caso in cui $\alpha=\frac{m}{n}\qquad n\neq0$ allora $A^{\frac{m}{n}=\sqrt[n]{A^m}}$
 > [!warning] Attenzione
-> È vero che che $\sqrt{(x-1)^2}=(x-1)^{\frac{2}{2}}$ 
+> È vero che che $\sqrt{(x-1)^2}=(x-1)^{\frac{\cancel{2}}{\cancel{2}}}$
+> Ma si deve preservare la qualità di $(x-1)^2$ di essere sempre maggiore di zero. Per fare questo si può utilizzare il valore assoluto di conseguenza si ottiene: $\sqrt{(x-1)^2}=|x-1|$. Vige quindi sempre la regola di rispettare sempre le condizioni di esistenza che nel caso della radice con indice pari è $f(x)\geq0$
+
+
+
+## Equazione esponenziale
