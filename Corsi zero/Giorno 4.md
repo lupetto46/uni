@@ -56,3 +56,7 @@ Presa $y=a^x\qquad a>0\qquad a\neq1$ otteniamo un grafico
 Nel caso in cui abbiamo $a>1$ e prendiamo due valori $x_1,x_2$:
 ![[untitled.jpg]]
 Notiamo come in questo caso se $x_1>x_2 \rightleftharpoons a^{x_1} > a^{x_2}$
+
+Nel caso in cui invece $0<a<1$:
+![[untitled 1.jpg]]
+Notiamo come al contrario quando 

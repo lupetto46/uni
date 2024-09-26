@@ -155,6 +155,8 @@ superiormente
 specifichiamo
 sinistra
 siamo
+snf
+sZ
 gAMA
 go
 gW
@@ -189,6 +191,7 @@ gw
 gG
 glQ
 gP
+gs
 pHYs
 pJ
 pn
@@ -283,6 +286,7 @@ Handle
 HG
 HY
 Ht
+HE
 RDD
 RW
 RL
@@ -305,6 +309,10 @@ RFF
 RT
 Rp
 RK
+RWAE
+RI
+RP
+RB
 lL
 lk
 lkS
@@ -427,6 +435,8 @@ wHRmj
 wny
 weQ
 wVrp
+wm
+wJ
 MO
 MR
 Ma
@@ -451,6 +461,7 @@ Mw
 Mv
 Ms
 Mq
+MP
 JHH
 Jx
 JIIQTTT
@@ -466,6 +477,8 @@ JK
 JL
 Jw
 Jb
+Ji
+JVH
 ue
 uE
 uT
@@ -504,6 +517,8 @@ ucq
 uq
 uM
 ua
+uK
+uO
 Xx
 Xh
 Xr
@@ -627,6 +642,7 @@ Sg
 SI
 St
 SP
+Sk
 Zy
 Zar
 ZN
@@ -647,6 +663,7 @@ Zov
 Zx
 ZxoN
 Zi
+ZE
 FU
 Fx
 Fao
@@ -667,6 +684,7 @@ FUu
 FX
 FV
 Fy
+FK
 cS
 cL
 cNt
@@ -826,6 +844,7 @@ hL
 heR
 hRF
 hw
+hZE
 Kx
 Kl
 KS
@@ -850,6 +869,7 @@ Kw
 KH
 Ki
 Krdv
+Km
 ki
 keY
 kP
@@ -872,6 +892,10 @@ kb
 kW
 kG
 kvf
+kV
+ka
+kR
+khl
 EZ
 Ef
 Er
@@ -895,6 +919,8 @@ EkB
 EU
 ER
 EK
+Ec
+EiW
 bfl
 bE
 bg
@@ -922,6 +948,8 @@ bc
 bD
 base
 bY
+bT
+bM
 Ys
 YV
 Yh
@@ -942,6 +970,8 @@ Yl
 YQ
 Yi
 YZ
+Yu
+Yd
 ml
 mlBQ
 mBN
@@ -987,6 +1017,7 @@ mh
 mFu
 mK
 mv
+mj
 xUu
 xeV
 xn
@@ -1008,6 +1039,8 @@ xk
 xSN
 xM
 xF
+xSU
+xg
 qN
 qX
 qw
@@ -1052,6 +1085,9 @@ qO
 qq
 qP
 qualit
+qh
+qk
+qZx
 ip
 iz
 iU
@@ -1136,6 +1172,7 @@ OCj
 Ouv
 OKN
 OHWk
+OR
 nl
 nf
 nP
@@ -1180,6 +1217,8 @@ nu
 ncS
 njQ
 ns
+nt
+nj
 Wp
 Wsv
 We
@@ -1198,6 +1237,10 @@ Wu
 Wh
 Wg
 WpI
+WgE
+Wt
+WT
+Wm
 zZ
 zG
 zu
@@ -1244,6 +1287,7 @@ jH
 jy
 jd
 jR
+jE
 DX
 DsM
 DDDDD
@@ -1300,6 +1344,7 @@ ys
 yD
 yw
 yg
+yz
 vn
 vi
 vr
@@ -1353,6 +1398,7 @@ vtQE
 vrJZ
 vero
 vTi
+vtP
 tA
 te
 td
@@ -1405,6 +1451,7 @@ trovano
 tRFp
 tV
 tQE
+tO
 CG
 Cf
 CDDDDD
@@ -1439,6 +1486,8 @@ Cc
 Chiuso
 Con
 CO
+Cg
+CR
 Nf
 NR
 Non
@@ -1455,6 +1504,8 @@ NrH
 NY
 Notiamo
 Nv
+NW
+NJ
 UFF
 Uu
 Uy
@@ -1535,6 +1586,7 @@ Ac
 Aperto
 Aff
 Attenzione
+AE
 LG
 La
 Linguaggio
@@ -1556,6 +1608,7 @@ Lc
 LM
 Limitati
 LDac
+LIRF
 dU
 df
 dI
@@ -1623,6 +1676,7 @@ disequazioni
 dHR
 dw
 dP
+dqF
 eA
 eWf
 eddh
@@ -1674,6 +1728,10 @@ eSy
 esponenziale
 eseguibili
 eX
+ea
+ee
+evd
+ehJ
 Ve
 VM
 Vka
@@ -1696,6 +1754,8 @@ VW
 Vv
 Vige
 VHeC
+VA
+Vi
 BdD
 Bp
 Biiettiva
@@ -1712,4 +1772,5 @@ BU
 BX
 Bs
 BmmE
+BC
 äA
