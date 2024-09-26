@@ -87,5 +87,8 @@ $3^{log_3 7}=7$
 Siano $A,B,a\inℝ:A>0,B>0,a>0,a\neq1$
 $log_aA+log_aB=log_a(A\cdot B)$
 $log_aA-log_aB=log_a(\frac{A}{B})$ 
-$\alpha log_aA=log_aA^\alpha$
+$\alpha log_aA=log_aA^\alpha\qquad,\qquad \alpha\inℝ$
 
+## Come lo calcolo il logaritmo
+Qui possiamo usare la formula del cambio base:
+$log_ab=\frac{log_\alpha b}{log_\alpha a}$ di cui $\alpha>0,\alpha\neq1$
