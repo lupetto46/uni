@@ -95,6 +95,13 @@ $log_ab=\frac{log_\alpha b}{log_\alpha a}$ di cui $\alpha>0,\alpha\neq1$
 
 Riguardante il grafico
 ![[Pasted image 20240926191412.png]]
-Notiamo che:
-- $x_1 \geq x_2 \rightleftharpoons log_ax_1 \leq log_ax_2$ 
-- 
+Notiamo che siano $x_1,x_2 \in ℝ$ con $0<x_1<x_2$:
+- Se $a>0$ $log_ax_1 < log_ax_2$
+- Se $0<a<1$ $log_ax_1 > log_ax_2$ 
+
+## Equazioni logaritmiche
+Le equazioni logaritmiche hanno come forma normale:
+$log_af(x)=log_ag(x)$
+Dove $a>0\qquad a\neq1$
+Avendo definito le condizioni di esistenza otteniamo quindi
+$\cases{}$
