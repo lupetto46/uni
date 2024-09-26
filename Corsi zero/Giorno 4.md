@@ -134,11 +134,15 @@ $$
 I.E. Argomenti\\
 a(x)>1\\
 f(x)\leq g(x)
-\end{cases}\\\\
+\end{cases} \rightarrow Soluzione_1\\\\
 &2)\begin{cases}
 I.E. Argomenti\\
-0<a(x)<1\implies\cases{a>0\\ a(x)<1}\\
+0<a(x)<1\implies\cases{a(x)>0\\ a(x)<1}\\
 f(x)\geq g(x)
-\end{cases}
+\end{cases} \rightarrow Soluzione_2
 \end{align}
 $$
+E poi la soluzione sarà:
+$Soluzione = Soluzione_1\cup Soluzione_2$
+
+Nel caso in cui la disequazione sia $log_{a(x)}f(x)\leq log_{a(x)}g(x)$ è la stessa cosa ma il segno della disequazione alle fine dei sistemi è invertito
