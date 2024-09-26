@@ -51,4 +51,6 @@ $Sia\ a\inℝ,\qquad a\neq0$
 $a^{f(x)}=a^{g(x)}\rightleftharpoons f(x)=g(x)$
 Ma abbiamo adesso delle cose molto importanti da dire prima di arrivare al perché le forme normali delle disequazioni:
 
-Presa $y=a^x\qquad a>0\qquad a\neq1$
+Presa $y=a^x\qquad a>0\qquad a\neq1$ otteniamo un grafico
+![[untitled.jpg]]
+Nel caso in cui abbiamo $a>1$ e prendiamo due valori $x_1,x_2$:
