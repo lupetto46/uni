@@ -34,4 +34,8 @@ $B\neq 0\ allora\ \frac{A^n}{B^n}=(\frac{A}{B})^n$
 Avendo $A^\alpha$ con $A\in ℝ\qquad A\neq 0\qquad\alpha\in ℝ$  
 
 Nel caso in cui $\alpha = 0$ allora $A=1$
-Nel caso in cui $\alpha\inℕ$ e $\alpha=n$ allora $\underbrace{A\cdot}$
+Nel caso in cui $\alpha\inℕ$ e $\alpha=n$ allora $A^n=\underbrace{A\cdot A\cdot A \cdot...\cdot A}_{n-volte}$
+Nel caso in cui $\alpha<0$ allora $A^{-n}=\frac{1}{A^n}$
+Nel caso in cui $\alpha=\frac{m}{n}\qquad n\neq0$ allora $A^{\frac{m}{n}=\sqrt[n]{A^m}}$
+> [!warning] Attenzione
+> È vero che che $\sqrt{(x-1)^2}=(x-1)^{\frac{2}{2}}$ 
