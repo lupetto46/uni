@@ -22,4 +22,9 @@ E questi possono essere di 4 tipi:
 
 Poi i complementari prendono gli uguali dove l'intervallo non lo ha![[Pasted image 20240925164135.png]]
 ## Proprietà delle potenze
-$\poon$
+### Con stessa base
+$proddotto\rightleftharpoons somma\ :\ A^a\cdot B^b\cdot C^c=A^{a+b+c}$
+$rapporto \rightleftharpoons differenza\ :\ \frac{A^n}{A^m}=A^{n-m}$
+$potenza \rightleftharpoons prodotto\ :\ \{[(A^n)^m]^p\}^y=A^{n\cdot m\cdot p\cdot y}$
+### Con stesso esponente
+$A^n\cdot B^n \cdot C^n=(A\cdot B\cdot C)^n$
