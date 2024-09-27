@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
-                "mode": "preview",
+                "file": "Corsi zero/Trigonometria e Goniometria.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
+                "file": "Corsi zero/Trigonometria e Goniometria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corsi zero/Giorno 3.md",
+                "file": "Corsi zero/Trigonometria e Goniometria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corsi zero/Giorno 3.md"
+                "file": "Corsi zero/Trigonometria e Goniometria.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "3b846f5684666e57",
   "lastOpenFiles": [
+    "Corsi zero/Giorno 4.md",
+    "Corsi zero/Trigonometria e Goniometria.md",
+    "Corsi zero/Giorno 3.md",
     "Corsi zero/Giorno 2.md",
     "Corsi zero/Giorno 1.md",
-    "Corsi zero/Giorno 3.md",
-    "Corsi zero/Giorno 4.md",
     "Corsi zero/Immagini/untitled 2.jpg",
     "Corsi zero/Immagini/Pasted image 20240926191412.png",
     "Readme.md",
