@@ -377,3 +377,6 @@ Nel caso dei radianti non è necessario ricordarli tutti a memoria o calcolarli 
 | ---------- | --------------- | --------------- | --------------- | --------------- |
 | $0$        | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ |
 Poi il resto degli angoli più usati sono somme di questi
+## Trasformata di Fourier
+![[Onde quadre con armoniche.jpg]]
+Secondo la trasformata di Fourier
