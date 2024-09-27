@@ -369,3 +369,11 @@ $\theta=\frac{\theta\degree}{180}\pi$
 
 $radianti\rightarrow gradi$
 $\theta\degree=\frac{\theta}{\pi}\cdot 180\degree$
+
+### Metodo per calcolo radianti
+Nel caso dei radianti non è necessario ricordarli tutti a memoria o calcolarli sempre ma basta saperne 5:
+
+| $0\degree$ | $30\degree$     | $45\degree$     | $60\degree$     | $90\degree$     |
+| ---------- | --------------- | --------------- | --------------- | --------------- |
+| $0$        | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ |
+Poi il resto degli angoli più usati sono somme di questi
