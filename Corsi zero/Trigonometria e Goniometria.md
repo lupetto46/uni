@@ -439,4 +439,8 @@ Di cui:
 - $\overline{OA}=1$
 - $A(0,1)\quad B(1,0)\quad C(-1,0)\quad D(0, -1)$
 
-Assegnato un punto $P$ sulla circonferenza goniometrica si definisce un **raggio vettore** il segmento $\overline{OP}$ che congiunge l'origine con $P$
+
+Ci sono diversi enunciati riguardanti questa visualizzazione:
+- Assegnato un punto $P$ sulla circonferenza goniometrica si definisce un **raggio vettore** il segmento $\overline{OP}$ che congiunge l'origine con $P$
+- Convenzionalmente si dice che $P$ percorre la circonferenza goniometrica nel verso positivo se un osservatore posto in $P$ muovendosi lascia la circonferenza alla sua sinistra, ovvero per un punto di vista ortogonale al piano della circonferenza si muove in senso antiorario
+- L'angolo al centro definito da $A\widehat{O}P$ si assumerà positivo se il raggio vettore $\overline{OP}$ lo spazza nel verso positivo di percorrenza della circonferenza. Viceversa l'angolo si assumerà
