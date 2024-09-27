@@ -378,5 +378,6 @@ Nel caso dei radianti non è necessario ricordarli tutti a memoria o calcolarli 
 | $0$        | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ |
 Poi il resto degli angoli più usati sono somme di questi
 ## Trasformata di Fourier
+Secondo la trasformata di Fourier qualunque segnale può essere espresso come combinazione di **segnali elementali sinusoidali** di diversa ampiezza, frequenza e fase.
 ![[Onde quadre con armoniche.jpg]]
-Secondo la trasformata di Fourier
+Questi **segnali elementali sinusoidali** sono chiamati **armoniche**
