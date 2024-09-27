@@ -816,4 +816,8 @@ Da questo possiamo raggiungere che $sen\alpha=cos(\alpha+\varphi)$ di cui $\varp
 ## Relazione fondamentale della goniometria
 Questa relazione fondamentale è quella che ci permette di ottenere di ottenere il seno dal coseno e viceversa
 
-Ovvero: $\overline{PH}$
+Ovvero: $\overline{PH}^2 + \overline{OH}^2=\overline{OP}^2$ quindi $sen^2\alpha+cos^2\alpha=1$ ottenendo quindi:
+- $cos^2\alpha= 1 - sen^2\alpha => cos\alpha=\pm\sqrt{1-sen^2\alpha}$
+- $sen^2\alpha= 1 - cos^2\alpha => sen\alpha=\pm\sqrt{1-cos^2\alpha}$
+
+## Tangente
