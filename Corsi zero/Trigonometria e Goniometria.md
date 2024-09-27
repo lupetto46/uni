@@ -809,4 +809,11 @@ Notiamo quindi che seno o coseno di $\alpha+2\pi$ restituisce gli stessi valore 
 Di conseguenza si ottiene: $cos\alpha=cos(\alpha+k\cdot2\pi)$ dove $k=0,\pm1,\pm2,\pm3, ...$
 Stessa identica cosa con $sin\alpha=sen(\alpha+k\cdot2\pi)$
 
-Ma alla fine 
+### Comunque una sola funzione
+Ma alla fine in goniometria c'è solo una funzione in quanto il coseno è semplicemente il seno ma mandato poco più indietro.
+Da questo possiamo raggiungere che $sen\alpha=cos(\alpha+\varphi)$ di cui $\varphi$ è la fase ovvero la differenza angolare che hanno due funzioni rispetto a un punto di riferimento
+
+## Relazione fondamentale della goniometria
+Questa relazione fondamentale è quella che ci permette di ottenere di ottenere il seno dal coseno e viceversa
+
+Ovvero: $\overline{PH}$
