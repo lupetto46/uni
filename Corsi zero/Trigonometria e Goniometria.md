@@ -381,3 +381,8 @@ Poi il resto degli angoli più usati sono somme di questi
 Secondo la trasformata di Fourier qualunque segnale può essere espresso come combinazione di **segnali elementali sinusoidali** di diversa ampiezza, frequenza e fase.
 ![[Onde quadre con armoniche.jpg]]
 Questi **segnali elementali sinusoidali** sono chiamati **armoniche**
+
+## Circonferenza goniometrica
+Assegnato un sistema di riferimento cartesiano ortogonale, si definisce "circonferenza goniometrica" la circonferenza di raggio unitario **riferita** a quel sistema di riferimento.
+
+Dalla intersezione della circonferenza con gli assi del sistema nascono i seguenti punti
