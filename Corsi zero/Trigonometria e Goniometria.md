@@ -359,5 +359,13 @@ Questi gradi possono essere rappresentati in:
 
 ## La misura degli angoli in radianti
 
-Se accade che un angolo insiste su un arco $\overparen{AB}$  di circonferenza che ha la stessa lunghezza del raggio allora l'angolo sarà un radiante
+Se accade che un angolo insiste su un arco $\overparen{AB}$  di circonferenza che ha la stessa lunghezza del raggio allora l'angolo sarà un radiante.
+In questo caso l'angolo e l'arco sono la stessa cosa.
+Il radiante sta $2\pi$ volte dentro la circonferenza.
 
+### Convertire in gradi dai radianti e viceversa
+$gradi \rightarrow radianti$
+$\theta=\frac{\theta\degree}{180}\pi$
+
+$radianti\rightarrow gradi$
+$\theta\degree=\frac{\theta}{\pi}\cdot 180\degree$
