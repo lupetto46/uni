@@ -32,4 +32,5 @@ Ma cerchiamo di dimostrarlo:
 > 1. $m$ è dispari:
 >    $m^2$ se lo si calcola rimane dispari ($3^2=3\cdot3=9$)
 >    $2n^2$ invece se lo si calcola risulta un numero pari ($2\cdot3^2=2\cdot9=18$)
->    Ovviamente un numero dispari non può essere pari
+>    Ovviamente un numero dispari non può essere pari smentendo l'uguaglianza che si sta cercando di dimostrare
+> 2. $m$ è pari:
