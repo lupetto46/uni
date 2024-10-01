@@ -183,7 +183,12 @@ considerando che la relazione $xRy$ è $\leq$ si ottiene:
 $x\leq y\qquad x,y\inℝ$ (perché la relazione non è per ogni $x$ e $y$ in $ℝ$ ma è necessario che le due siano in $ℝ$)
 
 Prendiamo quindi le tre proprietà delle relazioni d'ordine:
-- $p_1=\quad x\leq x\quad \forall x \in ℝ$ che risulta corretta ($x$ sarà sempre uguale a $x$)
-- $p_2=\quad x\leq y\ \wedge\ y\leq$
+- $p_1=\quad x\leq x\quad \forall x \in ℝ$ 
+  Che risulta corretta ($x$ sarà sempre uguale a $x$)
+- $p_2=\quad x\leq y\ \wedge\ y\leq x\quad x=y\quad \forall x,y \in ℝ$ 
+  Se tutte e due le condizioni devono essere verificate allora le due possono solo essere uguali
+- $p_3=x\leq y\ \wedge\ y\leq z\longrightarrow x\leq z\quad \forall x\inℝ$
+  Se $x\leq y$ e $y\leq z$ allora $x\leq z$ messo in ordine l'ordine di grandezza è $x\leq y \leq z$
+
 
 #### Completo
