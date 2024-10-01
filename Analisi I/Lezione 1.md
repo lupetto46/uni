@@ -142,8 +142,11 @@ Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse p
 	- $(\cdot$) $x\cdot y=y\cdot x\ \forall x,y\in ℝ$
 
 È importante sapere anche che:
-- $\exists$ un'elemento neutro nella somma $x+0=x$
-- $\e$
+- $\exists$ un elemento neutro nella somma $x+0=x\ \forall x\inℝ$
+- $\exists$ un elemento neutro nel prodotto $x\cdot1=x\ \forall x\in ℝ$
+
+E che ogni elemento è simmetrizzabile (ha un operazione il cui risultato è l'elemento neutro):
+- $\forall x\in ℝ$ è simmetrico additivo $x+(-x)=0$
 #### Totalmente ordinato
 
 #### Completo
