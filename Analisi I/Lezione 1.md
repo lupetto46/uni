@@ -138,7 +138,12 @@ Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse p
 	- ($+$) $(x+y)+z=x+(z+y)\ \forall x,y,z\inℝ$
 	- ($\cdot$) $(x\cdot y)\cdot z=x\cdot(z\cdot y)\ \forall x,y,z\inℝ$
 - Proprietà commutativa:
-	- 
+	- ($+$) $x+y=y+x\ \forall x,y\in ℝ$
+	- $(\cdot$) $x\cdot y=y\cdot x\ \forall x,y\in ℝ$
+
+È importante sapere anche che:
+- $\exists$ un'elemento neutro nella somma $x+0=x$
+- $\e$
 #### Totalmente ordinato
 
 #### Completo
