@@ -32,4 +32,4 @@ Ma una volta capito tutto questo ci sono tre domande:
 ## Che tipologie di analisi ci sono in economia?
 Poi dobbiamo sapere che tipologia di analisi dobbiamo fare per poter fare delle decisioni
 
-### Analisi positivo
+### Analisi positiva
