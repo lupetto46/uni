@@ -146,7 +146,12 @@ Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse p
 - $\exists$ un elemento neutro nel prodotto $x\cdot1=x\ \forall x\in ℝ$
 
 E che ogni elemento è simmetrizzabile (ha un operazione il cui risultato è l'elemento neutro):
-- $\forall x\in ℝ$ è simmetrico additivo $x+(-x)=0$
+- $\forall x\in ℝ$ è simmetrico additivo $x+(-x)=0$ in questo caso l'elemento è il suo opposto
+- $\forall x\in ℝ-\{0\}$ è il simmetrico moltiplicativo $y^{-1}:x\cdot y^{-1}=1$ quindi $\frac{x}{y}=1$
+
+Ma come si accoppiano queste due operazioni:
+$x(y+z)=xy+xz =>$ Proprietà distributiva del prodotto rispetto alla somma
+Non esiste il contrario
 #### Totalmente ordinato
 
 #### Completo
