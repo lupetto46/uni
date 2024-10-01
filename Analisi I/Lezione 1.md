@@ -158,7 +158,15 @@ Non esiste il contrario
 #### Totalmente ordinato
 Qualcosa in matematica si ordina attraverso quelle che chiamiamo **relazioni d'ordine**.
 Queste **relazioni** possono essere di due tipi:
+Di equivalenza:
 $$
-di\ equivalenza\begin{case}
+di\ equivalenza\begin{align}
+\begin{cases}
+riflessiva &xRx\ &\forall x\inℝ\\
+simmetrica &xRy\longrightarrow yRx &\forall x,y\inℝ\\
+transitiva &xRy\ e\ xRz\longrightarrow xRz &\forall x,y,z\inℝ
+\end{cases}
+\end{align}
 $$
+
 #### Completo
