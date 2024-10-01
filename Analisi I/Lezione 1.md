@@ -6,6 +6,7 @@ Di cui:
 - $ℤ=\{0;\pm1;\pm2;\pm3;\pm4;...\}$
 - $ℚ=\{\frac{m}{n},m,n\inℤ,n\neq0\}$
 
+### Ma cosa è l'insieme $ℝ$ (l'insieme dei numeri complessi $ℂ$ per ora non ci si fa caso)?
 Seguendo la scuola pitagorica vediamo che avendo:
 ![Disegni a penna
 Disegni a penna
@@ -23,3 +24,12 @@ d^2&=2l^2\\
 $$
 
 Ma quindi significa che $\exists\frac{m}{n}\inℚ:(\frac{m}{n})^2=2$
+
+Ma cerchiamo di dimostrarlo:
+> [!note] Dimostrazione
+> $m^2=2n^2$
+> Prendiamo due casi:
+> 1. $m$ è dispari:
+>    $m^2$ se lo si calcola rimane dispari ($3^2=3\cdot3=9$)
+>    $2n^2$ invece se lo si calcola risulta un numero pari ($2\cdot3^2=2\cdot9=18$)
+>    Ovviamente un numero dispari non può essere pari
