@@ -168,5 +168,14 @@ transitiva &xRy\ e\ xRz\longrightarrow xRz &\forall x,y,z\inℝ
 \end{cases}
 \end{align}
 $$
+$$
+d'ordine\begin{align}
+\begin{cases}
+riflessiva &xRx &\forall x \in ℝ\\
+antisimmetrica &xRy\ e\ yRx\qquad x=y&\forall x,y\in ℝ\\
+transitiva &xRy\ e\ yRz \longrightarrow
+\end{cases}
+\end{align}
+$$
 
 #### Completo
