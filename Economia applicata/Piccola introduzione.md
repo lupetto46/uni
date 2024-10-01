@@ -20,8 +20,16 @@ L'avere risorse scarse e bisogni illimitati genera quindi la necessità di produ
 - **Imprenditorialità**: 
   Dover fare delle scelte per aumentare il proprio capitale
 
+## Che domande mi devo fare quando devo produrre beni o servizi?
 Ma una volta capito tutto questo ci sono tre domande:
-1. Cosa produrre?
-   Quali o quanti beni o serviz
-2. Come produrlo?
-3. Chi consuma il prodotto?
+1. ***Cosa produrre?***
+   **Quali** o **quanti** beni o servizi produrre
+2. ***Come produrlo?***
+   Quali risorse devono essere impiegate per la produzione
+3. ***Chi consuma il prodotto?***
+   Come e dove dover distribuire la produzione
+
+## Che tipologie di analisi ci sono in economia?
+Poi dobbiamo sapere che tipologia di analisi dobbiamo fare per poter fare delle decisioni
+
+### Analisi positivo
