@@ -131,7 +131,7 @@ Disegni a penna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN8AAAAwCAIAAAAei
 Si ottiene quindi la retta che:
 $ℝ$ **<u>campo</u> <u>totalmente ordinato</u>** e **<u>completo</u>**
 #### Campo:
-Innanzitutto si definiscono due addizioni dette **dirette**. 
+Innanzitutto si definiscono due operazioni dette **dirette**. 
 Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse proprietà:
 - Proprietà associativa:
 	- ($+$) $(x+y)+z=x+(z+y)\ \forall x,y,z\inℝ$

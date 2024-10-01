@@ -1630,6 +1630,7 @@ IiWyVfcmWsSRrg
 ITVq
 IyPj
 IkDOHnyJLtKINRZzIgRI
+Imprenditorialit
 sRGB
 sq
 sN
@@ -2448,6 +2449,11 @@ simmetrico
 sottrazioni
 scarse
 scelte
+senza
+soldi
+suoi
+spende
+servizi
 gAMA
 go
 gW
@@ -3211,6 +3217,7 @@ gWGC
 gXL
 godono
 grandezza
+genera
 pHYs
 pJ
 pn
@@ -3948,6 +3955,15 @@ pAqFOgHqDLyMhIfX
 pVi
 pfu
 peggio
+persona
+problemi
+produrre
+possibili
+produzione
+petrolio
+proprio
+produrlo
+positiva
 HBz
 HN
 HU
@@ -5567,6 +5583,7 @@ RCUA
 RIjANuVS
 RzPpGWdSUhJCIFbZsmULu
 RyM
+Risorse
 lL
 lk
 lkS
@@ -7732,6 +7749,8 @@ QMRSM
 Qfsj
 QCmShmoHZ
 Qualcosa
+Qualcuno
+Quali
 wo
 wx
 ww
@@ -9267,6 +9286,7 @@ MsWwrYqCggI
 MBcvXuzr
 MGDMZfCdgH
 MTAz
+Musk
 JHH
 Jx
 JIIQTTT
@@ -10980,6 +11000,7 @@ uWFKxNUSgKwfPnzIxk
 uzZgzalgEy
 umemWAkqKioq
 uDA
+umano
 Xx
 Xh
 Xr
@@ -13025,6 +13046,7 @@ rlDMgAEDeIUfL
 rVKrZ
 relazioni
 risorse
+rinunciare
 SL
 SZ
 SO
@@ -16474,6 +16496,12 @@ chiamiamo
 considerando
 corretta
 costretti
+chiedersi
+comprare
+costo
+capitale
+capito
+consuma
 av
 as
 aIT
@@ -17581,6 +17609,12 @@ additivo
 accoppiano
 anzi
 ancora
+andr
+acqua
+aumentato
+abilit
+aumentare
+analisi
 GM
 Gr
 GD
@@ -21399,6 +21433,7 @@ EIAEgVQGZmJiIWBV
 ERATbqnj
 Eigt
 ECPQylk
+Elon
 bfl
 bE
 bg
@@ -22425,6 +22460,8 @@ bJpRHfrlgMoQlJvgtW
 bKMXW
 bRpE
 bbVfnixcv
+bisogni
+beni
 Ys
 YV
 Yh
@@ -23971,6 +24008,10 @@ mibCMVQr
 mZqfFD
 moltiplicazioni
 moltiplicativo
+meno
+minore
+mentale
+macchinari
 xUu
 xeV
 xn
@@ -25354,6 +25395,7 @@ qxQVFekIBBpJVf
 qiRYuGDBny
 qEIlmz
 qZmZFZZqBObQa
+quanti
 ip
 iz
 iU
@@ -26127,6 +26169,11 @@ iRciPjDhw
 iYmJAQACuNDs
 iwYTAxr
 iRSKiaFubma
+illimitati
+imprese
+impegno
+istruzione
+impiegate
 Ot
 Ok
 OU
@@ -27878,6 +27925,8 @@ nvu
 nOXd
 nYVBrobnUD
 neutro
+necessit
+naturali
 Wp
 Wsv
 We
@@ -30626,6 +30675,7 @@ DAcdvqGQAAAspSURBVHhe
 DoV
 DaxxBd
 DJfoPYhbT
+Dover
 yJJJr
 yyy
 ye
@@ -33084,6 +33134,8 @@ ttFedUNXw
 tHRkUyVYP
 tSpXKEY
 totalmente
+target
+tipologie
 CG
 Cf
 CDDDDD
@@ -33840,6 +33892,8 @@ CnQXLT
 Campo
 Che
 Completo
+Capitale
+Chi
 Nf
 NR
 Non
@@ -36853,6 +36907,8 @@ fuJBNznbFjx
 fvubp
 fOITviCnWgvXfjIQKEQBSQDpIH
 fOoDBp
+fattori
+fisico
 Au
 AV
 AX
@@ -37593,6 +37649,7 @@ APuDnqRyhdKqVSsIC
 Azb
 ABC
 ACl
+Analisi
 LG
 La
 Linguaggio
@@ -38404,6 +38461,7 @@ LIOWIqlSpIiugj
 LGDTAMDgzlz
 LLly
 LOKevXqkfkrGLMQBadNm
+Lavoro
 dU
 df
 dI
@@ -39760,6 +39818,11 @@ dette
 dirette
 distributiva
 divisioni
+dover
+definizione
+devo
+distribuire
+decisioni
 eA
 eWf
 eddh
@@ -41212,6 +41275,8 @@ eHMRqzWnYpYODAgTNmzMBsHaxevdrS
 ecBb
 equivalenza
 economia
+edifici
+esperienza
 Ve
 VM
 Vka
@@ -41863,6 +41928,7 @@ VzJgx
 VQP
 VYG
 VwOjP
+Viene
 BdD
 Bp
 Biiettiva
