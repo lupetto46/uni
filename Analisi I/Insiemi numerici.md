@@ -1,4 +1,3 @@
-## Insiemi numerici
 Abbiamo vari segni che rappresentano diversi insiemi di numeri molto importanti:
 $ℕ\subset ℤ\subset ℚ\subset ℝ\subset ℂ$
 Di cui:
@@ -189,6 +188,5 @@ Prendiamo quindi le tre proprietà delle relazioni d'ordine:
   Se tutte e due le condizioni devono essere verificate allora le due possono solo essere uguali
 - $p_3=x\leq y\ \wedge\ y\leq z\longrightarrow x\leq z\quad \forall x\inℝ$
   Se $x\leq y$ e $y\leq z$ allora $x\leq z$ messo in ordine l'ordine di grandezza è $x\leq y \leq z$
-
 
 #### Completo
