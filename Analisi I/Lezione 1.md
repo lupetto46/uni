@@ -34,3 +34,6 @@ Ma cerchiamo di dimostrarlo:
 >    $2n^2$ invece se lo si calcola risulta un numero pari ($2\cdot3^2=2\cdot9=18$)
 >    Ovviamente un numero dispari non può essere pari smentendo l'uguaglianza che si sta cercando di dimostrare
 > 2. $m$ è pari:
+>    $m^2$ fattorizzato sarà sempre il
+
+I pitagorici pro
