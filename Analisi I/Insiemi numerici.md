@@ -35,8 +35,8 @@ Ma cerchiamo di dimostrarlo:
 >    Ovviamente un numero dispari non può essere pari smentendo l'uguaglianza che si sta cercando di dimostrare
 > 1. $m$ è pari:
 >    - $m^2$ fattorizzato sarà sempre il risultato di un prodotto tra $2$ con **esponente pari** e qualcosa. 
->    > [!example] Esempio 
->    > $4^2=16=2^4$
+>     > [!example] Esempio 
+>     > $4^2=16=2^4$
 >    - $2n^2$ fattorizzato sarà invece il risultato di un prodotto tra $2$ con **esponente dispari** e un altro numero. 
 >      > [!example] Esempio
 >      > $2\cdot4^2=2\cdot16=32=2^5$
