@@ -9,3 +9,19 @@ Il fatto che le risorse siano scarse viene dato praticamente come definizione pe
 L'avere risorse scarse e bisogni illimitati genera quindi la necessità di produrre con meno risorse possibili
 
 ## Che fattori di produzione ci sono?
+- **Risorse naturali**: 
+  petrolio, acqua, ecc...
+- **Lavoro**: 
+  impegno fisico e mentale che una persona spende per produrre beni e servizi
+- **Capitale fisico**: 
+  cose come macchinari o edifici usati per produrre beni o servizi
+- **Capitale umano**: 
+  quello che una persona è in grado di fare. Viene aumentato da: istruzione, esperienza e abilità
+- **Imprenditorialità**: 
+  Dover fare delle scelte per aumentare il proprio capitale
+
+Ma una volta capito tutto questo ci sono tre domande:
+1. Cosa produrre?
+   Quali o quanti beni o serviz
+2. Come produrlo?
+3. Chi consuma il prodotto?
