@@ -152,6 +152,9 @@ E che ogni elemento è simmetrizzabile (ha un operazione il cui risultato è l'e
 Ma come si accoppiano queste due operazioni:
 $x(y+z)=xy+xz =>$ Proprietà distributiva del prodotto rispetto alla somma
 Non esiste il contrario
+
+> [!question] Perché le sottrazioni e divisioni non sono **operazioni dirette**?
+> $x-y=x+(-y)$
 #### Totalmente ordinato
 
 #### Completo
