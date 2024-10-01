@@ -173,9 +173,11 @@ d'ordine\begin{align}
 \begin{cases}
 riflessiva &xRx &\forall x \in ℝ\\
 antisimmetrica &xRy\ e\ yRx\qquad x=y&\forall x,y\in ℝ\\
-transitiva &xRy\ e\ yRz \longrightarrow
+transitiva &xRy\ e\ yRz \longrightarrow xRz &\forall x,y,z\in ℝ
 \end{cases}
 \end{align}
 $$
+
+Come trovare queste relazioni d'ordine in $ℝ$?:
 
 #### Completo
