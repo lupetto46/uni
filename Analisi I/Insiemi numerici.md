@@ -159,13 +159,16 @@ Qualcosa in matematica si ordina attraverso quelle che chiamiamo **relazioni d'o
 Queste **relazioni** possono essere di due tipi:
 Di equivalenza:
 $$
-&di\ equivalenza\begin{align}
+di\ equivalenza\begin{align}
 \begin{cases}
 riflessiva &xRx\ &\forall x\inℝ\\
 simmetrica &xRy\longrightarrow yRx &\forall x,y\inℝ\\
 transitiva &xRy\ e\ xRz\longrightarrow xRz &\forall x,y,z\inℝ
-\end{cases}\\
-&d'ordine
+\end{cases}
+\end{align}
+$$
+$$
+d'ordine\begin{align}
 \begin{cases}
 riflessiva &xRx &\forall x \in ℝ\\
 antisimmetrica &xRy\ e\ yRx\qquad x=y&\forall x,y\in ℝ\\
