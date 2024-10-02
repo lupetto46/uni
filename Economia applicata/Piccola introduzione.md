@@ -80,6 +80,3 @@ Poi verrà espresso in forma di formule matematiche
 
 ## Molta presenza di grafici
 Praticamente tutto in economia viene infine rappresentato attraverso grafici.
-```mermaid
-
-```

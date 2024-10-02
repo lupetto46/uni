@@ -153,7 +153,7 @@ $x(y+z)=xy+xz =>$ Proprietà distributiva del prodotto rispetto alla somma
 Non esiste il contrario
 
 > [!question] Perché le sottrazioni e divisioni non sono **operazioni dirette**?
-> $$sono\ chiamate\ operezioni\ indirette\begin{cases}x-y=x+(-y)\\ \frac{x}{y}=x\cdot y^{-1}\end{cases}$$
+> $sono\ chiamate\ operezioni\ indirette\begin{cases}x-y=x+(-y)\\ \frac{x}{y}=x\cdot y^{-1}\end{cases}$
 #### Totalmente ordinato
 Qualcosa in matematica si ordina attraverso quelle che chiamiamo **relazioni d'ordine**.
 Queste **relazioni** possono essere di due tipi:
@@ -166,8 +166,6 @@ simmetrica &xRy\longrightarrow yRx &\forall x,y\inℝ\\
 transitiva &xRy\ e\ xRz\longrightarrow xRz &\forall x,y,z\inℝ
 \end{cases}
 \end{align}
-$$
-$$
 d'ordine\begin{align}
 \begin{cases}
 riflessiva &xRx &\forall x \in ℝ\\
