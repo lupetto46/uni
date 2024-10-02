@@ -82,14 +82,17 @@ Poi verrà espresso in forma di formule matematiche
 Praticamente tutto in economia viene infine rappresentato attraverso grafici.
 ```mermaid
 ---
-config:
-	themeVariables:
-		xyChart:
-			lineColor: "#ff0000"
+config: 
+    themeVariables:
+        backgroundColor: "#00ff00"
+        yAxisLineColor: "#ff0000"
+        xAxisLineColor: "#ff0000"
+        strokeWidth: 2
 ---
 xychart-beta
     title "Sales Revenue"
     x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
     y-axis "Revenue (in $)" 4000 --> 11000
     line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
 ```
