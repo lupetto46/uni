@@ -66,6 +66,17 @@ Poi verrà espresso in forma di formule matematiche
 	- Riconoscere il limite del modello che si sta utilizzando in un certo momento
 	- Dipendentemente dalla situazione in cui mi trovo il modello e il target dell'attenzione cambia
 - Approccio ceteris paribus (parità di altre condizioni):
-	- Si
-- Ragionamento al margine
-- Ipotesi che gli individui reagiscono agli incentivi
+	- Cercare di se un cambiamento permette di guadagnare o meno mettendo conto anche le altre condizioni (*Se faccio un cambiamento che dovrebbe farmi guadagnare. Ma scoppia la terza guerra mondiale...*)
+- Ragionamento al margine:
+	- Cercare di ragionare quando conviene fare qualcosa e per quanto tempo conviene farlo per mantenere il guadagno al meglio possibile 
+- Ipotesi che gli individui reagiscono agli incentivi:
+	- Si da ovviamente per scontato che le persone reagiscano agli incentivi come sconti ecc..
+
+## Microeconomia e Macroeconomia
+- Microeconomia: L'economia che si trova all'interno di cose come:
+	- Nuclei famigliari, imprese, ecc..
+- Macroeconomia: L'economia che si trova all'interno di intere nazioni *in senso lato* ad esempio nazioni all'interno dell'unione europea o l'unione europea stessa
+
+
+## Molta presenza di grafici
+P
