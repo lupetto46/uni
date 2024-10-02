@@ -48,7 +48,7 @@ Ovviamente per fare un'analisi positiva è necessario farsi delle domande del ti
 - Come reagiscono i consumatori a una riduzione dell'imposta sul reddito?
 
 ## Modello economico
-Un modello economico è un modo per rappresentare in modo semplificato una determinata situazione economica
+Un modello economico è una rappresentazione stilizzata di una determinata situazione economica:
 ```mermaid
 graph TD;
 Realtà-->Sistema;
@@ -57,3 +57,15 @@ Sistema-->B(Sperimentare sul modello);
 B-->D(Modello fisico);
 B-->E(Modello matematico)
 ```
+
+Questo cambia dipendentemente dal posto e il tempo della situazione rappresentata dal modello
+Poi verrà espresso in forma di formule matematiche
+
+## Ma come deve pensare un economista?
+- Fare ipotesi semplificatrici:
+	- Riconoscere il limite del modello che si sta utilizzando in un certo momento
+	- Dipendentemente dalla situazione in cui mi trovo il modello e il target dell'attenzione cambia
+- Approccio ceteris paribus (parità di altre condizioni):
+	- Si
+- Ragionamento al margine
+- Ipotesi che gli individui reagiscono agli incentivi
