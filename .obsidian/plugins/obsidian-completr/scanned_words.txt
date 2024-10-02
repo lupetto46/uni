@@ -1631,6 +1631,7 @@ ITVq
 IyPj
 IkDOHnyJLtKINRZzIgRI
 Imprenditorialit
+Ivv
 sRGB
 sq
 sN
@@ -3218,6 +3219,7 @@ gXL
 godono
 grandezza
 genera
+gOo
 pHYs
 pJ
 pn
@@ -3964,6 +3966,7 @@ petrolio
 proprio
 produrlo
 positiva
+pqo
 HBz
 HN
 HU
@@ -5584,6 +5587,7 @@ RIjANuVS
 RzPpGWdSUhJCIFbZsmULu
 RyM
 Risorse
+RQE
 lL
 lk
 lkS
@@ -6269,6 +6273,7 @@ lsNhgMpaWl
 lgXkdR
 lYLz
 lHcuoUsTE
+lkb
 oooEDD
 oo
 osv
@@ -6986,6 +6991,8 @@ operazione
 operazioni
 ordina
 ordine
+op
+opH
 QR
 QIYKI
 QG
@@ -7751,6 +7758,10 @@ QCmShmoHZ
 Qualcosa
 Qualcuno
 Quali
+Qgk
+QdS
+QEW
+QEfh
 wo
 wx
 ww
@@ -9287,6 +9298,12 @@ MBcvXuzr
 MGDMZfCdgH
 MTAz
 Musk
+MKY
+MGF
+MqS
+Maq
+MwT
+MpRv
 JHH
 Jx
 JIIQTTT
@@ -10044,6 +10061,7 @@ JCQkYUFRIwu
 JNzQ
 JiYqpVq
 JLKUePHsVEZM
+JMt
 ue
 uE
 uT
@@ -11001,6 +11019,7 @@ uzZgzalgEy
 umemWAkqKioq
 uDA
 umano
+umN
 Xx
 Xh
 Xr
@@ -11632,6 +11651,7 @@ XKwrxRaMM
 XpyGa
 XQKR
 XxdVDkIdf
+XZH
 TQ
 Td
 TR
@@ -12327,6 +12347,7 @@ TIEavVKvpGiqrViVUkjSYUiZHdtWtXeno
 ThAXKjnz
 Tlw
 Totalmente
+TTvd
 rJ
 rU
 rTkb
@@ -13047,6 +13068,7 @@ rVKrZ
 relazioni
 risorse
 rinunciare
+rrp
 SL
 SZ
 SO
@@ -13740,6 +13762,7 @@ SWQTlpaGvKckJCQY
 SQkJPj
 SbfiZXTr
 SMkPIty
+SUT
 Zy
 Zar
 ZN
@@ -14482,6 +14505,7 @@ Zdv
 ZFsCXbt
 ZAAxIdNTJkyhW
 ZEhsFxWFhYXBs
+ZRQ
 FU
 Fx
 Fao
@@ -15289,6 +15313,7 @@ FOjhmzBiJGefdu
 Fev
 FPakri
 FRkaYh
+FEWc
 cS
 cL
 cNt
@@ -16502,6 +16527,8 @@ costo
 capitale
 capito
 consuma
+cQti
+cpwo
 av
 as
 aIT
@@ -17615,6 +17642,7 @@ aumentato
 abilit
 aumentare
 analisi
+aFW
 GM
 Gr
 GD
@@ -18386,6 +18414,9 @@ GAUdHHuVkZ
 GarFyYB
 GZkZCA
 GxKDO
+GGE
+Ga
+GaE
 hf
 hN
 hI
@@ -19115,6 +19146,7 @@ hbLS
 hMEb
 hoSEQEB
 hnBVvXr
+hYN
 Kx
 Kl
 KS
@@ -19942,6 +19974,7 @@ KyuIKBVhbW
 KTEyk
 KuRupHJsAVfz
 KlAvbedBXIR
+KL
 ki
 keY
 kP
@@ -20632,6 +20665,7 @@ kqLtRKIDc
 kSkeos
 kAip
 krAZK
+ku
 EZ
 Ef
 Er
@@ -21434,6 +21468,7 @@ ERATbqnj
 Eigt
 ECPQylk
 Elon
+Eai
 bfl
 bE
 bg
@@ -22462,6 +22497,7 @@ bRpE
 bbVfnixcv
 bisogni
 beni
+bNs
 Ys
 YV
 Yh
@@ -23247,6 +23283,8 @@ YRzKMyh
 YNIldjWDOi
 YNg
 YnBwMLv
+YKwq
+YC
 ml
 mlBQ
 mBN
@@ -24012,6 +24050,8 @@ meno
 minore
 mentale
 macchinari
+mya
+mzMi
 xUu
 xeV
 xn
@@ -24675,6 +24715,9 @@ xSr
 xRFIHaYtKTWxNevX
 xtbW
 xUBhIJbiENZJ
+xcZ
+xBf
+xLTi
 qN
 qX
 qw
@@ -25396,6 +25439,7 @@ qiRYuGDBny
 qEIlmz
 qZmZFZZqBObQa
 quanti
+qR
 ip
 iz
 iU
@@ -26174,6 +26218,8 @@ imprese
 impegno
 istruzione
 impiegate
+iRj
+iww
 Ot
 Ok
 OU
@@ -28625,6 +28671,7 @@ WLJkCVaJjIxkWwGPHj
 WTlypXogfj
 WJYWJjyeygY
 WgG
+WRCo
 zZ
 zG
 zu
@@ -29256,6 +29303,7 @@ zudzR
 zWdn
 zYsHjx
 zLagAoqKikDvt
+zjw
 jx
 jY
 jV
@@ -30676,6 +30724,7 @@ DoV
 DaxxBd
 DJfoPYhbT
 Dover
+DBy
 yJJJr
 yyy
 ye
@@ -32212,6 +32261,7 @@ vuZc
 vjw
 vXrm
 verificate
+vs
 tA
 te
 td
@@ -33894,6 +33944,8 @@ Che
 Completo
 Capitale
 Chi
+Cqr
+CHb
 Nf
 NR
 Non
@@ -35615,6 +35667,8 @@ UWCwU
 UBMsg
 UEBvAly
 Ugj
+UqV
+UpVK
 fN
 feun
 fs
@@ -41277,6 +41331,7 @@ equivalenza
 economia
 edifici
 esperienza
+eag
 Ve
 VM
 Vka
@@ -41929,6 +41984,7 @@ VQP
 VYG
 VwOjP
 Viene
+VhC
 BdD
 Bp
 Biiettiva
@@ -42647,4 +42703,5 @@ BRZGcnIxBafny
 Blov
 Bpwj
 BQk
+BvS
 äA

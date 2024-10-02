@@ -31,5 +31,11 @@ Ma una volta capito tutto questo ci sono tre domande:
 
 ## Che tipologie di analisi ci sono in economia?
 Poi dobbiamo sapere che tipologia di analisi dobbiamo fare per poter fare delle decisioni
-
-### Analisi positiva
+Ci sono due tipi di analisi che possiamo fare:
+- **Analisi positiva** (quella su cui ci concentreremo noi):
+  Non interessa sapere se una cosa è giusta l'interesse è solo sapere se produce
+  Serve più per capire quali sono i nessi tra azione e produzione
+- **Analisi normativa**:
+  Con questa analisi ho un obbiettivo e trovo un modo economico per raggiungerlo
+  > [!example] esempio
+  > Voglio fare fumare meno le persone quindi alzo le

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I/Insiemi numerici.md",
+                "file": "Economia applicata/Piccola introduzione.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I/Insiemi numerici.md",
-                "mode": "preview",
+                "file": "Economia applicata/Piccola introduzione.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi I/Insiemi numerici.md",
+                "file": "Economia applicata/Piccola introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi I/Insiemi numerici.md",
+                "file": "Economia applicata/Piccola introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi I/Insiemi numerici.md"
+                "file": "Economia applicata/Piccola introduzione.md"
               }
             }
           },
@@ -174,16 +174,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f0a42fa4631730d",
+  "active": "3b846f5684666e57",
   "lastOpenFiles": [
-    "Economia applicata/Piccola introduzione.md",
     "Analisi I/Insiemi numerici.md",
+    "Economia applicata/Piccola introduzione.md",
+    "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
     "Corsi zero/Giorno 4.md",
     "Corsi zero/Trigonometria e Goniometria.md",
     "Economia applicata/Untitled",
     "Economia applicata",
     "Analisi I",
-    "Onde quadre con armoniche.jpg",
     "Corsi zero/Immagini/Pasted image 20240927200134.png",
     "Corsi zero/Giorno 3.md",
     "Corsi zero/Giorno 2.md",
