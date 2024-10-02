@@ -79,4 +79,4 @@ Poi verrà espresso in forma di formule matematiche
 
 
 ## Molta presenza di grafici
-P
+Praticamente tutto in economia viene infine rappresentato attraverso grafici.
