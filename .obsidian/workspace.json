@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia applicata/Piccola introduzione.md",
-                "mode": "source",
+                "file": "Analisi I/Insiemi numerici.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia applicata/Piccola introduzione.md",
+                "file": "Analisi I/Insiemi numerici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia applicata/Piccola introduzione.md",
+                "file": "Analisi I/Insiemi numerici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia applicata/Piccola introduzione.md"
+                "file": "Analisi I/Insiemi numerici.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "3b846f5684666e57",
   "lastOpenFiles": [
-    "Analisi I/Insiemi numerici.md",
     "Economia applicata/Piccola introduzione.md",
+    "Analisi I/Insiemi numerici.md",
     "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
     "Corsi zero/Giorno 4.md",
     "Corsi zero/Trigonometria e Goniometria.md",
