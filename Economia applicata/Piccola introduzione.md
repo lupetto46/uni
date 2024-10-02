@@ -33,9 +33,19 @@ Ma una volta capito tutto questo ci sono tre domande:
 Poi dobbiamo sapere che tipologia di analisi dobbiamo fare per poter fare delle decisioni
 Ci sono due tipi di analisi che possiamo fare:
 - **Analisi positiva** (quella su cui ci concentreremo noi):
-  Non interessa sapere se una cosa è giusta l'interesse è solo sapere se produce
-  Serve più per capire quali sono i nessi tra azione e produzione
+	  Non interessa sapere se una cosa è giusta l'interesse è solo sapere se produce
+	  Serve più per capire quali sono i nessi tra azione e produzione
 - **Analisi normativa**:
-  Con questa analisi ho un obbiettivo e trovo un modo economico per raggiungerlo
-  > [!example] esempio
-  > Voglio fare fumare meno le persone quindi alzo le
+	  Con questa analisi ho un obbiettivo e trovo un modo economico per raggiungerlo  
+> [!example] esempio
+> Voglio fare fumare meno le persone quindi alzo le tasse sulle sigarette
+
+#### Questioni positive
+Ovviamente per fare un'analisi positiva è necessario farsi delle domande del tipo:
+- Se il governo aumenta il salario minimo che succede?
+- Quando due fornitori si fondono il prezzo cambia
+- Qual'è l'influenza che l'istruzione universitaria da sull'individuo?
+- Come reagiscono i consumatori a una riduzione dell'imposta sul reddito?
+
+## Modello economico
+Un modello economico è un modo per rappresentare in modo semplificato una te
