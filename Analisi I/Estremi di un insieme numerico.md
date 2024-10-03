@@ -47,11 +47,16 @@ massimo: $x_M \in A$ se $x_M\geq a\forall a\in A\qquad x_M=maxA$
 > Sia $A\neq\emptyset\qquad A\subsetℝ$
 > Tesi: **Se** $A$ ammette minimo $x_m=minA$  è unico
 > > [!attention] attenzione
-> > Non avendo specificato nella "definizione" di $A$ che $A$ è limitato inferiormente è necessario aggiungere il "se" in quanto stiamo prendendo solo il caso in cui questo il minimo, esiste quindi quando è limitato inferiormente.
+> > Non avendo specificato nella "definizione" di $A$ che $A$ è limitato inferiormente è necessario aggiungere il "*se*" in quanto stiamo prendendo solo il caso in cui questo il minimo, esiste quindi quando è limitato inferiormente.
 > 
 > Supponiamo per assurdo quindi che $\exists x'_m=x_m=minA$
 > Otteniamo quindi, *seguendo la formula*, che:
 > - $x_m\leq a\forall a\in A$
 > - $x'_m\leq a\forall a\in A$
 > 
-> Allora otteniamo tramite la prima che $$
+> Allora otteniamo tramite la prima che $x_m\leq x'_m$ essendo $x_m$ minore di ogni valore in $A$ *compreso $x'_m$*
+> Ma otteniamo il contrario con la relazione sotto quindi $x'_m\leq x_m$
+> 
+> Ma allora: $\cases{x'_m\leq x_m\\x_m\leq x'_m}\quad$ per esistere $x_m=x'_m$ confermando che *di minimo ce n'è solo uno*
+
+
