@@ -29,7 +29,13 @@ Il modello deve contenere all'interno varie cose:
 #### Equazioni
 Ci sono vari tipi di equazioni:
 - Di definizione:
-  Un esempio è proprio l'equazione del profitto che banalissimamente  è:
+  - Un esempio è proprio l'equazione del profitto che banalissimamente  è:
   $\pi=R-C$ di cui $\pi$ è il profitto $R$ sono i ricavi e $C$ sono i costi
   Ovviamente il profitto che si ottiene è proprio il ricavo meno i costi che ho sostenuto per creare il prodotto
-- 
+- Di comportamento:
+  - $I=f(\pi)$ dove $I$ è l'investimento che è ovviamente uguale a una funzione che ha come variabile il profitto che ottengo da esso
+  - $Q=f(L,K)$ in cui $Q$  è la quantità prodotta che sarà il risultato di una funzione che prende come argomenti il lavoro $L$ e il capitale $K$ ovvero i due **fattori di produzione**
+- Condizioni di equilibrio:
+	- $Q_d=Q_o$ di cui $Q_d$ è la quantità di *domanda* e $Q_o$ è la quantità di offerta
+
+Ma una domanda che ci permette di utilizzarle é proprio "**perché un prodotto un certo prezzo?**"
