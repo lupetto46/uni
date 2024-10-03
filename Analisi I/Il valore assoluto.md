@@ -15,4 +15,8 @@ $|argomento|=\cases{argomento\ se\ argomento\geq0\\-argomento\ se\ argomento <0}
 Il valora assoluto ha delle proprietà:
 $\forall a,b\inℝ$
 1. $|a| \geq0\qquad |-a|=a\qquad a\leq|a|$
-2. $|a|$
+2. $|a|=0 \Longleftrightarrow a=0$
+3. $|a|^2=a^2$
+4. $|a\cdot b|= |a|\cdot|b|$
+5. $|a+b|\leq|a|+|b|$
+

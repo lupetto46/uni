@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I/Il valore assoluto.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I/Il valore assoluto.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi I/Il valore assoluto.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi I/Il valore assoluto.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi I/Il valore assoluto.md"
+                "file": "Analisi I/Estremi di un insieme numerico.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "8f0a42fa4631730d",
   "lastOpenFiles": [
-    "Analisi I/Insiemi numerici.md",
     "Analisi I/Il valore assoluto.md",
+    "Analisi I/Estremi di un insieme numerico.md",
+    "Analisi I/Insiemi numerici.md",
     "Economia applicata/Piccola introduzione.md",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
