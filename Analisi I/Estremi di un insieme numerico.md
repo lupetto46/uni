@@ -42,5 +42,11 @@ massimo: $x_M \in A$ se $x_M\geq a\forall a\in A\qquad x_M=maxA$
 > - La sua unicità
 > 
 > Adesso cerchiamo di dimostrare l'unicità del minimo di un insieme in quanto sappiamo che avendo un intervallo limitato il minimo esiste
+> Supponiamo per assurdo che esista più di un minimo dell'insieme
 > $H_p$ (ipotesi)
-> Supponiamo per assurdo che esista più di un minimo
+> Sia $A\neq\emptyset\qquad A\subsetℝ$
+> Tesi: **Se** $A$ ammette minimo $x_m=minA$  è unico
+> > [!attention] attenzione
+> > Non avendo specificato nella "definizione" di $A$ che $A$ è limitato inferiormente è necessario aggiungere il "se" in quanto stiamo prendendo solo il caso in cui questo il minimo, esiste quindi quando è limitato inferiormente.
+> 
+> Supponiamo per assurdo quindi che $\exists x$
