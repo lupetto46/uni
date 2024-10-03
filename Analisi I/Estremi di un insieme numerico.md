@@ -58,5 +58,3 @@ massimo: $x_M \in A$ se $x_M\geq a\forall a\in A\qquad x_M=maxA$
 > Ma otteniamo il contrario con la relazione sotto quindi $x'_m\leq x_m$
 > 
 > Ma allora: $\cases{x'_m\leq x_m\\x_m\leq x'_m}\quad$ per esistere $x_m=x'_m$ confermando che *di minimo ce n'è solo uno*
-
-
