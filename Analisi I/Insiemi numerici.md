@@ -196,4 +196,4 @@ Questo elemento si chiama elemento di separazione:
 $A,B\inℝ\qquad A,B\subseteqℝ$ si dicono separati se:
 avendo $a\leq b\qquad\forall a\in A\qquad\forall b\in B$ e $\exists c\in ℝ: a\leq c\leq b \forall a,b\in ℝ$
 
-Il tutto sta a significare quindi che due elementi $a$ e $b$ si dicono separati nel caso in cu
+Il tutto sta a significare quindi che due elementi $a$ e $b$ si dicono separati nel caso in cui esiste un elemento $c$ detto elemento di separazione
