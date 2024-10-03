@@ -38,4 +38,18 @@ Ci sono vari tipi di equazioni:
 - Condizioni di equilibrio:
 	- $Q_d=Q_o$ di cui $Q_d$ è la quantità di *domanda* e $Q_o$ è la quantità di offerta
 
-Ma una domanda che ci permette di utilizzarle é proprio "**perché un prodotto un certo prezzo?**"
+
+#### perché un prodotto ha un certo prezzo?
+Questa é una domanda che ci si può fare che ci permette di mettere in funzione le equazioni elencate prima
+
+Il prezzo è infatti dato dalla **condizione di equilibrio** data dalla quantità di prodotti domandata $Q_d$ a un certo prezzo e la quantità offerta $Q_o$ a un certo prezzo
+
+Ma quali sono le equazioni di questi due valori?
+
+Questo si ottiene attraverso un'analisi che non ci è ancora stata spiegata ma facciamo finta che in un ipotetico mercato le equazioni della domanda e dell'offerta siano:
+- Domanda:
+	- $P=2+3Q_o$
+- Offerta:
+	- $P=10-Q_d$
+
+Si cerca quindi la condizione di equilibrio che indica che $Q_o=Q_d$ in quanto il produttore vuole produrre abbastanza da vendere tutto ciò che ha prodotto senza lasciare nessuno 
