@@ -34,4 +34,13 @@ $A$ è limitato chiuso se $\exists h,k\inℝ:h\leq a\leq k \forall a\in A$
 
 ## Minimo e massimo di un insieme
 
-minimo: $x_m\in A$
+minimo: $x_m\in A\ se\ x_m\leq a \forall a \in A\qquad x_m=min A$
+massimo: $x_M \in A$ se $x_M\geq a\forall a\in A\qquad x_M=maxA$
+> [!info] Dimostrazione
+> Quando si dimostra qualcosa ci sono due cose che si possono dimostrare:
+> - L'esistenza di qualcosa
+> - La sua unicità
+> 
+> Adesso cerchiamo di dimostrare l'unicità del minimo di un insieme in quanto sappiamo che avendo un intervallo limitato il minimo esiste
+> $H_p$ (ipotesi)
+> Supponiamo per assurdo che esista più di un minimo
