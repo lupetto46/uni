@@ -49,4 +49,9 @@ massimo: $x_M \in A$ se $x_M\geq a\forall a\in A\qquad x_M=maxA$
 > > [!attention] attenzione
 > > Non avendo specificato nella "definizione" di $A$ che $A$ è limitato inferiormente è necessario aggiungere il "se" in quanto stiamo prendendo solo il caso in cui questo il minimo, esiste quindi quando è limitato inferiormente.
 > 
-> Supponiamo per assurdo quindi che $\exists x$
+> Supponiamo per assurdo quindi che $\exists x'_m=x_m=minA$
+> Otteniamo quindi, *seguendo la formula*, che:
+> - $x_m\leq a\forall a\in A$
+> - $x'_m\leq a\forall a\in A$
+> 
+> Allora otteniamo tramite la prima che $$
