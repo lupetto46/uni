@@ -233,6 +233,14 @@ Questi possono essere di 3 tipi:
 	Disegni a penna
 	Disegni a penna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN0AAAATCAIAAACbRJ+JAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQMSURBVGhD7ZfJL2VBFIefWYQ2j4kpLWaJsGFlZ2VHYsHKViT+AAtD/A1YkcizsJCQWEgs7MQGC2KKuU1tbPOsv3dPubn9nu6m2+Mu6lvcd04N71bV+dWpuj5PT08OjcZm+KpfjcZOaF1q7IjWpcaOaF1q7MgnfPc8Pj52dXWtra35+PikpaXl5OSUlZWpOo3G4BN0WV1d3d/frxyDysrKnp6e0NBQ5WvsREdHx8XFxerqanp6enJyMkkkISFB1XmNj9al0+msra1VjoWmpqa2tjbl2IPr6+vT01PlOBw/DHZ3d5XPHcjXdQsKDg4W1wrnwPHxMYbn8ubm5h4cHIjNiSFGbGzs7OxsZGTkycnJ/Pw8r7bWCgEBAXl5eUlJSfHx8TR48b3vy9HRUWNjY29vr/INGOTw8HBpaanyvcO76fLs7GxnZ+f8/Pzu7o7t9d3g6uqK0E5MTFBOG07wlZWVw8ND7KKiosnJSaOri5KSkpGREQzaE36eNzc3uAzv4eEBgzBkZ2fHxMS4Wr+d+/t7f3//6enpbwas+OXlpRl4DBMSw9LSEmNAKFJrT0hakJiYmJqampKSEhYWRmFQUBBPpMNyQXh4OE8plyoTt7gzcWUZ0IutUl9f39nZqYos8C7rjv1P0IbnUemuy9vbW0pkDnRYXl7e2tpCcOvr60iKcKIthIL40A36ow2JgaiL8l6Pn5+fCO5N1NTUeF5GWaaFhQUGg81OQFI8SWasNXNh/CJEdo60/yuBgYFfDeTAkiWKjo4mVFIiSL7kXWZQpSUuLRmSFLpBm83NTbHNjpyPPLOyskJCQgiBiMlNK+TI7e1t+rLyc3NzhIZJMTtV7QVkAZXzK1VVVShBbM82UVFRMzMzyAbbujjY1v8kUvwJEmfWEj4T9xe3tra2tLRwDDFhyVj/AKuMsjl3EB+QqMzBMYjFxUWxPwzExLmTmZkZFxdHLuGeRCJhhOaowFgxF6icJKRKbY+Ig9RA1sCQCwDxxgDK2TaUcDiAW6xNVyYutoBK2Ffj4+P0wiWUZCKpej0cbrJ1eZoilhJxiQJGQUEBuYYLg1GvcNdld3d3XV2d2OxabjMRERFyTCDqjIwM9ijlXwzQH+8GjI2NDboQeJKNvPt3jI6Otre3j42NKd/h4GbJx5BynteLd/GfkrkpYeFY7v39fVl6K+iMdTQPLPNuRxc6Mk72htFQ8zasYrBSXFw8NDQkoQE3CQGSQMeoWflv54VE3dfXR8LgTEGUqsgL7O3tcbxi5OfnmzPU2A0Oz+bmZuU8MzU1VVhYqBzv8IIuNRorAwMDg4ODTqeT74GKioqGhoby8nJV5zW0LjWvhRuUXJY+AK1LjR350weKRvNZaF1q7IjWpcZ+OBw/AW7UKBVGZFKSAAAAAElFTkSuQmCC)
 - Semiaperti o semichiusi
-	- 
+	- $]a;b] \qquad a<x\leq b$ oppure $[a;b[\qquad a\leq x< b$
 
 ### Intervalli illimitati
+anche di questi ci sono solo chiusi o aperti
+- illimitati chiusi
+	- $[a;+\infty[\qquad x\geq a$
+	- $]-\infty;a]\qquad x\leq a$
+- Illimitati aperti
+	- $]a;+\infty[\qquad x>a$
+	- $]-\infty;a[\qquad x<a$
+
