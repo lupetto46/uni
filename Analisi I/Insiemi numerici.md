@@ -190,3 +190,10 @@ Prendiamo quindi le tre proprietà delle relazioni d'ordine:
   Se $x\leq y$ e $y\leq z$ allora $x\leq z$ messo in ordine l'ordine di grandezza è $x\leq y \leq z$
 
 #### Completo
+Il motivo per cui è considerabile completo è che ogni singolo elemento ha in mezzo un altro elemento.
+
+Questo elemento si chiama elemento di separazione:
+$A,B\inℝ\qquad A,B\subseteqℝ$ si dicono separati se:
+avendo $a\leq b\qquad\forall a\in A\qquad\forall b\in B$ e $\exists c\in ℝ: a\leq c\leq b \forall a,b\in ℝ$
+
+Il tutto sta a significare quindi che due elementi $a$ e $b$ si dicono separati nel caso in cu
