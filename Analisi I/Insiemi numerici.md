@@ -1,3 +1,4 @@
+#analisi
 Abbiamo vari segni che rappresentano diversi insiemi di numeri molto importanti:
 $ℕ\subset ℤ\subset ℚ\subset ℝ\subset ℂ$
 Di cui:
@@ -244,3 +245,4 @@ anche di questi ci sono solo chiusi o aperti
 	- $]a;+\infty[\qquad x>a$
 	- $]-\infty;a[\qquad x<a$
 
+Ed è a uno di questi intervalli a cui si pensa quando si dice: $A\subset ℝ$ di cui $ℝ\ è\ ]-\infty;+\infty[$
