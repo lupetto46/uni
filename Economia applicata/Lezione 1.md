@@ -52,4 +52,10 @@ Questo si ottiene attraverso un'analisi che non ci è ancora stata spiegata ma f
 - Offerta:
 	- $P=10-Q_d$
 
-Si cerca quindi la condizione di equilibrio che indica che $Q_o=Q_d$ in quanto il produttore vuole produrre abbastanza da vendere tutto ciò che ha prodotto senza lasciare nessuno 
+Si cerca quindi la condizione di equilibrio che indica che $Q_o=Q_d$ in quanto il produttore vuole produrre abbastanza da vendere tutto ciò che ha prodotto senza lasciare nessuno insoddisfatto
+> [!attention] attenzione
+> Il professore ha nominato come esempio anche la Ferrari che produce poco ma comunque soddisfa questo requisito in quanto una persona che non se la può permettere non ha nemmeno in programma di comprarla e quindi non rimarrà insoddisfatta.
+> Questo per specificare che il "rimanere insoddisfatto" implica il volere comprare ma non poterlo fare per mancanza
+
+
+
