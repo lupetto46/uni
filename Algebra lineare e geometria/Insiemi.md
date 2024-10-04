@@ -27,4 +27,13 @@ Ci sono diverse operazioni che si possono fare tra due insiemi:
 	- $A \backslash B= \{c|c\in A\wedge c\notin B|\}$ Si crea un insieme composto da elementi che appartengono ad $A$ ma non appartengono a $B$
 
 ## Le relazioni tra elementi di insiemi
-Le relazioni di insiemi è quello che ci permette di prendere un insieme e mettere i suoi s
+Le relazioni di insiemi è quello che ci permette di prendere un insieme e mettere i suoi stessi valori in relazione
+> [!example] Esempio
+> Per esempio nell'insieme degli alunni di una classe quali hanno lo stesso cognome
+
+Questo permette di creare dei sottoinsiemi di un insieme.
+Ad esempio avendo un insieme $S=\{a,b,c\}$
+*Decido io* quali sono le sue relazioni $R$ (*in questa parte posso deciderle io queste cose*)
+per esempio io scelgo $a R b, bRc, aRc$ e così via a piacimento.
+
+Queste relazioni saranno quindi un sottoinsi
