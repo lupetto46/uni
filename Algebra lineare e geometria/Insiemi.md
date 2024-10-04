@@ -141,5 +141,14 @@ $(a,b)\longmapsto a*b$
 
 La stella ($*$) indica un'*operazione generica*
 > [!example] Esempio
-> $+:ℤ*ℤ\longrightarrow ℤ$
-> $$
+> $+:ℕ*ℕ\longrightarrow ℕ$
+> $(a,b)\longmapsto a+b$
+
+
+### Proprietà delle operazioni
+- Un operazione ***può*** essere associativa:
+	- $\forall a,b,c\in S\qquad (a*b)*c=(b*c)*a=(c*a)*b$
+- Un operazione ***può*** essere commutativa:
+	- $\forall a,b,c\in S\qquad a*b=b*a$
+- ***Può*** $\exists e_1\in S:\forall a \in S\quad e_1 * a= a$ chiamato elemento neutro sinistro
+- 
