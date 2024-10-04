@@ -86,7 +86,9 @@ ALTRIMENTI
 ## Rappresentare l'informazione
 L'informazione è una cosa teorica e noi la dobbiamo rappresentare ovvero tradurre una grandezza di qualsiasi tipo nel supporto fisico che si utilizza
 
-Ci si rifferisce al modo in cui i dati le conoscenze e le informazioni vengono codificate
+Ci si riferisce al modo in cui i dati le conoscenze e le informazioni vengono codificate
 Dopo averne immaginato un modello astratto e rappresentate su un supporto
+
+
 ## teoria dell'informazione
 Un supporto che non ha variazioni non può trasportare delle informazione
