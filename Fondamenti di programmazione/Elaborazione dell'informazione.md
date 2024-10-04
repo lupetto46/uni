@@ -14,3 +14,6 @@ Sfortunatamente la storia ci ha fatto scoprire che è impossibile ottimizzare si
 > Per 100 alunni sarebbe 10 Kb
 
 
+Se volessi studiare la rete internet e ne volessi studiare il grafo avrei bisogno di una matrice bidimensionale $nxn$ quindi $10^{12}\cdot10^{12}$ e non ci basta quindi più la memoria
+
+#### Algoritmo
