@@ -53,4 +53,6 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 	- L'*esecutore* è in grado di interpretare la *descrizione di tale soluzione*, e quindi di associare ad essa le azioni che deve compiere per eseguirla
 	- L'*esecutore* è in grado di *compiere tali azioni,* completando l'esecuzione in un *tempo finito*
 	  > [!attention] 
-	  > È facile creare algoritmi che non finiscono mai
+	  > È facile creare algoritmi che non finiscono mai è quindi importante considerare l'importanza dell'esecuzione in un *tempo finito*
+	  
+	
