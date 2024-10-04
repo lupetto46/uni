@@ -8,10 +8,9 @@ In questo caso è importante ricordare che gli elementi di $A$ devono essere nel
 Nel caso in cui fosse stato $B\times A$ il risultato sarebbe stato $\cases{(1,a)(2,a)(3,a)\\(1,b)(2,b)(3,b)\\(1,c)(2,c)(3,c)}$
 
 ### La cardinalità
-
-
-Ci sono inoltre due modi per rappresentare la *cardinalità* di un insieme
+Ci sono inoltre due segni per rappresentare la *cardinalità* di un insieme
 $\#A$ oppure $|A|$
+La cardinalità non è altro che il *numero di elementi* all'interno di un insieme
 
 In questo caso riprendendo i due insiemi di prima:
 $A=\{a,b,c\}\qquad B=\{1,2,3\}$
@@ -40,4 +39,10 @@ Queste relazioni saranno quindi un sottoinsieme di $S\times S \supset R= \cases{
 > [!example] Esempio di relazione
 > Un esempio di relazione si trova nell'insieme dei numeri reali: $ℕ=\{0,1,2,3...\}$
 > In questo caso la relazione è $\leq$ e lo notiamo $1\leq2\qquad 1\leq3\qquad 1\leq 4$
-> In questo caso  è una **relazione d'ordine** che corrisponde al sottoinsieme delle coppie $i,j$ tale che $i\leq j$  oppyre si può scrivere $\{(i,j)|i\leq\ j}\supseteq$
+> In questo caso  è una **relazione d'ordine** che corrisponde al sottoinsieme delle coppie di valori in $ℕ$ $i,j$ tale che $i\leq j$  oppure si può scrivere $\{(i,j)|i\leq\ j\}\supseteq ℕ\times ℕ$
+
+
+### Relazioni di uguaglianza e d'ordine
+Ci sono due tipi di relazioni:
+- **Relazione d'ordine**: una relazione deve soddisfare delle proprietà per essere tale
+	- 
