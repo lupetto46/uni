@@ -20,5 +20,9 @@ Scopo e obbiettivi:
 - Ingegneria informatica
 	- Scopo pratico e applicativo
 - Scienza informatica
-	- Prove matematiche, di
+	- Prove matematiche, dimostrazioni a scopo di ricerca di nuovi algoritmi
 
+### Programmazione
+SI predispone l'elaboratore a risolvere un problema attraverso dei passi e dei dati che devo trovare io
+Un programma è una sequenza di istruzioni o comandi allo scopo di ottenere il risultato desiderato
+Quando viene eseguito esegue le istruzioni del programma in modo sequenziale
