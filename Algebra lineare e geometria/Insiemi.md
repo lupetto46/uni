@@ -43,6 +43,11 @@ Queste relazioni saranno quindi un sottoinsieme di $S\times S \supset R= \cases{
 
 
 ### Relazioni di uguaglianza e d'ordine
-Ci sono due tipi di relazioni:
-- **Relazione d'ordine**: una relazione deve soddisfare delle proprietà per essere tale
-	- 
+Ci sono due tipi di relazioni e una relazione deve soddisfare delle proprietà per essere tale:
+- **Relazione d'ordine**: 
+	- Riflessiva : $\forall a \in S\qquad aRa$
+	- Antisimmetrica : $\forall a,b\in S$ se $aRb \wedge bRa \qquad a=b$
+	- Transitiva : $\forall a,b,c\in S$ se $aRb \wedge bRc$ allora $aRc$
+- **Relazione equivalente**:
+	- Riflessiva :  $\forall a \in S\qquad aRa$
+	- Simmetrica $\forall a,b\in S$ se $aRb$ allora $bRa$
