@@ -65,3 +65,14 @@ Ci sono due tipi di relazioni e una relazione deve soddisfare delle proprietà p
 > In questo caso si può scrivere in vari modi:
 > - $a\equiv b\ mod\ 2$ questo $mod$ sta per *modulo*
 > - $2|a-b$
+
+
+### Congruenza modulo n
+Prendiamo di esempio:
+$a,b\in ℤ,\qquad n\geq1\qquad aR_nb \Longleftrightarrow n|a-b \Longleftrightarrow a\equiv b\ mod\ n$ 
+### Ma cos'è questo modulo?
+#### Classe equivalenti
+innanzitutto è utile sapere cos'è una classe equivalente.
+
+Avendo un insieme $S$ e una relazione di equivalenza $R$ su $S\qquad a\subset S$
+Quali sono gli altri elementi in relazione con l'unico elemento $a$ di $S$ che abbiamo?
