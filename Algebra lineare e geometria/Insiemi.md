@@ -121,10 +121,15 @@ In realtà il modulo non è altro che una *funzione* che ritorna il *resto di un
 
 Ad esempio: $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
 
-Avendo questo in mente $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{ℤn}=\{\overline{0}, \overline{1}, \overline{2}...\overline{n-1}\}$
+Tra le classi di equivalenze della differenza tra insieme e relazione ci saranno tutti i valori che danno il resto da $0$ a $n-1$ di cui $n$ è il numero per cui si sta facendo il modulo
 
-Questo perché nelle classi di equivalenza del quoziente ci saranno tutti i numeri che danno quel resto
-
-$\frac{ℤ}{3ℤ}=\frac{ℤ}{ℤ\equiv mod\ 3}=3|$
+$\frac{ℤ}{3ℤ}=\frac{ℤ}{ℤ\equiv mod\ 3}=3|a-b|$
 ci sono:
-- Tutti i numeri che divisi per
+- Tutti i numeri che divisi per 3 danno come resto : $[0]=\{3,6,9,12 ...\}$
+- Tutti i numeri che divisi per 3 danno come resto : $[1] =\{4,7,10,13 ...\}$
+- Tutti i numeri che divisi per 3 danno come resto : $[2]=\{5,8,11,14 ...\}$
+- Non possono esserci numeri che danno resto più di $2$ ovviamente
+
+Quindi il risultato di $\frac{ℤ}{3ℤ}=\{\overline{0}, \overline{1}, \overline{2}\}$
+
+Si giunge quindi alla conclusione che $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{ℤn}=\{\overline{0}, \overline{1}, \overline{2}...\overline{n-1}\}$
