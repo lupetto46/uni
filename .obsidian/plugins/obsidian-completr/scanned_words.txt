@@ -1711,6 +1711,7 @@ IqC
 ISQPlMrZ
 Ingegneria
 Indica
+Intersezione
 sRGB
 sq
 sN
@@ -2609,6 +2610,15 @@ soddisfacente
 successivo
 scegliere
 supporto
+sottoinsiemi
+scelgo
+saranno
+scelto
+similitudini
+stella
+sinistro
+struttura
+semigruppo
 gAMA
 go
 gW
@@ -3407,6 +3417,10 @@ gLiFhQV
 gSWrmLVq
 gSYtkayustgzDqBJaAr
 grafo
+guardo
+giunge
+generica
+gruppo
 pHYs
 pJ
 pn
@@ -4203,6 +4217,10 @@ probabilistiche
 percentuale
 passo
 pure
+posizione
+piacimento
+potevamo
+paio
 HBz
 HN
 HU
@@ -5881,6 +5899,8 @@ RgZ
 RGhsb
 RNlLyIdjaikAAAAASUVORK
 Rappresentare
+Relazioni
+Riflessiva
 lL
 lk
 lkS
@@ -6598,6 +6618,7 @@ lgGEaVpKen
 limitato
 lavoro
 lasciare
+lemma
 oooEDD
 oo
 osv
@@ -8140,6 +8161,7 @@ QoJsaPHjwTz
 QKzdUC
 QLJ
 QEAdHBy
+Quoziente
 wo
 wx
 ww
@@ -12930,6 +12952,7 @@ TvGl
 Tesi
 Tutto
 Terminazione
+Transitiva
 rJ
 rU
 rTkb
@@ -13695,6 +13718,9 @@ ricerca
 risposta
 regole
 rappresentate
+riprendendo
+rappresentante
+ritorna
 SL
 SZ
 SO
@@ -14417,6 +14443,9 @@ Scopo
 Scienza
 Soluzione
 Sono
+Simmetrica
+Sotto
+Supp
 Zy
 Zar
 ZN
@@ -17319,6 +17348,20 @@ cartelli
 costruito
 conoscenze
 codificate
+cardinalit
+composto
+contemporaneamente
+classe
+corrisponde
+coppie
+conferma
+congruenza
+complementare
+classi
+contrassegniamo
+conclusione
+chiamato
+commutativo
 av
 as
 aIT
@@ -18513,6 +18556,10 @@ ambiguit
 averne
 astratto
 appunti
+appartengono
+appartenere
+algebrica
+abeliano
 GM
 Gr
 GD
@@ -25213,6 +25260,8 @@ mancanza
 metriche
 matrice
 memorizzare
+modulo
+monoide
 xUu
 xeV
 xn
@@ -26645,6 +26694,7 @@ qohgECjycMfgs
 qaWqVKFVHoNTdu
 quantit
 quale
+quoziente
 ip
 iz
 iU
@@ -27490,6 +27540,7 @@ importanza
 informazione
 informazioni
 immaginato
+indipendentemente
 Ot
 Ok
 OU
@@ -29338,6 +29389,12 @@ nominato
 nome
 nascita
 nuovi
+nuovo
+notiamo
+nulla
+nessuna
+normalmente
+neutri
 Wp
 Wsv
 We
@@ -32191,6 +32248,8 @@ Dividere
 Dato
 Determinismo
 Dopo
+Differenza
+Decido
 yJJJr
 yyy
 ye
@@ -34769,6 +34828,7 @@ terminare
 teorica
 tradurre
 trasportare
+tal
 CG
 Cf
 CDDDDD
@@ -35570,6 +35630,8 @@ CggTApgBdsbm
 Condizioni
 Catania
 Calcolare
+Congruenza
+Classe
 Nf
 NR
 Non
@@ -37373,6 +37435,7 @@ UvzD
 UKZ
 UDRGwd
 UdyzZo
+Unione
 fN
 feun
 fs
@@ -39522,6 +39585,7 @@ Adesso
 Altro
 Algoritmo
 Arrivato
+Antisimmetrica
 LG
 La
 Linguaggio
@@ -40358,6 +40422,7 @@ LkuMCNJa
 LrdMj
 LCysjp
 LkKszbDasswjIqxsbHZs
+Lemma
 dU
 df
 dI
@@ -41811,6 +41876,13 @@ descrizione
 determinato
 determinismo
 discreti
+deciderle
+divisibile
+divisi
+divisibili
+dipende
+divisione
+destro
 eA
 eWf
 eddh
@@ -43374,6 +43446,10 @@ effettivamente
 eseguibile
 esercizio
 entrato
+equivalente
+equivalenti
+equivalenze
+esserci
 Ve
 VM
 Vka
