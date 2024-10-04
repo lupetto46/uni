@@ -73,3 +73,12 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 	- L'esecuzione dell'algoritmo deve, prima o poi, terminare
 
 ## Esempio / esercizio
+Calcolare il massimo fra due numeri:
+```pseudo_codice
+LEGGI IL PRIMO NUMERO E CHIAMALO A
+LEGGI IL SECONDO NUMERO E CHIAMALO B
+SE IL PRIMO NUMERO È MAGGIORE DEL SECONDO
+	STAMPA IL PRIMO NUMERO
+ALTRIMENTI
+	STAMPA IL SECONDO NUMERO
+```
