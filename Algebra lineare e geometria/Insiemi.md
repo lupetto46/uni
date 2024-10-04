@@ -19,4 +19,5 @@ $|A|=3\qquad |B|=3$
 Allora  $|A\times B|= |A|\cdot|B|=9$
 
 Ci sono diverse operazioni che si possono fare tra due insiemi:
-$A\cup B=\{\}$
+$A\cup B=\{c|c\in A \vee c\in B \}$
+$A\cap$
