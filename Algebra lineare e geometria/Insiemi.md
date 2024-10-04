@@ -94,4 +94,10 @@ Questo significa quindi che si crea un insieme di tutti i valori che sono equiva
 Ci sono un paio di cose da ricordare di cui anche un **lemma**:
 - $[b]\cup[a]=S$ l'unione di tutti gli elementi di $[a]$ risulta tutto l'insieme $S$ se $a\in S$
 
-Il **lemma è**: $a,b\in S\qquad [a]\cap[b]=\cases{\emptyset\ se\ a\mathrel{R} b}$
+Il **lemma** è: $a,b\in S\qquad [a]\cap[b]=\cases{\emptyset\ se\ a \not R b\\ [a]=[b]\ se\ aRb}$
+
+> [!note] Dimostrazione
+> Se $[a]\cap[b]\neq \emptyset\ \exists c\in S:c\in[b]\Leftrightarrow cRa\wedge cRb$  allora $aRb \Leftarrow$ questo è un assurdo
+> Perché se l'intersezione tra le due classi è nulla non esiste nessuna $c\in S$ che è in relazione di equivalenza sia con gli elementi di $a$ che con gli elementi di $b$
+
+
