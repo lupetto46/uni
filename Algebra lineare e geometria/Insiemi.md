@@ -24,4 +24,5 @@ Ci sono diverse operazioni che si possono fare tra due insiemi:
 - Intersezione:
 	- $A\cap B = \{c|c\in A \wedge c\in B|\}$ Si crea un nuovo insieme composto da elementi che devono appartenere sia ad $A$ che a $B$ contemporaneamente
 - Differenza:
-	- $A \backslash B= \{c|c\in A\wedge c\notin B|\}$ 
+	- $A \backslash B= \{c|c\in A\wedge c\notin B|\}$ Si crea un insieme composto da elementi che appartengono ad $A$ ma non appartengono a $B$
+
