@@ -50,4 +50,11 @@ Ci sono due tipi di relazioni e una relazione deve soddisfare delle proprietà p
 	- Transitiva : $\forall a,b,c\in S$ se $aRb \wedge bRc$ allora $aRc$
 - **Relazione equivalente**:
 	- Riflessiva :  $\forall a \in S\qquad aRa$
-	- Simmetrica $\forall a,b\in S$ se $aRb$ allora $bRa$
+	- Simmetrica : $\forall a,b\in S$ se $aRb$ allora $bRa$
+	- Transitiva : $\forall a,b,c \in S$ se $aRb \wedge bRc$ allora $aRc$
+
+> [!example] Esempio
+> Per esempio avendo $a,b\in ℤ$ e la relazione è $aRb\ (=)$ se hanno la stessa parità
+> Questa è una relazione di equivalenza in quanto è:
+> - Riflessiva: $aRa$ il numero $2$ per esempio avrà sempre la stessa parità di se stesso
+> - Simmetrica $
