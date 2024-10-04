@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I/Estremi di un insieme numerico.md",
+                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 1.md",
+                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisi I/Estremi di un insieme numerico.md",
+                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisi I/Estremi di un insieme numerico.md",
+                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisi I/Estremi di un insieme numerico.md"
+                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md"
               }
             }
           },
@@ -156,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +176,16 @@
   },
   "active": "3b846f5684666e57",
   "lastOpenFiles": [
-    "Fondamenti di programmazione/Lezione 1.md",
-    "Analisi I/Estremi di un insieme numerico.md",
+    "Algebra lineare e geometria",
+    "Economia applicata/Piccola introduzione.md",
+    "Economia applicata/Modello economico.md",
+    "Analisi I/Insiemi numerici.md",
     "Analisi I/Il valore assoluto.md",
+    "Analisi I/Estremi di un insieme numerico.md",
+    "Fondamenti di programmazione/Elaborazione dell'informazione.md",
     "Corsi zero/Trigonometria e Goniometria.md",
     "Corsi zero/Giorno 1.md",
-    "Economia applicata/Modello economico.md",
-    "Economia applicata/Piccola introduzione.md",
     "Fondamenti di programmazione",
-    "Analisi I/Insiemi numerici.md",
     "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
     "Corsi zero/Giorno 4.md",
     "Economia applicata/Untitled",
