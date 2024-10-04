@@ -32,9 +32,15 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 
 ## Definizioni
 - **Soluzione di un problema**:
-	 - Esprimere un *elenco di istruzioni* che poi l'*esecutore interpreterà* è importante inoltre avere un modo per *verificare che i dati in uscit*
+	 - Esprimere un *elenco di istruzioni* che poi l'*esecutore interpreterà* è importante inoltre avere un modo per *verificare che i dati in uscita sia corretta*
 - **Esecutore**:
 	- *Macchina astratta* il cui scopo è *interpretare* delle *istruzioni* scritte in un programma
 - **Macchina astratta**:
 	- Indica un modello teorico di hardware o software in grado di *eseguire operazioni*, *memorizzare dati* e *seguire il flusso dell'algoritmo*
 
+- Quali sono le condizioni per dire che un problema è ben formulato?
+	- Non è *a priori* evidente che *non esistono* soluzioni
+	  >[!important] importante
+	- Il *criterio di verifica* delle soluzioni *è univoco* e si sa come applicarlo
+	- L'insieme dei *dati iniziali* è completo
+- 
