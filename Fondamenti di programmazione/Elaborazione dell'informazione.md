@@ -82,3 +82,7 @@ SE IL PRIMO NUMERO È MAGGIORE DEL SECONDO
 ALTRIMENTI
 	STAMPA IL SECONDO NUMERO
 ```
+
+## Rappresentare l'informazione
+L'informazione è una cosa teorica e noi la dobbiamo rappresentare ovvero tradurre una grandezza di qualsiasi tipo nel supporto fisico che si utilizza
+
