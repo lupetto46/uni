@@ -31,5 +31,10 @@ Quando viene eseguito esegue le istruzioni del programma in modo sequenziale
 Un problema deve essere definito chiaramente e formalmente spesso in termini di inputo desiderato e output atteso
 
 ## Definizioni
-- Soluzione di un problema
-  Esprimere un elenco di istruzione che poi l'esecutore interpretera
+- **Soluzione di un problema**:
+	 - Esprimere un *elenco di istruzioni* che poi l'*esecutore interpreterà* è importante inoltre avere un modo per *verificare che i dati in uscit*
+- **Esecutore**:
+	- *Macchina astratta* il cui scopo è *interpretare* delle *istruzioni* scritte in un programma
+- **Macchina astratta**:
+	- Indica un modello teorico di hardware o software in grado di *eseguire operazioni*, *memorizzare dati* e *seguire il flusso dell'algoritmo*
+
