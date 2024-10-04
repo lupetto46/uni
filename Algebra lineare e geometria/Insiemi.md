@@ -26,3 +26,5 @@ Ci sono diverse operazioni che si possono fare tra due insiemi:
 - Differenza:
 	- $A \backslash B= \{c|c\in A\wedge c\notin B|\}$ Si crea un insieme composto da elementi che appartengono ad $A$ ma non appartengono a $B$
 
+## Le relazioni tra elementi di insiemi
+Le relazioni di insiemi è quello che ci permette di prendere un insieme e mettere i suoi s
