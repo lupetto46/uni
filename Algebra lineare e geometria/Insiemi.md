@@ -10,3 +10,10 @@ Nel caso in cui fosse stato $B\times A$ il risultato sarebbe stato $\cases{(1,a)
 ### La cardinalità
 
 Ci sono inoltre due modi per rappresentare la *cardinalità* di un insieme
+$\#A$ oppure $|A|$
+
+In questo caso riprendendo i due insiemi di prima:
+$A=\{a,b,c\}\qquad B=\{1,2,3\}$
+$|A|=3\qquad |B|=3$
+Allora  $|A\times B|= |A|\cdot|B|=9$
+
