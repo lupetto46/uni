@@ -150,5 +150,9 @@ La stella ($*$) indica un'*operazione generica*
 	- $\forall a,b,c\in S\qquad (a*b)*c=(b*c)*a=(c*a)*b$
 - Un operazione ***può*** essere commutativa:
 	- $\forall a,b,c\in S\qquad a*b=b*a$
-- ***Può*** $\exists e_1\in S:\forall a \in S\quad e_1 * a= a$ chiamato elemento neutro sinistro
-- 
+- ***Può*** esistere un elemento $e_1$ : $\exists e_1\in S:\forall a \in S\quad e_1 * a= a$ chiamato elemento neutro sinistro
+- ***Può*** esistere un elemento $e_2$ : $\exists e_2\in S:\forall a \in S\quad a*e_1= a$ chiamato elemento neutro destro
+- ***Può*** esistere un elemento $e$ : $\exists e\in S:\forall a \in S\quad a*e=e*a=a$
+
+**Lemma**: Un insieme $S$ con operazione $*$ : $(S,*)$ ammette un solo elemento neutro sinistro $e_1$, e solo un elemento neutro destro $e_2\qquad e_1=e_2$ 
+
