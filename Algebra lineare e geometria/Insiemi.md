@@ -34,6 +34,10 @@ Le relazioni di insiemi è quello che ci permette di prendere un insieme e mette
 Questo permette di creare dei sottoinsiemi di un insieme.
 Ad esempio avendo un insieme $S=\{a,b,c\}$
 *Decido io* quali sono le sue relazioni $R$ (*in questa parte posso deciderle io queste cose*)
-per esempio io scelgo $a R b, bRc, aRc$ e così via a piacimento.
+per esempio io scelgo $a R b, bRc, aRc, aRa$ e così via a piacimento.
 
-Queste relazioni saranno quindi un sottoinsi
+Queste relazioni saranno quindi un sottoinsieme di $S\times S \supset R= \cases{(a,b)(b,c)\\(a,c)(a,a)}$
+> [!example] Esempio di relazione
+> Un esempio di relazione si trova nell'insieme dei numeri reali: $ℕ=\{0,1,2,3...\}$
+> In questo caso la relazione è $\leq$ e lo notiamo $1\leq2\qquad 1\leq3\qquad 1\leq 4$
+> In questo caso  è una **relazione d'ordine** che corrisponde al sottoinsieme delle coppie $i,j$ tale che $i\leq j$  oppyre si può scrivere $\{(i,j)|i\leq\ j}\supseteq$
