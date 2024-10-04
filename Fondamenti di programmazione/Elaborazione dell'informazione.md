@@ -54,5 +54,14 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 	- L'*esecutore* è in grado di *compiere tali azioni,* completando l'esecuzione in un *tempo finito*
 	  > [!attention] 
 	  > È facile creare algoritmi che non finiscono mai è quindi importante considerare l'importanza dell'esecuzione in un *tempo finito*
-	  
-	
+# Algoritmo
+- Un algoritmo
+	-  è un insieme di regole che se eseguite ordinatamente permette di dare un risultato soddisfacente. non tutte le regole formano un algoritmo
+
+## Proprietà di un algoritmo
+- Non ambiguità:
+	-  Dato un dato in ingresso questo può dare solo una soluzione
+- Eseguibilità:
+- Determinismo
+- Finitezza:
+- Termina
