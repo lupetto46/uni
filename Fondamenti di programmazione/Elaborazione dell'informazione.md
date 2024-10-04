@@ -16,3 +16,9 @@ Sfortunatamente la storia ci ha fatto scoprire che è impossibile ottimizzare si
 
 Se volessi studiare la rete internet e ne volessi studiare il grafo avrei bisogno di una matrice bidimensionale $nxn$ quindi $10^{12}\cdot10^{12}$ e non ci basta quindi più la memoria
 
+Scopo e obbiettivi:
+- Ingegneria informatica
+	- Scopo pratico e applicativo
+- Scienza informatica
+	- Prove matematiche, di
+
