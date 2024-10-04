@@ -76,3 +76,14 @@ innanzitutto è utile sapere cos'è una classe equivalente.
 
 Avendo un insieme $S$ e una relazione di equivalenza $R$ su $S\qquad a\subset S$
 Quali sono gli altri elementi in relazione con l'unico elemento $a$ di $S$ che abbiamo?
+$[a]=\{b\in S|aRb\}\subset S \Rightarrow$ classe equivalente di $a$
+Questo significa quindi che si crea un insieme di tutti i valori che sono equivalenti ad $a$
+
+> [!example] esempio
+> $ℤ$ con la congruenza modulo $2$
+> Quali sono i numeri che divisi per $2$ non danno resto?
+> $[0]=\{2n|n\inℤ\}$ 
+> > [!attention] Attenzione
+> > abbiamo scelto lo zero come **rappresentante** ma potevamo mettere *qualsiasi numero divisibile per $2$*
+> 
+> mentre invece l'insieme comple
