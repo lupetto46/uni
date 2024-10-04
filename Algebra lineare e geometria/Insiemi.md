@@ -119,5 +119,12 @@ $\frac{S}{R}=\{[a]\ |a\in S\}\Rightarrow$ tutte le classi di equivalenza
 
 In realtà il modulo non è altro che una *funzione* che ritorna il *resto di una divisione*
 
-ad esempio: $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
+Ad esempio: $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
 
+Avendo questo in mente $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{ℤn}=\{\overline{0}, \overline{1}, \overline{2}...\overline{n-1}\}$
+
+Questo perché nelle classi di equivalenza del quoziente ci saranno tutti i numeri che danno quel resto
+
+$\frac{ℤ}{3ℤ}=\frac{ℤ}{ℤ\equiv mod\ 3}=3|$
+ci sono:
+- Tutti i numeri che divisi per
