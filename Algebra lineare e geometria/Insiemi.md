@@ -136,7 +136,7 @@ Si giunge quindi alla conclusione che $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{n�
 
 ## Insiemi con operazioni
 $S\neq\emptyset$ un operazione su $S$ è una funzione:
-$*:S\times S\longrightarrow S$
+$*:S * S\longrightarrow S$
 $(a,b)\longmapsto a*b$
 
 La stella ($*$) indica un'*operazione generica*
@@ -175,4 +175,3 @@ $(S, *)$ è detta struttura algebrica
 - Un semigruppo / monoide $(S,*)$ si dice **commutativo** o **abeliano** se l'operazione è commutativa
 - Avendo un monoide $(S, *): a\in S$ diciamo che questo elemento è invertibile se $\exists b\in S: b*a=e=a*b$ in tal caso $b$ si dice l'inverso di $a$
 - Un monoide di cui ogni elemento è invertibile è chiamato gruppo 
-

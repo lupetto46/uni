@@ -3421,6 +3421,7 @@ guardo
 giunge
 generica
 gruppo
+giungere
 pHYs
 pJ
 pn
