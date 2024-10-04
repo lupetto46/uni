@@ -57,4 +57,11 @@ Ci sono due tipi di relazioni e una relazione deve soddisfare delle proprietà p
 > Per esempio avendo $a,b\in ℤ$ e la relazione è $aRb\ (=)$ se hanno la stessa parità
 > Questa è una relazione di equivalenza in quanto è:
 > - Riflessiva: $aRa$ il numero $2$ per esempio avrà sempre la stessa parità di se stesso
-> - Simmetrica $
+> - Simmetrica $aRb$ allora $bRa$ se $2R6$ allora $6R2$ indipendentemente dall'ordine sono *entrambi pari*
+> - Transitiva: $aRb \wedge bRc$ allora $aRc$ se $2R4$ e $4R6$ allora $2R6$
+> 
+> Tutto questo conferma quindi che questa è una relazione equivalente
+> Ma esattamente *quando due numeri hanno la stessa parità?* quando la loro differenza è divisibile per $2$
+> In questo caso si può scrivere in vari modi:
+> - $a\equiv b\ mod\ 2$ questo $mod$ sta per *modulo*
+> - $2|a-b$
