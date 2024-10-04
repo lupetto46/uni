@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Algebra lineare e geometria/Insiemi.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Algebra lineare e geometria/Insiemi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Algebra lineare e geometria/Insiemi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Algebra lineare e geometria/Insiemi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md"
+                "file": "Algebra lineare e geometria/Insiemi.md"
               }
             }
           },
@@ -174,15 +174,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b846f5684666e57",
+  "active": "8f0a42fa4631730d",
   "lastOpenFiles": [
-    "Algebra lineare e geometria",
-    "Economia applicata/Piccola introduzione.md",
+    "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+    "Algebra lineare e geometria/Insiemi.md",
     "Economia applicata/Modello economico.md",
+    "Economia applicata/Piccola introduzione.md",
+    "Algebra lineare e geometria",
     "Analisi I/Insiemi numerici.md",
     "Analisi I/Il valore assoluto.md",
     "Analisi I/Estremi di un insieme numerico.md",
-    "Fondamenti di programmazione/Elaborazione dell'informazione.md",
     "Corsi zero/Trigonometria e Goniometria.md",
     "Corsi zero/Giorno 1.md",
     "Fondamenti di programmazione",
@@ -212,7 +213,6 @@
     "Basi/Matematica/Immagini",
     "Basi/Matematica/Funzioni",
     "conflict-files-obsidian-git.md",
-    "Basi/Matematica",
     "Ripassone/Untitled.md",
     "Welcome.md"
   ]

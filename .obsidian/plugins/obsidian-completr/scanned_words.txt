@@ -947,6 +947,7 @@ PHjlQGJCQkoJiFhQVc
 Parametri
 Prove
 Programmazione
+Prodotto
 IHDR
 IDATx
 Ii
@@ -14415,6 +14416,7 @@ Sfortunatamente
 Scopo
 Scienza
 Soluzione
+Sono
 Zy
 Zar
 ZN
@@ -18510,6 +18512,7 @@ azioni
 ambiguit
 averne
 astratto
+appunti
 GM
 Gr
 GD
@@ -43370,6 +43373,7 @@ eseguite
 effettivamente
 eseguibile
 esercizio
+entrato
 Ve
 VM
 Vka
