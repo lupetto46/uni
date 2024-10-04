@@ -156,3 +156,18 @@ La stella ($*$) indica un'*operazione generica*
 
 **Lemma**: Un insieme $S$ con operazione $*$ : $(S,*)$ ammette un solo elemento neutro sinistro $e_1$, e solo un elemento neutro destro $e_2\qquad e_1=e_2$ 
 
+> [!note] Dimostrazione
+> $e_1=e_1*e_2=e_2$ in quanto $e_1=e_1*e_2$ perché $e_2$ è l'elemento neutro a destra
+> $H_p$
+> Avendo $(S,*)$ quanti elementi neutri ci sono?
+> Supponiamo per assurdo che ci siano sia l'elemento neutro $e$ che e l'elemento neutro $e_1$:
+> $e*e_1=e$
+> Ma allo stesso tempo
+> $e*e_1=e_1$
+> Il che implica che: $e=e_1$ confermando che ce n'è solo uno 
+
+
+## Definizioni
+
+$(S, *)$ è detta struttura algebrica 
+- Se 
