@@ -38,9 +38,19 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 - **Macchina astratta**:
 	- Indica un modello teorico di hardware o software in grado di *eseguire operazioni*, *memorizzare dati* e *seguire il flusso dell'algoritmo*
 
+## Altro problema
 - Quali sono le condizioni per dire che un problema è ben formulato?
 	- Non è *a priori* evidente che *non esistono* soluzioni
 	  >[!important] importante
+	  >Dividere le analisi probabilistiche dalle soluzioni assolute
+	  >Una è sicura che sia la risposta corretta l'altra ha una percentuale
+	  
+	  
 	- Il *criterio di verifica* delle soluzioni *è univoco* e si sa come applicarlo
 	- L'insieme dei *dati iniziali* è completo
-- 
+- Una soluzione, per un esecutore, si definisce effettiva quando:
+	- L'esecutore è in grado di *interpretare i dati di ingresso*
+	- L'*esecutore* è in grado di interpretare la *descrizione di tale soluzione*, e quindi di associare ad essa le azioni che deve compiere per eseguirla
+	- L'*esecutore* è in grado di *compiere tali azioni,* completando l'esecuzione in un *tempo finito*
+	  > [!attention] 
+	  > È facile creare algoritmi che non finiscono mai
