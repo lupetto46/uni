@@ -26,3 +26,10 @@ Scopo e obbiettivi:
 SI predispone l'elaboratore a risolvere un problema attraverso dei passi e dei dati che devo trovare io
 Un programma è una sequenza di istruzioni o comandi allo scopo di ottenere il risultato desiderato
 Quando viene eseguito esegue le istruzioni del programma in modo sequenziale
+
+### problema
+Un problema deve essere definito chiaramente e formalmente spesso in termini di inputo desiderato e output atteso
+
+## Definizioni
+- Soluzione di un problema
+  Esprimere un elenco di istruzione che poi l'esecutore interpretera
