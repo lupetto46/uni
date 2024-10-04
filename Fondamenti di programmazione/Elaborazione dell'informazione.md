@@ -62,6 +62,14 @@ Un problema deve essere definito chiaramente e formalmente spesso in termini di 
 - Non ambiguità:
 	-  Dato un dato in ingresso questo può dare solo una soluzione
 - Eseguibilità:
-- Determinismo
+	- Ogni passo deve essere effettivamente eseguibile, in un tempo finito, dall'esecutore considerato
+- Determinismo:
+	- Nell'esecuzione dell'algoritmo, per ogni passo compiuto deve essere determinato uno e un solo passo successivo. Quindi fatta un operazione io so sempre quello che devo fare dopo
+	  > [!example] esempio
+	  > Arrivato ad un bivio non è determinismo se ci sono due cartelli che dicono sinistra Catania e a destra Catania pure e quindi non so esattamente quale scegliere
 - Finitezza:
-- Termina
+	- L'algoritmo deve essere costruito da passi discreti e la sua lunghezza deve essere finito
+- Terminazione::
+	- L'esecuzione dell'algoritmo deve, prima o poi, terminare
+
+## Esempio / esercizio
