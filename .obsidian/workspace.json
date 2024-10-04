@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia applicata/Lezione 1.md",
+                "file": "Fondamenti di programmazione/Lezione 1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -174,13 +174,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f0a42fa4631730d",
+  "active": "3b846f5684666e57",
   "lastOpenFiles": [
-    "Analisi I/Il valore assoluto.md",
+    "Economia applicata/Piccola introduzione.md",
+    "Fondamenti di programmazione/Lezione 1.md",
     "Economia applicata/Lezione 1.md",
+    "Fondamenti di programmazione",
+    "Analisi I/Il valore assoluto.md",
     "Analisi I/Estremi di un insieme numerico.md",
     "Analisi I/Insiemi numerici.md",
-    "Economia applicata/Piccola introduzione.md",
     "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
     "Corsi zero/Giorno 4.md",
@@ -211,7 +213,6 @@
     "conflict-files-obsidian-git.md",
     "Basi/Matematica",
     "Ripassone/Untitled.md",
-    "Basi/Fisica",
     "Welcome.md"
   ]
 }
