@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 1.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 1.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 1.md",
+                "file": "Analisi I/Estremi di un insieme numerico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 1.md"
+                "file": "Analisi I/Estremi di un insieme numerico.md"
               }
             }
           },
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,17 +175,17 @@
   },
   "active": "3b846f5684666e57",
   "lastOpenFiles": [
+    "Fondamenti di programmazione/Lezione 1.md",
+    "Analisi I/Estremi di un insieme numerico.md",
+    "Analisi I/Il valore assoluto.md",
+    "Corsi zero/Trigonometria e Goniometria.md",
+    "Corsi zero/Giorno 1.md",
     "Economia applicata/Modello economico.md",
     "Economia applicata/Piccola introduzione.md",
-    "Fondamenti di programmazione/Lezione 1.md",
     "Fondamenti di programmazione",
-    "Analisi I/Il valore assoluto.md",
-    "Analisi I/Estremi di un insieme numerico.md",
     "Analisi I/Insiemi numerici.md",
-    "Corsi zero/Giorno 1.md",
     "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
     "Corsi zero/Giorno 4.md",
-    "Corsi zero/Trigonometria e Goniometria.md",
     "Economia applicata/Untitled",
     "Economia applicata",
     "Analisi I",
