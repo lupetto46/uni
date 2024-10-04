@@ -101,3 +101,15 @@ Il **lemma** è: $a,b\in S\qquad [a]\cap[b]=\cases{\emptyset\ se\ a \not R b\\ [
 > Perché se l'intersezione tra le due classi è nulla non esiste nessuna $c\in S$ che è in relazione di equivalenza sia con gli elementi di $a$ che con gli elementi di $b$
 
 
+## Quoziente
+Per quanto riguarda l'uguaglianza di un sistema dipende tutto da quello che guardo.
+Si dice *a meno* di similitudini.
+
+Per esempio per me una persona è identica all'altra *a meno* di cognome (ovvero per me due persone se hanno lo stesso cognome sono la stessa persona)
+
+Sotto forma di insiemi se abbiamo l'insieme $S$ e una relazione $R$ su $S$ di equivalenza
+$\frac{S}{R}=\{[a]\ |a\in S\}\Rightarrow$ tutte le classi di equivalenza
+
+> [!example] Esempio
+> $ℤ;\equiv mod\ 2$
+> normalmente si scrive così: $\frac{ℤ}{\equiv mod\ 2}=:\frac{ℤ}{ℤ\equiv mod\ 2}=\{[0], [1]\}$
