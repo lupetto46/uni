@@ -112,4 +112,12 @@ $\frac{S}{R}=\{[a]\ |a\in S\}\Rightarrow$ tutte le classi di equivalenza
 
 > [!example] Esempio
 > $ℤ;\equiv mod\ 2$
-> normalmente si scrive così: $\frac{ℤ}{\equiv mod\ 2}=:\frac{ℤ}{ℤ\equiv mod\ 2}=\{[0], [1]\}$
+> normalmente si scrive così: $\frac{ℤ}{\equiv mod\ 2}=:\frac{ℤ}{ℤ\equiv mod\ 2}=\{[0], [1]\}=\{\overline{0},\overline{1}\}$
+> 
+> In questo caso il motivo di questo risultato è $\{[0],[1]\}$ perché tutte le classi di equivalenza che può avere questo quoziente è il caso in cui il numero è pari e il caso in cui il numero è dispari che noi contrassegniamo con $[0]$ tutti i casi in cui il numero è pari e $[1]$ il caso in cui il numero è dispari
+
+
+In realtà il modulo non è altro che una *funzione* che ritorna il *resto di una divisione*
+
+ad esempio: $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
+
