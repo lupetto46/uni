@@ -84,6 +84,14 @@ Questo significa quindi che si crea un insieme di tutti i valori che sono equiva
 > Quali sono i numeri che divisi per $2$ non danno resto?
 > $[0]=\{2n|n\inℤ\}$ 
 > > [!attention] Attenzione
-> > abbiamo scelto lo zero come **rappresentante** ma potevamo mettere *qualsiasi numero divisibile per $2$*
+> > abbiamo scelto lo zero ($[0]$) come **rappresentante** ma potevamo mettere *qualsiasi numero divisibile per $2$*
 > 
-> mentre invece l'insieme comple
+> mentre invece l'insieme complementare sarà l'insieme dei numeri non divisibili per 2
+> $[1]=\{2n+1|n\inℤ\}$
+
+
+
+Ci sono un paio di cose da ricordare di cui anche un **lemma**:
+- $[b]\cup[a]=S$ l'unione di tutti gli elementi di $[a]$ risulta tutto l'insieme $S$ se $a\in S$
+
+Il **lemma è**: $a,b\in S\qquad [a]\cap[b]=\cases{\emptyset\ se\ a\mathrel{R} b}$
