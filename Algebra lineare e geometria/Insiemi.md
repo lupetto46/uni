@@ -132,4 +132,14 @@ ci sono:
 
 Quindi il risultato di $\frac{ℤ}{3ℤ}=\{\overline{0}, \overline{1}, \overline{2}\}$
 
-Si giunge quindi alla conclusione che $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{ℤn}=\{\overline{0}, \overline{1}, \overline{2}...\overline{n-1}\}$
+Si giunge quindi alla conclusione che $\frac{ℤ}{\equiv mod\ n}=:\frac{ℤ}{nℤ}=\{\overline{0}, \overline{1}, \overline{2}...\overline{n-1}\}$
+
+## Insiemi con operazioni
+$S\neq\emptyset$ un operazione su $S$ è una funzione:
+$*:S\times S\longrightarrow S$
+$(a,b)\longmapsto a*b$
+
+La stella ($*$) indica un'*operazione generica*
+> [!example] Esempio
+> $+:ℤ*ℤ\longrightarrow ℤ$
+> $$
