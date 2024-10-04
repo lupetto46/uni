@@ -944,6 +944,7 @@ PEIjI
 PBhuSdLakvfWAD
 PBBKH
 PHjlQGJCQkoJiFhQVc
+Parametri
 IHDR
 IDATx
 Ii
@@ -2583,6 +2584,14 @@ specificato
 scienza
 stilizzati
 sopra
+stilizzare
+stilizzato
+succedono
+seguire
+sostenuto
+stata
+spiegata
+soddisfa
 gAMA
 go
 gW
@@ -4160,6 +4169,12 @@ pep
 pKrj
 pQU
 pJezbMgyjYpYtWwap
+predire
+profitto
+prodotta
+prodotti
+produttore
+programma
 HBz
 HN
 HU
@@ -6552,6 +6567,8 @@ lunx
 leCewvpJycX
 lgGEaVpKen
 limitato
+lavoro
+lasciare
 oooEDD
 oo
 osv
@@ -7297,6 +7314,7 @@ oeNxSW
 oAFkBMNsKu
 oWvFIOwzAVSnx
 osservare
+offerta
 QR
 QIYKI
 QG
@@ -11502,6 +11520,7 @@ uHDh
 unicit
 unico
 usa
+useremo
 Xx
 Xh
 Xr
@@ -12871,6 +12890,7 @@ TFVSeZoPI
 TUltpgonuhzIMI
 TvGl
 Tesi
+Tutto
 rJ
 rU
 rTkb
@@ -13623,6 +13643,12 @@ rTJzMykXGLatGmwF
 rULccjlsGHDELG
 rsn
 rzEwMEB
+rilevanti
+ricavi
+ricavo
+requisito
+rimarr
+rimanere
 SL
 SZ
 SO
@@ -15939,6 +15965,7 @@ FiHUjeQVITZX
 FWQ
 FYHAtv
 FPZtGYZRJbVq
+Ferrari
 cS
 cL
 cNt
@@ -17211,6 +17238,15 @@ ceWJJDo
 cDBw
 compreso
 confermando
+creare
+comporta
+corrette
+completamente
+criteri
+contenere
+costi
+cerca
+comprarla
 av
 as
 aIT
@@ -18385,6 +18421,10 @@ aMNLtuE
 aNYLO
 assurdo
 astratti
+applicata
+adeguate
+affrontando
+abbastanza
 GM
 Gr
 GD
@@ -22376,6 +22416,8 @@ EDByJOi
 EmTZoE
 ElhLgx
 EOxL
+Esogene
+Endogene
 bfl
 bE
 bg
@@ -23442,6 +23484,7 @@ bUDVluGYcqR
 bdtWp
 bBhg
 bDaMgzDVAQ
+banalissimamente
 Ys
 YV
 Yh
@@ -25067,6 +25110,9 @@ minoranti
 maggioranti
 massimo
 modelli
+mettere
+mercato
+mancanza
 xUu
 xeV
 xn
@@ -26497,6 +26543,7 @@ qWLMClYvXq
 quv
 qohgECjycMfgs
 qaWqVKFVHoNTdu
+quantit
 ip
 iz
 iU
@@ -27324,6 +27371,11 @@ ikK
 ieoKCgHj
 irVy
 illimitato
+interne
+investimento
+ipotetico
+insoddisfatto
+insoddisfatta
 Ot
 Ok
 OU
@@ -28430,6 +28482,7 @@ Odfye
 OzsRYsWzZw
 OiqWKqqXbt
 ODAgQMLLeA
+Offerta
 nl
 nf
 nP
@@ -29165,6 +29218,8 @@ nvvlY
 nJiW
 ngD
 nSXiAnJ
+nessuno
+nominato
 Wp
 Wsv
 We
@@ -32012,6 +32067,7 @@ DMNUEDdu
 DMOUC
 DMOokrZt
 DMMwFQGrLcMwTPmjo
+Domanda
 yJJJr
 yyy
 ye
@@ -33607,6 +33663,9 @@ vaIT
 vYHDx
 vQJAO
 vuole
+variabile
+vendere
+volere
 tA
 te
 td
@@ -34575,6 +34634,8 @@ trammRaVdAdPKLYiRV
 tVcWG
 tOWLVu
 tdIEgsTDhw
+teoria
+trascurabili
 CG
 Cf
 CDDDDD
@@ -35373,6 +35434,7 @@ CgkAI
 CfqMkDurEmh
 CSVpVhdgQ
 CggTApgBdsbm
+Condizioni
 Nf
 NR
 Non
@@ -38528,6 +38590,9 @@ fLgwaSystgzDVCj
 fPXs
 fkyJGIzJ
 fPzs
+funzionamento
+facciamo
+finta
 Au
 AV
 AX
@@ -41585,6 +41650,9 @@ dOzt
 duk
 dOiS
 dimostra
+dello
+dipendono
+domandata
 eA
 eWf
 eddh
@@ -43131,6 +43199,9 @@ ePqampsbHxvHnzgoKCYBF
 evXL
 eOXKlcKk
 esista
+esterne
+equilibrio
+elencate
 Ve
 VM
 Vka
@@ -43821,6 +43892,8 @@ VkWoTUCTyuvBH
 VtCjY
 VqFRMTk
 VuHPnzs
+Variabili
+Valori
 BdD
 Bp
 Biiettiva
