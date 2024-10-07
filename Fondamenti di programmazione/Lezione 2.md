@@ -54,3 +54,8 @@ $0111_{(2)}= 0\cdot 2^3 + 1\cdot 2^2+ 1\cdot 2^1+1\cdot 2^0=7_{(10)}$
 
 ### Da base 10 a base 2
 
+### Modulo e segno
+$n\in [-(2^{k-1} - 1), 2^{k-1} - 1]$
+Ma in questa situazione ci sono 2 zeri 
+
+### Operazioni
