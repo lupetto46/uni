@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Fondamenti di programmazione/Lezione 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Fondamenti di programmazione/Lezione 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vhigh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Fondamenti di programmazione/Lezione 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+                "file": "Fondamenti di programmazione/Lezione 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamenti di programmazione/Elaborazione dell'informazione.md"
+                "file": "Fondamenti di programmazione/Lezione 2.md"
               }
             }
           },
@@ -174,10 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f0a42fa4631730d",
+  "active": "142a5e8545d0cb43",
   "lastOpenFiles": [
-    "Algebra lineare e geometria/Insiemi.md",
     "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+    "Fondamenti di programmazione/Lezione 2.md",
+    "Algebra lineare e geometria/Insiemi.md",
     "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
     "Economia applicata/Modello economico.md",
     "Economia applicata/Piccola introduzione.md",
