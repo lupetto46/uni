@@ -220,5 +220,8 @@ $(\frac{ℤ}{Pℤ},\cdotp,\overline{1}) =>$ in cui $P$ è un numero primo
 ## Gli insieme con più operazioni
 ### Definizione di anello
 Per essere un anello è un insieme non vuoto con due operazione $+$ e $\cdot$ devono essere:
-1. $(S,+)$ sia un gruppo abeliano con elemento neutro $0$
-- $(S,\cdotp)$ un semigruppo
+1) $(S,+)$ sia un gruppo abeliano con elemento neutro $0$
+2) $(S,\cdotp)$ un semigruppo
+3) $\forall a,b,c\in S,\quad a\cdot(b+c)=a\cdot b+a\cdot b,a\cdot(b+c)=a\cdot b+a\cdot c$
+4) Se la moltiplicazione è commutativo l'anello si chiama commutativo
+5) Se
