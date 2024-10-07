@@ -117,9 +117,10 @@ $\frac{S}{R}=\{[a]\ |a\in S\}\Rightarrow$ tutte le classi di equivalenza
 > In questo caso il motivo di questo risultato è $\{[0],[1]\}$ perché tutte le classi di equivalenza che può avere questo quoziente è il caso in cui il numero è pari e il caso in cui il numero è dispari che noi contrassegniamo con $[0]$ tutti i casi in cui il numero è pari e $[1]$ il caso in cui il numero è dispari
 
 
-In realtà il modulo non è altro che una *funzione* che ritorna il *resto di una divisione*
+In realtà il modulo non è altro che una *funzione* che **ritorna** il *resto di una divisione*
 
-Ad esempio: $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
+> [!example] Esempio
+> $\frac{5}{2}$ fa $2$ con resto $1$ di conseguenza $5\ mod\ 2= 1$
 
 Tra le classi di equivalenze della differenza tra insieme e relazione ci saranno tutti i valori che danno il resto da $0$ a $n-1$ di cui $n$ è il numero per cui si sta facendo il modulo
 

@@ -3424,6 +3424,7 @@ giunge
 generica
 gruppo
 giungere
+gigabyte
 pHYs
 pJ
 pn
@@ -4226,6 +4227,7 @@ potevamo
 paio
 polarizzazione
 parziali
+polinomiale
 HBz
 HN
 HU
@@ -5907,6 +5909,7 @@ Rappresentare
 Relazioni
 Riflessiva
 Razionali
+Rappresentazione
 lL
 lk
 lkS
@@ -9786,6 +9789,9 @@ MZEVaM
 MCpydnVeuXNm
 Minimo
 Macchina
+Mebibyte
+MiB
+Modulo
 JHH
 Jx
 JIIQTTT
@@ -14456,6 +14462,7 @@ Sono
 Simmetrica
 Sotto
 Supp
+Sistemi
 Zy
 Zar
 ZN
@@ -17374,6 +17381,7 @@ chiamato
 commutativo
 codificarle
 codifica
+coefficienti
 av
 as
 aIT
@@ -18575,6 +18583,7 @@ abeliano
 alta
 approssimata
 assieme
+architettura
 GM
 Gr
 GD
@@ -19393,6 +19402,11 @@ GCEXNR
 GfGBAweSUwkfFslCT
 GjRqUJGjtV
 Grafica
+GigaByte
+GiBiByte
+Gigabyte
+GiBibyte
+Gibibyte
 hf
 hN
 hI
@@ -22573,6 +22587,7 @@ Endogene
 Esprimere
 Esecutore
 Eseguibilit
+Essendo
 bfl
 bE
 bg
@@ -23648,6 +23663,8 @@ bivio
 bassa
 buio
 bit
+basato
+binaria
 Ys
 YV
 Yh
@@ -25283,6 +25300,8 @@ modulo
 monoide
 magnetica
 messi
+multipli
+megabyte
 xUu
 xeV
 xn
@@ -28672,6 +28691,7 @@ OiqWKqqXbt
 ODAgQMLLeA
 Offerta
 Ogni
+Operazioni
 nl
 nf
 nP
@@ -29418,6 +29438,7 @@ nulla
 nessuna
 normalmente
 neutri
+numerazione
 Wp
 Wsv
 We
@@ -35657,6 +35678,8 @@ Calcolare
 Congruenza
 Classe
 Caratteri
+Conversione
+Complemento
 Nf
 NR
 Non
@@ -38831,6 +38854,7 @@ finiscono
 formano
 fatta
 fra
+fatti
 Au
 AV
 AX
