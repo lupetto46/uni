@@ -59,3 +59,5 @@ $n\in [-(2^{k-1} - 1), 2^{k-1} - 1]$
 Ma in questa situazione ci sono 2 zeri 
 
 ### Operazioni
+
+## Complemento a 2
