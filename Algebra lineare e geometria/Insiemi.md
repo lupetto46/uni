@@ -232,4 +232,8 @@ Per essere un anello è un insieme non vuoto con due operazione $+$ e $\cdot$ de
 > [!note] Esempio
 > $(ℤ, +, \cdotp, 0, 1)$ è un anello commutativo unitario è quindi dominio di integrità perché non ci sono numeri diversi da zero che se moltiplicati hanno $0$, ma non è un campo.
 > $(ℚ, +, \cdotp, 0, 1)$ è un campo
-> $ℝ, +, \cdotp, 0, 1)$
+> $(ℝ, +, \cdotp, 0, 1)$ è un campo
+> $(\frac{ℤ}{nℤ}, +, \cdotp, \overline{0}, \overline{1})$ è un campo se $n$ è primo
+> $(\frac{ℤ}{nℤ}, +, \cdotp, 0, 1)$ è "solo" un anello commutativo unitario se $n$ non è primo
+
+

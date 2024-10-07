@@ -1,0 +1,1 @@
+$\begin{align*}f:A\longrightarrow B\\a\mapsto B\end{align*}$

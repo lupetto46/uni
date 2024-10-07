@@ -1714,6 +1714,7 @@ Ingegneria
 Indica
 Intersezione
 Instructions
+Inverso
 sRGB
 sq
 sN
@@ -3429,6 +3430,7 @@ generica
 gruppo
 giungere
 gigabyte
+gruppi
 pHYs
 pJ
 pn
@@ -4232,6 +4234,7 @@ paio
 polarizzazione
 parziali
 polinomiale
+parlando
 HBz
 HN
 HU
@@ -9803,6 +9806,7 @@ Macchina
 Mebibyte
 MiB
 Modulo
+Moltiplica
 JHH
 Jx
 JIIQTTT
@@ -12982,6 +12986,7 @@ Transitiva
 Tensione
 Testo
 This
+Tuttavia
 rJ
 rU
 rTkb
@@ -18612,6 +18617,7 @@ and
 automatically
 available
 above
+anello
 GM
 Gr
 GD
@@ -19435,6 +19441,7 @@ GiBiByte
 Gigabyte
 GiBibyte
 Gibibyte
+Generale
 hf
 hN
 hI
@@ -25335,6 +25342,8 @@ messi
 multipli
 megabyte
 mode
+moltiplicazione
+moltiplicati
 xUu
 xeV
 xn
@@ -27616,6 +27625,7 @@ immaginato
 indipendentemente
 iconiche
 intanto
+integrit
 Ot
 Ok
 OU
@@ -28725,6 +28735,7 @@ ODAgQMLLeA
 Offerta
 Ogni
 Operazioni
+Operazione
 nl
 nf
 nP
@@ -29474,6 +29485,7 @@ neutri
 numerazione
 nume
 naturale
+negli
 Wp
 Wsv
 We
@@ -33935,6 +33947,7 @@ verifica
 variazioni
 voglio
 viewing
+vuoto
 tA
 te
 td
@@ -36800,6 +36813,7 @@ Numero
 Nell
 Numeri
 Not
+Neutro
 UFF
 Uu
 Uy
@@ -38903,6 +38917,7 @@ file
 for
 files
 following
+fattibile
 Au
 AV
 AX
@@ -39687,6 +39702,7 @@ Arrivato
 Antisimmetrica
 Azioni
 Additional
+Addizione
 LG
 La
 Linguaggio
@@ -41989,6 +42005,7 @@ differente
 disposizione
 deleted
 desired
+divisori
 eA
 eWf
 eddh
