@@ -18,9 +18,14 @@ Per esempio:
   Che tipologia di numeri esistono e possiamo rappresentare
 	- Numeri naturali
 	- Numeri interi
-	- Numeri Razionali (anche se non siamo in grado di avere una rappresentazione esatta ma possiamo avere solo una rappresentazione approssimata)
+	- Numeri Razionali (anche se *non siamo in grado di avere una rappresentazione esatta* ma possiamo avere solo una *rappresentazione approssimata*)
+
 - Dati non numerici:
 	- Caratteri
 	- Testo
 	- Grafica
 
+## Il Bit e il Byte
+### Il Bit
+- Il bit è l'unità base di misura
+- 
