@@ -1,1 +1,1 @@
-$\begin{align*}f:A\longrightarrow B\\a\mapsto B\end{align*}$
+Siano $A, B$ due insiemi. Una funzione da *$A$ a $B$* $(\begin{align*}f:&A\longrightarrow B\\ &a\longmapsto b\end{align*})$ è un qualsiasi "procedimento" che **ad ogni elemento** di $B$
