@@ -11,6 +11,10 @@ Si può scrivere quindi che il grafico della funzione $\Gamma$ è un insieme di 
 $f: A\longrightarrow B \Longleftrightarrow \Gamma_f=\{(a, f(a))|a\in A\}\subseteq A\times B$
 
 > [!quote] Definizione
-> L'identità $id_A$ è una funzione che ha dominio e codominio uguali.
-> $\begin{align*}id_A:\ &A\longrightarrow A\\ &a \longmapsto a\end{align*},\qquad \Gamma$
-> 
+> L'identità $id_A$ è una funzione che manda un elemento a se stesso.
+> $\begin{align*}id_A:\ &A\longrightarrow A\\ &a \longmapsto a\end{align*}\qquad,\qquad \Gamma_{id}=\{(a,a)|a\in A\}\subseteq A\times A$
+
+Se $A=ℤ$
+
+$\begin{align*}f:\ &ℤ\longrightarrow ℤ \\ &n\longmapsto n+1\end{align*}\qquad ,\qquad \Gamma_f=\{(n, n+1)| n\in ℤ\}$
+
