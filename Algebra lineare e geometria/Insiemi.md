@@ -178,3 +178,8 @@ $(S, *)$ è detta struttura algebrica
 - Un semigruppo / monoide $(S,*)$ si dice **commutativo** o **abeliano** se l'operazione è commutativa
 - Avendo un monoide $(S, *): a\in S$ diciamo che questo elemento è invertibile se $\exists b\in S: b*a=e=a*b$ in tal caso $b$ si dice l'inverso di $a$
 - Un monoide di cui ogni elemento è invertibile è chiamato gruppo 
+
+Per esempio sono monoidi:
+$(ℤ,+,0),(ℚ\backslash\{0\},\cdot,1)$
+$(ℚ, +, 0), (ℝ)$
+$(ℝ, +, 0)$
