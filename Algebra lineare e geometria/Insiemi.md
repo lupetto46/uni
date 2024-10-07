@@ -179,7 +179,13 @@ $(S, *)$ è detta struttura algebrica
 - Avendo un monoide $(S, *): a\in S$ diciamo che questo elemento è invertibile se $\exists b\in S: b*a=e=a*b$ in tal caso $b$ si dice l'inverso di $a$
 - Un monoide di cui ogni elemento è invertibile è chiamato gruppo 
 
-Per esempio sono monoidi:
+Per esempio sono gruppi:
 $(ℤ,+,0),(ℚ\backslash\{0\},\cdot,1)$
-$(ℚ, +, 0), (ℝ)$
+$(ℚ, +, 0), (ℝ\backslash\{0\},\cdot, 1)$
 $(ℝ, +, 0)$
+
+È un gruppo anche:
+$(\frac{ℤ}{2ℤ},+, \overline{0})$
+
+perché
+- L'invertibile di $\overline{#}$
