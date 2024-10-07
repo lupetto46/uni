@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vhigh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "142a5e8545d0cb43",
+  "active": "3ab14f41d6adb4a0",
   "lastOpenFiles": [
     "Fondamenti di programmazione/Elaborazione dell'informazione.md",
     "Fondamenti di programmazione/Lezione 2.md",
