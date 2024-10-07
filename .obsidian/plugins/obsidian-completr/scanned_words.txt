@@ -2619,6 +2619,8 @@ stella
 sinistro
 struttura
 semigruppo
+simboli
+simboliche
 gAMA
 go
 gW
@@ -4222,6 +4224,8 @@ posizione
 piacimento
 potevamo
 paio
+polarizzazione
+parziali
 HBz
 HN
 HU
@@ -5902,6 +5906,7 @@ RNlLyIdjaikAAAAASUVORK
 Rappresentare
 Relazioni
 Riflessiva
+Razionali
 lL
 lk
 lkS
@@ -11582,6 +11587,7 @@ utente
 uscita
 univoco
 utilizza
+utilizzati
 Xx
 Xh
 Xr
@@ -12954,6 +12960,8 @@ Tesi
 Tutto
 Terminazione
 Transitiva
+Tensione
+Testo
 rJ
 rU
 rTkb
@@ -13722,6 +13730,7 @@ rappresentate
 riprendendo
 rappresentante
 ritorna
+rappresentiamo
 SL
 SZ
 SO
@@ -17363,6 +17372,8 @@ contrassegniamo
 conclusione
 chiamato
 commutativo
+codificarle
+codifica
 av
 as
 aIT
@@ -18561,6 +18572,9 @@ appartengono
 appartenere
 algebrica
 abeliano
+alta
+approssimata
+assieme
 GM
 Gr
 GD
@@ -19378,6 +19392,7 @@ GRZmAJGteeOnVq
 GCEXNR
 GfGBAweSUwkfFslCT
 GjRqUJGjtV
+Grafica
 hf
 hN
 hI
@@ -23630,6 +23645,9 @@ bisogno
 bidimensionale
 ben
 bivio
+bassa
+buio
+bit
 Ys
 YV
 Yh
@@ -25263,6 +25281,8 @@ matrice
 memorizzare
 modulo
 monoide
+magnetica
+messi
 xUu
 xeV
 xn
@@ -27542,6 +27562,8 @@ informazione
 informazioni
 immaginato
 indipendentemente
+iconiche
+intanto
 Ot
 Ok
 OU
@@ -32251,6 +32273,7 @@ Determinismo
 Dopo
 Differenza
 Decido
+Dati
 yJJJr
 yyy
 ye
@@ -35633,6 +35656,7 @@ Catania
 Calcolare
 Congruenza
 Classe
+Caratteri
 Nf
 NR
 Non
@@ -36709,6 +36733,7 @@ Nzen
 NfehWm
 Numero
 Nell
+Numeri
 UFF
 Uu
 Uy
@@ -37437,6 +37462,7 @@ UKZ
 UDRGwd
 UdyzZo
 Unione
+Usato
 fN
 feun
 fs
@@ -39587,6 +39613,7 @@ Altro
 Algoritmo
 Arrivato
 Antisimmetrica
+Azioni
 LG
 La
 Linguaggio
@@ -40424,6 +40451,7 @@ LrdMj
 LCysjp
 LkKszbDasswjIqxsbHZs
 Lemma
+Luce
 dU
 df
 dI
@@ -41884,6 +41912,7 @@ divisibili
 dipende
 divisione
 destro
+differente
 eA
 eWf
 eddh
@@ -43451,6 +43480,8 @@ equivalente
 equivalenti
 equivalenze
 esserci
+elettrica
+esatta
 Ve
 VM
 Vka
@@ -44143,6 +44174,8 @@ VqFRMTk
 VuHPnzs
 Variabili
 Valori
+Vhigh
+Vlow
 BdD
 Bp
 Biiettiva
@@ -44883,4 +44916,6 @@ BIF
 BXKkJWVRWUAPQRW
 BNj
 BWUxo
+Bit
+Byte
 äA
