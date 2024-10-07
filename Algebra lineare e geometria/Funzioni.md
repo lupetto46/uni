@@ -18,3 +18,6 @@ Se $A=ℤ$
 
 $\begin{align*}f:\ &ℤ\longrightarrow ℤ \\ &n\longmapsto n+1\end{align*}\qquad ,\qquad \Gamma_f=\{(n, n+1)| n\in ℤ\}$
 
+### Limitare il dominio e il codominio
+- $\begin{align*}\sqrt{\quad}:\ &ℝ\longrightarrow ℝ\\ &x\longmapsto \sqrt{x}\end{align*}$
+- $\begin{align*}\end{align*}$
