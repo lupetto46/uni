@@ -204,6 +204,14 @@ $\overline{2}\cdot\overline{2}= \overline{0}$
 $\overline{1}\cdot\overline{2}= \overline{2}$
 $\overline{2}\cdot\overline{2}= \overline{4} = \overline{1}$
 
-Tuttavia $(\frac{ℤ}{4ℤ}, \cdotp, \overline{0})$ non è un gruppo in quanto:
-- L'inverso di $\overline{2}$ sarebbe $\overline{4}$ ma non è fattibile in quanto non si trova nell'insieme che in questo caso è $\frac{ℤ}{4ℤ}=\{\overline{0},\overline{1},\overline{2}, \overline{3}\}$
-- 
+Tuttavia $(\frac{ℤ}{4ℤ}\backslash\{0\}, \cdotp, \overline{1})$ non è un gruppo in quanto:
+- L'inverso di $\overline{2}$ sarebbe $\overline{2}$ ma non è fattibile in quanto $\overline{4}=\overline{0}$ che nell'insieme che in questo caso è $\frac{ℤ}{4ℤ}\backslash\{0\}=\{\overline{1},\overline{2}, \overline{3}\}$ non esiste
+
+Questo implica quindi che negli insiemi con modulo e come operazione la moltiplicazione è un *gruppo solo se il numero del modulo è un numero primo* ad esempio:
+$(\frac{ℤ}{Pℤ},\cdotp,\overline{1}) =>$ in cui $P$ è un numero primo
+
+
+|            |     |
+| ---------- | --- |
+| Operazione |     |
+|            |     |
