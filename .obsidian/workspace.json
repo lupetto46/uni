@@ -1,37 +1,19 @@
 {
   "main": {
-    "id": "edca4f6327284efe",
+    "id": "782114ab74ab043a",
     "type": "split",
     "children": [
       {
-        "id": "a2b924f2fb544daa",
+        "id": "3949ffa8fa096883",
         "type": "tabs",
         "children": [
           {
-            "id": "3b846f5684666e57",
+            "id": "e9969b5c416afb00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra lineare e geometria/Insiemi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c72cd3341277aec6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ac8b4fdfcb3e3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,25 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e1e3f5bf07600c5",
+    "id": "ef0600d33e1dcb96",
     "type": "split",
     "children": [
       {
-        "id": "8b17a7e00c164ef9",
+        "id": "0d40e9425b8d440f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab14f41d6adb4a0",
+            "id": "be3399c5a720f669",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "142a5e8545d0cb43",
+            "id": "16464cc70eb28299",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +58,7 @@
             }
           },
           {
-            "id": "27258cc0f4d53217",
+            "id": "797320a5ff636741",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "23b87adc9aae6fd9",
+    "id": "bb88124cf9ebd1fe",
     "type": "split",
     "children": [
       {
-        "id": "dbdce9338290094b",
+        "id": "47e8a78be60ead41",
         "type": "tabs",
         "children": [
           {
-            "id": "0c0b0f19414efa7a",
+            "id": "82e30ecb095f72c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +97,19 @@
             }
           },
           {
-            "id": "26c846d47dfba983",
+            "id": "6b044a964bfb5de7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9f36ac482fbaaca2",
+            "id": "85a5916d064d61d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,25 +120,16 @@
             }
           },
           {
-            "id": "1f713bab4d02ccf7",
+            "id": "865d680e54e12ab6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
-          },
-          {
-            "id": "b9175ac769ee3656",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,57 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3ac8b4fdfcb3e3ea",
+  "active": "e9969b5c416afb00",
   "lastOpenFiles": [
-    "Algebra lineare e geometria/Insiemi.md",
-    "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
-    "Fondamenti di programmazione/Elaborazione dell'informazione.md",
-    "Fondamenti di programmazione/Rappresentazione dei dati.md",
-    "Economia applicata/Modello economico.md",
-    "Economia applicata/Piccola introduzione.md",
-    "Algebra lineare e geometria",
-    "Analisi I/Insiemi numerici.md",
-    "Analisi I/Il valore assoluto.md",
-    "Analisi I/Estremi di un insieme numerico.md",
-    "Corsi zero/Trigonometria e Goniometria.md",
-    "Corsi zero/Giorno 1.md",
-    "Fondamenti di programmazione",
-    "Corsi zero/Immagini/Onde quadre con armoniche.jpg",
-    "Corsi zero/Giorno 4.md",
-    "Economia applicata/Untitled",
-    "Economia applicata",
-    "Analisi I",
-    "Corsi zero/Immagini/Pasted image 20240927200134.png",
-    "Corsi zero/Giorno 3.md",
-    "Corsi zero/Giorno 2.md",
-    "Corsi zero/Immagini/untitled 2.jpg",
-    "Corsi zero/Immagini/Pasted image 20240926191412.png",
-    "Readme.md",
-    "Corsi zero/Immagini/untitled 1.jpg",
-    "Corsi zero/Immagini/untitled.jpg",
-    "Corsi zero/Immagini/Pasted image 20240925164135.png",
-    "Corsi zero/Immagini/Pasted image 20240925164050.png",
-    "Corsi zero/Immagini/Pasted image 20240925164037.png",
-    "Corsi zero/Immagini/Pasted image 20240925164024.png",
-    "Corsi zero/Immagini",
-    "Corsi zero",
-    "Basi/Fisica/Grandezze Fisiche, misura, concetti interdisciplinari.md",
-    "Untitled.md",
-    "Basi/Matematica/Funzioni/Unit 1.md",
-    "Basi/Fisica/Immagini",
-    "Basi/Matematica/Immagini",
-    "Basi/Matematica/Funzioni",
-    "conflict-files-obsidian-git.md",
-    "Ripassone/Untitled.md",
-    "Welcome.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

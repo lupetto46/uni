@@ -948,6 +948,7 @@ Parametri
 Prove
 Programmazione
 Prodotto
+Please
 IHDR
 IDATx
 Ii
@@ -1712,6 +1713,7 @@ ISQPlMrZ
 Ingegneria
 Indica
 Intersezione
+Instructions
 sRGB
 sq
 sN
@@ -2621,6 +2623,8 @@ struttura
 semigruppo
 simboli
 simboliche
+strongly
+simple
 gAMA
 go
 gW
@@ -6628,6 +6632,8 @@ limitato
 lavoro
 lasciare
 lemma
+list
+listed
 oooEDD
 oo
 osv
@@ -7378,6 +7384,8 @@ ottimizzare
 obbiettivi
 output
 ordinatamente
+obsidian
+occurrence
 QR
 QIYKI
 QG
@@ -8881,6 +8889,9 @@ wdISkqiwREEnR
 womIiKC
 waoQ
 wzDFMBxMXFTZ
+will
+workspace
+with
 MO
 MR
 Ma
@@ -11594,6 +11605,8 @@ uscita
 univoco
 utilizza
 utilizzati
+using
+use
 Xx
 Xh
 Xr
@@ -12968,6 +12981,7 @@ Terminazione
 Transitiva
 Tensione
 Testo
+This
 rJ
 rU
 rTkb
@@ -13738,6 +13752,9 @@ rappresentante
 ritorna
 rappresentiamo
 rappresentarlo
+resolve
+recommend
+replace
 SL
 SZ
 SO
@@ -14464,6 +14481,7 @@ Simmetrica
 Sotto
 Supp
 Sistemi
+Source
 Zy
 Zar
 ZN
@@ -16066,6 +16084,7 @@ FYHAtv
 FPZtGYZRJbVq
 Ferrari
 Finitezza
+For
 cS
 cL
 cNt
@@ -17383,6 +17402,10 @@ commutativo
 codificarle
 codifica
 coefficienti
+commit
+commands
+conflicted
+conflicts
 av
 as
 aIT
@@ -18585,6 +18608,10 @@ alta
 approssimata
 assieme
 architettura
+and
+automatically
+available
+above
 GM
 Gr
 GD
@@ -23667,6 +23694,9 @@ bit
 basato
 binaria
 binario
+before
+below
+blocks
 Ys
 YV
 Yh
@@ -25304,6 +25334,7 @@ magnetica
 messi
 multipli
 megabyte
+mode
 xUu
 xeV
 xn
@@ -31513,6 +31544,7 @@ jPv
 jURa
 jciePXukb
 jxotY
+json
 DX
 DsM
 DDDDD
@@ -33902,6 +33934,7 @@ verificare
 verifica
 variazioni
 voglio
+viewing
 tA
 te
 td
@@ -34879,6 +34912,9 @@ teorica
 tradurre
 trasportare
 tal
+them
+the
+text
 CG
 Cf
 CDDDDD
@@ -35685,6 +35721,7 @@ Classe
 Caratteri
 Conversione
 Complemento
+Conflicts
 Nf
 NR
 Non
@@ -36762,6 +36799,7 @@ NfehWm
 Numero
 Nell
 Numeri
+Not
 UFF
 Uu
 Uy
@@ -38860,6 +38898,11 @@ formano
 fatta
 fra
 fatti
+followed
+file
+for
+files
+following
 Au
 AV
 AX
@@ -39643,6 +39686,7 @@ Algoritmo
 Arrivato
 Antisimmetrica
 Azioni
+Additional
 LG
 La
 Linguaggio
@@ -41943,6 +41987,8 @@ divisione
 destro
 differente
 disposizione
+deleted
+desired
 eA
 eWf
 eddh
@@ -43512,6 +43558,8 @@ equivalenze
 esserci
 elettrica
 esatta
+each
+every
 Ve
 VM
 Vka
