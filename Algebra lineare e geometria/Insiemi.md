@@ -1,3 +1,5 @@
+
+
 Sono entrato dopo quindi farmi dare gli appunti
 
 ### Prodotto cartesiano
@@ -69,7 +71,7 @@ Ci sono due tipi di relazioni e una relazione deve soddisfare delle proprietà p
 
 ### Congruenza modulo n
 Prendiamo di esempio:
-$a,b\in ℤ,\qquad n\geq1\qquad aR_nb \Longleftrightarrow n|a-b \Longleftrightarrow a\equiv b\ mod\ n$ 
+$a,b\in ℤ,\qquad n\geq1\qquad aR_nb \Longleftrightarrow n|a-b \Longleftrightarrow a\equiv b\ mod\ n$
 ### Ma cos'è questo modulo?
 #### Classe equivalenti
 innanzitutto è utile sapere cos'è una classe equivalente.

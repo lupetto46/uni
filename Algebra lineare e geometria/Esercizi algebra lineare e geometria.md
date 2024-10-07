@@ -9,3 +9,4 @@ $b*a=a*b=e$
 Di conseguenza
 $b*a=e=c*a$
 quindi $c=b$
+
