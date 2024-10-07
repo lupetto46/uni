@@ -13737,6 +13737,7 @@ riprendendo
 rappresentante
 ritorna
 rappresentiamo
+rappresentarlo
 SL
 SZ
 SO
@@ -23665,6 +23666,7 @@ buio
 bit
 basato
 binaria
+binario
 Ys
 YV
 Yh
@@ -29439,6 +29441,8 @@ nessuna
 normalmente
 neutri
 numerazione
+nume
+naturale
 Wp
 Wsv
 We
@@ -33897,6 +33901,7 @@ volessi
 verificare
 verifica
 variazioni
+voglio
 tA
 te
 td
@@ -41937,6 +41942,7 @@ dipende
 divisione
 destro
 differente
+disposizione
 eA
 eWf
 eddh
