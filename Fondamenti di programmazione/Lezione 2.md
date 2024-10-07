@@ -43,4 +43,10 @@ Essendo il calcolatore basato su un architettura binaria non funziona a multipli
 In fatti un Gibibyte equivale a 1024 Mebibyte (MiB)
 
 # Sistemi di numerazione
-## Definizione
+## Rappresentazione polinomiale
+- In generale della B la base e $c_i$ i coefficienti
+$N=\sum^{n}_{i=0} c_i\cdot b^i$
+
+## Conversione di base
+
+$0111_{(2)}= 0\times$
