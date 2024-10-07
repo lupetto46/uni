@@ -229,3 +229,7 @@ Per essere un anello è un insieme non vuoto con due operazione $+$ e $\cdot$ de
 7) Se $(S, +, \cdotp, 0)$ non ha divisioni dello zero si dice un dominio di integrità
 8) Se $(S\backslash\{0\}, \cdotp)$ è un gruppo abeliano con elemento neutro $1\neq 0$ allora $(S, +, \cdotp,0,1)$ si dice **un campo**
 
+> [!note] Esempio
+> $(ℤ, +, \cdotp, 0, 1)$ è un anello commutativo unitario è quindi dominio di integrità perché non ci sono numeri diversi da zero che se moltiplicati hanno $0$, ma non è un campo.
+> $(ℚ, +, \cdotp, 0, 1)$ è un campo
+> $ℝ, +, \cdotp, 0, 1)$
