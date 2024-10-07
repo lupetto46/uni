@@ -61,3 +61,15 @@ Ma in questa situazione ci sono 2 zeri
 ### Operazioni
 
 ## Complemento a 2
+I numeri si possono rappresentare come:
+$127-n$
+Quindi se voglio il numero 3 posso rappresentarlo come:
+$127 - 124 = 3$
+così facendo ho una sola rappresentazione dello $0$
+
+Quindi
+
+
+Sia $k$ il numero di bit a disposizione
+
+$n$ il nume binario naturale di $2^k+x$
