@@ -191,5 +191,17 @@ perché
 - L'invertibile di $\overline{0}$ è $\overline{0}$ in quanto = $\overline{0}+\overline{0}=\overline{0}$
 - E l'invertibile di $\overline{1}$ è $\overline{1}$ in quanto $\overline{1}+\overline{1}=\overline{2}$ che visto che stiamo parlando di $n\ mod\ 2$ scrivere $\overline{2}$ è la stessa cosa di scrivere $\overline{0}$
 
-Tuttavia $(\frac{ℤ}{6ℤ}, +, \overline{0})$ non è un gruppo in quanto:
+Questo si può fare anche con la moltiplicazione:
+$(\frac{ℤ}{3ℤ},\cdotp,\overline{1})$
+
+$\overline{0}\cdot\overline{0}=\overline{0}$
+$\overline{0}\cdot\overline{1}=\overline{0}$
+$\overline{1}\cdot\overline{0}=\overline{0}$
+$\overline{1}\cdot\overline{1}=\overline{1}$
+$\overline{1}\cdot\overline{2}= \overline{2}$
+$\overline{2}\cdot\overline{1}= \overline{2}$
+$\overline{2}\cdot\overline{2}= \overline{0}$
+$\overline{1}\cdot\overline{2}= \overline{0}$
+
+Tuttavia $(\frac{ℤ}{6ℤ}, \cdotp, \overline{0})$ non è un gruppo in quanto:
 - $$
