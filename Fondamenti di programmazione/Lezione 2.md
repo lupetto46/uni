@@ -41,3 +41,6 @@ Un gigabyte è uguale a un 1000 megabyte
 ### GiBibyte
 Essendo il calcolatore basato su un architettura binaria non funziona a multipli di $10$ ma multipli di due
 In fatti un Gibibyte equivale a 1024 Mebibyte (MiB)
+
+# Sistemi di numerazione
+## Definizione
