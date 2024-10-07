@@ -211,7 +211,14 @@ Questo implica quindi che negli insiemi con modulo e come operazione la moltipli
 $(\frac{ℤ}{Pℤ},\cdotp,\overline{1}) =>$ in cui $P$ è un numero primo
 
 
-|            |     |
-| ---------- | --- |
-| Operazione |     |
-|            |     |
+|            | Addizione | Moltiplica | Generale |
+| ---------- | --------- | ---------- | -------- |
+| Operazione | $+$       | $\cdot$    | $*$      |
+| Inverso    | $-a$      | $a^{-1}$   | $a^{-1}$ |
+| Neutro     | $0$       | $1$        | $e$      |
+
+## Gli insieme con più operazioni
+### Definizione di anello
+Per essere un anello è un insieme non vuoto con due operazione $+$ e $\cdot$ devono essere:
+1. $(S,+)$ sia un gruppo abeliano con elemento neutro $0$
+- $(S,\cdotp)$ un semigruppo
