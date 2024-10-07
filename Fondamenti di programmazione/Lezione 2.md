@@ -28,4 +28,8 @@ Per esempio:
 ## Il Bit e il Byte
 ### Il Bit
 - Il bit è l'unità base di misura
-- 
+- Il bit è in grado di rappresentare dati più complessi se utilizzati
+### Il  Byte
+- In informatica ha preso il nome di *Byte* 8 bit messi assieme
+- Usato come *unità di misura*
+
