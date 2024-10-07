@@ -188,4 +188,8 @@ $(ℝ, +, 0)$
 $(\frac{ℤ}{2ℤ},+, \overline{0})$
 
 perché
-- L'invertibile di $\overline{#}$
+- L'invertibile di $\overline{0}$ è $\overline{0}$ in quanto = $\overline{0}+\overline{0}=\overline{0}$
+- E l'invertibile di $\overline{1}$ è $\overline{1}$ in quanto $\overline{1}+\overline{1}=\overline{2}$ che visto che stiamo parlando di $n\ mod\ 2$ scrivere $\overline{2}$ è la stessa cosa di scrivere $\overline{0}$
+
+Tuttavia $(\frac{ℤ}{6ℤ}, +, \overline{0})$ non è un gruppo in quanto:
+- $$
