@@ -49,4 +49,9 @@ $N=\sum^{n}_{i=0} c_i\cdot b^i$
 
 ## Conversione di base
 
-$0111_{(2)}= 0\times$
+### Da base 2 a base 10
+$0111_{(2)}= 0\cdot 2^3 + 1\cdot 2^2+ 1\cdot 2^1+1\cdot 2^0=7_{(10)}$
+
+### Da base 10 a base 2
+
+$$
