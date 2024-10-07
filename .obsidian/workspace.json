@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 2.md",
+                "file": "Fondamenti di programmazione/Rappresentazione dei dati.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 2.md",
+                "file": "Fondamenti di programmazione/Rappresentazione dei dati.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 2.md",
+                "file": "Fondamenti di programmazione/Rappresentazione dei dati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 2.md",
+                "file": "Fondamenti di programmazione/Rappresentazione dei dati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamenti di programmazione/Lezione 2.md"
+                "file": "Fondamenti di programmazione/Rappresentazione dei dati.md"
               }
             }
           },
@@ -177,7 +177,7 @@
   "active": "3b846f5684666e57",
   "lastOpenFiles": [
     "Fondamenti di programmazione/Elaborazione dell'informazione.md",
-    "Fondamenti di programmazione/Lezione 2.md",
+    "Fondamenti di programmazione/Rappresentazione dei dati.md",
     "Algebra lineare e geometria/Insiemi.md",
     "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
     "Economia applicata/Modello economico.md",
