@@ -201,7 +201,9 @@ $\overline{1}\cdot\overline{1}=\overline{1}$
 $\overline{1}\cdot\overline{2}= \overline{2}$
 $\overline{2}\cdot\overline{1}= \overline{2}$
 $\overline{2}\cdot\overline{2}= \overline{0}$
-$\overline{1}\cdot\overline{2}= \overline{0}$
+$\overline{1}\cdot\overline{2}= \overline{2}$
+$\overline{2}\cdot\overline{2}= \overline{4} = \overline{1}$
 
-Tuttavia $(\frac{ℤ}{6ℤ}, \cdotp, \overline{0})$ non è un gruppo in quanto:
-- $$
+Tuttavia $(\frac{ℤ}{4ℤ}, \cdotp, \overline{0})$ non è un gruppo in quanto:
+- L'inverso di $\overline{2}$ sarebbe $\overline{4}$ ma non è fattibile in quanto non si trova nell'insieme che in questo caso è $\frac{ℤ}{4ℤ}=\{\overline{0},\overline{1},\overline{2}, \overline{3}\}$
+- 
