@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "782114ab74ab043a",
+    "id": "008e06a8709332aa",
     "type": "split",
     "children": [
       {
-        "id": "3949ffa8fa096883",
+        "id": "40825b66478d7f82",
         "type": "tabs",
         "children": [
           {
-            "id": "e9969b5c416afb00",
+            "id": "6884ef9b6813149b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef0600d33e1dcb96",
+    "id": "4824484da6a8e75b",
     "type": "split",
     "children": [
       {
-        "id": "0d40e9425b8d440f",
+        "id": "fe607349cd5a0c97",
         "type": "tabs",
         "children": [
           {
-            "id": "be3399c5a720f669",
+            "id": "f50bfd6fe04bb038",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "16464cc70eb28299",
+            "id": "67125556e085b40a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "797320a5ff636741",
+            "id": "c51e2210b097aeb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "bb88124cf9ebd1fe",
+    "id": "2eb4e1635f723ab6",
     "type": "split",
     "children": [
       {
-        "id": "47e8a78be60ead41",
+        "id": "ec660e43bc99405c",
         "type": "tabs",
         "children": [
           {
-            "id": "82e30ecb095f72c3",
+            "id": "af4d056c5420b91e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "6b044a964bfb5de7",
+            "id": "a44b7d6937be1823",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "85a5916d064d61d0",
+            "id": "8288c1bd331a48b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "865d680e54e12ab6",
+            "id": "c623d590989ab3d0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9969b5c416afb00",
+  "active": "6884ef9b6813149b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md"
+    "Fondamenti di programmazione/Rappresentazione dei dati.md",
+    "Fondamenti di programmazione/Elaborazione dell'informazione.md",
+    "Fondamenti di programmazione",
+    "Economia applicata/Modello economico.md",
+    "Analisi I/Il valore assoluto.md",
+    "Analisi I/Estremi di un insieme numerico.md",
+    "Algebra lineare e geometria/Insiemi.md",
+    "Algebra lineare e geometria/Esercizi algebra lineare e geometria.md",
+    "Algebra lineare e geometria"
   ]
 }
