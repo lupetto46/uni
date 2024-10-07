@@ -19,5 +19,7 @@ Se $A=ℤ$
 $\begin{align*}f:\ &ℤ\longrightarrow ℤ \\ &n\longmapsto n+1\end{align*}\qquad ,\qquad \Gamma_f=\{(n, n+1)| n\in ℤ\}$
 
 ### Limitare il dominio e il codominio
-- $\begin{align*}\sqrt{\quad}:\ &ℝ\longrightarrow ℝ\\ &x\longmapsto \sqrt{x}\end{align*}$
-- $\begin{align*}\end{align*}$
+- $\begin{align*}\sqrt{\quad}:\ &ℝ\longrightarrow ℝ\\ &x\longmapsto \sqrt{x}\end{align*}$ non è una funzione perché non esistono radici quadrate di numeri negativi nell'insieme dei numeri reali $(ℝ)$
+- $\begin{align*}\sqrt{\quad} :\ &ℝ\geq0 \longrightarrow ℝ \geq 0\\ &x\longmapsto \sqrt{x}\end{align*}$ Si deve quindi restringere il dominio
+
+$\begin{align*}f:\ &ℝ\longrightarrow ℝ\\ &b \longmapsto\{soluzioni\ di\ x^2-b=0\}\end{align*}$ anche questo non è una funzione perché ci sono elementi di r a cui vengono associati
