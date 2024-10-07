@@ -67,9 +67,9 @@ Quindi se voglio il numero 3 posso rappresentarlo come:
 $127 - 124 = 3$
 così facendo ho una sola rappresentazione dello $0$
 
-Quindi
-
-
+Quindi:
 Sia $k$ il numero di bit a disposizione
 
 $n$ il nume binario naturale di $2^k+x$
+Se voglio rappresentare il:
+- $+6_{10}=+0110_{(2)}=2^4+0110= 1000+0110$
