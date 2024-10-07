@@ -10,5 +10,7 @@ $\Gamma=$ grafico della funzione
 Si può scrivere quindi che il grafico della funzione $\Gamma$ è un insieme di *coppie ordinate* la cui prima coordinata $(a)$ e la seconda è $f(a)$:
 $f: A\longrightarrow B \Longleftrightarrow \Gamma_f=\{(a, f(a))|a\in A\}\subseteq A\times B$
 
-> [!note] Esempio
-> $id_A$
+> [!quote] Definizione
+> L'identità $id_A$ è una funzione che ha dominio e codominio uguali.
+> $\begin{align*}id_A:\ &A\longrightarrow A\\ &a \longmapsto a\end{align*},\qquad \Gamma$
+> 
