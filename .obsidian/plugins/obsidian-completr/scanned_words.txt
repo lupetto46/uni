@@ -4235,6 +4235,7 @@ polarizzazione
 parziali
 polinomiale
 parlando
+procedimento
 HBz
 HN
 HU
@@ -13760,6 +13761,7 @@ rappresentarlo
 resolve
 recommend
 replace
+restringere
 SL
 SZ
 SO
@@ -18618,6 +18620,7 @@ automatically
 available
 above
 anello
+associati
 GM
 Gr
 GD
@@ -25344,6 +25347,7 @@ megabyte
 mode
 moltiplicazione
 moltiplicati
+manda
 xUu
 xeV
 xn
@@ -26777,6 +26781,7 @@ qaWqVKFVHoNTdu
 quantit
 quale
 quoziente
+quadrate
 ip
 iz
 iU
@@ -27626,6 +27631,7 @@ indipendentemente
 iconiche
 intanto
 integrit
+identit
 Ot
 Ok
 OU
@@ -40541,6 +40547,7 @@ LCysjp
 LkKszbDasswjIqxsbHZs
 Lemma
 Luce
+Limitare
 dU
 df
 dI
