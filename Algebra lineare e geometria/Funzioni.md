@@ -125,15 +125,16 @@ Questa operazione è un operazione **non commutativa**
 
 
 ## Proprietà
-### Proposizione:
-Avendo $f: A\longrightarrow B\quad g:B\longrightarrow C\quad h: C\longrightarrow D$
-1. $h\circ(g\circ f)=(h\circ g)\circ f$ la composizione è quindi *associativa*
-2. Se $f,g$ sono iniettive allora $g\circ f$ è iniettiva
-3. Se $f,g$ sono suriettive allora $g\circ f$ è suriettiva
-4. Se $f, g$ sono biiettive allora $g\circ f$ sono biiettive
+> [!cite] Proposizione
+> Avendo $f: A\longrightarrow B\quad g:B\longrightarrow C\quad h: C\longrightarrow D$
+> 1. $h\circ(g\circ f)=(h\circ g)\circ f$ la composizione è quindi *associativa*
+> 2. Se $f,g$ sono iniettive allora $g\circ f$ è iniettiva
+> 3. Se $f,g$ sono suriettive allora $g\circ f$ è suriettiva
+> 4. Se $f, g$ sono biiettive allora $g\circ f$ sono biiettive
 
 ## Funzioni invertibili
-Le funzioni sono invertibili solo se biiettive
+> [!cite] Proposizione
+> Avendo $f$ una funzione $f: A\longrightarrow B$. $f$ è invertibile $\leftrightharpoons$ $f$ è biiettiva
 
 In quanto una funzione:
 $f:A \longrightarrow B$ è invertibile se $\exists g:B\longrightarrow A : g \circ f = id_A \wedge f\circ g: id_B$
@@ -230,3 +231,32 @@ Se $f:S\longrightarrow S$ allora si può comporre $f\circ f$ che si scrive $f^2$
 Abbiamo: 
 - $f^n=\underbrace{f\circ f \circ \dots\circ f}_{\text{n-volte}}$
 - $f^0=id_S$
+- $f^1=f$
+
+Sapendo questo possiamo fare la dimostrazione della proposizione detta prima
+
+> [!note] Dimostrazione: avendo $f:A\rightarrow B$. Se $f$ è invertibile $\leftrightharpoons$ $f$ é biiettiva
+> Per fare questa dimostrazione è necessario dimostrare due cose:
+> Avendo $f:A\longrightarrow B$:
+> 1. $f$ é biiettiva : $\Longrightarrow$ $\forall b\in B \exists !a\in A:f(a)=b$ $\Longrightarrow$ $\exists\ \begin{align*}g:&B\longrightarrow A\\&b\longmapsto a: f(a)=b\end{align*}$
+>    *Se $f$ è biiettiva per ogni $b\in B$ esiste un unica $a\in A$ tale che $f(a)=b$ questo implica ($\Longrightarrow$) che esiste una $g$ che va da $A$ in $B$ la cui immagine è $B$*
+>    Avendo questo sappiamo che la composizione tra $f\circ g= id_B$ e $g\circ f=id_A$ 
+> 2. $f$ è invertibile : 
+> 	- Abbiamo confermato che $f$ è iniettiva quindi:
+> 		$f(a)=f(a') \Longrightarrow f(g(a))= f(g(a'))\Longrightarrow a=a'$
+> 		*Se esiste per assurdo esiste $f(a)= f(a')$ ma $a$ è unico ($!a\in A$ scritto sopra) allora $a = a'$*
+>	- Abbiamo confermato che $f$ è suriettiva quindi:
+>		Sia $b\in B$ e $g(b)\in A \Longrightarrow f\circ g(b)=id_B=b \Longrightarrow g(b)=f^{-1}(b)$
+>		*Se $B$ è il dominio e $A$ il codominio di $g$ allora la composizione tra $f\circ g$ mi ritorna in $B$ dandomi l'identità*
+
+> [!cite] Lemma
+> Avendo $f: A\longrightarrow B, \quad g:B\longrightarrow C$ invertibili
+> $(g\circ f)^{-1}=f^{-1}\circ g^{-1}$
+> > [!note] Dimostrazione
+> > Se
+> > $(g^{-1}\circ f^{-1}) \circ (g \circ f)= id_A$  e $(f\circ g) \circ (f^{-1}\circ g^{-1})= id_B$
+> > Allora
+> > $(f^{-1}\circ g^{-1}) \circ (g\circ f) =f^{-1}\circ g^{-1} \circ g\circ f$
+> 
+> > [!attention] Attenzione
+> > Fare attenzione all'ordine in cui vengono messe le funzioni nella composizione
