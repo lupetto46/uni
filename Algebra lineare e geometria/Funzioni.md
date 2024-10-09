@@ -260,3 +260,4 @@ Sapendo questo possiamo fare la dimostrazione della proposizione detta prima
 > 
 > > [!attention] Attenzione
 > > Fare attenzione all'ordine in cui vengono messe le funzioni nella composizione
+
