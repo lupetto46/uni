@@ -4236,6 +4236,7 @@ parziali
 polinomiale
 parlando
 procedimento
+pre
 HBz
 HN
 HU
@@ -17413,6 +17414,8 @@ commit
 commands
 conflicted
 conflicts
+composizione
+componibili
 av
 as
 aIT
@@ -18621,6 +18624,7 @@ available
 above
 anello
 associati
+appartenente
 GM
 Gr
 GD
@@ -27632,6 +27636,7 @@ iconiche
 intanto
 integrit
 identit
+inserisce
 Ot
 Ok
 OU
@@ -35741,6 +35746,7 @@ Caratteri
 Conversione
 Complemento
 Conflicts
+Composizione
 Nf
 NR
 Non
@@ -42013,6 +42019,7 @@ disposizione
 deleted
 desired
 divisori
+dando
 eA
 eWf
 eddh
