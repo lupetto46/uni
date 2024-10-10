@@ -4789,6 +4789,7 @@ gmljHT
 gRoQkRYoNW
 generare
 gratis
+geometria
 pHYs
 pJ
 pn
@@ -9131,6 +9132,7 @@ lIcAhcFxcXeOWAIXBWVtajR
 lPnHh
 lUBzUu
 lLmYIwn
+lineare
 oooEDD
 oo
 osv
@@ -25696,6 +25698,7 @@ aTpRtwXaPnoy
 aXNCqL
 aaQp
 aeVCtYLSdqk
+algebra
 GM
 Gr
 GD

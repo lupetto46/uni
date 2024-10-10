@@ -1,3 +1,4 @@
+#economia_applicata
 ## Cos'è il mercato?
 
 Il mercato è un posto fisico in cui si incontrano:
