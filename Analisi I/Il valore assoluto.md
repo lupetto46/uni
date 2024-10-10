@@ -19,8 +19,4 @@ $\forall a,b\inℝ$
 3. $|a|^2=a^2$
 4. $|a\cdot b|= |a|\cdot|b|$
 5. $|a+b|\leq|a|+|b|$
-6. $|A-B|\geq ||A|-|B||$
-7. $|A|\leq B \Longleftrightarrow -B\leq A \leq B$
-8. $|A-B|=0\Longleftrightarrow A=B$
-9. $|\frac{A}{B}| = \frac{|A|}{|B|}$
 

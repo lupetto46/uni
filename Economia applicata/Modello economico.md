@@ -58,37 +58,5 @@ Si cerca quindi la condizione di equilibrio che indica che $Q_o=Q_d$ in quanto i
 > Il professore ha nominato come esempio anche la Ferrari che produce poco ma comunque soddisfa questo requisito in quanto una persona che non se la può permettere non ha nemmeno in programma di comprarla e quindi non rimarrà insoddisfatta.
 > Questo per specificare che il "rimanere insoddisfatto" implica il volere comprare ma non poterlo fare per mancanza
 
-## Costo-opportunità
-Il costo opportunità sono i soldi *implicitamente* persi perché si ha deciso di non sfruttare un'opportunità
 
-# Il benefici e costi marginali
-Prendendo un azione $X$
-Noi aumenteremo l'azione solo se la disponibilità massima a pagare qualcosa è maggiore del costo
-$B(X)>C(X)$
-
-## Prezzi di riserva
-Ci sono due tipi di prezzi di riserva:
-- Prezzo di riserva del beneficio:
-	- Il prezzo che si è disposti a pagare per un servizio o oggetto (*diverso da quello che paghiamo effettivamente.* Il prof fa l'esempio delle chiamate che anche se per noi una chiamata vale 100 euro non chiameremo il provider per farmi pagare quella chiamata 100 euro)
-- Prezzo di riserva del costo:
-	- La quantità minima che sono disposto a ricevere per poter sostenere un costo
-
-## Costi e benefici marginali
-I costi e benefici marginali sono i costi e benefici di tipo incrementali rispetto a piccole variazioni
-
-Infatti quando si vuole fare una variazione il costo marginale dirà quanto aumenterà il costo da sostenere una volta applicata e il beneficio marginale dirà quanto aumenterà il guadagno da quella variazione
-
-Per questo per fare una decisione bisogna guardare sempre il beneficio marginale e agire di conseguenza:
-Avendo dei cambiamenti $X_i$
-$B_mg(X_i)>Cmg(X_i) \Longrightarrow$ Espandere la propria azione
-$B_mg(X_i)<Cmg(X_i) \Longrightarrow$ Ridurre l'azione
-$B_mg(X_i)=Cmg(X_i) \Longrightarrow$ Rimanere così come si è
-
-In ogni caso quando si parla di beneficio o costo marginale si fa la derivata prima.
-Quindi nel caso in cui $B_mg(X_i)=Cmg(X_i)$
-
-$B_n(X)= B(X)-C(X)$
-E la derivata prima sarà $0$
-$B_n'(X)=0$
-$B'(X)-C'(X)=0$
 
