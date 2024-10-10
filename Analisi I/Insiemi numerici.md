@@ -1,4 +1,5 @@
 #analisi
+## Simboli per rappresentare gli insiemi
 Abbiamo vari segni che rappresentano diversi insiemi di numeri molto importanti:
 $ℕ\subset ℤ\subset ℚ\subset ℝ\subset ℂ$
 Di cui:
@@ -6,7 +7,7 @@ Di cui:
 - $ℤ=\{0;\pm1;\pm2;\pm3;\pm4;...\}$ insieme dei numeri interi razionali
 - $ℚ=\{\frac{m}{n},m,n\inℤ,n\neq0\}$ Insieme dei numeri razionali
 
-### Ma cosa è l'insieme $ℝ$ (l'insieme dei numeri complessi $ℂ$ per ora non ci si fa caso)?
+## Ma cosa è l'insieme $ℝ$ (l'insieme dei numeri complessi $ℂ$ per ora non ci si fa caso)?
 Seguendo la scuola pitagorica vediamo che avendo:
 ![Disegni a penna
 Disegni a penna
@@ -131,7 +132,7 @@ Disegni a penna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN8AAAAwCAIAAAAei
 
 Si ottiene quindi la retta che indica che:
 $ℝ$ **<u>campo</u> <u>totalmente ordinato</u>** e **<u>completo</u>**
-#### Campo:
+#### Significato di "Campo"
 Innanzitutto si definiscono due operazioni dette **dirette**. 
 Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse proprietà:
 - Proprietà associativa:
@@ -155,7 +156,7 @@ Non esiste il contrario
 
 > [!question] Perché le sottrazioni e divisioni non sono **operazioni dirette**?
 > $sono\ chiamate\ operezioni\ indirette\begin{cases}x-y=x+(-y)\\ \frac{x}{y}=x\cdot y^{-1}\end{cases}$
-#### Totalmente ordinato
+#### Significato di "Totalmente ordinato"
 Qualcosa in matematica si ordina attraverso quelle che chiamiamo **relazioni d'ordine**.
 Queste **relazioni** possono essere di due tipi:
 Di equivalenza:
@@ -190,7 +191,7 @@ Prendiamo quindi le tre proprietà delle relazioni d'ordine:
 - $p_3=x\leq y\ \wedge\ y\leq z\longrightarrow x\leq z\quad \forall x\inℝ$
   Se $x\leq y$ e $y\leq z$ allora $x\leq z$ messo in ordine l'ordine di grandezza è $x\leq y \leq z$
 
-#### Completo
+#### Significato di "Completo"
 Il motivo per cui è considerabile completo è che ogni singolo elemento ha in mezzo un altro elemento.
 
 Questo elemento si chiama elemento di separazione:
@@ -202,6 +203,9 @@ Il tutto sta a significare quindi che due elementi $a$ e $b$ si dicono separati 
 Il motivo per cui $ℝ$ è completo è che non esiste un elemento che non è separato
 
 ## Sottoinsiemi di $ℝ$
+### Simbolo del sottoinsieme
+Il simbolo per raffigurare i sottoinsiemi è: $\subset$ oppure $\subseteq$ nel caso in cui il sottoinsieme può diventare uguale all'insieme
+
 $A\subset ℝ$ significa che $A$ è un sottoinsieme di $ℝ$
 ![Disegni a penna
 Disegni a penna

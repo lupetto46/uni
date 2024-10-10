@@ -3647,6 +3647,7 @@ sWIyynhg
 sYq
 sfwF
 sprechi
+simbolo
 gAMA
 go
 gW
@@ -19103,6 +19104,7 @@ rKOGH
 retdUer
 rYwWC
 razionare
+raffigurare
 SL
 SZ
 SO
@@ -20142,6 +20144,9 @@ SDg
 SnkDYfTp
 SHpNESNyB
 SoTTj
+Simboli
+Significato
+Simbolo
 Zy
 Zar
 ZN
@@ -38141,6 +38146,7 @@ iuelyz
 ivlK
 iXF
 iHF
+inveriormente
 Ot
 Ok
 OU
