@@ -239,11 +239,11 @@ Questi possono essere di 3 tipi:
 ### Intervalli illimitati
 anche di questi ci sono solo chiusi o aperti
 - illimitati chiusi
-	- $[a;+\infty[\qquad x\geq a$
-	- $]-\infty;a]\qquad x\leq a$
+	- $[a;+\infty[\qquad x\geq a$ *chiusi inveriormente*
+	- $]-\infty;a]\qquad x\leq a$ *chiusi superiormente*
 - Illimitati aperti
-	- $]a;+\infty[\qquad x>a$
-	- $]-\infty;a[\qquad x<a$
+	- $]a;+\infty[\qquad x>a$ *aperti inferiormente*
+	- $]-\infty;a[\qquad x<a$ *chiusi superiormente*
 
 Ed è a uno di questi intervalli a cui si pensa quando si dice: $A\subset ℝ$ di cui $ℝ\ è\ ]-\infty;+\infty[$
 
