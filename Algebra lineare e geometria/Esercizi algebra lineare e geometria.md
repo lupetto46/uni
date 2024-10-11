@@ -1,3 +1,4 @@
+#algebra_lineare_e_geometria
 Considerando che $a\in S$ è invertibile, dimostrare che il suo inverso è unico
 
 $\exists b\in S:b*a=e=a*b$
