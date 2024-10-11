@@ -262,3 +262,19 @@ Sapendo questo possiamo fare la dimostrazione della proposizione detta prima
 > > [!attention] Attenzione
 > > Fare attenzione all'ordine in cui vengono messe le funzioni nella composizione
 
+## Restrizione di una funzione
+Se si prende una funziona $f:A\longrightarrow B$, $\quad S \subseteq A$
+
+Allora si può limitare $f$ ad $S$ quindi:
+$\begin{align*}\frac{f}{S}:&S\longrightarrow B\\ &s\longmapsto f(s)\end{align*}$
+
+Mentre invece se si ha una $U$ che è una sovrainsieme di $A$ ($U\supseteq A$)
+e abbiamo $f:U\longrightarrow B$ si dice un estensione di $f:A \longrightarrow B$ se $\frac{g}{A}=f$
+
+### Quando due funzioni sono uguali?
+Due funzioni sono uguali:
+$f:A\longrightarrow B$, $\quad f':A'\longrightarrow B'$
+
+> [!example] Esempio
+> Se io prendo $\begin{align*}f:&ℝ\longrightarrowℝ\\ &x\longmapsto x^2\end{align*}$
+> Possiamo restringere il 
