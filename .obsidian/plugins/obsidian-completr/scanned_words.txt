@@ -1324,6 +1324,7 @@ Pjb
 PZIzHTJSJSb
 Pseudo
 Particolare
+Permutazioni
 IHDR
 IDATx
 Ii
@@ -2384,6 +2385,7 @@ IFw
 IQPqJiJbtWWN
 Ingresso
 Istruzioni
+Isomorfismo
 sRGB
 sq
 sN
@@ -3656,6 +3658,9 @@ sovrainsieme
 sintassi
 specifica
 strutture
+suriettivo
+sigma
+stare
 gAMA
 go
 gW
@@ -4799,6 +4804,7 @@ gRoQkRYoNW
 generare
 gratis
 geometria
+geq
 pHYs
 pJ
 pn
@@ -5894,6 +5900,9 @@ pCU
 peggiorare
 prendo
 processo
+permutazione
+prendilo
+permutazioni
 HBz
 HN
 HU
@@ -8151,6 +8160,7 @@ REkYYVYsxG
 RWZEQIYfQaWtImLD
 RrhzTX
 Restrizione
+Rightarrow
 lL
 lk
 lkS
@@ -13582,6 +13592,7 @@ MCJrpoyZvl
 MbX
 MCaQlOiiKY
 MdkR
+Monomorfismo
 JHH
 Jx
 JIIQTTT
@@ -19126,6 +19137,7 @@ raffigurare
 rappresentazioni
 riconoscere
 reale
+rimette
 SL
 SZ
 SO
@@ -24079,6 +24091,7 @@ cYVHft
 ckrmaZjoQjOTxVoNRZ
 controllare
 condizionata
+circ
 av
 as
 aIT
@@ -25731,6 +25744,7 @@ approssimate
 assegnamento
 assegnare
 algebriche
+anelli
 GM
 Gr
 GD
@@ -31275,6 +31289,7 @@ EPcLnd
 EsR
 Estremi
 Estensione
+Epimorfismo
 bfl
 bE
 bg
@@ -32767,6 +32782,8 @@ bysxYVyoxiy
 bGtFLwCVI
 bTx
 bxnkZ
+biiettivo
+backslash
 Ys
 YV
 Yh
@@ -35024,6 +35041,7 @@ mQohXgpEwCM
 mfd
 maggior
 modificano
+mappa
 xUu
 xeV
 xn
@@ -37063,6 +37081,7 @@ qdjxSixRh
 qHYS
 qCqf
 quelli
+quad
 ip
 iz
 iU
@@ -44803,6 +44822,7 @@ DOuo
 DjdmVohemGO
 DkMQNSs
 DMa
+Dimostrare
 yJJJr
 yyy
 ye
@@ -48498,6 +48518,7 @@ tPdn
 tiRl
 tlFr
 testuale
+tau
 CG
 Cf
 CDDDDD
@@ -49595,6 +49616,7 @@ CCuim
 CfMN
 ChcFY
 CGp
+Consideriamo
 Nf
 NR
 Non
@@ -52105,6 +52127,7 @@ Ujg
 UdM
 UHylpp
 UbnorJfpqm
+Uno
 fN
 feun
 fs
@@ -53892,6 +53915,7 @@ fYFl
 fQDnTIzQjyTrya
 fZjYvo
 fZB
+forall
 Au
 AV
 AX
@@ -58139,6 +58163,7 @@ dxHr
 dhW
 dUhUJDlSP
 definizioni
+dots
 eA
 eWf
 eddh

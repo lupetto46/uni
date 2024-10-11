@@ -326,3 +326,28 @@ Una permutazione è semplicemente una funzione che cambia l'ordine dell'insieme.
 Si scrive $\sigma:(\sigma(1)\ \sigma(2)\ \sigma(3)\ \sigma(4)\cdots \sigma(n))$
 
 Ricordare che nella funzione sigma non c'è scritto il valore di un posto ma il posto del valore di prima
+
+$\sigma:(2\ 4\ 1\ 3)$ vuol dire:
+- Il numero nella posizione $2$ va nella posizione $1$
+- Il numero nella posizione $4$ va nella posizione $2$
+- Il numero nella posizione $1$ va nella posizione $3$
+- Il numero nella posizione $3$ va nella posizione $4$
+
+Avendo $\sigma:(2\ 4\ 1\ 3)$
+L'inverso di $\sigma$ è la funzione che rimette tutti i numeri al suo posto:
+$\sigma^{-1}:(3\ 1\ 4\ 2)$ che significa:
+- Il valore che deve stare alla posizione $1$ prendilo dalla posizione $3$
+- Il valore che deve stare alla posizione $2$ prendilo dalla posizione $1$
+- Il valore che deve stare alla posizione $3$ prendilo dalla posizione $4$
+- Il valore che deve stare alla posizione $4$ prendilo dalla posizione $2$
+
+> [!info] Dimostrazione
+> Dimostrare che l'insieme delle possibili permutazioni di $S$ : $(\#\$_n)$ è $n!$
+> Proposizione: $(\$_n, \circ)$ è un gruppo
+> Dimostrazione: $\$_n=\{\text{permutazioni di }\{1,\dots,4\}\}$ 
+> innanzitutto si sceglie la posizione di $\sigma(1)\in \{1,\dots,4\}$
+> Poi si sceglie la posizione di $\sigma(2)\in\{\backslash\sigma(1)\}$ perché $\sigma(1)$ è *già stato scelto*
+> E così via finché non scelgo il $\sigma(n-1)$ ottenendo che:
+> $\#\$_n=n\cdot(n-1)\cdot(n-2)\cdotp ...\cdot (n-(n-1))=n!$
+> 
+
