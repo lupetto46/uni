@@ -73,3 +73,9 @@ Sia $k$ il numero di bit a disposizione
 $n$ il nume binario naturale di $2^k+x$
 Se voglio rappresentare il:
 - $+6_{10}=+0110_{(2)}=2^4+0110= 1000+0110$
+
+## Proprietà delle operazione
+Le *operazioni con numeri reali* non godono della proprietà commutativa perché sono affetti dalle rappresentazioni approssimate
+
+Le *operazioni con numeri interi* invece sono rappresentazioni esatte e quindi godono della proprietà commutativa
+

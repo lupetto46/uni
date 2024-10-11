@@ -172,7 +172,7 @@ La stella ($*$) indica un'*operazione generica*
 
 ## Definizioni
 
-$(S, *)$ è detta struttura algebrica 
+$(S, *)$ è detta *struttura algebrica* 
 - Se $*$ è associativa, $(S, *)$ è chiamato semigruppo
 - Se un semigruppo $(S, *)$ ammette un elemento neutro è chiamato monoide
 - Un semigruppo / monoide $(S,*)$ si dice **commutativo** o **abeliano** se l'operazione è commutativa

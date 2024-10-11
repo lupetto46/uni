@@ -262,19 +262,67 @@ Sapendo questo possiamo fare la dimostrazione della proposizione detta prima
 > > [!attention] Attenzione
 > > Fare attenzione all'ordine in cui vengono messe le funzioni nella composizione
 
-## Restrizione di una funzione
-Se si prende una funziona $f:A\longrightarrow B$, $\quad S \subseteq A$
+## Restrizione e estensione di una funzione
+Se si prende una funzione $f:A\longrightarrow B$, $\quad S \subseteq A$
 
+### Restrizione
 Allora si può limitare $f$ ad $S$ quindi:
 $\begin{align*}\frac{f}{S}:&S\longrightarrow B\\ &s\longmapsto f(s)\end{align*}$
 
+### Estensione
 Mentre invece se si ha una $U$ che è una sovrainsieme di $A$ ($U\supseteq A$)
 e abbiamo $f:U\longrightarrow B$ si dice un estensione di $f:A \longrightarrow B$ se $\frac{g}{A}=f$
 
-### Quando due funzioni sono uguali?
-Due funzioni sono uguali:
-$f:A\longrightarrow B$, $\quad f':A'\longrightarrow B'$
-
 > [!example] Esempio
 > Se io prendo $\begin{align*}f:&ℝ\longrightarrowℝ\\ &x\longmapsto x^2\end{align*}$
-> Possiamo restringere il 
+> Possiamo restringere il dominio e codominio a $ℝ\geq 0$, si scrive quindi $\frac{f}{ℝ\geq 0}$:
+> $\begin{align*}\frac{f}{ℝ\geq0}:ℝ\geq 0&\longrightarrow ℝ\geq 0\\x&\longmapsto x^2 \end{align*}$
+
+> [!question] Quando $f=f'$?
+$f:A\longrightarrow B$, $\quad f':A'\longrightarrow B'$
+$f=f' \Leftrightarrow A=A', B=B'\ e\ \forall a \in A\ f(a)=f'(a)$
+
+## Funzioni su insiemi con operazioni
+### Definizioni
+Ci sono varie definizioni riguardanti le funzioni su insiemi con operazioni
+Avendo due *strutture algebriche* $(A,*_{_A}),\quad (B, *_{_B})$
+E una funzione $f:A\longrightarrow B$
+Se $f(a*_{_A}a')=f(a)*_{_B }f(a')$ allora si chiama *omomorfismo di strutture algebriche*
+
+Un omomorfismo $f:(A, *_{_A})\longrightarrow (B, *_{_B})$ è detto:
+- *Monomorfismo* se $f$ è iniettiva
+- *Epimorfismo* se $f$ è suriettivo
+- *Isomorfismo* se $f$ è biiettivo
+
+Se abbiamo una mappa tra due anelli:
+$f:(A, +_{_A}, \cdot_{_A})\longrightarrow(B, +_{_B}, \cdot_{_B})$
+Questa si chiama *omomorfismo di anelli* se
+$f(a+_{_A}a')=f(a) +_{_B}f(a'), \quad f(a \cdot_{_A} a')= f(a)\cdot_{_B}f(a')$
+
+> [!info] Esempio
+> 
+> $\begin{align*}f:(ℤ, +)&\longrightarrow (ℤ,+)\\ x&\longmapsto 2x\end{align*}\quad$ è un *omomorfismo di gruppi* quanto:
+> $f(x+y)=2(x+y)=2x+2y=f(x)+f(y)$
+>  Quindi scrivere $f(x+y)$ è la stessa cosa di scrivere $f(x) + f(y)$
+>  
+>  Mentre invece:
+>  $\begin{align*}f:(ℤ, +, \cdotp)&\longrightarrow (ℤ,+, \cdotp)\\ x&\longmapsto 2x\end{align*}\quad$ non è un omomorfismo di anelli perché:
+>  Anche se come prima: $f(x+y)=2(x+y)=2x+2y=f(x)+f(y)$
+>  
+>  $f(x\cdot y) = 2\cdot (x\cdot y)= \overbrace{2xy}^{\text{proprietà associativa}}\neq 4xy=f(x)\cdot f(y)$
+>  La moltiplicazione da un risultato diverso tra $f(x\cdot y)\neq f(x)\cdot f(y)$ quindi ***non è*** *un omomorfismo di anelli*
+
+## Permutazioni
+Cos'è una permutazione.
+$S$ un insieme finito $\#S=n, S=\{a_1,\cdots,a_n\}\rightarrow\{1,2,\cdots,n\}$
+
+Quindi $S=\{1,2,3,\cdots,n\}$
+
+Una permutazione è una funzione $\sigma:S\longrightarrow S$
+Se questo sigma ($\sigma$)  è una permutazione $\Leftrightarrow$ è biiettiva
+
+### Ma cosa fa?
+Una permutazione è semplicemente una funzione che cambia l'ordine dell'insieme.
+Si scrive $\sigma:(\sigma(1)\ \sigma(2)\ \sigma(3)\ \sigma(4)\cdots \sigma(n))$
+
+Ricordare che nella funzione sigma non c'è scritto il valore di un posto ma il posto del valore di prima

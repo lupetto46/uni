@@ -37,7 +37,7 @@ Ci sono vari tipi di equazioni:
   - $I=f(\pi)$ dove $I$ è l'investimento che è ovviamente uguale a una funzione che ha come variabile il profitto che ottengo da esso
   - $Q=f(L,K)$ in cui $Q$  è la quantità prodotta che sarà il risultato di una funzione che prende come argomenti il lavoro $L$ e il capitale $K$ ovvero i due **fattori di produzione**
 - Condizioni di equilibrio:
-	- $Q_d=Q_o$ di cui $Q_d$ è la quantità di *domanda* e $Q_o$ è la quantità di offerta
+	- $Q_d=Q_o$ di cui $Q_d$ è la quantità di *[[Mercato#La domanda e l'offerta|domanda]]* e $Q_o$ è la quantità di offerta
 
 
 #### perché un prodotto ha un certo prezzo?

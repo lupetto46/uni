@@ -1322,6 +1322,8 @@ PYp
 PVDR
 Pjb
 PZIzHTJSJSb
+Pseudo
+Particolare
 IHDR
 IDATx
 Ii
@@ -2380,6 +2382,8 @@ IJiV
 IXhVk
 IFw
 IQPqJiJbtWWN
+Ingresso
+Istruzioni
 sRGB
 sq
 sN
@@ -3648,6 +3652,10 @@ sYq
 sfwF
 sprechi
 simbolo
+sovrainsieme
+sintassi
+specifica
+strutture
 gAMA
 go
 gW
@@ -5884,6 +5892,8 @@ pjgAJmeIB
 paRn
 pCU
 peggiorare
+prendo
+processo
 HBz
 HN
 HU
@@ -8140,6 +8150,7 @@ Rajfhs
 REkYYVYsxG
 RWZEQIYfQaWtImLD
 RrhzTX
+Restrizione
 lL
 lk
 lkS
@@ -9134,6 +9145,11 @@ lPnHh
 lUBzUu
 lLmYIwn
 lineare
+limitare
+logico
+linguaggio
+livelli
+leggo
 oooEDD
 oo
 osv
@@ -10178,6 +10194,7 @@ oQrPUdz
 ojYvlHCmpUXOhiCEc
 oaZlSDDNOoQH
 ovdvYbGjNsehlNdtJQo
+omomorfismo
 QR
 QIYKI
 QG
@@ -18027,6 +18044,7 @@ TevHkTExPDZrOdnJxgzAKDFPiFV
 TDq
 TsfnXrFxhIAd
 TTxkww
+Tipi
 rJ
 rU
 rTkb
@@ -19105,6 +19123,9 @@ retdUer
 rYwWC
 razionare
 raffigurare
+rappresentazioni
+riconoscere
+reale
 SL
 SZ
 SO
@@ -24057,6 +24078,7 @@ czahmCwkiB
 cYVHft
 ckrmaZjoQjOTxVoNRZ
 controllare
+condizionata
 av
 as
 aIT
@@ -25704,6 +25726,11 @@ aXNCqL
 aaQp
 aeVCtYLSdqk
 algebra
+affetti
+approssimate
+assegnamento
+assegnare
+algebriche
 GM
 Gr
 GD
@@ -31247,6 +31274,7 @@ EdTNHzmWvumImKhu
 EPcLnd
 EsR
 Estremi
+Estensione
 bfl
 bE
 bg
@@ -34995,6 +35023,7 @@ mGIdvQKx
 mQohXgpEwCM
 mfd
 maggior
+modificano
 xUu
 xeV
 xn
@@ -37033,6 +37062,7 @@ qMdisSuz
 qdjxSixRh
 qHYS
 qCqf
+quelli
 ip
 iz
 iU
@@ -38147,6 +38177,7 @@ ivlK
 iXF
 iHF
 inveriormente
+incondizionata
 Ot
 Ok
 OU
@@ -48466,6 +48497,7 @@ twTbvN
 tPdn
 tiRl
 tlFr
+testuale
 CG
 Cf
 CDDDDD
@@ -55031,6 +55063,7 @@ AhKndVy
 AKhirdxCRmQ
 AixvLsMD
 AhPpSiggvWCvGib
+Alterazione
 LG
 La
 Linguaggio
@@ -56155,6 +56188,7 @@ LrRoRkstI
 LwAEYEUg
 Lrpwh
 LPHnBETKgy
+Livello
 dU
 df
 dI
@@ -58104,6 +58138,7 @@ dIT
 dxHr
 dhW
 dUhUJDlSP
+definizioni
 eA
 eWf
 eddh
@@ -60202,6 +60237,10 @@ ePmUZNqd
 ekxqOMoh
 evsZfWi
 equo
+estensione
+esatte
+else
+elaboro
 Ve
 VM
 Vka
@@ -61176,6 +61215,7 @@ VcFNCyEf
 VwMtENjirdN
 VViUCB
 VAou
+Vado
 BdD
 Bp
 Biiettiva
