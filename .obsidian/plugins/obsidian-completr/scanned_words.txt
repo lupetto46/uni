@@ -1364,6 +1364,7 @@ PmqdeInFU
 PwVti
 Pgm
 PPoIdRMGsFakPQg
+Passaggi
 IHDR
 IDATx
 Ii
@@ -4959,6 +4960,7 @@ gYKHtgvoDK
 gxoCxQ
 gyAU
 gMVLh
+guardando
 pHYs
 pJ
 pn
@@ -8437,6 +8439,7 @@ RWtDNEsSHpCmT
 RwSbsXlKO
 RQSbcBOklI
 RESHpCAiQ
+Radice
 lL
 lk
 lkS
@@ -14063,6 +14066,7 @@ MlgrSu
 MmUKK
 MTXlX
 MiWlqe
+Molteplicit
 JHH
 Jx
 JIIQTTT
@@ -19793,6 +19797,7 @@ rwk
 rMP
 rhm
 rYD
+ruffini
 SL
 SZ
 SO
@@ -26605,6 +26610,7 @@ aDHfPyn
 antt
 atqLDu
 aOhgJIekKZ
+assume
 GM
 Gr
 GD
@@ -36190,6 +36196,10 @@ meO
 mgAPO
 mDugarl
 mDg
+mette
+mettono
+moltiplicata
+molteplicit
 xUu
 xeV
 xn
@@ -46280,6 +46290,7 @@ DaiNGfD
 DoHXj
 DpEb
 DwkCZXIXqkXxSTRrATZPWEPm
+Definiamo
 yJJJr
 yyy
 ye
@@ -50078,6 +50089,8 @@ tnjThJNYRX
 tRMfov
 tXnpnibfBjhK
 tVosV
+teorema
+troveremo
 CG
 Cf
 CDDDDD
