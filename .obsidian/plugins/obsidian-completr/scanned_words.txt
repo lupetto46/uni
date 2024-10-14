@@ -6163,6 +6163,7 @@ piccolo
 piacere
 possa
 piccola
+programmi
 HBz
 HN
 HU
@@ -18820,6 +18821,7 @@ TsKqpbt
 THxrr
 TXrVvH
 TUVPzziWKI
+Tre
 rJ
 rU
 rTkb
@@ -19952,6 +19954,7 @@ rvBkEBgYSTI
 rUqQsWLECcFhYWqJFNsOeLFy
 rVqomPYGZmxn
 rxQ
+ripetizione
 SL
 SZ
 SO
@@ -21041,6 +21044,8 @@ SBYBlg
 SvZlgzk
 Swz
 SnpqaOHTt
+Selezione
+Struttura
 Zy
 Zar
 ZN
@@ -25124,6 +25129,7 @@ cOfwMLqhu
 cABxRnTp
 czdNB
 cyPRThw
+condizionale
 av
 as
 aIT
@@ -39820,6 +39826,7 @@ iHLli
 iFxIqQkFCKepAVZli
 iDltbGwoIwY
 infinitesimale
+iterativa
 Ot
 Ok
 OU
@@ -51674,6 +51681,8 @@ CfrmYiNjZWl
 CwThndojexLbZeQN
 CxjVr
 Chiamiamo
+Concatenazione
+Ciclo
 Nf
 NR
 Non
@@ -64869,4 +64878,5 @@ BQYGyoqiILCysjp
 BqwxICDgxIkThw
 BVjFO
 BwPyIvG
+Blocco
 äA

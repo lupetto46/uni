@@ -51,7 +51,7 @@ Mentre N >= 1
 	Leggere un numero intero e mettilo in Num
 	Numeri = Numeri + Num
 	N = N-1
-fine
+fine Mentre
 Stampa Numeri
 ```
 
