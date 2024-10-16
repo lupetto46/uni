@@ -1375,6 +1375,8 @@ PBp
 PTpU
 PnzZVNxQulNUWJYvXq
 PBhjRo
+Possono
+Potenze
 IHDR
 IDATx
 Ii
@@ -3836,6 +3838,9 @@ suppone
 scrivibile
 scriverla
 sicuramente
+strettamente
+sapevo
+semplici
 gAMA
 go
 gW
@@ -6187,6 +6192,7 @@ produttivi
 potrebbe
 parziale
 passaggi
+potenza
 HBz
 HN
 HU
@@ -25177,6 +25183,7 @@ considera
 cambiata
 concetto
 concentriamoci
+coppia
 av
 as
 aIT
@@ -26888,6 +26895,8 @@ aNKSxZsoSErViJDZTeFCWMI
 assolutamente
 alcuni
 aggiungendo
+andare
+aritmetica
 GM
 Gr
 GD
@@ -32647,6 +32656,7 @@ ECqOKMtPdqCJA
 EQvFKLl
 ECW
 Eseguiamo
+Esistenza
 bfl
 bE
 bg
@@ -34214,6 +34224,7 @@ bdrY
 bpz
 bVkz
 breve
+beta
 Ys
 YV
 Yh
@@ -36581,6 +36592,7 @@ membro
 membri
 moltiplicato
 matematicamente
+multiplo
 xUu
 xeV
 xn
@@ -46763,6 +46775,7 @@ Douglass
 Douglas
 Deduttivo
 Disuguaglianza
+Densit
 yJJJr
 yyy
 ye
@@ -57437,6 +57450,7 @@ AfkiAw
 AkVTU
 AscBYoilcKa
 Arrivati
+Archimede
 LG
 La
 Linguaggio
@@ -60660,6 +60674,8 @@ decrescenti
 decrescere
 dimostrative
 disuguaglianza
+disuguaglianze
+densit
 eA
 eWf
 eddh
@@ -62837,6 +62853,8 @@ evFOnTj
 efficienza
 esito
 enunciato
+escluso
+esima
 Ve
 VM
 Vka

@@ -24,3 +24,29 @@ $\forall a,b\inℝ$
 8. $|A-B|=0\Longleftrightarrow A=B$
 9. $|\frac{A}{B}| = \frac{|A|}{|B|}$
 
+# Equazioni e disequazioni con valore assoluto
+## Equazioni
+$|A(x)|=K\qquad k\in ℝ$
+Ci sono vari casi che si possono avere:
+1. $K<0$ in questo caso sappiamo che il valore assoluto non può risultare un valore minore di zero quindi $\nexists x \in ℝ$
+2. $K=0$ nel caso in cui $A(x)=0$
+3. $K>0$ per ottenerlo allora devo porre $A(x)=\pm K$
+
+Se l'uguaglianza e tra due valori assoluti allora le soluzioni sono le $x$ che annullano entrambi i membri
+
+$|x-1|=|x^2-1|\qquad x=-1$
+
+Se l'equazione trova la $x$ in posti fuori dal valore assoluto allora si deve fare la mappa dei segni del valore assoluto
+
+## Disequazioni
+Anche qui con $A(x)> K$ 
+Troviamo varie situazioni
+1. $K<0$ se $K$ è minore di $0$ il valore assoluto sarà sempre confermato in quanto qualsiasi numero sarà sarà sempre $\geq 0$ quindi la risposta è $\forall x \in ℝ$
+2. $K=0$ per risolverla si deve porre $A(x)\neq 0$
+3. $K>0$ si prendono gli esterni $A(x)<-K \vee A(x)>K$
+
+Mentre invece se ho la disuguaglianza $A(x)<K$
+1. $K<0$ non è possibile che $A(x)$ dia in valora minore di un valore minore di zero quindi $\nexists x \in ℝ$
+2. $K=0$ anche qui $A(x)$ non può dare un valore minore di $0$ ma la diseguaglianza da che il valore deve essere *strettamente* minore di $0$ quindi anche qui $\nexists x \in ℝ$
+3. $K>0$ per risolverlo invece si devono prendere i valori interni $-K<A(x)<K$ che alla fine non altro che svolgere il sistema $\cases{A(x)>-K\\A(x)<K}$
+
