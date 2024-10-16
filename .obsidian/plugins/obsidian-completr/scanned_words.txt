@@ -2497,6 +2497,9 @@ ITkVQaZoRCcLFiwYOHDg
 IEcPz
 Indichiamo
 Indipendentemente
+Input
+Induttivo
+Intanto
 sRGB
 sq
 sN
@@ -3822,6 +3825,17 @@ syZNmrzye
 srLC
 sqVKzW
 sommato
+stati
+strumenti
+specifico
+separa
+settore
+supponendo
+seguiamo
+suppone
+scrivibile
+scriverla
+sicuramente
 gAMA
 go
 gW
@@ -5005,6 +5019,8 @@ gzNm
 gnZIrHjh
 gRJuunn
 gTZQIwUMHYXgGBkfHh
+generico
+guardiamo
 pHYs
 pJ
 pn
@@ -6164,6 +6180,13 @@ piacere
 possa
 piccola
 programmi
+produzioni
+passa
+producibile
+produttivi
+potrebbe
+parziale
+passaggi
 HBz
 HN
 HU
@@ -9561,6 +9584,9 @@ lveTD
 lkyIf
 lHdTi
 labFB
+libero
+lavoratore
+lungo
 oooEDD
 oo
 osv
@@ -10662,6 +10688,7 @@ oIudswScPXuW
 oAkTJpC
 oRP
 okf
+originale
 QR
 QIYKI
 QG
@@ -14186,6 +14213,7 @@ MRaY
 MTvYq
 Mtu
 Mst
+Modificabile
 JHH
 Jx
 JIIQTTT
@@ -16792,6 +16820,9 @@ uJy
 uPHDmyadOm
 uXHjBljbm
 uayqbii
+utilizzata
+utilizziamo
+ultimo
 Xx
 Xh
 Xr
@@ -18822,6 +18853,9 @@ THxrr
 TXrVvH
 TUVPzziWKI
 Tre
+Terra
+Tramite
+Tecniche
 rJ
 rU
 rTkb
@@ -19955,6 +19989,13 @@ rUqQsWLECcFhYWqJFNsOeLFy
 rVqomPYGZmxn
 rxQ
 ripetizione
+raggiunge
+rendimenti
+rendimento
+raggiungiamo
+riguardai
+raccogliamo
+riordinando
 SL
 SZ
 SO
@@ -25130,6 +25171,11 @@ cABxRnTp
 czdNB
 cyPRThw
 condizionale
+conoscere
+considera
+cambiata
+concetto
+concentriamoci
 av
 as
 aIT
@@ -26838,6 +26884,9 @@ aWFo
 aBEDCF
 aJF
 aNKSxZsoSErViJDZTeFCWMI
+assolutamente
+alcuni
+aggiungendo
 GM
 Gr
 GD
@@ -27979,6 +28028,7 @@ GVI
 GDh
 GhoYGBgfg
 GtrY
+Geometricamente
 hf
 hN
 hI
@@ -32595,6 +32645,7 @@ EvKIJwvWqlWrXr
 ECqOKMtPdqCJA
 EQvFKLl
 ECW
+Eseguiamo
 bfl
 bE
 bg
@@ -34161,6 +34212,7 @@ btpHkZ
 bdrY
 bpz
 bVkz
+breve
 Ys
 YV
 Yh
@@ -36522,6 +36574,12 @@ mHTp
 mzdvfunSJRE
 mAAzQzMyPUJLWTTcUSpTdFCSA
 mAAAAAElFTkSuQmCC
+modificabile
+medio
+membro
+membri
+moltiplicato
+matematicamente
 xUu
 xeV
 xn
@@ -38670,6 +38728,7 @@ qaeW
 qOjibSQ
 qomJibGxsdkfyB
 qSwe
+quei
 ip
 iz
 iU
@@ -39827,6 +39886,11 @@ iFxIqQkFCKepAVZli
 iDltbGwoIwY
 infinitesimale
 iterativa
+input
+investimenti
+inizia
+inclinazione
+induttiva
 Ot
 Ok
 OU
@@ -46694,6 +46758,10 @@ DgQZIxpMuRGBgYTJs
 DDpIp
 DStWtXnJLm
 DAkJMTAwEDc
+Douglass
+Douglas
+Deduttivo
+Disuguaglianza
 yJJJr
 yyy
 ye
@@ -49108,6 +49176,11 @@ vzzT
 vPnj
 vbOctVuTExM
 vXz
+variare
+validit
+vera
+vedendo
+valga
 tA
 te
 td
@@ -50531,6 +50604,9 @@ tacfjDR
 tngqCuT
 tasWTPRpQER
 tKlSwcFBRkbGw
+tende
+temporale
+toglie
 CG
 Cf
 CDDDDD
@@ -51683,6 +51759,8 @@ CxjVr
 Chiamiamo
 Concatenazione
 Ciclo
+Confermando
+Cobb
 Nf
 NR
 Non
@@ -56151,6 +56229,8 @@ fXsk
 fqyNRNnzpxp
 fmZ
 fPwrn
+facilmente
+fissi
 Au
 AV
 AX
@@ -57355,6 +57435,7 @@ AKHt
 AfkiAw
 AkVTU
 AscBYoilcKa
+Arrivati
 LG
 La
 Linguaggio
@@ -58533,6 +58614,7 @@ LpsIBaZGJtW
 LPPZOXFC
 LVu
 LAh
+Legge
 dU
 df
 dI
@@ -60569,6 +60651,14 @@ dGoHhu
 dSohYrlw
 dLSnp
 divide
+desiderabile
+dallo
+disponibili
+distingue
+decrescenti
+decrescere
+dimostrative
+disuguaglianza
 eA
 eWf
 eddh
@@ -62743,6 +62833,9 @@ ePqR
 elQking
 eOGBoaWltbi
 evFOnTj
+efficienza
+esito
+enunciato
 Ve
 VM
 Vka
@@ -63775,6 +63868,9 @@ VFxLmRgHo
 VjufMCWVLlypURG
 VjWrl
 VCLGB
+Vogliamo
+Verifichiamo
+Visto
 BdD
 Bp
 Biiettiva
@@ -64879,4 +64975,5 @@ BqwxICDgxIkThw
 BVjFO
 BwPyIvG
 Blocco
+Bernoulli
 äA

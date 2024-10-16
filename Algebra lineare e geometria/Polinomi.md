@@ -60,6 +60,8 @@ Componendole otteniamo quindi:
 >
 > Quindi $g\circ h =2x+2$
 > Mentre $h\circ g= h(g(a))=2x+1$
+> 
+> Confermando anche che la composizione non è commutativa
 
 ## Equazione polinomiali
 Le equazioni polinomiali sono due equazioni poste a una uguale all'altra
