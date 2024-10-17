@@ -1,4 +1,80 @@
 #fondamenti_di_programmazione
+## Definire un problema
+Ci sono definizioni particolari per poter dire che un problema è ben formulato:
+- Non è evidente che non esistano soluzioni
+- Il criterio di verifica delle soluzioni è univoco
+- L'insieme dei dati iniziali è incompleto
+
+Una soluzione si definisce effettiva invece quando:
+- L'esecutore è in grado di interpretare i dati in ingresso.
+  è importante capire che un dato debba essere leggibile in qualche modo dal computer e poi deve poter essere *rappresentabile* (per esempio i numeri reali) 
+- L'esecutore deve essere in grado di risolvere il problema attraverso una serie di azioni da eseguire per essere in grado di eseguirla
+- L'esecutore deve essere in grado di risolvere questo e soprattutto, *importantissimo*, deve essere in grado di completarlo in un **tempo finito**. (È importante che non ci siano azioni all'interno del nostro codice o programma che continuano all'infinito senza **condizione di fine**)
+
+## Algoritmo
+L'algoritmo per poter essere chiamato tale ed essere un *buon algoritmo* deve avere delle proprietà particolari:
+- Non ambiguità:
+  Ogni azione elementare deve essere ben definita e deve essere in grado di dare risultati per tutti i valori che potranno andargli in ingresso
+- Eseguibilità:
+	- Ogni azione deve essere eseguita in un tempo finito. Quindi un'azione non può andare all'infinito
+- Determinismo:
+	- Il programma deve essere sequenziale. Quindi un'azione ha un solo passo successivo
+- Finitezza:
+	- L'algoritmo deve finire arrivato ad un certo punto. (Sempre importante che il programma non vada avanti all'infinito senza una condizione di fine.)
+- Terminazione:
+	- Come già detto il programma prima o poi deve terminare.
+
+### Esempio
+#### Calcolare il massimo tra due numeri
+Il programmatore quando ha un problema semplice come quello di calcolare il massimo tra due numeri deve prima di tutto spezzettare il problema.
+
+Per esempio il primo passaggio sarebbe:
+leggere i due numeri e inserirli da qualche parte come prima cosa.
+Poi il secondo passaggio sarebbe porsi la domanda: 
+"il primo numero è più grande di del secondo?"
+Nel caso in cui il primo numero è più grande allora quello sarà il massimo
+Al contrario lo sarebbe l'altro
+
+Scritto in pseudo codice verrebbe:
+```Pseudo-codice
+Leggi un numero intero e mettilo in A
+Leggi un numero intero e mettilo in B
+Se A > B:
+	Stampa "A è il massimo"
+Altrimenti:
+	Stampa "B è il massimo"
+```
+
+### Quando due algoritmi sono equivalenti
+Due algoritmi sono considerati equivalenti quando i loro dati in input (*dominio di entrata*) e i loro dati in output (*dominio di uscita*) sono uguali e con gli stessi dati in input danno lo stesso output.
+
+In poche parole quando fanno la stessa identica cosa
+
+## Processo di soluzione
+Per creare un algoritmo di soluzione di un problema si devono seguire degli step:
+1. Analizzare il problema e trovarne una soluzione. (Se devo risolvere questo allora devo fare questo)
+2. Formalizzare il problema e definire un algoritmo risolutivo:
+   Questo passaggio consiste nel *spezzettare* la soluzione che abbiamo trovato nel primo step in tanti piccoli *passi elementali*
+3. Scrittura di un programma nel linguaggio di programmazione:
+   I passaggi che devono essere scritti nel secondo passo devono essere come uno pseudo codice.
+   > [!info] Esempio
+   > ```Pseudo codice
+   > Istruzione 1: Prendo un numero intero e lo salvo da qualche parte
+   > Istruzione 2: Prendo quel valore lo sommo a un altro valore e lo salvo da qualche altra parte
+   > Istruzione 3: Stampo la somma che ho appena salvato
+   > ```
+   > Tutti questi passaggi elementali hanno una traduzione in linguaggio di programmazione
+   > Un esempio in python:
+   > ```python
+   > A=int(input("Inserire un numero: "))#Prendo un intero e lo salvo in A
+   > B = A+3 # Prendo il valore in A gli sommo 3 e lo salvo in B
+   > print(B) # Stampo B
+   > ```
+   
+1. Traduzione del programma dal linguaggio di programmazione a un linguaggio compreso dalla macchina:
+   Questo è normalmente uno step che fa in automatico il compilatore. è il passaggio in cui il *file sorgente* viene trasformato nel file .exe di windows 
+2. Esecuzione del programma
+
 La complessità computazionale cerca di ottenere delle metriche indipendenti dal calcolatore in cui un algoritmo viene eseguito
 
 Ci sono due metriche:

@@ -3841,6 +3841,7 @@ sicuramente
 strettamente
 sapevo
 semplici
+svolgere
 gAMA
 go
 gW
@@ -10695,6 +10696,8 @@ oAkTJpC
 oRP
 okf
 originale
+ottenerlo
+ordinati
 QR
 QIYKI
 QG
@@ -18863,6 +18866,7 @@ Tre
 Terra
 Tramite
 Tecniche
+Troviamo
 rJ
 rU
 rTkb
@@ -20003,6 +20007,10 @@ raggiungiamo
 riguardai
 raccogliamo
 riordinando
+risultare
+risolverla
+rettangolare
+righe
 SL
 SZ
 SO
@@ -25184,6 +25192,7 @@ cambiata
 concetto
 concentriamoci
 coppia
+colonne
 av
 as
 aIT
@@ -26897,6 +26906,8 @@ alcuni
 aggiungendo
 andare
 aritmetica
+assoluti
+annullano
 GM
 Gr
 GD
@@ -39904,6 +39915,7 @@ investimenti
 inizia
 inclinazione
 induttiva
+interni
 Ot
 Ok
 OU
@@ -41516,6 +41528,7 @@ OrZs
 OTrcUJpTdFyWDbtm
 OjrNmzZL
 OVlzR
+Oppure
 nl
 nf
 nP
@@ -56245,6 +56258,7 @@ fmZ
 fPwrn
 facilmente
 fissi
+fuori
 Au
 AV
 AX
@@ -60676,6 +60690,8 @@ dimostrative
 disuguaglianza
 disuguaglianze
 densit
+dia
+diseguaglianza
 eA
 eWf
 eddh

@@ -77,7 +77,7 @@ $(1+h)^n\geq 1+nh$
    Ma se raccogliamo la $h$ solo nella parte $h+nh$ otteniamo
    $1+ (1+n)h+nh^2$
    riordinando otteniamo:
-   $(1+h)(1+h)^n\geq$*$h(n+1)+ 1$* $+nh^2$
+   *$h(n+1)+ 1$* $+nh^2$
    
    Quindi il secondo membro non è altro che $h(n+1)+ 1$ della proprietà originale ma aggiungendo $nh^2$
    
