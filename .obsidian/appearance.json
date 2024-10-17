@@ -1,4 +1,7 @@
 {
   "cssTheme": "Royal Velvet",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Bahnschrift",
+  "textFontFamily": "Bahnschrift",
+  "monospaceFontFamily": "Bahnschrift"
 }
