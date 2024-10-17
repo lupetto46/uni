@@ -188,7 +188,7 @@ Prima di andare avanti è importante considerare le varie operazioni.
 	- In questo caso si deve cambiare il segno del sottraendo
 	- E si utilizza l'algoritmo dell'addizione
 - Overflow
-	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit che si hanno. Se si verifica questo caso lo si può sapere attraverso un bit aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi
+	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit che si hanno. Se si verifica questo caso lo si può sapere attraverso un bit aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi. Questo bit si chiama **bit di carry**
 - Underflow:
 	- Il caso in cui il valore che si sta cercando di rappresentare è troppo piccolo per essere rappresentato con il numero di bit che ho in questo momento
 ## Complemento a 2
@@ -202,7 +202,7 @@ così facendo ho una sola rappresentazione dello $0$ che sarebbe $127-127$
 Quindi:
 Sia $k$ il numero di bit a disposizione
 
-$n$ il nume binario naturale di $2^k+x$
+$n$ il numero binario naturale di $2^k+x$
 Se voglio rappresentare il:
 - $+6_{10}=+0110_{(2)}=2^4+0110= 1000+0110$
 

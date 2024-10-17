@@ -3852,6 +3852,9 @@ scopi
 significano
 soli
 spento
+sommano
+sottraendo
+significativi
 gAMA
 go
 gW
@@ -6220,6 +6223,8 @@ parola
 presentare
 piovendo
 passati
+prender
+partire
 HBz
 HN
 HU
@@ -9622,6 +9627,7 @@ lavoratore
 lungo
 leggibile
 leggere
+legge
 oooEDD
 oo
 osv
@@ -20050,6 +20056,7 @@ risolutivo
 rappresenti
 rapresentare
 rappresentabili
+risultando
 SL
 SZ
 SO
@@ -21142,6 +21149,7 @@ SnpqaOHTt
 Selezione
 Struttura
 Scrittura
+Sottrazioni
 Zy
 Zar
 ZN
@@ -25244,6 +25252,7 @@ calcolatori
 codificazione
 caratteri
 corto
+convenzione
 av
 as
 aIT
@@ -26968,6 +26977,9 @@ analogica
 analogico
 applica
 acceso
+addizione
+aggiuntivo
+attiva
 GM
 Gr
 GD
@@ -36669,6 +36681,7 @@ moltiplicato
 matematicamente
 multiplo
 macchina
+moltiplicarlo
 xUu
 xeV
 xn
@@ -41601,6 +41614,7 @@ OTrcUJpTdFyWDbtm
 OjrNmzZL
 OVlzR
 Oppure
+Overflow
 nl
 nf
 nP
@@ -54478,6 +54492,7 @@ UzZl
 USwzA
 UJAOc
 UyiKDhVPKhRFh
+Underflow
 fN
 feun
 fs
@@ -56343,6 +56358,7 @@ facilmente
 fissi
 fuori
 finire
+fino
 Au
 AV
 AX
@@ -57550,6 +57566,7 @@ AscBYoilcKa
 Arrivati
 Archimede
 Analizzare
+Addizioni
 LG
 La
 Linguaggio
@@ -60783,6 +60800,7 @@ definire
 descrivere
 digitale
 digit
+dividerlo
 eA
 eWf
 eddh
