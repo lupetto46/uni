@@ -16,7 +16,7 @@ Quindi $f$ appartiene al campo $K$ con come variabile $x$: $K[x]$
 Si può poi trovare il grado: $deg (f):=n, \quad deg(0):=-\infty$
 
 > [!hint] 
-> Nella maggior parte dei cari tratteremo $K=ℝ$
+> Nella maggior parte dei casi tratteremo $K=ℝ$
 
 
 ## Polinomi a più variabili
