@@ -1,4 +1,5 @@
 #fondamenti_di_programmazione
+# Elaborazione dell'informazione
 ## Definire un problema
 Ci sono definizioni particolari per poter dire che un problema è ben formulato:
 - Non è evidente che non esistano soluzioni
@@ -98,7 +99,7 @@ In informatica o meglio nell'ambito dei calcolatori l'esempio più banale è i n
 Anche se tra le tecniche di rappresentazione oltre a quella binaria ci sta anche quella analogica.
 
 > [!faq] Cos'è l'analogico e il digitale?
-> Il sistema analogico consiste nel rappresentare informazione attraverso l'utilizzo di tutti i numeri dal $-\infty$ al $+\infty$ mentre invece il digitale consiste nel rappresentare l'informazione attraverso una serie di zero e uno.
+> Il sistema analogico consiste nel rappresentare informazione attraverso l'utilizzo di tutti i numeri (dal $-\infty$ al $+\infty$) mentre invece il digitale consiste nel rappresentare l'informazione attraverso una serie di zero e uno.
 
 Lo scopo dell'informazione è quello di rappresentare i dati in un modo utile e significativo per scopi pratici.
 
@@ -144,6 +145,7 @@ In fatti un Gibibyte equivale a 1024 Mebibyte (MiB)
 
 # Sistemi di numerazione
 ## Rappresentazione polinomiale
+La rappresentazione polinomiale di una serie di bit è vista come la somma tra tutte le cifre della seria di bit moltiplicate dalla loro posizione a partire dallo 0 (*il bit più a destra*) fino ad arrivare a n-1 (*Il bit più a sinistra*)
 - In generale della B la base e $c_i$ i coefficienti
 $$
 N=\sum^{n}_{i=0} c_i\cdot b^i
@@ -152,20 +154,21 @@ $$
 ## Conversione di base
 
 ### Da base 2 a base 10
+Utilizziamo proprio la somma vista sopra per convertire da base
 $0111_{(2)}= 0\cdot 2^3 + 1\cdot 2^2+ 1\cdot 2^1+1\cdot 2^0=7_{(10)}$
-Non è altro che prender il bit da destra verso sinistra e moltiplicarlo per la posizione del bit a partire da 0 fino a $(n-bit)-1$
+Non è altro che prendere il bit da destra verso sinistra e moltiplicarlo per la posizione del bit a partire da 0 fino a $(n-bit)-1$
 ### Da base 10 a base 2
 Da base 10 a binario invece è diverso
 È necessario prendere il valore dividerlo per la base e scrivere solo il resto che si ottiene dalla divisione:
-$\frac{17}{2}$ fa $8$ con resto $1$
-$\frac{8}{2}$ fa $4$ con resto $0$
+$\frac{19}{2}$ fa $9$ con resto $1$
+$\frac{9}{2}$ fa $4$ con resto $1$
 $\frac{4}{2}$ fa $2$ con resto $0$
 $\frac{2}{2}$ fa $1$ con resto $0$
 $\frac{1}{2}$ fa $0$ con resto $1$
 
-Si legge poi dal basso verso l'altro ottenendo che $17_{(10)}= 10001_{(2)}$
+Si legge poi dal basso verso l'altro ottenendo che $17_{(10)}= 10011_{(2)}$
 ### Modulo e segno
-Per rappresentare lo zero si prende innanzitutto il bit più a sinistra tra i bit disponibili.
+Per rappresentare un numero con il segno si prende innanzitutto il bit più a sinistra tra i bit disponibili.
 > [!question] Perché il bit più a sinistra
 > È una convenzione
 
@@ -177,38 +180,34 @@ E si utilizza come segno
 ottenendo quindi che l'intervallo
 $n\in [-(2^{k-1} - 1), 2^{k-1} - 1]$ in cui $k$ è il numero di bit disponibili
 
-Il problema è che questo metodo ha 2 modi per rappresentare lo zero.
+Il problema è che questo metodo ha 2 modi per rappresentare lo zero:
+- $10000000$
+- $00000000$
 
 ### Le operazioni
-Prima di andare avanti è importante considerare le varie operazioni.
-- Addizioni in modulo e segno:
-	- Se i valori sono con lo stesso segno allora si sommano normalmente e il segno non cambia
-	- Se i valori sono con segno diverso allora si fa la differenza tra il più grande e il più piccolo e il risultato è quello del più grande.
-- Sottrazioni in modulo e segno:
-	- In questo caso si deve cambiare il segno del sottraendo
-	- E si utilizza l'algoritmo dell'addizione
+Prima di andare avanti è importante considerare i risultati che possono dare le varie operazioni.
 - Overflow
-	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit che si hanno. Se si verifica questo caso lo si può sapere attraverso un bit chiamato **bit di carry** aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi. ^f264c5
+	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit disponibili. Se si verifica questo caso lo si può sapere attraverso un bit chiamato **bit di carry**, ovvero un bit aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi. ^f264c5
 - Underflow:
 	- Il caso in cui il valore che si sta cercando di rappresentare è troppo piccolo per essere rappresentato con il numero di bit che ho in questo momento
 
 Ma la domanda è: **Come posso rappresentare i numeri negativi avendo solo un  rappresentazione dello zero?**
 
-I numeri si possono rappresentare come:
+Per evitare questo problema delle due rappresentazioni dello zero si possono rappresentare i numeri come:
 $127-n$
 Quindi se voglio il numero 3 posso rappresentarlo come:
 $127 - 124 = 3$
 così facendo ho una sola rappresentazione dello $0$ che sarebbe $127-127$
 
 ## Complemento a 2
-Per trasformare un numero da numero positivo a numero negativo in binario è necessario eseguire degli step.
+Per trasformare un numero da numero positivo a numero negativo ci sono vari metodi in binario uno di questi è:
 
 Il primo passaggio consiste nel prendere il numero che si vuole rendere negativo e invertire i bit di cui è composto
 $3=0011$
 $\overline{3}=1100$
 Dopodiché al numero *negato bit per bit* si somma $1$
 $\overline{3}+1=1100+0001=1101$
-(*Da specificare che quest'ultima è una vera e propria somma tra numeri binari e quindi non si deve semplicemente mettere 1 alla fine se non c'è ma si deve sommare 1 al numero risultate dalla negazione del numero*)
+(*Da specificare che quest'ultima è una vera e propria somma tra numeri binari e quindi non si deve semplicemente mettere 1 alla fine se non c'è ma si deve sommare 1*)
 ### Operazioni con complemento a 2
 Ma come eseguire le operazioni (in particolare la sottrazione) con i bit?
 
@@ -223,13 +222,13 @@ Come prima cosa si calcola il complemento a 2 prendendo il numero negativo della
 Una volta calcolato il complemento a 2 si sommano i due numeri scegliendo il segno attraverso [[#^f264c5|bit di carry]] che se sarà attivo darà segno positivo altrimenti il segno sarà negativo.
 
 ## Le flag
-Ma una volta completata un'operazione il calcolatore utilizza delle flag particolari che sono semplicemente bit in una posizione specificata precedentemente.
+Una volta completata un'operazione il calcolatore utilizza delle flag particolari che sono semplicemente bit in una posizione specificata precedentemente.
 Le flag in particolare sono 3:
 1. OF (Overflow Flag). Verrà impostata 1 se l'operazione non è valida a causa del fatto che una somma tra due numeri attiva il bit di carry
 2. SF (Sign Flag). Verrà impostata 1 se l'operazione ha segno positivo 0 altrimenti in questo caso prende l'informazione dal bit più significativo (il più a sinistra) del risultato
 3. ZF (Zero Flag). Se il risultato che è stato dato è zero
 
-## Proprietà delle operazione
+## Problemi riguardanti le proprietà delle operazioni
 Le *operazioni con numeri reali* non godono della proprietà commutativa perché sono affetti dalle rappresentazioni approssimate
 
 Le *operazioni con numeri interi* invece sono rappresentazioni esatte e quindi godono della proprietà commutativa
@@ -239,25 +238,25 @@ Per rappresentare i numeri reali, quindi i numeri con la virgola, ci sono due te
 ## Virgola fissa
 In questo caso si utilizzano un numero di bit fissi per rappresentare i numeri prima della virgola e un numero di bit fisso per rappresentare i numeri dopo la virgola.
 
-Consideriamo con la lettera $I$ i numeri prima della virgola con $D$ i numeri dopo la virgola
+Consideriamo con la lettera $I$ i numeri prima della virgola, quindi i numeri interi, e con $D$ i numeri dopo la virgola, i decimali.
 
 Inoltre alla $I$ togliamo un bit per rappresentare il segno
 $$
 N_{10}=(-1)^S\cdot(\sum^{I-1}_{i=0}a_i\cdot 2^i+\sum^{-D}_{d=-1}b_{d}\cdot b^d)
 $$
 
-Ad esempio se (per ora facciamo in decimale) dedichiamo 2 cifre per il numero dopo la virgola e 6 bit per il numero prima otteniamo con il numero
+Ad esempio se (per ora facciamo in decimale) dedichiamo 2 cifre per la parte decimale del numero e 6 cifre per la parte intera otteniamo che il numero
 $12,3456$ 
-E lo rappresentiamo come $+00012,34$ notare che prima della virgola ci sono esattamente $6$ cifre *compreso il segno* e dopo la virgola ce ne sono esattamente due.
+Viene rappresentato come $+00012,34$ notare che prima della virgola ci sono esattamente $6$ cifre *compreso il segno* e dopo la virgola ce ne sono esattamente due.
 
-È importante specificare come la parte decimale è stata troncata creando uno dei problemi più grandi della rappresentazione dei numeri reali
+È importante specificare come la parte decimale è stata troncata creando uno dei problemi più grandi della rappresentazione dei numeri reali ovvero l'impossibilità di rappresentare numeri che hanno valori infiniti dopo la virgola (periodici e non)
 ## Virgola mobile
 Il numero a virgola mobile permette di scegliere *in un certo range* quanti bit possono essere utilizzati per la parte decimale e la parte intera del numero.
 
 Si definiscono quindi 3 cose per poter utilizzare questa rappresentazione:
 - $S$ il bit del segno
-- $m$ O la mantissa
-- $e$ il bit per codificare l'esponente
+- $m$ O la mantissa che sono tutte le cifre senza nessuna virgola
+- $e$ il numero che dice quante cifre ci sono dopo la virgola
 
 Vengono uniti attraverso l'operazione $(-1)^S\cdot m\cdot 2^e$
 
@@ -265,8 +264,8 @@ di cui $m$ è il numero senza virgola ne niente ed $e$ è il numero di cifre che
 In poche parole con il numero binario $10101010.0\cdot 2^e$ questa $e$ indica quanto si deve spostare verso destra il numero binario mantenendo la virgola dov'è:
 $1010.1010$ = $10101010\cdot 2^4$ perché abbiamo preso il numero sopra e lo abbiamo spostato di 4 cifre verso destra
 
-### Ma dove sono posizionati nel codice binario?
-Il codice binario seguendo lo standard IEEE754 a 32 bit sono divisi in:
+### Ma dove sono posizionati nell'intera serie di bit?
+I vari range sono divisi seguendo lo standard IEEE754 a 32 bit in:
 - 1 bit per rappresentare il segno
 - 8 bit per rappresentare l'esponente $e$
 - 23 bit per rappresentare la mantissa $m$
@@ -278,7 +277,7 @@ $18.75_{10}=10010.11_{2}$
 Si normalizza il numero quindi *si lascia un solo bit dietro la virgola*
 $1.001011$ e lo si moltiplica per $2$ elevato al numero di cifre per cui ci siamo dovuti spostare verso destra
 $1.001011\cdot 2^4$ l'esponente in binario è $100$
-Poi si applica il ovvero un valore per cui viene sommato l'esponente per permettere la rappresentazione degli esponenti negativi
+Poi si applica il *biass* ovvero un valore per cui viene sommato l'esponente per permettere la rappresentazione degli esponenti negativi
 $4_{(10)}+127_{(10)}=00000100_{(2)}+01111111_{(2)}=10000011_{(2)}$
 
 Concatenando *$S$*$+$**$e$**$+$$m$ si ottiene il codice binario
@@ -329,6 +328,9 @@ Fine
 
 È importante ricordare che durante un'operazione di assegnazione si legge da destra verso sinistra quindi si nell'esempio "Somma = A+B" prima si somma A+B e poi si inserisce dentro la variabile Somma
 
+Ovviamente quando si crea uno pseudo codice si decide a che livello di dettaglio arrivare
+Esempio dire semplicemente: "calcolare il valore assoluto" oppure descrivere tutti i passaggi per calcolare un valore assoluto di un numero
+
 ## La tabella di traccia
 La tabella di traccia è solo una tabella che contiene tutte le variabili all'interno di un programma e tiene traccia dei valori che prendono in una certa istruzioni
 
@@ -345,3 +347,56 @@ Questo struttura contiene 3 blocchi:
 ## Principio importante che ogni blocco deve avere
 La cosà più importante di un blocco è il fatto che questo blocco debba avere un ingresso e un uscita
 ![[Pasted image 20241018125105.png]]
+# Algebra di boole
+L'algebra booleana si basa su due soli stati:
+- Acceso (vero)
+- Spento (falso)
+
+Le variabili dell'algebra booleana possono prendere solo due valori e si chiamano variabili logiche
+
+## Gli operatori logici
+Le operazioni che si possono fare su due variabili logiche sono And, Or, Not
+
+Attraverso queste operazioni possiamo creare delle tabelle booleane che descrivono semplicemente date due variabili logiche che valore risulterà una certa operazione
+### And
+L'*operatore logico* And (&&) si comporta esattamente come una moltiplicazione infatti la sua tabella della verità è:
+
+| $A$ | $B$ | $A\cdot B$ |
+| --- | --- | ---------- |
+| $0$ | $0$ | $0$        |
+| $1$ | $0$ | $0$        |
+| $0$ | $1$ | $0$        |
+| $1$ | $1$ | $1$        |
+#### Proprietà dell'And
+$A\text{ and } 0=0$
+$A\text{ and }1=A$
+$A\text{ and }A=A$
+$A\text{ and }\overline{A}=0$
+$A\text{ and }B=B\text{ and }A$ (Proprietà commutativa)
+### Or
+L'operatore logico Or (||) si comporta come un'addizione:
+
+| $A$ | $B$ | $A+ B$ |
+| --- | --- | ------ |
+| $0$ | $0$ | $0$    |
+| $1$ | $0$ | $1$    |
+| $0$ | $1$ | $1$    |
+| $1$ | $1$ | $1$    |
+#### Proprietà dell'Or
+$A\text{ or }0=A$
+$A\text{ or }A=A$
+$A\text{ or }1=1$
+$A\text{ or }\overline{A}=1$
+$A\text{ or }B=B\text{ or }A$
+### Not
+L'operatore logico Not invece è restituisce l'inverso del numero che gli viene dato:
+
+| $A$ | $\overline{A}$ |
+| --- | -------------- |
+| $0$ | $1$            |
+| $1$ | $0$            |
+
+#### Proprietà del not
+$\overline{\overline{A}}= A$
+## Funzioni logiche
+Le funzioni logiche sono funzioni nell'algebra booleana che date delle variabili restituiscono vero o falso e sono caratterizzate da una specifica tabella della verità
