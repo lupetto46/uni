@@ -33194,6 +33194,7 @@ azdaqZMmYKq
 aSyBYRhdDROGi
 aKwppHLCOha
 amUs
+attributi
 GM
 Gr
 GD
@@ -45280,6 +45281,7 @@ mynicl
 mayxz
 mPVw
 mstkOPT
+matrici
 xUu
 xeV
 xn
@@ -47991,6 +47993,7 @@ qOo
 qMA
 qhxRFkubTqohai
 qpxVFbagvpcaihTdaRCg
+quasi
 ip
 iz
 iU
@@ -62722,6 +62725,8 @@ tMUQTHC
 tymmLoTKs
 tcVgMlgp
 tPitC
+triangolare
+trasposta
 CG
 Cf
 CDDDDD
@@ -69647,6 +69652,7 @@ fUfL
 fQoUMYwLKGMklPT
 fAajLo
 fMyaTwP
+fondamentali
 Au
 AV
 AX
@@ -75040,6 +75046,7 @@ dPEQJzWg
 deJ
 duSqPp
 dimensioni
+diagonale
 eA
 eWf
 eddh
@@ -77710,6 +77717,7 @@ enHfahqgUCi
 eXXZT
 eUUXmVNacpj
 eAxrNqTfQISPwP
+entrate
 Ve
 VM
 Vka
