@@ -188,26 +188,160 @@ Prima di andare avanti è importante considerare le varie operazioni.
 	- In questo caso si deve cambiare il segno del sottraendo
 	- E si utilizza l'algoritmo dell'addizione
 - Overflow
-	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit che si hanno. Se si verifica questo caso lo si può sapere attraverso un bit aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi. Questo bit si chiama **bit di carry**
+	- Quando il numero che sta risultando dall'operazione è troppo grande per essere rappresentato con il numero di bit che si hanno. Se si verifica questo caso lo si può sapere attraverso un bit chiamato **bit di carry** aggiuntivo che si attiva solo nel caso in cui si sommano i due bit più significativi. ^f264c5
 - Underflow:
 	- Il caso in cui il valore che si sta cercando di rappresentare è troppo piccolo per essere rappresentato con il numero di bit che ho in questo momento
-## Complemento a 2
+
 Ma la domanda è: **Come posso rappresentare i numeri negativi avendo solo un  rappresentazione dello zero?**
+
 I numeri si possono rappresentare come:
 $127-n$
 Quindi se voglio il numero 3 posso rappresentarlo come:
 $127 - 124 = 3$
 così facendo ho una sola rappresentazione dello $0$ che sarebbe $127-127$
 
-Quindi:
-Sia $k$ il numero di bit a disposizione
+## Complemento a 2
+Per trasformare un numero da numero positivo a numero negativo in binario è necessario eseguire degli step.
 
-$n$ il numero binario naturale di $2^k+x$
-Se voglio rappresentare il:
-- $+6_{10}=+0110_{(2)}=2^4+0110= 1000+0110$
+Il primo passaggio consiste nel prendere il numero che si vuole rendere negativo e invertire i bit di cui è composto
+$3=0011$
+$\overline{3}=1100$
+Dopodiché al numero *negato bit per bit* si somma $1$
+$\overline{3}+1=1100+0001=1101$
+(*Da specificare che quest'ultima è una vera e propria somma tra numeri binari e quindi non si deve semplicemente mettere 1 alla fine se non c'è ma si deve sommare 1 al numero risultate dalla negazione del numero*)
+### Operazioni con complemento a 2
+Ma come eseguire le operazioni (in particolare la sottrazione) con i bit?
+
+Ci sono due modi:
+#### Calcolo con segno:
+Si guarda quale dei due numeri (senza segno) è più grande, poi si sommano i due numeri e si mette il segno del numero più grande
+
+Questo metodo non viene utilizzato molto in quando richiedere troppi passaggi e se n'è trovato un altro più semplice 
+#### Calcolo con complemento a 2:
+Come prima cosa si calcola il complemento a 2 prendendo il numero negativo della sottrazione e si calcola il complemento a due.
+
+Una volta calcolato il complemento a 2 si sommano i due numeri scegliendo il segno attraverso [[#^f264c5|bit di carry]] che se sarà attivo darà segno positivo altrimenti il segno sarà negativo.
+
+## Le flag
+Ma una volta completata un'operazione il calcolatore utilizza delle flag particolari che sono semplicemente bit in una posizione specificata precedentemente.
+Le flag in particolare sono 3:
+1. OF (Overflow Flag). Verrà impostata 1 se l'operazione non è valida a causa del fatto che una somma tra due numeri attiva il bit di carry
+2. SF (Sign Flag). Verrà impostata 1 se l'operazione ha segno positivo 0 altrimenti in questo caso prende l'informazione dal bit più significativo (il più a sinistra) del risultato
+3. ZF (Zero Flag). Se il risultato che è stato dato è zero
 
 ## Proprietà delle operazione
 Le *operazioni con numeri reali* non godono della proprietà commutativa perché sono affetti dalle rappresentazioni approssimate
 
 Le *operazioni con numeri interi* invece sono rappresentazioni esatte e quindi godono della proprietà commutativa
 
+# Come rappresentare i numeri reali
+Per rappresentare i numeri reali, quindi i numeri con la virgola, ci sono due tecniche.
+## Virgola fissa
+In questo caso si utilizzano un numero di bit fissi per rappresentare i numeri prima della virgola e un numero di bit fisso per rappresentare i numeri dopo la virgola.
+
+Consideriamo con la lettera $I$ i numeri prima della virgola con $D$ i numeri dopo la virgola
+
+Inoltre alla $I$ togliamo un bit per rappresentare il segno
+$$
+N_{10}=(-1)^S\cdot(\sum^{I-1}_{i=0}a_i\cdot 2^i+\sum^{-D}_{d=-1}b_{d}\cdot b^d)
+$$
+
+Ad esempio se (per ora facciamo in decimale) dedichiamo 2 cifre per il numero dopo la virgola e 6 bit per il numero prima otteniamo con il numero
+$12,3456$ 
+E lo rappresentiamo come $+00012,34$ notare che prima della virgola ci sono esattamente $6$ cifre *compreso il segno* e dopo la virgola ce ne sono esattamente due.
+
+È importante specificare come la parte decimale è stata troncata creando uno dei problemi più grandi della rappresentazione dei numeri reali
+## Virgola mobile
+Il numero a virgola mobile permette di scegliere *in un certo range* quanti bit possono essere utilizzati per la parte decimale e la parte intera del numero.
+
+Si definiscono quindi 3 cose per poter utilizzare questa rappresentazione:
+- $S$ il bit del segno
+- $m$ O la mantissa
+- $e$ il bit per codificare l'esponente
+
+Vengono uniti attraverso l'operazione $(-1)^S\cdot m\cdot 2^e$
+
+di cui $m$ è il numero senza virgola ne niente ed $e$ è il numero di cifre che devono essere poi codificate come *cifre decimale*
+In poche parole con il numero binario $10101010.0\cdot 2^e$ questa $e$ indica quanto si deve spostare verso destra il numero binario mantenendo la virgola dov'è:
+$1010.1010$ = $10101010\cdot 2^4$ perché abbiamo preso il numero sopra e lo abbiamo spostato di 4 cifre verso destra
+
+### Ma dove sono posizionati nel codice binario?
+Il codice binario seguendo lo standard IEEE754 a 32 bit sono divisi in:
+- 1 bit per rappresentare il segno
+- 8 bit per rappresentare l'esponente $e$
+- 23 bit per rappresentare la mantissa $m$
+
+Ma come vengono ottenuti?
+
+Innanzitutto si prende il valore con la virgola mobile
+$18.75_{10}=10010.11_{2}$
+Si normalizza il numero quindi *si lascia un solo bit dietro la virgola*
+$1.001011$ e lo si moltiplica per $2$ elevato al numero di cifre per cui ci siamo dovuti spostare verso destra
+$1.001011\cdot 2^4$ l'esponente in binario è $100$
+Poi si applica il ovvero un valore per cui viene sommato l'esponente per permettere la rappresentazione degli esponenti negativi
+$4_{(10)}+127_{(10)}=00000100_{(2)}+01111111_{(2)}=10000011_{(2)}$
+
+Concatenando *$S$*$+$**$e$**$+$$m$ si ottiene il codice binario
+*$0$* **$10000011$** $001\ 0110\ 0000\ 0000\ 0000\ 0000$
+
+# Codici alfanumerici
+
+I simboli alfa numerici non sono soltanto le i simboli che rappresentano le cifre numeriche o le lettere dell'alfabeto ma anche caratteri come lo spazio o i "va a capo"
+
+Questi vengono raffigurati anche loro attraverso il codice binario ma la differenza è che invece di rappresentare un numero una specifica serie di bit.
+
+Che simbolo viene rappresentato da che codice viene specificato attraverso la tabella ASCII
+![[Pasted image 20241018121615.png]]
+
+ovviamente la tabella ASCII ha tante cifre quante sono il numero di combinazioni che si possono ottenere con un certo numero di bit. Ad esempio con 8 bit possiamo avere $2^8=256$ caratteri rappresentabili
+# Rappresentazione degli algoritmi
+## Tipi di istruzione
+- Istruzioni di ingresso e uscita (input\output), inserimento di dati o stampare dati
+- Istruzioni di assegnamento (il processo in cui si assegna un valore a una certa cella di memoria)
+- Istruzioni di controllo e alterazione della sequenza di istruzione
+	- Alterazione condizionata ("*Se si verifica questa condizione vai qui*")
+	- Alterazione incondizionata
+
+## Flowchart
+Il flowchart non è altro che una rappresentazione grafica di un algoritmo attraverso blocchi che hanno delle specifiche funzioni
+
+![[Pasted image 20241018122729.png]]Abbiamo quindi:
+- i due blocchi di *start e end* perché l'algoritmo deve avere necessariamente un inizio e una fine
+- Process: il blocco che si occupa di fare operazioni e assegnarle a qualcosa *è quindi un istruzione di assegnamento*
+- I due blocchi di input\output
+- Test: Il blocco condizionale. Ce ne sono di vari tipi:
+	- While: Esegui *in continuazione* una certa sequenza finché una certa condizione non diventa falsa
+	- If: Esegui una sequenza se una certa condizione è vera
+
+## Lo pseudo codice
+In generale prima di utilizzare il linguaggio di programmazione conviene utilizzare il flowchart oppure lo pseudo codice così da creare un algoritmo di risoluzione di un problema senza dover pensare alla sintassi di qualcosa
+
+Lo pseudo codice è quindi una specie di codice ma che non segue la sintassi di nessuno linguaggio di programmazione:
+Esempio:
+```Pseudo-codice
+Inizio
+	Leggi il numero intero A
+	Leggi il numero intero B
+	Somma = A + B
+	Visualizzare Somma
+Fine
+```
+
+È importante ricordare che durante un'operazione di assegnazione si legge da destra verso sinistra quindi si nell'esempio "Somma = A+B" prima si somma A+B e poi si inserisce dentro la variabile Somma
+
+## La tabella di traccia
+La tabella di traccia è solo una tabella che contiene tutte le variabili all'interno di un programma e tiene traccia dei valori che prendono in una certa istruzioni
+
+# Programmazione strutturata
+La programmazione strutturata consiste in delle regole fatte appositamente per rendere il codice o l'algoritmo *più leggibile*
+
+Questo struttura contiene 3 blocchi:
+- Blocco: concatenazione (Sarebbe in quadrato e rappresenta le operazioni che vengono eseguite)
+- Selezione: Strutture condizionali che permettono di eseguire diverse operazioni 
+- Ciclo: Strutture di iterazione
+
+![[Pasted image 20241018124125.png]]
+
+## Principio importante che ogni blocco deve avere
+La cosà più importante di un blocco è il fatto che questo blocco debba avere un ingresso e un uscita
+![[Pasted image 20241018125105.png]]
