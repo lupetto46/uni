@@ -48,3 +48,81 @@ Le memorie esterne sono le memorie in cui si inseriscono i dati sotto forma di f
 - Tecnologia ottica:
   La tecnologia ottica è una tecnologia come il DVD o il CD o il Blu-Ray che sfrutta un raggio laser per leggere su un disco con sopra un sottile foglio di metallo.
 
+# Esecuzione dei programmi
+## Cosa avviene realmente in un programma?
+
+È abbastanza nascosto dagli ambienti di programmazione 
+Si passa dal linguaggio sorgente al linguaggio oggetto ovvero un linguaggio intermedio molto vicino al linguaggio macchina. Ha dei cosiddetti "simboli non risolti" ovvero problemi che io ritrovo già risolti in librerie pre-esistenti
+
+Per poter garantire la portabilità del sorgente
+Ovvero che indipendentemente dal calcolatore e le sue impostazioni il sorgente fa ciò che c'è scritto che dovrà fare
+
+### Quando vengono cercate queste librerie già pronte?
+Durante la fase di read
+
+Controllo tutti i simboli e li associo con il codice della libreria a cui sono associati
+
+Il linguaggio oggetto è uguale per tutti i linguaggi di programmazione.
+
+Il linguaggio oggetto è legato all'architettura e al sistema operativo.
+
+Passo del link che è ancora più legato alla macchina.
+
+### Collegamento con i programmi di supporto
+I linguaggi interpretati hanno bisogno sempre dell'interprete
+
+
+### Caricamento in memoria
+Poi si carica la memoria
+
+
+## Cosa succede durante la compilazione?
+
+### Analisi
+Un'analisi lessicale, grammaticale e contestuale. 
+Controlla se la sintassi del codice sorgente è corretta
+Poi un analisi contestuale ovvero se tutto ciò che si trova nel programma trova corrispondenza in tutto quello che c'è scritto nel programma
+
+### Trasformazione da sorgente a oggetto
+#### Creazione di una tabella di simboli
+I simboli sono solo nomi che si assegnano come i nomi delle variabili o altre cose questi nomi delle variabili vengono inserite all'interno di una tabella
+
+### Ottimizzazioni
+L'ottimizzazione viene eseguita del compilatore permettendo al programmatore di concentrarsi sulla leggibilità del codice
+
+## Il linker
+Il linker è ciò che collega diversi moduli e oggetti attraverso simboli
+
+## Il loader
+Il loader carica il programma in memoria
+
+# Ambienti integrati
+
+Gli IDE automatizzano la procedure compilando il file sorgente e invocano i linker
+
+ma per farlo devono sapere quali sono i file sorgenti che costituiscono l'applicazione e il nome dell'eseguibile da produrre
+
+# Struttura di un programma
+## Le libreria
+Intanto si dichiarano le librerie.
+*Ricordare di inserire le librerie solo se necessarie*
+La sintassi in C per includere le librerie è:
+```C
+#include <stdio.h>
+```
+
+## Dichiarazione delle funzioni
+Una funzione in C è particolarmente importante ovvero il "**Main**" e il suo scopo è per dire al programma "*inizia da qua*"
+
+```C
+#include <stdio.h>
+
+int main() {
+	/* Il codice inizia da qui */
+}
+```
+
+### Dichiarazioni delle variabili
+Il C è un linguaggio tipizzato quindi quando si crea una variabile è necessario inserire il tipo (Se è intero, reale, una stringa, una lista ecc).
+Una volta dichiarata il compilatore creerà il simbolo lo inserirà nella tabella e capirà come interpretarla
+

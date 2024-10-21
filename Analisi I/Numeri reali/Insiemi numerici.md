@@ -4,8 +4,8 @@ Abbiamo vari segni che rappresentano diversi insiemi di numeri molto importanti:
 $ℕ\subset ℤ\subset ℚ\subset ℝ\subset ℂ$
 Di cui:
 - $ℕ=\{0;1;2;3;4;...\}$ insieme dei numeri naturali
-- $ℤ=\{0;\pm1;\pm2;\pm3;\pm4;...\}$ insieme dei numeri interi razionali
-- $ℚ=\{\frac{m}{n},m,n\inℤ,n\neq0\}$ Insieme dei numeri razionali
+- $ℤ=\{0;\pm1;\pm2;\pm3;\pm4;...\}$ insieme dei numeri interi relativi
+- $ℚ=\{\frac{m}{n},m,n\inℤ,n\neq0\}$ Insieme dei numeri relativi
 
 ## Ma cosa è l'insieme $ℝ$ (l'insieme dei numeri complessi $ℂ$ per ora non ci si fa caso)?
 Seguendo la scuola pitagorica vediamo che avendo:
@@ -137,10 +137,10 @@ Innanzitutto si definiscono due operazioni dette **dirette**.
 Ovvero le addizioni ($+$) e le moltiplicazioni ($\cdot$) che godono di diverse proprietà:
 - Proprietà associativa:
 	- ($+$) $(x+y)+z=x+(z+y)\ \forall x,y,z\inℝ$
-	- ($\cdot$) $(x\cdot y)\cdot z=x\cdot(z\cdot y)\ \forall x,y,z\inℝ$
+	- $(\cdot)$ $(x\cdot y)\cdot z=x\cdot(z\cdot y)\ \forall x,y,z\inℝ$
 - Proprietà commutativa:
 	- ($+$) $x+y=y+x\ \forall x,y\in ℝ$
-	- $(\cdot$) $x\cdot y=y\cdot x\ \forall x,y\in ℝ$
+	- $(\cdot)$ $x\cdot y=y\cdot x\ \forall x,y\in ℝ$
 
 È importante sapere anche che:
 - $\exists$ un elemento neutro nella somma $x+0=x\ \forall x\inℝ$

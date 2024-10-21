@@ -36,7 +36,7 @@ $|z|=\sqrt{a^2+b^2}$
 $z=a+bi\qquad z_1=c+di$
 - $z+z_1=(a+c)+i(b+d)$
 - $z\cdot z_1=ac-bd+i(bc-ad)$
-- $\frac{z}{z_1}=\frac{a+bi}{c+di}$ Qui si fa come se si stesse fattorizzando una radice quadrata al denominatore quindi $\frac{a+bi}{c+di}\cdot \frac{c+di}{c+di}=\frac{(ac+bd)+i(bc+ad)}{c^2+d^2}=\frac{ac+bd}{c^2+d^2}+i\frac{bc+ad}{c^2+b^2}$ ^de4687
+- $\frac{z}{z_1}=\frac{a+bi}{c+di}$ Qui si fa come se si stesse semplificando una radice quadrata al denominatore quindi $\frac{a+bi}{c+di}\cdot \frac{c+di}{c+di}=\frac{(ac+bd)+i(bc+ad)}{c^2+d^2}=\frac{ac+bd}{c^2+d^2}+i\frac{bc+ad}{c^2+b^2}$ ^de4687
 
 ## Adesso si definiscono le addizioni e le moltiplicazioni
 Si definiscono le operazioni e si controlla se hanno tutte le proprietà di cui devono godere:
@@ -229,7 +229,7 @@ Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n
 > $$
 > z^{-m}=\frac{1}{z^m}=\rho^{-m}\frac{1}{(\cos m\theta+i\sin m\theta)}
 > $$
-> Qui possiamo [[#^de4687|fattorizzare]]
+> Qui possiamo [[#^de4687|semplificare]]
 > $$
 > \begin{align}
 > &\rho^{-m}\frac{(\cos m\theta-i\sin m\theta)}{\underbrace{\cos^2m\theta+\sin^2 m\theta}_1}=\\
@@ -238,5 +238,3 @@ Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n
 > $$
 > 
 > Finendo così la dimostrazione
-
-

@@ -4710,6 +4710,11 @@ seria
 schermo
 stacca
 spegne
+sfrutta
+salvare
+sfrutto
+schede
+sottile
 gAMA
 go
 gW
@@ -6153,6 +6158,7 @@ guarda
 grafica
 gaR
 generalmente
+gestita
 pHYs
 pJ
 pn
@@ -7585,6 +7591,10 @@ periodici
 principali
 particolarit
 perdono
+persistente
+posta
+parti
+presenze
 HBz
 HN
 HU
@@ -9074,6 +9084,8 @@ HGnDlzxsPDgzWehK
 HbbKoohb
 Hltt
 Hoyy
+Hard
+HDD
 RDD
 RW
 RL
@@ -10515,6 +10527,10 @@ RdXhFNXVo
 RzVXCFNRtA
 RtY
 RPCS
+Random
+Read
+ROM
+Ray
 lL
 lk
 lkS
@@ -11859,6 +11875,9 @@ logiche
 logica
 lenta
 latenza
+lettura
+levetta
+laser
 oooEDD
 oo
 osv
@@ -13219,6 +13238,7 @@ omc
 ormai
 ognuna
 organizzate
+ottica
 QR
 QIYKI
 QG
@@ -17551,6 +17571,7 @@ MEQ
 Memorie
 Memoria
 Meno
+Memory
 JHH
 Jx
 JIIQTTT
@@ -20737,6 +20758,7 @@ uWgTntt
 utilizzano
 uniti
 ukw
+ultimi
 Xx
 Xh
 Xr
@@ -23296,6 +23318,8 @@ Tyn
 Test
 TbT
 Tecnologie
+Tipologie
+Tecnologia
 rJ
 rU
 rTkb
@@ -24715,6 +24739,10 @@ risoluzione
 restituiscono
 rimangono
 richiesto
+relativamente
+risparmiare
+riguardante
+relativi
 SL
 SZ
 SO
@@ -26092,6 +26120,7 @@ Sarebbe
 Strutture
 Spento
 Significa
+SSD
 Zy
 Zar
 ZN
@@ -31180,6 +31209,7 @@ costosa
 chiavetta
 contrariamente
 creabile
+collegate
 av
 as
 aIT
@@ -33305,6 +33335,7 @@ accedere
 avanzata
 accede
 accesso
+accensione
 GM
 Gr
 GD
@@ -40488,6 +40519,7 @@ EDr
 Esegui
 Elaborazione
 Edy
+Esercizio
 bfl
 bE
 bg
@@ -45414,6 +45446,11 @@ mSX
 mouse
 memorie
 massa
+magnetiche
+materiali
+magnetici
+mobili
+metallo
 xUu
 xeV
 xn
@@ -49622,6 +49659,8 @@ iKN
 itl
 ideata
 inviare
+impiega
+inseriscono
 Ot
 Ok
 OU
@@ -51583,6 +51622,7 @@ OjvLhCqt
 OHHZCAQt
 OmZuhKAYvjVto
 ONJwhe
+Only
 nl
 nf
 nP
@@ -58143,6 +58183,8 @@ DRfmiHjIJgMoeCl
 DIbfAfiU
 Daa
 DJoZDWiZ
+Disk
+DVD
 yJJJr
 yyy
 ye
@@ -61137,6 +61179,7 @@ valida
 vai
 verit
 veloce
+vengano
 tA
 te
 td
@@ -62897,6 +62940,7 @@ tiene
 tastiera
 tecnologia
 trasferire
+trattati
 CG
 Cf
 CDDDDD
@@ -64324,6 +64368,7 @@ CwjN
 Calcolo
 Concatenando
 CPU
+Cache
 Nf
 NR
 Non
@@ -69837,6 +69882,8 @@ falsa
 fatte
 falso
 fAC
+flash
+foglio
 Au
 AV
 AX
@@ -71307,6 +71354,7 @@ Algebra
 Acceso
 AbT
 Accesso
+Access
 LG
 La
 Linguaggio
@@ -75250,6 +75298,11 @@ dCap
 divise
 difficile
 divisa
+dovranno
+direttamente
+dispositivo
+dischi
+disco
 eA
 eWf
 eddh
@@ -77925,6 +77978,8 @@ esponenti
 end
 eHHR
 esterna
+eseguiti
+essi
 Ve
 VM
 Vka
@@ -80589,4 +80644,5 @@ BvQsilB
 BlHmJBrnowbtw
 BCcENz
 BIsH
+Blu
 äA

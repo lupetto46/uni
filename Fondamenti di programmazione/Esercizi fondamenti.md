@@ -66,3 +66,7 @@ Mentre N >= 1
 fine Mentre
 Stampa Somma
 ```
+
+# Esercizio 20/10/2024
+
+Cercare una persona e dare il numero di presenze
