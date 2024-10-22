@@ -6159,6 +6159,7 @@ grafica
 gaR
 generalmente
 gestita
+geometrizzo
 pHYs
 pJ
 pn
@@ -23320,6 +23321,7 @@ TbT
 Tecnologie
 Tipologie
 Tecnologia
+Teorema
 rJ
 rU
 rTkb

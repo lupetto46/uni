@@ -11,14 +11,14 @@ Che significa che esiste sempre un multiplo di  $x\inℝ^*_{_+}$ maggiore di $y\
 Questo è utile per esempio quando si stanno prendendo disuguaglianze tra segmenti:
 $\overline{AB}<\overline{CD}\exists n\inℕ:n\overline{AB}>\overline{CD}$
 
-# Densità di ℚ in ℝ
+# Densità di $ℚ$ in $ℝ$
 $\forall \alpha, \beta\in ℝ, \alpha < \beta\exists r\in ℚ:\alpha<r<\beta$
 Per ogni alfa e beta in ℝ con alfa minore di beta esiste un numero r in ℚ tale che r è compreso tra alfa e beta
 questo dice che tra due numeri reali esiste sempre un numero razionale
 Questa proprietà viene anche chiamata densità di $ℝ-ℚ$ in $ℝ$ 
-
+## Densità di $ℝ-ℚ$ in $ℝ$
 Questo è diverso dall'elemento di separazione di $ℝ$ che dice che:
-$\forall \alpha,\beta \in ℝ,\alpha < \beta \exists \delta\in ℝ: \alpha<\delta<\beta$
+$\forall \alpha,\beta \in ℝ,\alpha < \beta \exists \gamma\in ℝ - ℚ: \alpha<\delta<\beta$
 Tra due numeri reali c'è sempre in mezzo un numero reale
 
 ## Potenze con esponente reale
@@ -32,13 +32,15 @@ Ho scritto solo quelle che non sapevo o che non sono semplici.
 
 # Radice, potenza e logaritmo
 ## Esistenza e unicità della radice n-esima aritmetica
-Siano $n\in ℕ, n\geq2,y\in ℝ_{_+}\exists^{1}x\in ℝ_{_+}:x^n=y$
+Siano $n\in ℕ, n\geq2,y\in ℝ_{_+}$ allora $\exists^{1}x\in ℝ_{_+}:x^n=y$
 Questo dice quindi che $\sqrt[n]{y}=x$
 
 Ma adesso prendiamo un valore $r=\frac{m}{n}\in ℚ,\qquad m\in ℤ,n\inℕ^*$
 
+Sia $r = \frac{m}{n}$ quindi $a^{rn}=a^{\frac{m}{\cancel{n}}\cancel{n}}=a^m$
+
+
 Di cui $(a^r)^n=a^{rn}$
-Ma $r = \frac{m}{n}$ quindi $a^{rn}=a^{\frac{m}{\cancel{n}}\cancel{n}}=a^m$
 
 Abbiamo quindi $a^{\frac{m}{n}}=a^r=\sqrt[n]{(a^{\frac{m}{n}})^n}=\sqrt[n]{a^m}$
 
