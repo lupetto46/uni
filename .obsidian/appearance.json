@@ -1,7 +1,7 @@
 {
   "cssTheme": "Royal Velvet",
   "theme": "obsidian",
-  "interfaceFontFamily": "Bahnschrift",
-  "textFontFamily": "Bahnschrift",
-  "monospaceFontFamily": "Bahnschrift"
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Cascadia Mono"
 }

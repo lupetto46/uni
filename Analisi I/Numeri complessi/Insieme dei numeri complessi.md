@@ -35,8 +35,10 @@ $|z|=\sqrt{a^2+b^2}$
 ### Operazioni con numeri complessi
 $z=a+bi\qquad z_1=c+di$
 - $z+z_1=(a+c)+i(b+d)$
-- $z\cdot z_1=ac-bd+i(bc-ad)$
-- $\frac{z}{z_1}=\frac{a+bi}{c+di}$ Qui si fa come se si stesse semplificando una radice quadrata al denominatore quindi $\frac{a+bi}{c+di}\cdot \frac{c+di}{c+di}=\frac{(ac+bd)+i(bc+ad)}{c^2+d^2}=\frac{ac+bd}{c^2+d^2}+i\frac{bc+ad}{c^2+b^2}$ ^de4687
+  Approccio assiomatico : $z + z_1 = (a + c ; b + d)$
+- $z\cdot z_1=ac-bd+i(bc+ad)$
+  Approccio assiomatico : $z+z_1= (ac - bd ; bc - ad)$
+- $\frac{z}{z_1}=\frac{a+bi}{c+di}$ Qui si fa come se si stesse semplificando una radice quadrata al denominatore quindi $\frac{a+bi}{c+di}\cdot \frac{c-di}{c-di}=\frac{(ac+bd)+i(bc+ad)}{c^2+d^2}=\frac{ac+bd}{c^2+d^2}+i\frac{bc+ad}{c^2+d^2}$ ^de4687
 
 ## Adesso si definiscono le addizioni e le moltiplicazioni
 Si definiscono le operazioni e si controlla se hanno tutte le proprietà di cui devono godere:
@@ -83,8 +85,8 @@ $|z|=\sqrt{a^2+b^2}\qquad a+ib\in ℂ\qquad (a;b)\in ℂ$
 2. $\overline{z}\cdot\overline{w}=\overline{z\cdot w}$
 3. $\overline{\overline{z}}=z$
 4. $z=\overline{z}\Leftrightarrow z\in ℝ$
-5. $z-\overline{z}=2Re(z)$
-6. $z+\overline{z}=2Im(z)$
+5. $z-\overline{z}=2Im(z)$
+6. $z+\overline{z}=2Re(z)$
 7. $z\cdot\overline{z}=|z|^2$
 
 # Forme trigonometriche dei numeri complessi
@@ -169,7 +171,7 @@ $$
 z=a+bi=\rho(\cos\theta+i\sin\theta)
 $$
 
-Ottenendo quindi una relazione tra le coordinate cartesiane e le ordinate polari
+Ottenendo quindi una relazione tra le coordinate cartesiane e le coordinate polari
 Ma adesso poniamo tutti e due i membri elevati al quadrato
 $a^2=\rho^2\cos^2\theta$
 $b^2=\rho^2\sin^2\theta$
@@ -189,7 +191,9 @@ quando avendo
 $z=\rho(\cos\theta+i\sin\theta)$
 $z_1=\rho_1(\cos\theta_1+i\sin\theta_1)$
 
-Sono uguali quando $\theta= \theta_1$ oppure gli angoli differiscono di $2k\pi$ (*un giro completo*)
+Sono uguali quando:
+- $\theta= \theta_1$ oppure gli angoli differiscono di $2k\pi$ (*un giro completo*)
+- $\rho=\rho_1$
 
 Questo perché 
 - $\sin(\theta+2k\pi)= \sin\theta$
@@ -199,7 +203,6 @@ Questo perché
 ### Prodotto
 Avendo:
 $z=\rho(\cos\theta+i\sin\theta)\qquad z_1=\rho_1(\cos\theta_1+i\sin\theta_1)$
-
 
 $z\cdot z_1=\rho(\cos\theta+i\sin\theta)+\rho_1(\cos\theta_1+i\sin\theta_1)=$
 Seguendo le proprietà:
@@ -216,12 +219,12 @@ $z\cdot z_1=\rho\cdot\rho_1[({\cos\theta\cos\theta_1-\sin\theta\sin\theta_1})+i(
 
 Possiamo ricavare nel caso in cui $z_1=z$ che:
 $z^2=\rho^2(\cos2\theta+i\sin2\theta)$
-Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n\neq0$
+Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ$
 
 > [!todo] Dimostrazione
 > Utilizziamo la tecnica per induzione perché stiamo dimostrando una proprietà in funzione di numeri interi
 > 
-> $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n\neq0$
+> $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ$
 > 
 > Inizialmente consideriamo i casi in cui $n>0$
 > $n=1$ otteniamo:
@@ -232,6 +235,9 @@ Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n
 > $z^k\cdot z=\rho^k(\cos k\theta+i\sin k\theta)\cdot \rho(\cos \theta+i\sin \theta)=$
 > $=\rho^{k+1}(\cos k\theta\cos\theta+i\cos k\theta\sin\theta+i\sin k\theta \cos\theta-\sin k\theta\sin\theta)=$
 > $=\rho^{k+1}(\cos(k+1)\theta+i\sin(k+1)\theta)$
+> 
+> Adesso vediamo con $n=0$
+> $z^0 = \rho^0(\cos 0 + i \sin 0) = 1$
 > 
 > Adesso vediamo i casi in cui $n<0$
 > poniamo $n=-m$
@@ -252,7 +258,7 @@ Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ,n
 Un numero intero $ℤ\in ℂ$
 - $z=a+ib$ forma algebrica
 - $z=\rho(cos\theta + i sen \theta)$ forma trigonometrica
-- $\rho e^{i\phi}=\rho(\cos\theta + i \sin \theta)$ forma esponenziale
+- $\rho e^{i\phi}=\rho(\cos\phi\theta + i \sin \phi)$ forma esponenziale
 
 > [!info] Il numero di nepero
 > Il numero di nepero è un numero trascendentale
@@ -331,8 +337,8 @@ Per eseguire le equazioni del tipo $x^n=z$
 Sia $z=\rho e^{i\theta}= \rho(\cos\theta+i\sin\theta)\neq 0$ le soluzioni delle equazioni $x^n=z$ sono:
 $$
 \begin{cases}
-1.\ x_K=\sqrt[n]{\rho}e^{i\phi K}\qquad \phi_K=\frac{\theta+2k\pi}{n}\\
-2.\ K\in [0;n-1]
+1.\ x_k=\sqrt[n]{\rho}e^{i\phi k}\qquad \phi_k=\frac{\theta+2k\pi}{n}\\
+2.\ k\in [0;n-1]
 \end{cases}
 $$
 
@@ -394,3 +400,10 @@ Allora esistono $m\leq n$ numeri complessi $z_1,z_2,z_3,\dots,z_m$ ed $m$ numeri
 Ovvero il fatto che la fattorizzazione di un polinomio è unico:
 > [!tip] Esempio
 > $x^4-1=(x^2-1)(x^2+1)=(x+1)(x-1)(x+i)(x-i)$
+
+Quindi avendo $m\leq n$ zeri di un equazione e nel caso in cui $m=n$ allora si avranno tutti zeri diversi se invece $m<n$ allora si avranno degli zeri uguali
+# Trasformare un numero in forma trigonometrica
+Innanzitutto ricordare che $\rho$ è $|Z|$ quindi $\rho=\sqrt{a^2+b^2}$
+Dopodiché si calcola il $\cos \theta =\frac{a}{\rho}$
+E infine si calcola il $\sin \theta=\frac{b}{\rho}$
+E poi si sceglie il punto della circonferenza quello specifico seno e quello specifico coseno.
