@@ -1,7 +1,4 @@
 {
   "cssTheme": "Royal Velvet",
-  "theme": "obsidian",
-  "interfaceFontFamily": "Comic Sans MS",
-  "textFontFamily": "Comic Sans MS",
-  "monospaceFontFamily": "Cascadia Mono"
+  "theme": "obsidian"
 }
