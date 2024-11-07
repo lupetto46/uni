@@ -1,0 +1,409 @@
+## Approccio elementare
+I numeri complessi si scrivono con il segno $ℂ$ 
+
+Prendiamo come esempio più naturale è il caso della radice dei numeri reali 
+$\sqrt[n]{a}\qquad a\geq 0$
+
+Seguendo la matematica l'operazione tra due numeri reali dovrebbe restituire dare un numero reale
+
+Ma nel caso in cui la $a < 0$?
+In questo caso è necessario introdurre l'unità immaginaria $i$
+Questa gode di una proprietà importante ovvero $i^2=-1$
+
+Numeri come $2i$ $,-\frac{1}{2}i$ $,\sqrt{i}$ si chiamano numeri immaginari.
+
+La somma tra numeri immaginari e numeri reali si chiamano numeri complessi.
+$z=a+bi\inℂ$ con $a,b\in ℝ$
+
+Di questa $z$ si dice:
+- $Re(z)$ la parte reale
+- $Im(z)$ la parte immaginaria
+
+Se nel numero reale $z=a+bi\qquad b=0$ allora questo è un numero reale
+Altrimenti se $z=a+bi\qquad a=0$ allora questo sarà un numero immaginario.
+
+Un numero complesso si può anche scrivere come insieme di coppie ordinate di reali $(a,b)$ con $a,b\in ℝ$
+### Il coniugato di $z$
+Si indica con $\overline{z}=a-bi$ e gode di una certa proprietà, ovvero:
+$z\cdot \overline{z}=(a+bi)(a-bi)=a^2-b^2i^2$ ma visto che $i^2=-1$ il risultato finale sarà:
+$a^2+b^2$ quindi un numero reale
+
+### Modulo di $z$
+
+$|z|=\sqrt{a^2+b^2}$
+
+### Operazioni con numeri complessi
+$z=a+bi\qquad z_1=c+di$
+- $z+z_1=(a+c)+i(b+d)$
+  Approccio assiomatico : $z + z_1 = (a + c ; b + d)$
+- $z\cdot z_1=ac-bd+i(bc+ad)$
+  Approccio assiomatico : $z+z_1= (ac - bd ; bc - ad)$
+- $\frac{z}{z_1}=\frac{a+bi}{c+di}$ Qui si fa come se si stesse semplificando una radice quadrata al denominatore quindi $\frac{a+bi}{c+di}\cdot \frac{c-di}{c-di}=\frac{(ac+bd)+i(bc+ad)}{c^2+d^2}=\frac{ac+bd}{c^2+d^2}+i\frac{bc+ad}{c^2+d^2}$ ^de4687
+
+## Adesso si definiscono le addizioni e le moltiplicazioni
+Si definiscono le operazioni e si controlla se hanno tutte le proprietà di cui devono godere:
+$z=a+bi\qquad z_1=c+bi\qquad a,b\inℝ\qquad c,d\inℝ$
+- **Moltiplicazione**:
+	- $z\cdot z_1=((ac-bd);(ad+bc))$ *Sta venendo usata la rappresentazione come coppie ordinate di numeri reali*
+	- Ha la proprietà commutativa $z\cdot z_1=z_1\cdot z$
+	- Ha la proprietà associativa $(z\cdot z_1)\cdot z_2=z\cdot (z_1\cdot z_2)$
+	- $\exists$ un elemento neutro ovvero $(1;0)$
+	- Ogni elemento è simmetrizzabile per $\forall z=(a;b)\in ℂ\exists z^{-1}(\frac{a}{a^2+b^2};-\frac{b}{a^2+b^2})\in ℂ$
+- **Addizione**:
+	- $z+z_1=(a+c;d+b)$
+	- Ha la proprietà commutativa $z+ z_1=z_1+ z$
+	- Ha la proprietà associativa $(z+ z_1)+ z_2=z+ (z_1+ z_2)$
+	- $\exists$ un elemento neutro ovvero $(0;0)$
+	- Ogni elemento è simmetrizzabile $\forall z=(a;b)\in ℂ \exists -z=(-a;-b)\in ℂ$
+
+Ci sono inoltre altre proprietà come
+$i^2=(0;1)(0;1)=((0\cdot0-1\cdot1);(0\cdot 1+0\cdot 1))=(-1;0)$
+
+È inoltre periodico con la potenza modulo 4:
+Significa che
+$i$
+$i^2=-1$
+$i^3=-i$
+$i^4=1$
+Dal 4 in poi si ripete il pattern
+$i^5=i$
+
+## Proprietà di $z$
+### Proprietà del modulo di $z$
+Riscriviamo il modulo di $z$:
+$|z|=\sqrt{a^2+b^2}\qquad a+ib\in ℂ\qquad (a;b)\in ℂ$
+
+1. $|z|\geq 0$. Nel caso in cui $|z|=0$ allora $z=0$ quindi $a=0,b=0\Rightarrow (0;0)$ 
+2. $|z\cdot w|=|z|\cdot|w|$ di cui $w=c+id\qquad w(c,d)$
+3. $|z|=|\overline{z}|$
+4. $|z+w|\leq |z|+|w|$
+5. $|z|\geq Re(z)\qquad |z|\geq Im(z)$
+6. $|z|\leq Re(z)+Im(z)$
+
+### Proprietà del coniugato 
+1. $\overline{z}+\overline{w}=\overline{z+w}$
+2. $\overline{z}\cdot\overline{w}=\overline{z\cdot w}$
+3. $\overline{\overline{z}}=z$
+4. $z=\overline{z}\Leftrightarrow z\in ℝ$
+5. $z-\overline{z}=2Im(z)$
+6. $z+\overline{z}=2Re(z)$
+7. $z\cdot\overline{z}=|z|^2$
+
+# Forme trigonometriche dei numeri complessi
+Consideriamo una retta $s$ di origine $O$ detta anche polo del sistema di riferimento.
+
+![Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna](data:image/png;base64,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)
+Il segmento $\overline{OP}$ viene chiamato $\rho$ (rho) e l'angolo che spazza il segmento $\rho$ viene chiamato $\theta$ e aumenta di segno positivo se va in senso antiorario
+
+Il nostro punto $P$ ha coordinate $P(\rho;\theta)$ con $\rho>0\qquad \theta\in[0,2\pi]$
+
+
+## Piano di Argand-Gauss
+Per unire questa cosa ai numeri complessi si mette in un sistema di assi cartesiane in cui come ascissa c'è la retta dei numeri reali e come ordinata c'è l'asse immaginaria
+![Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna](data:image/png;base64,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)
+
+Di cui la coppia $(a;b)$ sono:
+$$
+\cases{a=\rho\cos\theta\\ b=\rho\sin\theta}
+$$
+
+Per poi unire definitivamente le due cose dicendo che 
+$$
+z=a+bi=\rho(\cos\theta+i\sin\theta)
+$$
+
+Ottenendo quindi una relazione tra le coordinate cartesiane e le coordinate polari
+Ma adesso poniamo tutti e due i membri elevati al quadrato
+$a^2=\rho^2\cos^2\theta$
+$b^2=\rho^2\sin^2\theta$
+$a^2+b^2=\rho^2(\underbrace{\cos^2\theta+\sin^2\theta}_{1})$
+Quindi $\rho=\sqrt{a^2+b^2}=|z|$
+
+Quindi tornando alla formula prima 
+$$
+\begin{cases}
+a=\rho\cos\theta\qquad \cos\theta=\frac{a}{\rho}=\frac{a}{\sqrt{a^2+b^2}}\\
+b=\rho\sin\theta\qquad \sin\theta=\frac{b}{\rho}=\frac{b}{\sqrt{a^2+b^2}}
+\end{cases}
+$$
+
+### Quando due numeri complessi in forma trigonometrica sono uguali?
+quando avendo
+$z=\rho(\cos\theta+i\sin\theta)$
+$z_1=\rho_1(\cos\theta_1+i\sin\theta_1)$
+
+Sono uguali quando:
+- $\theta= \theta_1$ oppure gli angoli differiscono di $2k\pi$ (*un giro completo*)
+- $\rho=\rho_1$
+
+Questo perché 
+- $\sin(\theta+2k\pi)= \sin\theta$
+- $\cos(\theta+2k\pi)=\cos\theta$
+
+## Operazioni con le formule di De Moivre
+### Prodotto
+Avendo:
+$z=\rho(\cos\theta+i\sin\theta)\qquad z_1=\rho_1(\cos\theta_1+i\sin\theta_1)$
+
+$z\cdot z_1=\rho(\cos\theta+i\sin\theta)+\rho_1(\cos\theta_1+i\sin\theta_1)=$
+Seguendo le proprietà:
+- $\cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta$
+- $\sin(\alpha+\beta)=\cos\alpha\sin\beta+\sin\alpha\cos\beta$
+
+Otteniamo che è uguale a
+$=\rho\cdot\rho_1[\cos\theta\cos\theta_1+i\sin\theta_1\cos\theta+i\sin\theta\cos\theta_1-\sin\theta\sin\theta_1]$
+$=\rho\cdot\rho_1[(\overbrace{\cos\theta\cos\theta_1-\sin\theta\sin\theta_1}^{\cos(\theta+\theta_1)})+i(\overbrace{\sin\theta_1\cos\theta+\sin\theta\cos\theta_1}^{\sin(\theta+\theta_1)})]$
+
+### Potenza di numeri interi
+Avendo questa proprietà:
+$z\cdot z_1=\rho\cdot\rho_1[({\cos\theta\cos\theta_1-\sin\theta\sin\theta_1})+i({\sin\theta_1\cos\theta+\sin\theta\cos\theta_1})]$
+
+Possiamo ricavare nel caso in cui $z_1=z$ che:
+$z^2=\rho^2(\cos2\theta+i\sin2\theta)$
+Ottenendo la proprietà: $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ$
+
+> [!todo] Dimostrazione
+> Utilizziamo la tecnica per induzione perché stiamo dimostrando una proprietà in funzione di numeri interi
+> 
+> $z^n=\rho^n(\cos n\theta+\sin n\theta)\qquad n\in ℤ$
+> 
+> Inizialmente consideriamo i casi in cui $n>0$
+> $n=1$ otteniamo:
+> $z=\rho(\cos\theta+i\sin\theta)$ che è vera.
+> 
+> Adesso vediamo il caso in cui $n=k+1$
+> $z^{k+1}=\rho^{k+1}(\cos(k+1)\theta+i\sin (k+1)\theta)$
+> $z^k\cdot z=\rho^k(\cos k\theta+i\sin k\theta)\cdot \rho(\cos \theta+i\sin \theta)=$
+> $=\rho^{k+1}(\cos k\theta\cos\theta+i\cos k\theta\sin\theta+i\sin k\theta \cos\theta-\sin k\theta\sin\theta)=$
+> $=\rho^{k+1}(\cos(k+1)\theta+i\sin(k+1)\theta)$
+> 
+> Adesso vediamo con $n=0$
+> $z^0 = \rho^0(\cos 0 + i \sin 0) = 1$
+> 
+> Adesso vediamo i casi in cui $n<0$
+> poniamo $n=-m$
+> $$
+> z^{-m}=\frac{1}{z^m}=\rho^{-m}\frac{1}{(\cos m\theta+i\sin m\theta)}
+> $$
+> Qui possiamo [[#^de4687|semplificare]]
+> $$
+> \begin{align}
+> &\rho^{-m}\frac{(\cos m\theta-i\sin m\theta)}{\underbrace{\cos^2m\theta+\sin^2 m\theta}_1}=\\
+> =&\rho^{-m}(\cos (-m)\theta+i\sin (-m)\theta)=\rho^n(\cos n\theta+i\sin n\theta)
+> \end{align}
+> $$
+> 
+> Finendo così la dimostrazione
+## Notazione esponenziale di numeri complessi
+
+Un numero intero $ℤ\in ℂ$
+- $z=a+ib$ forma algebrica
+- $z=\rho(cos\theta + i sen \theta)$ forma trigonometrica
+- $\rho e^{i\phi}=\rho(\cos\phi\theta + i \sin \phi)$ forma esponenziale
+
+> [!info] Il numero di nepero
+> Il numero di nepero è un numero trascendentale
+> $$
+> \lim_{n\rightarrow \infty} (e + \frac{1}{n})^n=e
+> $$
+
+La forma esponenziale è utile per trovale le radici $n$-esime di numeri complessi
+
+# Operazioni
+## Moltiplicazione
+Avendo due numeri complessi:
+$z_1=\rho_1(cos\theta_1+isen\theta_1)=\rho_1e^{i\theta_1}$
+$z_2=\rho_2(cos\theta_2+isen\theta_2)=\rho_2e^{i\theta_2}$
+
+$z_1\cdot z_2=\rho_1\cdot \rho_2(\cos(\theta_1+\theta_2)+i\sin(\theta_1 + \theta_2))=\rho_1e^{i\theta_1}\cdot \rho_2e^{i\theta_2}=\rho_1\cdot \rho_2\cdot e^{i(\theta_1 + \theta_2)}$
+
+![Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna
+Disegni a penna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbEAAAGPCAIAAABdwnk7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAADPNSURBVHhe7d15QEz7+wdwu5L1WkvITqIiUkhEypIlsu/fyH6T5Vqv5RKyXWRfsuvai2jRLiqlFGWLFLKVsqSL+j2/5rnGEkozNXPm/fpjnOf5TNNUZ97z+ZiZc4pmZWUVAQCAbMX4XwAAQCYCAHwOmQgAIIZMBAAQQyYCAIghEwEAxBQlE8+cOcNbAADfpxCZ6Onp2atXr9evX3MNAPAdWDsDAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIsCPfPz4MTU19cWLF5GRkevWreMuCFfRrKws3hQuT09PU1PTV69elS1bllsARYqkp6c/ffr04cOHz549e/z4cWJiYnJyMm2TR48evX37NiUlhS5LliyprKzcunXrpk2brlixQkVFhb8ehAiZCIWAgob+KG3atFFVVeWWlD148ODdu3dpaWkRERE3b968c+cOXcbExDRs2LBZs2Z169ZVU1OrVatW+WzlypWjy1KlSillK1OmDN1CQkICZeKBAwf69Okjuk0QJGQiFILBgwe3bduWlqKXLl0qmFhcv3798ePHKQEbNWrUoEGDmjVr0p5Pk0HaK0aPHs1X+pkrV67QbPHy5cv6+vrcAsFBJkIhqFSpEq1VXVxcnjx5MmXKFO5K1L///vvy5cvU1FS6JPTXf/PmzfPnz6lD6+W7d+/S7K9379462fhrcsHV1XX8+PFXr16tXr06t0BYkIlQCJYuXXrq1CkrK6t79+6NHTuW1qoqKioUUsrKyiVKlKB9smTJksWKiV8AzMzMzMjIoJgj79+/p21aCL/O9uLFCwrWZ8+epaSkJCcnJ2V7+PAhlRoaGvXr11dXV6epaJUqVSiIq1WrVjFb1apVfznUli9fnp6eTj8C1yAsyEQoHLGxsT4+Pl5eXpQvNGekXKPp28ePH3m4SBFKruLFi9MGxR9N8URNCkrRf/lVqFCBQo2ijVbBlHoUdp/6IrT9eapKECVvs2bN3NzcdHV1uQUCgkyEQkNTOQsLi4CAAK6zX3uhWKR9kuaDFIWinZOSsfR/aP4ouqZU0VT0x99oz5494eHhGzdu5BoEBO9PBBlCy2fRa7601KXZX61sampqlStXpuezAghEWoPTKl5JSWnkyJHcyomlpeW2bds+zV5BSJCJUJgKa5ny6NEj3vqSvb39kSNHaK5qaGi4evVq7n6DUnvMmDG08OcaBASZCIUpn5n4KhsXuUZr3rp163LxpbVr1/bq1Ys2jIyMIiMjRc0ctWnTJjo6mgsQEGSiIkrNxkXhSU9PpwkXF3l05coVPT09LS2tpk2bDh48mLu5c+7cuYYNG75+/ZrrnBw8eLB9+/Zc5ERbW9vf358LEBBkomKhODA3N++SzczM7MyZMzxQGCgTf/lVr8mTJ2/bti0+Pv7y5ct5na+FhYWtWLHie986LS3Nzs5OWVl5/Pjx3MpJq1ataO38/v17rkEwaPEieB4eHvST0iKLa0W1efNmCwuL2NhYUXnjxo3+/fu7uLiIyoJHWTZ69Ggu8khFRSUzM/PZs2f9+vU7duwYd3NBtNYWvbqdo0GDBu3atYuLH7p27RpvgYBgnqgoTp486evre/jw4caNG4s6tOpcsmSJo6OjqCx4+Zkn3r9//+7du5Rfltm4mwuJiYk6Ojrfe+tiZGQkRW3JkiUPHTrk7Oy8cOHC33//nce+0bx5c94CAUEmKoS4uLjhw4fb29uLDmfwCcViTEwMZRPXBYu+71f3J/dSU1NphjhjxowhQ4ZwK3coTH/waWVtbe0RI0YkJye/zP5cYLt27ebNm8djoBjwnm2FMG3aNENDw4EDB3L9GT09vfPnz1epUoXrAkTL9lu3blGucf2ltLS0NWvWvH37Vl1dvX379q1ateKBbDRDHDp0qOg14jwRvdFaSh+yBgHAPFH4EhISTp8+nWMgEpon/vbbb1xIGi1Fvb29fXx8cnzqffr0abVq1bj4xurVqzU1Nc3NzenuLV68eNKkSR8+fBAN0Qzu4sWLx48fp6CkS1Ezl2JjYxs0aMAFwDeQicJHkWRtbc3Fl4KDg3v27CmlzwWTiRMn0iTUw8ODVqzc+kxSUlLVqlW5+MaNGzfq16/fuXNnWvXTjLJmzZq7d+8WDVWoUIHu+bhx406dOpWn/0wkQUFBdLNcAHwDmSh8FByULFx8iSZZv7D8zL0SJUqMHDnS3t4+x/dI0wS2cuXKXHyjePHin7/TxcjIiMKdiyJF1NTUDA0Na9WqxfVn3r17972PoDx//vzu3buNGjXiGuAbyESBy8jIOHny5Ff/GSeyYcOGuLi4YcOGcS0FHTp0CA8P5+Ib9N1z/H9MWs7TZcuWLT//2ocPH9auXZuLH1qzZg1vfeP69es9evSgH3zIkCF6eno6OjpaWlo0U7azs/P19eUrgWLDaywCd/PmTVpj+vn5cZ2Npks0k7p9+7aTk1O5cuW4+0MHDx5MTk5WV1enhTZ5+/YtrXxpXUyr4x/MNC9dujR//vwLFy5w/aU6depERUV99VGWxMTEZs2aPXnyhO7e4MGDP70f29zcfPbs2cbGxqLyB+gJ4NixYznOTKdPn/7ixYt+/frR8ln0X5m0/z979iw+Pt7GxiYwMJDukuiaoLAwTxS4x48ff3pDIsnMzKR0o8VjzZo1aeGcy0AkHTt2LFWqVGxsLIUsXVKO0C3s2rXrx0tvAwOD1NTUHD84nJKSQpfffrbvzJkztExWUlJq3rw5rY63bNlCzc2bN9NS+geBSFO/kGze3t6U+HT3aN737edbQkNDaUrYu3dvmh5SJpLq1avTNk0eKYhfvnzJ1wNFRs+TgqfIn2NxdXWlFKANCjIHBwea6E2ZMoUWp6LRAuDo6Ghvb8/FZ8LCwgYNGsTFZ/73v/85OzuLtu/du1epUqUjR45QdN6/f1/UzNG+ffvo1kj37t0bNmxIs9d58+bRIpqHs1GaU/Bx8aXTp0/T7JILUGzIRMFasGBBUFDQoUOHlixZQgtPHR2djRs3UsrwcEGh71ixYkVaa3P9Hwprii0ustG0bsiQIWXKlPH39xd1KLspwenLg4ODRZ2for/16tWrufjSnj17li1bxsVndu/eTRPnGzducA2KDWtnwWrTpg2lgI+PD61DFy5cePXq1cmTJ2toaPBwQaHvOGbMGFqwc/2fhISEr/7zjiZxr1+/3rp1K62dNTU1aVXboUMH+vJ//vlHX1+fZoK5OYYrrX+/91r2iRMnOnbsyEW2gICAAQMG0CqbNG3alLug4DgbBU2R1847duygJTMX+fD06dMLFy5wkUcRERFaWlpc/Gf69Onnzp3j4kvv3r2jGWJ8fDzX2Qt/Gxub4sWLz5kzh1vfcfHixdTUVC4+ExUV9fnC+cyZM1ZWVr169frefQCFhXki5MqjR4/69OlDE7dOnTp169bNwsKiXbt2tOS8du0aX+P7tLW1aep38uRJrrNFRkbm+O5CUrp06SZNmnz+zpvGjRtv2bKFppb9+vXj1ncYGhrmeExGmmzOmDHj/v37a9eupSkhZSKFrIuLi5mZGV8DIBveiyNwO3fupOXk9z5TnFeUKUX/o6ysTL9PWpjz2A/RvK9z587Xr18XfY7w7du3Kioq6enpufzyfKLvTgk+atQoWjGMHTu2d+/e9erV4zGAL2GeCHmgoaFRp04dmsHRFK9KlSq5TzSamtFieeXKlaKSQqpnz54FE4hk7969ZcqUEZ0twNbWFoEIP4BMFDjKHRk5FrSdnd2tW7c2bdpE21FRUTRxE/WlzcfHJzAwkL71oEGDuAXwfchEgaPlrYyccrNYsWI7duy4cOFCt27d5syZY2JiwgNSVrduXScnp18+UCMoGmSiwFEmpqWlcVHYaLl98uTJFStWeHp6tm7dmrtSRut9HBwMcg+ZKHAVKlR4/vw5F7JBV1dXS0uLCwAZg0wUuBo1asTFxXEBAD+DTBS4qlWr3rlzhwsA+BlkosApKSmpq6snJydzDQA/hEwUvhYtWiQmJnIBAD+ETBQ+HR0dLJ8BcgmZKHy1a9fGPBEgl5CJwqeqqvrgwQMuAOCHkInCZ2BgoKmpyQUA/BAyUfiKFSs2ZswYLgDgh5CJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCwM/5+/sbGxs/ffqUa+FCJgLAz+3fv/+vv/6qVq0a18KFTASAn4uLi6NAvHHjhp2d3bt377grRMhEAPi5EiVKPH/+nAIxODhYSUmJu0JUNCsrizeFy9PT09TU9NWrV2XLluXWf9LS0sqXL8+FzPjw4UNKSkqOz8ZFixYtV64c3Wfa4BaAdLx///7ly5fx8fG3bt2aNm1ay5YtK1asuHv3bhUVFb6GEClWJj558oT+unfv3n369CltX7ly5e3bt5cvX3Z1deWrFimSmZlJeUS/FopLQvsEoQCiPu0iREdHx97enq9dpMjHjx/paq9fvxZ9FXe/41OQ0TW1tbVF2yIJCQmBgYHXrl2LiIh4+PBh7dq1KcHpavR9abRYMZ7R07ejp+vHjx/XqFFDdFcDAgIqVaokGs0N+hLeKlKE4pWe/7kASfDy8srIyCidjcpSpUrRrKp48eKivyapV6+e6JqFhe5eYmLio0ePaJejR8GDBw9oXZyamkr7MO2ftKeJJCUl0Z1XV1enKNTS0lq7di09jkJDQ83NzfmGBEqBMnHbtm1nzpwxNjauX79+tWrVaKrVrFkz0RX++ecf0Ybot1GhQgXaUFZWpudD2pUpOD4N0SWFEe0rtO3j42Nra0u7EXXoS2rWrEmBRVcQoSuIEvDTJaFdTXQjtP9Nnz69SZMmVIpQNFNeN23atG7dulWqVOHud1Aa0i2ItvM0z6XfwObNm2mD7gPdCD0q6OFKOz39QqpXr06JP2fOHNE1f4BCmZ4GaOPTpejnFV3Sr4tuk3519MPSNv3UVatWpX4u0TMWPVxFTzCfnmboknKf4pv+HHRrpGTJkvQtRLnzPfRk9u+//376RX0P3bjou4j2ClHzl/n6+tLf8c2bN6JpPm0QuhvJycnUoRXArl27fvpKBd0fKysr2qBgEpW0a9GGqqqqaEeiDv356Dd/6NAh+sP9/9f8EF1569at9+7di4mJoSdUej6m3axOnTq0p9GdoUva2wlfOxv9qkW7K7lz586QIUPOnTtXuXJlUUfAFCgTr1+/3rhxY3q4clcSaE+V7A0WPHqg0qyBpgmUdPTjdO/enQe+4/Tp005OTqKYo8cS7T+ixwltEHq40oOfNujWKGEpDujG3d3d6Tkj+6t/Ijo62sHBoVGjRvRApRuhHKRL6tPlp4ATPbBpg26c0kf0hZ+jP/f27dtp+kMBRw/sHz/B0C1TTtHUiW7cwsJi5MiRPFDYKLno8quMFj0JiVDM0SU9E4vKn3Jzc6MrU6r+NJG/4uzsPGjQIJrehoSEIBMF4tPamR4h3ALhoj80JSY9+LmGX/X27dvFixevWrVq5cqVe/bsuXbtGk3PeUy48LozCA0t2BGI+RceHm5iYkIrbloyz5o1izq0CBANCRsyEQC+duDAgVatWtWuXTsyMtLMzCwjI6NENh4WNGQiAIilpaXZ2toOHz587dq1zs7OGhoa1CxduvSpU6dEVxA8ZCIAsJCQECMjoyNHjnh5eVEycjdb/fr1eUvokIkA8P92796tr6+vra195coVExMT7ioeec3EmJgY3gKA/Hn+/PnEiRPHjh27adOmvXv35v79PYIkl5no6Oi4bt06LgAgHy5evNiuXbtz5875+flNmjSJuwpMLjPx1KlT+OMB5N+2bdvat2/fsWPH4OBgIyMj7io2uczEDx8+iD7qBAC/JikpacyYMTY2Ntuz5fXDLQIml5mYmZmpCB+/AZASX19ffX39kJCQoKAga2tr7kI2uczE169fy/unjAEKy8aNGzt16mRhYREQEGBgYMBd+I/8ZSJNEiMiImrUqME1AOROQkLC0KFDp06d6uTkRMmYp0PMKQ75y8Tr16/Xrl0bmQiQJ56enrq6ujdv3gwNDZWdw//IIPnLxAsXLgwfPpwLAMiF1atXm5qajho1ysfHR09Pj7uQE/k7VpiOjs727dvbtGlD248fP46NjaXV9MePH1VUVDQ1NXNcDuBYYaCw4uLiZs2adfz48YMHDw4ZMoS78H1yNk/08/MrWrQoBaKDg0P16tVHjBhx9OhRZ2fnw4cPL1mypGrVqubm5l5eXnxtAMXm5ubWvHnzpKSkiIgIiQTixYsXeUvAaJ4oR2jyT093tEE5+OjRI1Hzk/T0dHo+pB/q8uXL3Mrm4eFBTZoncg2gAJYvX067/Zw5c+hxwa38cXV1XbhwIRfCJU+ZGBYWRkvj1NRUrr9j0aJFmzZt4iIbMhEUys2bN3v06EH7PK2iuCUJI0eODAoK4kK45GntvG7dujVr1vz0LELBwcF16tThAkDBnDp1qnHjxhkZGdHR0f379+duvqWlpT1+/FgR3s8oN5no7u5Of2NaO3P9HX///Tf95Xr27Mk1gML48OHD4sWL+/btS0ul8+fPfzotpUTcv3+/Vq1aXAiafGQiTWj//PNPe3v7H5wRIiIiYujQoSdOnDh27Bi3ABTG9evXzczMKA1pnkgPFol/0OvNmzcK8qZg+chEWjI3b96c/uRcf4aevvbt29e9e3cjIyOa2Pv4+CjOAYEBRI4ePaqlpaWsrHzz5s3evXtzV6KKFSumCCftI3KQibQKoBXx3Llz7927FxcXFxsbe/HiRWdn5yVLlnTp0qVu3bqBgYE2NjZPnjyZPHnyp7N0AyiCd+/ezZkzx8rKilZRrq6ujRo14gH4VXLwnu3Fixfv2bNHdD8zMzNLly6toaFBf3tNTc1mzZrp6upWrFhRdM3vwXu2QZAiIiJoHkCX//zzDy2VuCsd0dHR27dv37BhA9fChXPeA8ilQ4cODR061NLS0sHBgVZL3JWat2/fHjt2bMSIEVwLF1aaAHKGnt3t7OwoEFevXk05VQCBSMqUKaMIgUiQiQDyJDQ01NjYeN++fbT6oWTkLkgOMhFAbjg5ObVp00ZTUzM8PLxLly7cBYlCJgLIgeTk5ClTpowePXrDhg379+9XkLdPFwpkIoCsu3TpUvv27V1cXHx8fCgZuQvSgUwEkGnbt283zBYSEmJsbMxdkBpkIoCMevLkibW19fjx47dt27Zz587q1avzAEgTMhFAFvn5+bVt2zYw27hx47gL0odMBJA5jo6OtEw2NzenQGzXrh13C1VaWpqCnPgUmQggQx4+fDhixIjJkyfv3r178+bNlStX5oHCRgv5evXqcSFoyEQAWeHl5dWyZcuoqKjg4ODRo0dzVzZQWDdt2pQLQUMmAsiEtWvXdu3adejQoX5+fqLTUsqUBw8e1K5dmwtBQyYCFLL79+8PHDjQzs5u//79lIw/PbtGoYiPj1dXV+dC0JCJAIXp/PnzLVq0oFlYeHj4sGHDuCt7nj17luPJ04UHmQhQaFauXGlubj5x4kRvb29dXV3uyqTixYv/4MwfQoJMBCgEt2/ftrCw+OOPP5ydnVesWKGsrMwDsqpYsWLIRACQChcXl6ZNm7558yYqKsrKyoq7so0Wzopw/GmCTAQoOJmZmUuXLu3du/e8efPOnz+vpaXFAzKP1s6vXr3iQtBw7gGAAhITE/P77797eHicOHGib9++3JUTKSkpeI0FACTm+PHjmpqaNNuKjY2Vu0AkChKIBJkIIF0ZGRnz58/v37//smXL3NzcGjduzAMgk5CJAFIUGRlpamq6Zs0aV1fXuXPnchdkGDIRQFqOHDmio6NTuXLl6Ojonj17chdkGzIRQPLevHkzc+bMwYMHOzg4nDhxon79+jwAMg+ZCCBhYWFhxsbGu3btcnd3nzFjBndBTiATASRp3759enp6DRs2jIiIMDU15S7ID2QigGSkpKRMmzZt5MiR69evP3TokIIcWUt4kIkAEnD58mUjI6Pjx497e3tTMnJXWB5n40K4kIkA+bVz504DAwNaMoeGhnbq1Im7gnPhwoXz589zIVzIRIBf9+zZs/Hjx1tbW2/ZsmXPnj2qqqo8IEQfP36UzePdShYyEeAXBQQE0PTQx8fH39/fxsaGu8L14MGDGjVqcCFcyESAX0ETQyMjoy5dugQFBXXo0IG7gpaUlFSuXDkuhAuZCJA3jx49GjVq1MSJE3fu3Ll169YqVarwgAJQhMPKIhMB8sDb21tPTy88PPzy5ctjx47lrmIoVkwh4gKZCJBb69evNzExsbKy8vf319fX567CUJDTDyATAX4uPj5+8ODBtra2e/fupWSsWLEiDygSnI8FAP6fu7u7jo5OXFxcWFjYiBEjuKt4VFVVX7x4wYVwIRMBfsTBwcHMzMza2trb27tly5bcVUiUiUlJSVwIF87HApCzu3fvzpgx49SpU0eOHBk4cCB3QegwTwTIgaurq6amZkpKSmRkJAJRoSATAb5AK6dly5ZZWFjMmjXLw8OjRYsWPACKAZkIIBYbG9u9e/f58+cfP3586dKlpUqV4gFQGMhEAHbixImmTZvSPPHGjRv9+vXjLigYZCJAkffv3y9cuNDS0pLmhm5ubpSMPACKB5kIii4qKsrU1HTFihUuLi60alaQT7DB9+DPDwrN2dm5RYsW5cuXp/Vyr169uAsKDJkICurt27ezZ88eNGjQypUrT58+3aBBAx4AxYZMBEUUHh7euXPnrVu3njt3btasWdwFQCaCAtq/f3+rVq00NDQiIyPNzMy4C5ANmQgKJDU11dbWdsSIEWvXrj1y5AjFIg8A/AeZCIoiJCSkY8eOFIVeXl6UjNwF+BIyERTC7t279fX1tbW1w8LCTExMuAvwDWQiCNzz588nTJgwduxYR0fHvXv3qqmp8QDk3ZMnT06fPs2FQCETQcgCAwPbtWvn4eHh5+c3ceJE7sKvunTpUlxcHBcChUwEwdq2bVuHDh06duxIj2QjIyPuQj48fPiwXr16XAgUMhEEKCkpacyYMTY2NtuzVatWjQcgf9LT06tWrcqFQCETQWh8fX1bt24dEhISFBRkbW3NXZCE2NjYSpUqcSFQyEQQlA0bNnTq1Klv374BAQEGBgbcBQl59uxZuXLluBAoZCIIREJCwtChQ6dNm+bk5ETJKPjpTKFQhIMGIRNBCDw9PXV1dW/evBkaGjpy5EjugqQ9fvy4QoUKXAgUMhHk3urVq01NTUeNGuXr66unp8ddkAJFOO09MhHkWFxcnKWl5cyZMw8dOkTJiHPVQv4hE0FenT17tnnz5k+fPo2IiBg8eDB3QZrU1NTS0tK4EChkIsgle3v7nj17Tps2zdPTU1tbm7sA+YZMBDlz69YtSsO5c+cePXp0+fLlSkpKPADSV7lyZcwTAWTIqVOnGjdunJGRcf369f79+3MXCoqGhkZiYiIXAoVMBPnw4cOHRYsW9e3bd/HixefPn9fU1OQBKEBNmjS5d+8eFwKFTAQ5EB0dbWZmtnTpUponLly4sHjx4jwABUtdXf327dtcCBQyEWTd0aNHmzdvrqysHBMT07t3b+5CYWjRooWnp+e///7LtRAhE0F2vXv3bs6cOVZWVvb29q6uro0aNeIBKCRKSkoRERGlSpXiWoiQiSCj6LFnYmKyceNGNze3P/74g7sAUoZMBFl08OBBXV1dNTW1qKgoc3Nz7gJIHzIRZEtaWpqdnd2wYcNWr1599OjRunXr8gBAgUAmggwJDQ3t1KnTvn37PD09KRm5C1CAkIkgK5ycnNq0aaOpqXn16tUuXbpwF6BgIROh8CUnJ0+aNGn06NEbN27cv3+/uro6DwAUOGQiFLKgoKD27dufPXvWx8dn8uTJ3AUoJMhEKEzbt29v166doaFhcHCwsbExdwEKDzIRCseTJ0+sra3Hjx+/bdu2nTt3Vq9enQcAChUyEQqBn5+fvr5+YGDgxYsXx40bx10AGYBMhIK2adMmWib36NGDMpFWzdwFkA3IRCg4iYmJI0aMmDJlyu7dux0dHStXrswDID8ePHjAWwKFTIQC4uXl1apVq6ioqODg4NGjR3MX5MqTJ08GDhzIhUAVzcrK4k3h8vT0NDU1ffXqFc7rVljWrl1rZ2dna2u7aNGi8uXLc1eabt++7ePjc/369X///ffdu3dKSkoNGjRQV1en1XqtWrX4SpBHcXFx06ZNc3V15VqIME8E6bp///6AAQMoEA8cOEDJWDCBePny5X79+lEO0sx0zJgxNjY2ffv2LVWqFE1Ra9euPXLkyOjoaL4q5AVNoUqUKMGFUNEPKXgeHh70k9I8kWsoKG5ubuXKlaOpWXh4OLcKyps3b+hSS0srKSlJ1BGh3cDR0ZH2h71793ILci0qKmrYsGFcCBTmiSAtK1eu7N69+8SJE728vHR1dblbUMqUKWNvb9+nT5+v3vlYtmxZukthYWE0W0xISOAu5E5GRkaVKlW4EChkIkje7du3LSws/vjjD2dn5xUrVigrK/NAAdqxYwctkOfNm8f1l1q2bOng4LBlyxauIXfS0tJo4s+FQCETQcJcXFyaNGlCS1daZ1lZWXG3YLm7uy9fvpxS7wdnfzYwMKClPReQO5SJBfM/woUImQgSk5mZuWTJkt69ey9YsOD8+fNaWlo8ULASExN79OgxdepUWiCfyUZ3hlKSlvCf0NVEL0aLvgRy6cOHD4I/aSLeiwOScePGDVtbWw8PjxMnTvTt25e7hWHWrFkVKlS4desW7dtFs5UsWVJ0ydfIvg7dzzt37oheb4FcOn78+IMHD+gPzbUgZb/SInB43Vnajh07Rr9hc3Pz2NhYbhWS8PDwhg0b0hyQ6+9r27btqVOnuIDcoUxcu3YtFwKFtTPkS0ZGxvz58/v3779s2TI3N7fGjRvzQCE5cODAzJkzS5cuzfV37Nix4/Xr17169eIacq1YMYGHBjIRfl1kZGSXLl3WrFlz5syZuXPncrdQ0USmU6dOXHyHt7f3uHHjtm3bJviHt8QVz8aFQGGfgF90+PBhHR2datWqRUdH9+jRg7uFKiYmpmzZsg0aNOA6Jx4eHiYmJvv27cMheX4BPYsgEwG+RqtOWp8OGTLEwcGB5mX169fngcKWnp5esWJFLr6RlZW1cePGbt26UZoPHz6cu5BHWDsDfCEsLIwWp7t27XJ3d58xYwZ3/+Pi4vLixQsuClzp0qXj4+Mpsrn+DE0PtbW1Dx06FBwcPGjQIO5CHpUsWTIjI4MLgUImQh7QklNPT69hw4aRkZGmpqbc/cz+/fvr1q174cIFrgtWs2bNBg4c2LJlyxUrVlD8ubq6Ojk5LViwQE1NrVevXrNnz7506VKbNm342pB3Kioqb9684UKg8P5EyJWUlJQ///yT1p5///331KlTufuNEydOuLm5nT17dsqUKZMnTy6UzzyEh4f7+/tHR0fTjLVGjRq0tG/Xrl3r1q2Ff0CXApGQkCDwg61lvyNH4PD+xHwKCgrS0tJSV1f39vbm1nekpqbSrzopKYmW1RSINE3jAQA5gbUz/MTOnTsNDQ1pyRwSEvLTt7lQDk6YMMHPz8/BweHixYvnz5/v2rVrQEAADwPIPGQifNezZ8/Gjx9vbW29ZcuWPXv2qKqq8sAP9ejRQzQxp6nl4cOHaRFNKWljYxMZGSm6AoAsQyZCzmhy17ZtWx8fH39/f0o07uaCgYHBrl27UlJSRKWFhQWlIc00aWPx4sVPnz4V9QFkEzIRcrB582YjIyNa9gYFBXXo0IG7ufPbb7/R1PLz9XLx4sVHjBgRHR2toqKipqa2ffv2Dx8+8BiAjEEmwhcePXo0atSoSZMm7dy5c+vWrb92UGVzc3N3d3cu/lOuXLkZM2bcv38/MTGxRYsWOHYhyCZkIoh5e3vr6emFh4dfvnx57Nix3M07WnQfOHCAi+wjFX76rIu6uvqSJUsOHz68d+/egQMHXrp0SdQHkBHIRGDr1683MTGxsrKiZa++vj53f4mqqqqmpua1a9dEpZKSkqWl5dmzZ0Ul0dbWdnZ2Hjdu3KxZsxYuXCh6Bw+ALEAmQpH4+PhBgwbZ2trS3I2SsUKFCjyQD3369AkMDOSiSJGZM2dS9jk5OXGdjSKY8rd69eqtW7emySl3AQoVMlHRnT9/XkdH5969e2FhYSNGjOBuvhkZGX1+ZvSqVau6ubn5+/tPnTr1qw9ET5o0ieaMhXIeK4BvIRMVmoODg7m5ubW1tbe3d8uWLbkrCXRrlLaffzaW5oO7d+9u0qRJx44dQ0NDuZtNV1e3adOmXAAUKmSigrp7927fvn1nzZp15MiRVatWqaio8ICElC5dulevXt+uiCdOnLhu3TpTU1PKR24ByBJkoiKiVS3Ny1JSUiIjIwcOHMhdSaPMFX2g5Stdu3al7+vp6Wlra5uens5dANmATFQsWVlZf/31l4WFxezZsymwWrRowQNS0Lp16+PHj3Pxpdq1ax8+fLhy5crdu3e/desWdwFkADJRgcTExFAGLViwgKJq6dKlpUqV4gHp0NLSatCgAS2i+/fvz60vzZ8/f9y4cdra2qITLoPsO3jwIG8JFzJRUZw4cUJTU5PmiTdu3OjXrx93pczFxeXly5eiM53maPDgwRSIQ4cO/fw93iCbwsPDz58/z4VwIROF7/379wsXLrS0tKS54blz5wr4Fd6fvsmmXbt2gYGBjo6Oa9as4RbIpCtXrnTt2pUL4UImClxUVBTtxytWrKApG61VixYtygOypGHDhmfOnBEddZFbIHtCQ0Ol+h/QMgKZKGTOzs60E1eoUIHWyzJ+fvfKlSvv27cvICAAsSizoqOjBX7WgWzIRGF68+bN7NmzBw0atHLlytOnT//4lMcyomLFihSL/v7+a9eu5RbIDNEBMempS1QKGDJRgMLDw01MTLZu3Xru3LlZs2ZxVx5QLO7Zs8fV1dXR0ZFbIBuePXtWr149LgQNmSg0+/fvb9WqlYaGxrVr18zMzLgrP6pUqXLw4MEdO3acOHGCWyADXrx4oQgLZ4JMFI7U1NTff/99xIgRtPY8cuRInTp1eEDeqKmp7d2719LS8quPRUMhor2rWrVqXAgaMlEggoODO3bs6Ozs7OXlZWtry125pa2t7eLiMnTo0K8OogOFJSMjQ0lJiQtBQyYKwe7du9u2bUs5EhYWZmJiwl0516tXr1GjRq1atYprKFTp6ekSP1CIbEImyrfnz59PmDBh7Nixjo6OtN6kVScPCAJNeM+dO5fjgSQApASZKMcCAwMNDQ0pMvz8/CZOnMhdAVFWVt6wYQP9aGlpadwCkDJkorzaunVrhw4djI2NL126ZGRkxF3BoR9wyJAhq1ev5hoKSVZWFm8JHTJR/jx+/HjMmDG0ZN6eTfCvBs6YMePQoUM+Pj5cA0gTMlHO+Pr6tmnTJiQkJCgoyNramruCVr58+U2bNi1atIhrAGlCJsqTDRs2dOrUqW/fvgEBAQYGBtxVAGZmZlWrVnV2duYaQGqQifIhISFhyJAh06ZNc3JyomSsVKkSDyiMmTNnzp49++PHj1wDSAcyUQ54eHjo6urevn07NDR05MiR3FUw+vr6RkZGPzg8LUhVvWxcCBoyUdatXr26W7duo0aN8vHx0dPT465CGjduHN7CXVjoOalDhw5cCBoyUXbFxcVZWlrSmvHQoUOUjGXLluUBRdW+ffuaNWueOXOGawApQCbKqLNnzzZr1uzp06cRERGDBw/mrsKzsbHZtm0bFwBSgEyURcuXL+/Zs6ednZ2np6e2tjZ3oUiR7t2737lzB8fLAelBJsqWmzdvUhrOmzfv6NGjf/31l4IciSRPbG1t8aYckB5kogw5depUkyZNMjIyrl+//r1zIgM9Z6xZsyY5OZlrAIlCJsqEDx8+LFq0qG/fvosXL3Z3d9fU1OQB+IaampqNjY2bmxvXABKFTCx80dHR3bp1W7p06enTpxcuXFisGP4oPzFw4MC9e/dyASBRePgVsn/++ad58+YqKioxMTEWFhbchR8yMjK6evXqrVu3uAaQHGRioUlPT58zZw5Neezt7V1cXBo1asQD8DM0labl84ULF7gGkBxkYuGIiIjo0qXLxo0b3dzc/vjjD+5CrpmZmR08eJALAMlBJhYCejDr6uqqqalFR0ebm5tzF/Kiffv2d+/ejY2N5RpAQpCJBSotLW369OnDhg1bs2bN0aNHNTQ0eADyztraGgeaBYlDJhackJCQTp060STR09OTkpG78Ku6dOly6tQpLgAkBJlYQJycnPT19TU1NcPCwujBzF3Ih1atWnl4eDx79oxrkKbnz58vW7aMC0FDJkpdcnLypEmTRo8evXHjxv3796urq/MA5I+KioqVlRU9x3AN0pSUlKQgb35CJkpXUFBQu3btzp496+vrO3nyZO6ChJiYmFy6dIkLkKb379/jnPeQX9u3b6dAbN++fXBwcMeOHbkLktO6dWscTrFgvHv3rnLlylwIGjJRKp48eWJtbT1+/Pht27bt2LGjevXqPAASpaOjc/PmzYSEBK5BalJTU5GJ8Iv8/Pz09fUDAwMvXrw4btw47oIUFC1atHfv3jdu3OAaIN+QiRK2adMmY2PjHj16UCAaGhpyF6SGnn6ioqK4AKmhpx8FOToJMlFiEhMThw8fPmXKlD179jg6Ov722288ANKkpaUVHBzMBUhN2bJl09LSuBA0ZKJkeHl5tWrVihZx9PgcNWoUd0H6mjRp4u7uzgVIDWViamoqF4KGTJSAtWvXdu3adejQoT4+Pm3atOEuFAg1NbUaNWrguGHSVq1atbt373IhaMjEfLl///6AAQPs7OwOHDhAyVi+fHkegAJkYmKCg0FIm6qq6uPHjxVh+YxM/HXnzp3T0tJ69OjR1atXaZLIXShwLVu2xEvPBcDAwODp06dcCBcy8RetWLGie/fuU6ZM8fLy0tHR4S4UhiZNmly5coULkBpaCTVo0IAL4UIm5tmtW7csLCzmzJnj7Oxsb2+vrKzMA1BI6IHq6+vLBUD+IBPzxsXFpWnTpm/evImKirKysuIuFCpVVVV6ZkpMTOQaIB+QibmVmZm5ZMmS3r17L1iwwN3dXUtLiwdABhgZGSnIq6IgbcjEXLlx40a3bt3+/PPPkydPLlq0qESJEjwAskFXV/fmzZtcAOQDMvHnjh071qxZs9KlS8fGxvbp04e7IEsaNWqETASJQCb+yLt37+bPnz9gwIBly5adOXOmcePGPAAypm7dupGRkVwA5AMy8bvoMda1a9c1a9ZQGs6dO5e7IJPq1Klz8eJFLgDyAZmYs8OHD+vo6FSrVu369es9evTgLsiq8uXLN2jQID4+nmuAX4VM/Nrr169nzJgxZMgQBweH48eP16tXjwdAtrVt2/bevXtcAPwqZOIXrly50qlTJycnJ3d3d0pG7oI8aN68Od6OA/mHTBTbt29f69atGzZsePXqVVNTU+6CnGjUqBE+9Qz5h0z8fykpKVOnTh05cuTff/996NChWrVq8QDIj3r16kVERHAB8KuQiUUuXbrUoUOHkydP+vj4UDJyF+RNnTp1cMBtqXLOxoVwKXom7tixw9DQsE2bNiEhIcbGxtwFOVS6dGktLa2HDx9yDZL2NhsXwqW4mfj06dPx48ePGzduy5Ytu3fvVlVV5QGQW23btsXLLJBPCpqJAQEBBgYGtFimDRsbG+6CnGvZsmVMTAwXIGlFixblLUFTxEzcvHmzkZGRqalpUFBQ+/btuQvyr0GDBrdv3+YCJE1BTmeqWJn46NGjkSNHTpo0adeuXbRkrlKlCg+AIFSrVi0hIYELkDQKREWYKipQJvr6+urp6UVGRl6+fHnMmDHcBQFRVVW9fv06FyBpCjJPLJqVlcWbn7l58+b9+/e5kH/h4eGigzj06dNn+PDhKioqoj4Iz7x582bMmFGpUiWuQXJoMvHq1auuXbtyLf+aNWumrq7OxSeUid9asmQJDwMACNS6des48j6T8zyRvHnzhrfkn7e3t4WFxZMnTzBDFLzly5cbGxsbGhpyDRJlYGDg7+9fsmRJruVcjoHw3UwUEk9PT1NTU5r2ly1bllsgUBs3btTQ0OjVqxfXAHmkiO/FAQGztLQU0n94QcFDJoKgqKmpKSkpcQGQd8hEAAAxZCIAgBgyEQBADJkIACCGTAQAEEMmAgCIIRMBAMSQiQAAYshEAAAxZCLIn/fv36elpWVmZnINIDnIRJAn/v7+//vf/+rWrdu5c+fatWsPHz78wIEDPAYgCchEkBtbt25ds2bNhAkT4uPjr1y5kpiYOGvWrNjY2FGjRvE1APINmQjyISAgYO/evQcPHmzVqlXx4sVFzebNm//111/169ffuXOnqAOQT8hEkA8UiPb29jkeAdPMzMzPz48LgPxBJoJ82LNnj5GRERdfomnju3fvuADIH2QiyAc1NbWUlBQuvhQVFdW2bVsuAPIHmQgy6qszNQ8aNOjcuXNcfOnAgQPGxsZcAOQPMhFk0apVq6ytrT8/oe7w4cMXLFjw7VSRglJJSalVq1ZcA+QPMhFkTkxMzOHDh7OysjQ0NLhVpEiLFi3GjRs3b948rrPduXNnyJAhf/75J9cA+YZMBJnj6empo6Nja2vL9X/mzJnz/v17Ozs7UXn79m1aUG/ZskVPT0/UAcg/ZCLInICAgAoVKpiZmXH9GUrA9PR0Wkf7+fnp6+tPnz6dYpHHACQBmQiyJSgoiNbOEyZM4PpLJUqUcHBwaNq0qaWl5ZEjR2jhzAMAEoJMBBkSHh7eu3dvU1NTX19fbn0mPj5+/fr1GhoaL1++pECkRfSsWbMeP37MwwCSgEwEmZCZmenq6tqtW7fTp0/PmTPn7NmzzZs3t7W13b59u729PWUfLaUbNmyYlpbm7++/atWqLl26hIaGVq1aVU1NbfPmza9eveIbAsifollZWbwpXJ6enjT1oIdNjp8MA1mwaNGijx8/Dh8+vFGjRqLO8+fPAwICkpOTixYtWr58eXV19WbNmpUrV040+smdO3ecnJwcHR3nz58/YMCA2rVr8wDAL0EmghAkJCQcO3Zs6dKllKoWFhYmJiY8AJBHWDuDENSqVYsW2o8ePercufPevXu5C5B3mCcCAIhhnggAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIgpRCaWLFny0yUAwA8UzcrK4k0AAIWHtTMAgBgyEQBADJkIACCGTAQAEEMmAgCIIRMBAP5TpMj/ASclVpKx8oByAAAAAElFTkSuQmCC)
+## La potenza
+$z^n=(a+ib)^n=\rho(\cos\theta+i\sin\theta)^n=\rho^n(\cos n\theta+i\sin n\theta)=\rho^ne^{in\theta}$
+### Ma cosa è questa $n\theta$?
+Visto che $\theta$ è un angolo deve essere periodico di $360\degree$ di conseguenza questa $n$ deve essere $2k\pi$ rendendo quindi il risultato sopra scritto $\rho^ne^{i(\theta + 2k\pi)}$
+
+$e^{i(2k\pi)}=(\cos2k\pi + i\sin2k\pi)=1$ in quanto $2k\pi$ è in giro completo e $\cos0=1$ e $\sin0 = 0$ risultando $1$
+
+$|e^{ \phi}|=\sqrt{\cos^2\theta+\sin^2\theta}=1$
+
+Abbiamo inoltre una corrispondenza tra forma esponenziale e esponenti di $i$
+$e^{i0}=\cos0+i\sin0=1=i^4$
+$e^{i\frac{\pi}{2}}=\cos\frac{\pi}{2}+i\sin\frac{\pi}{2}=i$
+$e^{i\pi}=\cos\pi+i\sin\pi=-1=i^2$
+$e^{i\frac{3}{2}\pi}=\cos\frac{\pi}{2}+i\sin\frac{3}{2}\pi=-i=i^3$
+$e^{i2\pi}=\cos2\pi+i\sin2\pi=1=i^4$
+
+## Radice $n$-esime di un numero complesso
+Per eseguire le equazioni del tipo $x^n=z$
+### Teorema delle radici $n$-esime di un numero complesso
+Sia $z=\rho e^{i\theta}= \rho(\cos\theta+i\sin\theta)\neq 0$ le soluzioni delle equazioni $x^n=z$ sono:
+$$
+\begin{cases}
+1.\ x_k=\sqrt[n]{\rho}e^{i\phi k}\qquad \phi_k=\frac{\theta+2k\pi}{n}\\
+2.\ k\in [0;n-1]
+\end{cases}
+$$
+
+Quest ci permette di capire che:
+1. Sono le soluzioni di $x^n=z$
+2. Sono *tutte* e le *sole* soluzioni dell'equazione di $x^n=z$
+
+> [!info] Dimostrazione
+> Sia $X\in ℂ$ una soluzione dell'equazione $x^n=z$
+> Allora sappiamo che $X=\sigma e^{i\phi}$
+> Ma quindi sappiamo che $\sigma e^{i\phi}=z=\rho e^{i\theta}$
+> 
+> Per dimostrare dobbiamo applicare il principio di identità infatti 
+> - $\sigma^n = \rho$ $\sigma$ elevato $n$ deve essere uguale a $\rho$
+> Di conseguenza $\sigma =\sqrt[n]{\rho}$
+> - $\cancel{i}\phi=\cancel{i}\theta$ i due esponenti dei numeri di nepero devono essere uguali
+> 
+> Sappiamo inoltre che $\exists k\in ℤ:n\phi=\theta + 2k\pi$
+> 
+> Giungendo sapendo quindi che $\phi = \theta$
+> $$
+> \begin{align}
+> n\phi&= \theta+2k\pi\\
+> \frac{\cancel{n}\phi}{\cancel{n}}&=\frac{\theta + 2k\pi}{n}\\
+> \phi&=\frac{\theta + 2k\pi}{n}
+\end{align}
+> $$
+> Ora si dimostra che le soluzioni sono distinte solo per l'intervallo $[0;n-1]$. Quindi se la radice è base $5$ allora i risultati saranno nell'intervallo $[0;4]$
+> 
+> Per dimostrarlo possiamo fare la prova con $k =n$
+> 
+> Sostituendo $n$ a $k$ otteniamo quindi:
+> $$
+> \phi=\frac{\theta +n \phi}{n}=\frac{\theta}{n}+\frac{\cancel{n}\pi}{\cancel{n}}= \frac{\theta}{n}+2\pi
+> $$
+> Questo significa che siamo andati oltre il primo giro e che quindi tutti i valori che otterremo visto che $\theta$ è periodico di $360\degree$ saranno gli stessi valori del giro prima
+> 
+> Adesso dimostriamo che sono le *sole*
+> Supponiamo per assurdo esistano due risultati $x_{k_1}=\sqrt[n]{\rho}e^{i\phi k_1}$ e $x_{k_2}=\sqrt[n]{\rho}e^{i\phi k_2}$
+> Calcoliamo quindi il loro $\phi$:
+> - $\phi_{k_1}=\frac{\theta+2k_1\pi}{n}$
+> - $\phi_{k_2}=\frac{\theta+2k_2\pi}{n}$
+> 
+> Sappiamo quindi che:
+> - $0\leq \phi_{k_1}\leq\frac{\theta}{n}+2k_1\pi$
+> - $0\leq \phi_{k_2}\leq\frac{\theta}{n}+2k_2\pi$
+> 
+> Ma se ne calcoliamo la differenza otteniamo:
+> $\phi_{k_1}-\phi_{k_2}=\cancel{\frac{\theta}{n}}+2k_1\pi\cancel{-\frac{\theta}{n}}-2k_2\pi=2(k_1-k_2)\pi$ che differiscono di esattamente un angolo giro tra loro rendendoli per noi identici
+
+# Teorema fondamentale dell'algebra
+Se $p(z)=a_nz^n+a_{n-1}z^{n-1}+\dots+a_0$ con $a_n\neq 0$ è un polinomio di grado $n$ a coefficienti complessi. Si scrive meglio 
+$$
+a_k\in ℂ, 0\leq k\leq n \quad n\in ℕ
+$$
+
+Allora esistono $m\leq n$ numeri complessi $z_1,z_2,z_3,\dots,z_m$ ed $m$ numeri $\mu_1,\mu_2,\mu_3,\dots,\mu_m$ maggiori o uguali a 1 tali che $\mu_1+\mu_2+\dots+\mu_n$ tali che $p(z)=a_n(z-z_1)^{\mu_1}\cdot \dots \cdot(z-z_m)^{\mu_m}$
+
+Ovvero il fatto che la fattorizzazione di un polinomio è unico:
+> [!tip] Esempio
+> $x^4-1=(x^2-1)(x^2+1)=(x+1)(x-1)(x+i)(x-i)$
+
+Quindi avendo $m\leq n$ zeri di un equazione e nel caso in cui $m=n$ allora si avranno tutti zeri diversi se invece $m<n$ allora si avranno degli zeri uguali
+# Trasformare un numero in forma trigonometrica
+Innanzitutto ricordare che $\rho$ è $|Z|$ quindi $\rho=\sqrt{a^2+b^2}$
+Dopodiché si calcola il $\cos \theta =\frac{a}{\rho}$
+E infine si calcola il $\sin \theta=\frac{b}{\rho}$
+E poi si sceglie il punto della circonferenza quello specifico seno e quello specifico coseno.
