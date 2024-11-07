@@ -1736,6 +1736,12 @@ PWUfLaUbNmyYlpbm
 Prendi
 Prendere
 Preso
+Provare
+Proviamo
+Prendo
+Passaggio
+Parametrica
+Pro
 IHDR
 IDATx
 Ii
@@ -3155,6 +3161,9 @@ IEsaNWqETASJQCb
 IJPq
 Inversioni
 Infinite
+Intersezioni
+Intersecarli
+Identifichiamo
 sRGB
 sq
 sN
@@ -4814,6 +4823,13 @@ sottomatrici
 sottomatrice
 sostituendo
 svolgerlo
+scalari
+spazi
+somiglino
+sottospazio
+sommando
+sottospazi
+subsubsec
 gAMA
 go
 gW
@@ -6282,6 +6298,10 @@ gYGBjo
 gTMlHO
 gGkBxkYuGIiIjo
 gwIBly
+giungendo
+generatore
+generatori
+generato
 pHYs
 pJ
 pn
@@ -7743,6 +7763,11 @@ pivot
 precedenti
 parametri
 ponendo
+parlato
+parametrica
+pro
+parleremo
+passare
 HBz
 HN
 HU
@@ -12076,6 +12101,9 @@ labl
 leq
 lineari
 linerari
+lambda
+linearmente
+lunghessa
 oooEDD
 oo
 osv
@@ -13458,6 +13486,7 @@ otterremo
 ottenuta
 omogeneo
 omogenei
+orizzontale
 QR
 QIYKI
 QG
@@ -21126,6 +21155,7 @@ uXLN
 uPjr
 usando
 utilizzate
+unioni
 Xx
 Xh
 Xr
@@ -25163,6 +25193,12 @@ rango
 rkA
 riesce
 ricordando
+rispettando
+raggiungibile
+rispetta
+ref
+rimuoverlo
+rimossa
 SL
 SZ
 SO
@@ -26564,6 +26600,8 @@ Sostituire
 Sar
 Siccome
 Sistema
+Sottospazi
+Steinitz
 Zy
 Zar
 ZN
@@ -31781,6 +31819,13 @@ completa
 chiusa
 coefficenti
 coefficento
+componente
+combinazioni
+contenuti
+cartesiana
+contro
+coricati
+contenente
 av
 as
 aIT
@@ -33995,6 +34040,8 @@ adj
 affiancare
 analizzarlo
 assumiamo
+associata
+assicurarsi
 GM
 Gr
 GD
@@ -35461,6 +35508,8 @@ GjRs
 GUrA
 GhoaL
 Giungendo
+Generatori
+Gaus
 hf
 hN
 hI
@@ -39833,6 +39882,7 @@ kVScPCAJNeM
 kogw
 kVERHAB
 kpiYOGvWrNjY
+kernel
 EZ
 Ef
 Er
@@ -41281,6 +41331,7 @@ EhYWZmJiwl
 EmghAkJCQcO
 Echelon
 Eseguire
+Esempi
 bfl
 bE
 bg
@@ -46304,6 +46355,9 @@ mCcCAIhhnggAIIZMBAAQQyYCAIghEwEAxJCJAABiyEQAADFkIgCAGDIRAEAMmQgAIIZMBAAQQyYCAIgh
 massimale
 min
 matriciale
+moltiplicando
+messa
+migliore
 xUu
 xeV
 xn
@@ -50580,6 +50634,8 @@ inversione
 identiche
 iff
 incognite
+indipendente
+inserisco
 Ot
 Ok
 OU
@@ -52595,6 +52651,7 @@ OxSeUid
 OjVqxfXAHmkiO
 OysjQ
 Ottenere
+Ognuno
 nl
 nf
 nP
@@ -53957,6 +54014,8 @@ nulle
 nullo
 nulli
 noti
+necessaria
+nullit
 Wp
 Wsv
 We
@@ -62277,6 +62336,8 @@ vFGjRqLO
 valgono
 varibili
 vettoriale
+vettori
+vettoriali
 tA
 te
 td
@@ -68835,6 +68896,7 @@ UiPb
 UXn
 UAcg
 UzcrK
+Unirli
 fN
 feun
 fs
@@ -71230,6 +71292,11 @@ fbn
 fPAwICkpOTixYtWr
 fondo
 frac
+farci
+famiglia
+funzionare
+formata
+formeranno
 Au
 AV
 AX
@@ -72733,6 +72800,7 @@ AAIWHtTMAgBgyEQBADJkIACCGTAQAEEMmAgCIIRMBAP
 ASclVpKx
 Aggiungere
 Associare
+Altri
 LG
 La
 Linguaggio
@@ -76794,6 +76862,9 @@ dimostriamo
 dimensione
 det
 determinante
+detti
+diche
+dipendente
 eA
 eWf
 eddh
@@ -79571,6 +79642,9 @@ ePercufPevXu
 eqref
 esempi
 eseguendo
+estendere
+eguaglianza
+espressione
 Ve
 VM
 Vka
@@ -82281,4 +82355,5 @@ BalJTU
 BTmeqWJn
 Binet
 Biggr
+Base
 äA
