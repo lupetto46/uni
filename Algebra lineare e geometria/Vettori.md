@@ -547,7 +547,152 @@ $V \subseteq K^n,\quad V=<v_1, \dots, v_n> = row(A), A = \begin{pmatrix} v_1\\ \
 
 Per poter fare questa cosa è necessaria una proposizione:
 > [!success] Proposizione
-> Siano $A,B$ due matrici $\ker(A)=row(B)\iff \ker(B) = row(A)$
+> Siano $A,B$ due matrici, $\ker(A)=row(B) \iff \ker(B) = row(A)$
+> 
+> $W = \ker(A \rightarrow \{b_1,\dots,b_r\}$ base di $W \implies W=\ker(A) = row(B),\ B=$
+> $= \begin{pmatrix}b_1\\\vdots\\b_r\end{pmatrix} \implies row(A)=\ker(B) \implies V = \ker(B)$
+
+#### Esercizio di esempio
+$$
+V=<\begin{pmatrix}
+-1\\1\\2
+\end{pmatrix},\begin{pmatrix}
+0\\1\\0
+\end{pmatrix}> = row\begin{pmatrix}
+-1 & 1 & 2\\
+0 & 1& 0
+\end{pmatrix} = A
+$$
+$$
+W:= \ker A
+$$
+$$
+\begin{pmatrix}
+-1 & 1 & 2\\
+0 & 1& 0
+\end{pmatrix} \xrightarrow{r_1 \rightarrow -1\cdot r_1} \begin{pmatrix}
+1 & -1 & -2\\
+0 & 1& 0
+\end{pmatrix} \xrightarrow{r_1 \rightarrow r_1 + r_2} \begin{pmatrix}
+1 & 0 & -2\\
+0 & 1& 0
+\end{pmatrix}
+$$
+$$
+\begin{cases}
+x_1 = 2x_3\\
+x_2 = 0
+\end{cases} \implies \begin{pmatrix}
+x_1\\ x_2\\ x_3
+\end{pmatrix}= \begin{pmatrix}
+2x_3\\ 0 \\ x_3
+\end{pmatrix} = \begin{pmatrix}
+2 \\ 0 \\ 1
+\end{pmatrix} x_3 \implies
+$$
+$$
+\implies W = \ker A,\ A = <\begin{pmatrix}
+2\\ 0\\ 1
+\end{pmatrix}>
+$$
 
 # Pro e contro di queste forme 
 ## Somma di sottospazi (forma cartesiana)
+La forma migliore da usare per fare una somma di sottospazio è la forma cartesiana.
+
+$V,W \subseteq K^n \longrightarrow V=row A,\ W=row B$
+$A\in M_{m_1,n}(K),\qquad B\in M_{m_2,n}$
+
+$$
+C= \left(\frac{A}{B}\right) \in M_{m_1+m_2, n} \implies V \oplus W = row(C)
+$$
+
+#### Esercizio di esempio
+$$
+V = <\begin{pmatrix}
+1\\1\\2
+\end{pmatrix},\begin{pmatrix}
+2\\2\\2
+\end{pmatrix}>, \qquad W=<\begin{pmatrix}
+0\\1\\0
+\end{pmatrix}, \begin{pmatrix}
+0\\0\\1
+\end{pmatrix}> \subseteq ℝ^3
+$$
+$$
+V= row\begin{pmatrix}
+1 & 2& 1\\
+2 & 2& 2
+\end{pmatrix}, \qquad W=row\begin{pmatrix}
+0 & 1 & 0\\
+0 & 0 & 1
+\end{pmatrix}
+$$
+$$
+V\oplus B= row\begin{pmatrix}
+1 & 2& 1\\
+2 & 2& 2\\
+0 & 1 & 0\\
+0 & 0 & 1
+\end{pmatrix} = \overbrace{<\begin{pmatrix}
+1\\2\\1
+\end{pmatrix},\begin{pmatrix}
+2\\2\\2
+\end{pmatrix},\begin{pmatrix}
+0\\1\\0
+\end{pmatrix},\begin{pmatrix}
+0\\0\\1
+\end{pmatrix}>}^4
+$$
+Il fatto che sia dimensione 4 significa che uno dei vettori non è necessario per creare la base. Per capire come rimuoverlo basta eseguire Gauss (non è necessario il passo Jordan) e verrà rimossa una riga che sarà la riga di troppo.
+
+$$
+\begin{pmatrix}
+1 & 2& 1\\
+2 & 2& 2\\
+0 & 1& 0\\
+0 & 0& 1
+\end{pmatrix} \xrightarrow{r_2 \rightarrow \frac{r_2}{2}}\begin{pmatrix}
+1 & 2& 1\\
+1 & 1& 1\\
+0 & 1& 0\\
+0 & 0& 1
+\end{pmatrix} \xrightarrow{r_2 \rightarrow r_2 - r_1}\begin{pmatrix}
+1 & 2& 1\\
+0 & -1& 0\\
+0 & 1& 0\\
+0 & 0& 1
+\end{pmatrix} \xrightarrow{r_3 \rightarrow r_3 + r_2}
+$$
+$$
+\begin{pmatrix}
+1 & 2& 1\\
+0 & -1& 0\\
+0 & 0& 0\\
+0 & 0& 1
+\end{pmatrix} = \begin{pmatrix}
+1 & 2& 1\\
+0 & 1& 0\\
+0 & 0& 1\\
+0 & 0& 0
+\end{pmatrix}
+$$
+Si prendono quindi solo le righe non nulle
+$$
+V= <\begin{pmatrix}
+1\\2\\1
+\end{pmatrix},\begin{pmatrix}
+0\\1\\0
+\end{pmatrix},\begin{pmatrix}
+0\\0\\1
+\end{pmatrix}>\implies \left\{\begin{pmatrix}
+1\\2\\1
+\end{pmatrix},\begin{pmatrix}
+0\\1\\0
+\end{pmatrix},\begin{pmatrix}
+0\\0\\1
+\end{pmatrix}\right\} \text{ base di }V
+$$
+$$
+V= ℝ^3
+$$
