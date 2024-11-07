@@ -385,7 +385,3 @@ Nella maggior parte dei casi lo scopo è razionare il prezzo che spesso viene co
 
 Ma controllare i prezzi non fa altro che peggiorare la situazione in quanto
 Un prezzo troppo basso può anche generare sprechi. (*Una cosa gratis si prende anche se non serve*)
-
-Il mercato libero tende sempre a raggiungere il punto di equilibrio
-L'efficienza con cui raggiunge questo punto di equilibrio non implica che questo esito sia *assolutamente desiderabile*
-
