@@ -31826,6 +31826,7 @@ cartesiana
 contro
 coricati
 contenente
+controlliamo
 av
 as
 aIT
@@ -34042,6 +34043,8 @@ analizzarlo
 assumiamo
 associata
 assicurarsi
+applicazioni
+applicazione
 GM
 Gr
 GD
@@ -52652,6 +52655,7 @@ OjVqxfXAHmkiO
 OysjQ
 Ottenere
 Ognuno
+Omomorfismi
 nl
 nf
 nP
