@@ -535,6 +535,8 @@ Possiamo quindi giungere alla conclusione che la dimensione di $V$ è uguale al 
 > 
 > Otteniamo quindi che $null(A)+rk(A)=n$
 
+^a5f396
+
 ## Passaggio di forma
 ### Parametrica $\rightarrow$ cartesiana
 $V \subseteq K^n$ spazio vettoriale.
@@ -945,4 +947,103 @@ Quindi l'immagine di $f$ è l'insieme di tutte le $w$ immagini di $f$
 > %%Inserire la dimostrazione scritta negli appunti%%
 
 > [!success] Osservazione
-> %%Pagina 4 degli appunti%%
+> Se $\{v_1, \ldots, v_m\}$ base di $V \centernot{\implies}\{f(v_1), \ldots, f(v_m)\}$ base di $Im(f)$
+
+Similmente al [[#^a5f396|teorema del rango]]:
+$dim(\ker(f)) =: null(f)$
+$dim(Im(f)) =: rk(f)$
+
+> [!success] Teorema
+> $null(f) + rk(f) = dim(v)$
+
+$$
+\begin{align}
+&U,V,W\text{ tre spazi vettoriali su }K\\
+& f:U \longrightarrow V, \qquad g: V\longrightarrow W\\
+\end{align}
+$$
+
+$$
+\begin{align}
+g\circ f: U &\longrightarrow W\\
+u& \longmapsto g(f(u))
+\end{align}
+$$
+
+
+> [!success] Lemma
+> Se $f,g$ sono applicazioni lineari allora $g\circ f$ è un'applicazione lineare
+
+$V$ uno spazio vettoriale
+$f:V\longrightarrow V$ è un applicazione lineare e un endomorfismo
+
+Sia $V,W$ spazi vettoriali
+
+$L(V,W)=\{V\longrightarrow W\text{ applicazioni lineari}\}$
+Che è allo stesso momento uguale a
+$Mor(V,W)$ e $Hom(V,W)$
+
+$L(V,V)= End(V)$
+
+## Aggiungere le operazioni
+
+### Addizione
+$f,g \in L(V,W)$
+$$
+\begin{align}
+f+g: V &\longrightarrow W\\
+v &\longmapsto f(v)+g(v)
+\end{align}
+$$
+
+### Moltiplicazione
+$f,g \in L(V,W), \lambda \in \lambda$
+
+$$
+\begin{aligned}
+\lambda \cdot f: V&\longrightarrow W\\
+v&\longmapsto \lambda\cdot f(v)=f(\lambda \cdot v)
+\end{aligned}
+$$
+
+> [!success] Lemma
+> $L(V,W)$ è uno spazio vettoriale su $K$
+> > [!warning] Lo $0$ è una funzione
+> > $$
+> > \begin{align}
+> > 0:V&\longrightarrow W\\
+> > v &\longmapsto 0
+\end{align}
+> > $$
+
+## Proprietà degli omomorfismi
+
+$f: V\longrightarrow W$ combinazione lineare allora:
+1. $f$ è iniettiva $\iff\forall v_1\neq v_2\in V, f(v_1)\neq f(v_2)$
+2. $f$ è suriettiva $\iff \forall v\in V, \exists f(v)=w$
+3. $f$ è biiettiva $\iff f$ iniettiva e suriettiva $\iff$ invertibile
+
+> [!success] lemma
+> Se $f:V\longrightarrow W$ invertibile. Allora la sua inversa è un'applicazione lineare.
+> $V,W$ apazi vettoriali. Isomorfi ($V\simeq W$) se $\exists f:V\longrightarrow W$ che è un isomorfismo 
+
+## Proprietà degli omomorfismi
+> [!success] Proposizione
+> $f: V\longrightarrow W$ applicazione lineare
+> $f$ è iniettiva $\iff\ker(f)=\{0\}$
+
+> [!success] Proposizione
+> $f: V\longrightarrow W$ omomorfismo, $B = \{B_i\}_{i=1,\ldots,n}$ base di $B$
+> 1. $f$ è determinata da $f(b_1), \ldots, f(b_n)$
+> 2. Dati $m$ vettori in $W$ allora $\exists!g:V\longrightarrow W\text{ t. c } g(b_i) = w_i \{w_1, \ldots, w_m\}$
+
+> [!success] Corollario
+> $f:V\longrightarrow W$ omomorfismo
+> $B = \{B_i\}_{i=1,\ldots,n}$ base di $V$
+> 1. $f$ iniettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono linearmente indipendenti
+> 2. $f$ suriettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono generatori di $W$
+> 3. $f$ biiettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono una base di $W$
+
+> [!warning] attenzione
+> Ci sono un sacco di dimostrazioni che non ho scritto in questi appunti. Riguardarsele
+

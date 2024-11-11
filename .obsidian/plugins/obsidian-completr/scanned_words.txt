@@ -1742,6 +1742,7 @@ Prendo
 Passaggio
 Parametrica
 Pro
+Pagina
 IHDR
 IDATx
 Ii
@@ -4830,6 +4831,7 @@ sottospazio
 sommando
 sottospazi
 subsubsec
+scritta
 gAMA
 go
 gW
@@ -46361,6 +46363,8 @@ matriciale
 moltiplicando
 messa
 migliore
+monomi
+monomorfismo
 xUu
 xeV
 xn
@@ -72805,6 +72809,7 @@ ASclVpKx
 Aggiungere
 Associare
 Altri
+Applicazione
 LG
 La
 Linguaggio
