@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# Matrici
 ## Cos'è una radice?
 Una radice è una tabella rettangolare di elementi ordinati
 Si rappresenta come:

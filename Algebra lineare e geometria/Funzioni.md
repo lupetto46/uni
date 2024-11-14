@@ -1,4 +1,9 @@
-#algebra_lineare_e_geometria
+---
+Data: 24-11-2024
+---
+
+
+# Funzioni
 Siano $A, B$ due insiemi. Una funzione da *$A$ a $B$* $(\begin{align*}f:&A\longrightarrow B\\ &a\longmapsto b\end{align*})$ è un qualsiasi "procedimento" che **ad ogni elemento** di $B$
 Di cui:
 - $A$ è il dominio 

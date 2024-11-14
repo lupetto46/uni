@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# Insieme dei numeri complessi
 ## Approccio elementare
 I numeri complessi si scrivono con il segno $ℂ$ 
 

@@ -1,6 +1,0 @@
-![[Insiemi]]
-![[Funzioni]]
-![[Matrici]]
-![[Polinomi]]
-![[I sistemi lineari]]
-![[Vettori]]

@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# Goniometria
 ## Gli archi associati
 ![Disegni a penna
 Disegni a penna

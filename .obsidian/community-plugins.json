@@ -4,5 +4,9 @@
   "cmdr",
   "table-editor-obsidian",
   "better-export-pdf",
-  "mathlinks"
+  "mathlinks",
+  "obsidian-plugin-toc",
+  "dataview",
+  "templater-obsidian",
+  "waypoint"
 ]

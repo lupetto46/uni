@@ -1,5 +1,11 @@
-# Spazio vettoriale
-## Definizione
+---
+Data: 24-11-2024
+---
+
+
+# Vettori
+## Spazio vettoriale
+### Definizione
 Prendiamo un insieme $V$ e due operazioni $(V, +, 0)$ un gruppo abeliano questo è considerabile spazio vettoriale se:
 - $\forall v,w,u\in V, (v+w)+u=v+(w+u)$ l'addizione è associativa
 - $\forall v \in V ,\quad v+0=v \qquad 0+v = v$  esiste un elemento neutro dell'addizione
@@ -25,7 +31,7 @@ Un insieme V con queste proprietà su un campo $K$ è detto spazio vettoriale su
 - Gli elementi di $V$ sono detti vettori
 - Gli elementi di $K$ sono detti scalari
 
-### Esempi
+#### Esempi
 L'esempio più base che si può fare con ciò di cui abbiamo già parlato sono le matrici. 
 
 Infatti se consideriamo solo le matrici quadrate di ordine $n$ con le operazioni di somma e prodotto per uno scalare, queste formano uno spazio vettoriale.
@@ -56,14 +62,14 @@ $K[x]_n =$ polinomi su $K$ in una variabile $x$ di grado al più $n$
 Avendo $f: \sum_{i=0}^n a_i x^i$ se si moltiplica la $f$ per uno scalare $\lambda \in K$ si ottiene: $\lambda f: \sum_{i=0}^n \lambda a_i x^i$
 
 
-# Sottospazi vettoriali
+## Sottospazi vettoriali
 Avendo uno spazio vettoriale $V$ su $K$ e un sottoinsieme $W \subseteq V$ si dice che $W$ è un sottospazio vettoriale di $V$ se:
 - $\forall  v, w \in W, \quad v+w \in W$ sommando qualsiasi elemento del sottoinsieme si ottiene un elemento del sottoinsieme
 - $\forall v \in W, \quad -v \in W$ per ogni elemento del sottoinsieme esiste il suo opposto sempre dentro il sottoinsieme
 - $0 \in W$ si ha l'elemento neutro
 - $\forall \lambda \in K, \forall v \in W, \quad \lambda v \in W$ la moltiplicazione tra un elemento del campo e un elemento del sottoinsieme ha come risultato un elemento del sottoinsieme ^e1fe11
 
-## Come vedere se un sottoinsieme è un sottospazio vettoriale
+### Come vedere se un sottoinsieme è un sottospazio vettoriale
 Prendiamo di esempio:
 - $\mathbb{R}=\mathbb{R}^1$ ed è quindi uno spazio vettoriale su $\mathbb{R}$.
 
@@ -79,7 +85,7 @@ Prendiamo di esempio:
 >
 > $W$ un sottospazio $\iff \forall \lambda, \lambda' \in K, \forall v, v' \in W$ si ha che $\lambda'v'+\lambda v \in W$
 
-## Intersezioni e unioni di sottospazi
+### Intersezioni e unioni di sottospazi
 Avendo $V$ uno spazio vettoriale e $W_1,W_2\subseteq V$ sottospazi vettoriali di $V$. Possiamo farci due cose con questi insiemi:
 - Intersecarli: $W_1 \cap W_2$
 - Unirli: $W_1 \cup W_2$
@@ -110,7 +116,7 @@ Sappiamo quindi che $v, v'$ appartengono sia a $W_1$ che a $W_2$ e che quindi $\
 > 
 > L'unione dei due sarebbe $W_1 \cup W_2=\{(\lambda,0), (0,\mu)\mid \lambda, \mu\in \mathbb{R}\}$ ma se facciamo l'unione prendendo come esempio $(1,0)\cup(0,1)$ otteniamo $(1,1)$ ma la coppia $(1,1)$ non si trova all'interno dell'unione in quanto in essa se c'è un valore a sinistra non c'è un valore a destra e viceversa.
 
-# Somma di sottospazi
+## Somma di sottospazi
 Ma per far funzionare l'unione si è deciso di utilizzare la somma di sottospazi. Ma prima di parlare di somma di sottospazi è necessario parlare di insiemi di combinazioni lineari di elementari $S$.
 
 $$
@@ -127,7 +133,7 @@ In poche parole una combinazione lineare non è altro che un valore raggiungibil
 > 
 > Mentre invece $(1, 1, 4)$ non è una combinazione lineare di $v_1$ e $v_2$ in quanto non è possibile ottenere questo vettore sommando $v_1$ e $v_2$. Questo perché entrambi i vettori hanno il secondo valore  uguale a $0$ mentre $(1, 1, 4)$ ha il secondo valore diverso da $0$ non permettendo quindi di trovare uno scalare che moltiplicato per $0$ da un numero che permette di raggiungere $1$.
 
-## Somma al posto dell'unione
+### Somma al posto dell'unione
 Avendo $V$ uno spazio vettoriale e $W_1,W_2\subseteq V$ sottospazi vettoriali di $V$.
 
 Identifichiamo la somma $W_1 + W_2$ con l'unione $<W_1 \cup W_2>$
@@ -156,7 +162,7 @@ $$
 > 
 > Di cui $W_1 + W_2 = (\lambda, \mu)$
 
-# Generatori di sottospazi
+## Generatori di sottospazi
 Sia $V \text{ uno spazio vettoriale su } K,\quad S\subseteq V$ si diche che 
 
 $S \text{ genera } V \text{ se } <S>=V$
@@ -171,12 +177,12 @@ Quindi $<S>$ è un insieme di generatori di $V$ se:
 >
 > Considerando che \{(0,1), (1,0)\} genera $\mathbb{R}^2$ in quanto moltiplicando $(0,1)$ e $(1,0)$ per due lambda diversi sono in grado di ottenere qualsiasi valore di $\mathbb{R}^2$
 
-### Sistema linearmente indipendente
+#### Sistema linearmente indipendente
 Un sistema è detto linearmente indipendente se:
 - $\forall v_1, v_2, \dots, v_n \in S, \forall \lambda_1, \lambda_2, \dots, \lambda_n \in K$ tutti i vettori appartengono al sistema di generatori $S$ e se tutti gli scalari appartengono al nostro campo
 - $\lambda_1v_1+\lambda_2v_2+\dots+\lambda_nv_n=0 \implies \lambda_1=\lambda_2=\dots=\lambda_n=0$ se la somma di tutti i vettori moltiplicati per lambda è uguale a 0 allora tutti i lambda sono uguali a 0. Importante ricordare che se c'è anche solo una situazione in cui anche solo un lambda è diverso da 0 ma la somma è uguale a 0 allora il sistema è detto **linearmente dipendente**
 
-# Base di uno spazio vettoriale
+## Base di uno spazio vettoriale
 
 Sia $V$ uno spazio vettoriale su $K$. $B\subseteq V$ è una base di $V$ se:
 - $<B>=V$ è un insieme di generatori di $V$
@@ -195,7 +201,7 @@ Sia $V$ uno spazio vettoriale su $K$. $B\subseteq V$ è una base di $V$ se:
 > - Nel caso in cui si rispetta l'eguaglianza $r=n$ allora $S$ è una base di $V$.
 > - Nel caso in cui si rispetta la diseguaglianza $r<n$ allora $S$ non è una base di $V$.
 
-## Teorema di Steinitz
+### Teorema di Steinitz
 
 > [!success] Teorema
 > $V$ uno spazio vettoriale su $K$. $\{v_1, v_2, \dots, v_n\}$ un insieme di generatori di $V$.
@@ -251,13 +257,13 @@ Giungendo alla conclusione che: $\dim M_{m,n}(K)=m\cdot n$
 > > 
 > > $\implies <u_1, u_2, \dots, u_{n-r}>=: U \implies U\oplus W = V$
 
-# rappresentazioni (o forme) di sottospazi vettoriali
+## rappresentazioni (o forme) di sottospazi vettoriali
 
-## Forma cartesiana e parametrica
+### Forma cartesiana e parametrica
 Per rappresentare i sottospazi vettoriali ci sono due modi. 
 Ognuno di questi ha i suoi pro e i suoi contro di cui ne parleremo dopo
 
-### Forma cartesiana
+#### Forma cartesiana
 $$
     V= \begin{cases}
         a_{11}x_1 + \dots + a_{1n}x_n = 0\\
@@ -277,7 +283,7 @@ $$
 
 E il kernel di $A$ ($ker(A)$) è l'insieme di tutti i vettori di $X$ tali che $AX=0$
 
-### Forma parametrica
+#### Forma parametrica
 Ci si riferisce invece alla forma parametrica come $<v_1, v_2, \dots, v_r>$
 E viene definito come $row(B)$ ovvero una matrice formata da tutti i vettori all'interno dell'insieme coricati riga per riga
 $$
@@ -289,8 +295,8 @@ $$
     \end{pmatrix}
 $$
 
-# Calcolare la base dello spazio vettoriale
-## Forma cartesiana
+## Calcolare la base dello spazio vettoriale
+#### Forma cartesiana
 Preso il sistema lineare omogeneo si trova la matrice associata $A$:
 $$
     V= \begin{cases}
@@ -466,7 +472,7 @@ Inoltre $ker(A)= V$ quindi  il kernel della matrice associata è tutto lo spazio
 > 	\end{pmatrix}>
 > $$
 
-## Forma parametrica
+### Forma parametrica
 Per calcolare la base invece tornando dalla forma parametrica è un po' più complicato.
 
 Avendo $V \subseteq K^n$ e $V = <v_1, \dots, v_m>$ innanzitutto bisogna assicurarsi che siano linearmente indipendenti:
@@ -537,14 +543,14 @@ Possiamo quindi giungere alla conclusione che la dimensione di $V$ è uguale al 
 
 ^a5f396
 
-## Passaggio di forma
-### Parametrica $\rightarrow$ cartesiana
+### Passaggio di forma
+#### Parametrica $\rightarrow$ cartesiana
 $V \subseteq K^n$ spazio vettoriale.
 Per passare dalla forma cartesiana alla forma parametrica è necessario innanzitutto prendere il vettore $V$ che è uguale al $\ker(A)$ di cui $A\in M_{m,n}$ trovare la base $\{b_1, \dots, b_r\}$ di $V$
 
 Otteniamo quindi che $V=<v_1, \dots, v_r> = row(B)$ di cui $B$ è la matrice contenente tutti i vettori coricati $B=\begin{pmatrix} b_1\\ \vdots\\ b_r \end{pmatrix}$
 
-### cartesiana $\rightarrow$ parametrica
+#### cartesiana $\rightarrow$ parametrica
 $V \subseteq K^n,\quad V=<v_1, \dots, v_n> = row(A), A = \begin{pmatrix} v_1\\ \vdots\\ v_n \end{pmatrix}\in M_{m,n}(K)$
 
 Per poter fare questa cosa è necessaria una proposizione:
@@ -554,7 +560,7 @@ Per poter fare questa cosa è necessaria una proposizione:
 > $W = \ker(A \rightarrow \{b_1,\dots,b_r\}$ base di $W \implies W=\ker(A) = row(B),\ B=$
 > $= \begin{pmatrix}b_1\\\vdots\\b_r\end{pmatrix} \implies row(A)=\ker(B) \implies V = \ker(B)$
 
-#### Esercizio di esempio
+##### Esercizio di esempio
 $$
 V=<\begin{pmatrix}
 -1\\1\\2
@@ -598,8 +604,8 @@ $$
 \end{pmatrix}>
 $$
 
-# Pro e contro di queste forme 
-## Somma di sottospazi (forma cartesiana)
+## Pro e contro di queste forme 
+### Somma di sottospazi (forma cartesiana)
 La forma migliore da usare per fare una somma di sottospazio è la forma cartesiana.
 
 $V,W \subseteq K^n \longrightarrow V=row A,\ W=row B$
@@ -609,7 +615,7 @@ $$
 C= \left(\frac{A}{B}\right) \in M_{m_1+m_2, n} \implies V \oplus W = row(C)
 $$
 
-#### Esercizio di esempio
+##### Esercizio di esempio
 $$
 V = <\begin{pmatrix}
 1\\1\\2
@@ -699,7 +705,7 @@ $$
 V= ℝ^3
 $$
 
-## Intersezione di sottospazio (forma parametrica)
+### Intersezione di sottospazio (forma parametrica)
 Per calcolare la base di un'intersezione di sottospazi la forma migliore è la parametrica.
 
 $$
@@ -709,7 +715,7 @@ $$
 V\cap W = \ker(C)
 $$
 
-#### Esempio
+##### Esempio
 $$
 \begin{align*}
 &V=<\begin{pmatrix}
@@ -811,7 +817,7 @@ x_3 = 0
 \end{align*}
 $$
 
-## Omomorfismi tra spazi vettoriali (o applicazioni lineari)
+### Omomorfismi tra spazi vettoriali (o applicazioni lineari)
 $B, W$ spazi vettoriali su $K$, avendo una funzione $f:V\longrightarrow W$ 
 
 $f$ è un'applicazione lineare se:
@@ -923,7 +929,7 @@ In base le coordinate devono essere monomi di primo grado
 > [!success] Lemma 
 > $f: V\longrightarrow W$ è un monomorfismo, allora $f(0)=0$
 
-## Applicazione lineare
+### Applicazione lineare
 $\ker (f) =\left\{v\in V\mid f(v) = 0\right\} \subseteq V$
 Quindi il kernel di $f$ è l'insieme di tutte le $v\in V$ tali che $f(v) = 0$
 
@@ -985,9 +991,9 @@ $Mor(V,W)$ e $Hom(V,W)$
 
 $L(V,V)= End(V)$
 
-## Aggiungere le operazioni
+### Aggiungere le operazioni
 
-### Addizione
+#### Addizione
 $f,g \in L(V,W)$
 $$
 \begin{align}
@@ -996,7 +1002,7 @@ v &\longmapsto f(v)+g(v)
 \end{align}
 $$
 
-### Moltiplicazione
+#### Moltiplicazione
 $f,g \in L(V,W), \lambda \in \lambda$
 
 $$
@@ -1016,7 +1022,7 @@ $$
 \end{align}
 > > $$
 
-## Proprietà degli omomorfismi
+### Proprietà degli omomorfismi
 
 $f: V\longrightarrow W$ combinazione lineare allora:
 1. $f$ è iniettiva $\iff\forall v_1\neq v_2\in V, f(v_1)\neq f(v_2)$
@@ -1027,7 +1033,6 @@ $f: V\longrightarrow W$ combinazione lineare allora:
 > Se $f:V\longrightarrow W$ invertibile. Allora la sua inversa è un'applicazione lineare.
 > $V,W$ apazi vettoriali. Isomorfi ($V\simeq W$) se $\exists f:V\longrightarrow W$ che è un isomorfismo 
 
-## Proprietà degli omomorfismi
 > [!success] Proposizione
 > $f: V\longrightarrow W$ applicazione lineare
 > $f$ è iniettiva $\iff\ker(f)=\{0\}$

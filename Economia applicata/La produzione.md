@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# La produzione
 I fattori di produzioni prendono un input e poi dallo un output
 
 - Input:

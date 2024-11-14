@@ -1,5 +1,9 @@
-#algebra_lineare_e_geometria
+---
+Data: 24-11-2024
+---
 
+
+# Insiemi
 Sono entrato dopo quindi farmi dare gli appunti
 
 ### Prodotto cartesiano

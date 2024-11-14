@@ -1,10 +1,16 @@
-# Tecniche dimostrative
+---
+Data: 24-11-2024
+---
+
+
+# Dimostrazioni
+## Tecniche dimostrative
 Ci sono diversi modi per dimostrare un concetto matematico:
 - Deduttivo
 - Per assurdo
 - Induttivo
 
-## Induttivo
+### Induttivo
 Viene utilizzata quando bisogna dimostrare la validità di un enunciato in funzione dei numeri naturali
 
 > [!cite] "Dimostrare che per $\forall n\in ℕ$ vale qualcosa"
@@ -15,7 +21,7 @@ Come funziona:
 
 Quindi se $P(n) \Longrightarrow P(n+1)$
 
-### Esempio
+#### Esempio
 Vogliamo dimostrare che per ogni $n\geq 1 \in ℕ$ la somma dei primi $n$ numeri naturali $S(n)$ è uguale a:
 $$
 S(n) = \frac{n(n+1)}{2}\ \forall n\geq 1
@@ -51,7 +57,7 @@ Quindi seguiamo i passaggi:
 	$$
 	Confermando che la formula è vera per $\forall n\geq 1$
 
-### Disuguaglianza di Bernoulli
+#### Disuguaglianza di Bernoulli
 Dimostrare che 
 $\forall n\in ℕ\ e\ h>-1, h\inℝ$
 $(1+h)^n\geq 1+nh$

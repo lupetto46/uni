@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# Funzione
 Siano $X, Y\neq \emptyset$
 Si definisce $f$ in $X$ a valori in $Y$ ($f:X\longrightarrow Y$) una legge che:
 $\forall x\in X$ associa un elemento di $y\in Y$ arrivando all'eguaglianza $y=f(x)$

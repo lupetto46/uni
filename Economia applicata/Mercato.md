@@ -1,4 +1,9 @@
-#economia_applicata
+---
+Data: 24-11-2024
+---
+
+
+# Mercato
 ## Cos'è il mercato?
 
 Il mercato è un posto fisico in cui si incontrano:

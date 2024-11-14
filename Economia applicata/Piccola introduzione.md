@@ -1,4 +1,9 @@
-#economia_applicata 
+---
+Data: 24-11-2024
+---
+
+
+# Piccola introduzione
 ## Cos'è l'economia
 Innanzitutto si da per scontato che le risorse siano limitate anzi ancora peggio scarse e di conseguenza tutti sono costretti a fare delle scelte (queste scelte sono in generale chiedersi se si può fare qualcosa senza dover rinunciare ad altro)
 

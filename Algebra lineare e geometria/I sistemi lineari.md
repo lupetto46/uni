@@ -1,3 +1,9 @@
+---
+Data: 24-11-2024
+---
+
+
+# I sistemi lineari
 ## Cosa sono i sistemi lineari
 I sistemi lineari sono un insieme di equazioni di primo grado a più variabili, e le matrici sono utilizzate per poter svolgere tutte queste equazioni contemporaneamente.
 

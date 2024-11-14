@@ -1,4 +1,9 @@
-#analisi
+---
+Data: 24-11-2024
+---
+
+
+# Insiemi numerici
 ## Simboli per rappresentare gli insiemi
 Abbiamo vari segni che rappresentano diversi insiemi di numeri molto importanti:
 $ℕ\subset ℤ\subset ℚ\subset ℝ\subset ℂ$

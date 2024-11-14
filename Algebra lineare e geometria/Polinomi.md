@@ -1,4 +1,9 @@
-#algebra_lineare_e_geometria 
+---
+Data: 24-11-2024
+---
+
+
+# Polinomi
 ## Polinomi a una variabile
 I polinomi nascono seguendo la necessità di completare delle equazione i cui dati non si conoscono e quindi vengono sostituiti all'interno dell'equazione come *variabili*
 
