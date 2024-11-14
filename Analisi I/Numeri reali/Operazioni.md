@@ -59,3 +59,5 @@ $\log_a\frac{1}{x}=-\log_ax$
 $\log_ax^n=n\log_ax$
 $\log_nb=\frac{\log_ab}{\log_an}$
 
+
+
