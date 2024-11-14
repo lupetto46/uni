@@ -1,5 +1,6 @@
 ---
 Data: 24-11-2024
+tags: Algebra_lineare_e_geometria
 ---
 
 
