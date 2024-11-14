@@ -1,4 +1,11 @@
-# Prendere un numero e controllare se è positivo
+---
+Data: 24-11-2024
+tags: Fondamenti_di_programmazione
+---
+
+
+# Esercizi fondamenti
+## Prendere un numero e controllare se è positivo
 ```C
 #include <stdio.h>
 
@@ -31,7 +38,7 @@ int main(void)
 }
 ```
 
-# Preso un numero controllare se è compreso tra 3 e 15
+## Preso un numero controllare se è compreso tra 3 e 15
 ```C
 #include <stdio.h>
 

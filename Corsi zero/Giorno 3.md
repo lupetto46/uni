@@ -1,3 +1,10 @@
+---
+Data: 24-11-2024
+tags: Corsi_zero
+---
+
+
+# Giorno 3
 ## Il valore assoluto
 Il valore assoluto può essere utilizzato come operatore operazionale o operatore funzionale
 Noi lo utilizzeremo come operatore funzionale

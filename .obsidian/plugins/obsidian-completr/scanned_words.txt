@@ -1865,6 +1865,7 @@ PyfCkCFfCZM
 PHjREsJqDngSsucXgZpw
 PVAmPGjKE
 PFbkZubu
+Piccola
 IHDR
 IDATx
 Ii
@@ -17266,6 +17267,7 @@ wJrzPDD
 wjY
 wGIyDBw
 wnwm
+while
 MO
 MR
 Ma
@@ -19034,6 +19036,7 @@ MtNgQe
 MzExnZ
 MlLJVEeOrDBHFPGlv
 MFMxU
+Mercato
 JHH
 Jx
 JIIQTTT
@@ -28356,6 +28359,7 @@ SqBt
 SPFG
 SCCkhISEB
 SkILyOPWzTSqMJ
+Switch
 Zy
 Zar
 ZN
@@ -31444,6 +31448,7 @@ Faz
 FUxWiSBoYGBA
 FQDcS
 FZHYiPY
+Fondamenti
 cS
 cL
 cNt
@@ -33941,6 +33946,7 @@ cObeXBA
 cNE
 chr
 ckIefy
+case
 av
 as
 aIT
@@ -44099,6 +44105,7 @@ ExcVNmTJFS
 EtIKGuoDJIkIagBFTDyIRD
 EqrxaI
 EFEp
+Esercizi
 bfl
 bE
 bg
@@ -54032,6 +54039,7 @@ isDS
 iWk
 iXZPiB
 iXcHjxnxW
+introduzione
 Ot
 Ok
 OU
@@ -61840,6 +61848,7 @@ jCFLncU
 jojQFnxNSeg
 jRIkNDQ
 jBpHZsYzvAZmrkPE
+join
 DX
 DsM
 DDDDD
@@ -85260,6 +85269,7 @@ elR
 eoo
 erVNmzakqyLUtqzlJybnHXMkmg
 ePvnjxIuIY
+esle
 Ve
 VM
 Vka

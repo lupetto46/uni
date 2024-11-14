@@ -1,3 +1,10 @@
+---
+Data: 24-11-2024
+tags: Corsi_zero
+---
+
+
+# Trigonometria e Goniometria
 ## Goniometria
 Innanzitutto è utile dire che la goniometria riguarda gli angoli mentre invece la trigonometria riguarda i triangoli anche se questi spesso si fondono.
 

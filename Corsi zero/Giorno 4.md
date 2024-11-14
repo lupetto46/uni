@@ -1,3 +1,10 @@
+---
+Data: 24-11-2024
+tags: Corsi_zero
+---
+
+
+# Giorno 4
 ## Gli intervalli
 ### Illimitati
 Ci sono diversi tipi di intervalli

@@ -1,3 +1,10 @@
+---
+Data: 24-11-2024
+tags: Corsi_zero
+---
+
+
+# Giorno 2
 ## La scrittura in generale di un polinomio
 Un polinomio è uguale a:
 $P(x)=a_nx^n+a_{n-1}x^{n-1}+a_{n-2}x^{n-2}+...+a_{2}x^{2}+
