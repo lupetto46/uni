@@ -1054,6 +1054,9 @@ $f: V\longrightarrow W$ combinazione lineare allora:
 
 > [!warning] attenzione
 > Ci sono un sacco di dimostrazioni che non ho scritto in questi appunti. Riguardarsele
+
+# Lezione del 15-11-2024
+
 ## Iniettività suriettività e biiettività delle funzioni
 
 > [!success] Corollario 4
@@ -1134,3 +1137,271 @@ $B =\{(1,1,0),(0,1,1),(1,0,1)\}$ base di $K^3$
 $v=\begin{pmatrix} 1\\2\\1 \end{pmatrix} =$ *$1$* $\cdot\begin{pmatrix} 1\\1\\0 \end{pmatrix}+$*$1$* $\begin{pmatrix} 0\\1\\1 \end{pmatrix}+$ *$0$*$\begin{pmatrix} 1\\0\\1 \end{pmatrix}=[V]_B=\begin{pmatrix} 1\\1\\0 \end{pmatrix}$
 Di cui il vettore finale sono i vettori evidenziati.
 
+$[V]_B$ coordinate di $V$ rispetto a $B$
+
+---
+$V,W$ spazi vettoriali. $dim\ V=n,dim\ W=m, B_V=\{v_1,\dots, v_n\}\text{ base di }V,\ B_W=\{w_1,\dots, w_m\}\text{ base di }B$
+$$
+f:V\to W\text{ omomorfismo},\quad \{f(v_1),\dots, f(v_n)\}\subset W
+$$
+$$
+f(v_j)=a_{1\ j}\cdot w_1 +\dots + a_{m\ j}\cdot w_m\forall j=1,\dots,n
+$$
+$v\in V$ si scrive $f(v)$ 
+Di cui $V=\lambda_1v_1+\dots + \lambda_nv_n\implies f(v)=f(\lambda_1v_1 +\dots + \lambda_nv_n)= \lambda_1 f(v_1)+\dots+\lambda_nf(v_n)=$$=\lambda_1(a_{11}w_1+\dots+a_{m1}w_m)+\dots+\lambda_n(a_{1n}w_1+\dots+a_{mn}w_m)$
+$=(\lambda_1a_{11}+\dots+\lambda_na_{1n})w_1+\dots+(\lambda_1a_{m1}+\dots+\lambda_na_{mn})w_m$
+Di cui:
+$w_1 = \begin{pmatrix} 1\\0\\\vdots\\0 \end{pmatrix}, w_m+\begin{pmatrix} 0\\0\\\vdots\\1 \end{pmatrix}$
+
+Otteniamo quindi che:
+- $W\simeq K^n$
+- $B_W$
+- $V\simeq K^n$
+- $B_V$
+$$
+=\begin{pmatrix}
+	\lambda_1a_{11}&+&\dots&+&\lambda_na_{1n}\\
+	\vdots &&\ddots&& \vdots\\
+	\lambda_1a_{m1}&+&\dots&+&\lambda_na_{mn}\\
+\end{pmatrix}=[f(v)]_{B_{_W}}
+$$
+$$
+A=(a_{ij})_{\underset{1\leq j\leq n}{1\leq i\leq m}}\in M_{m,n}(K)
+$$
+$$
+[V]_{B_{_V}}=\begin{pmatrix}
+	\lambda_1\\
+	\vdots\\
+	\lambda_n
+\end{pmatrix}
+$$
+
+## Matrice rappresentate un'applicazione lineare
+Abbiamo quindi ottenuto $[f(V)]_{B_{W}}=A\cdot [V]_{B_{V}}$
+Sapendo che $A=[M]^{^{B_{V}}}_{_{B_W}}$
+Otteniamo la relazione: $[f(V)]_{B_{W}}=[M]^{^{B_{V}}}_{_{B_W}}\cdot [V]_{B_{V}}$
+Di cui $[M]^{^{B_{V}}}_{_{B_W}}$ è la matrice che rappresenta l'applicazione lineare ed è creata mettendo tutti i vettori della base $B_W$ in verticale:
+$$
+[M]^{^{B_{V}}}_{_{B_W}}=\begin{pmatrix}
+	f(v_1)_{B_W}&\dotsb&f(v_n)_{B_W}
+\end{pmatrix}
+$$
+
+### Esempio trovare la matrice rappresentante
+$$
+\begin{align}
+	g:ℝ^2&\to ℝ^3\\
+	\begin{pmatrix}
+	x\\y
+	\end{pmatrix}&\mapsto \begin{pmatrix}
+	2x\\ x+y\\ 2y
+	\end{pmatrix}
+\end{align}
+$$
+Poi si devono definire le due basi di $ℝ^3$ e $ℝ^2$:
+$$
+\begin{align}
+	&\varepsilon_2=\left\{\begin{pmatrix}
+	1\\0
+	\end{pmatrix},\begin{pmatrix}
+		0\\1
+	\end{pmatrix}\right\}\\
+	&\varepsilon_3=\left\{\begin{pmatrix}
+	1\\0\\0
+	\end{pmatrix},\begin{pmatrix}
+	0\\1\\0
+	\end{pmatrix},\begin{pmatrix}
+	0\\0\\1
+	\end{pmatrix}\right\}
+\end{align}
+$$
+Poi si calcola utilizzando le due basi a cosa risulta $f(v)$
+$$
+g\begin{pmatrix}
+	1\\0
+\end{pmatrix}=\begin{pmatrix}
+	2\\1\\0
+\end{pmatrix},g\begin{pmatrix}
+	0\\1
+\end{pmatrix}=\begin{pmatrix}
+	0\\1\\2
+\end{pmatrix}
+$$
+
+Prendiamo quindi i due vettori e mettiamoli in colonna:
+$$
+[M]^{\varepsilon_2}_{\varepsilon_3}=\begin{pmatrix}
+	2 & 0\\
+	1 & 1\\
+	0 & 2
+\end{pmatrix}\in M_{3,2}(ℝ)
+$$
+
+### Esempio da matrice ad applicazione lineare
+Avendo quindi la matrice:
+$$
+\begin{pmatrix}
+	2 & 1& 0 &4 \\
+	2&3&2&6
+\end{pmatrix}
+$$
+Essendoci $4$ colonne sappiamo che ci sono $4$ variabili e sappiamo che:
+$$
+\begin{pmatrix}
+	x\\ y\\ z\\ w
+\end{pmatrix}=xe_1+ye_2+ze_3+we_4
+$$
+
+Si scrive quindi così:
+$$
+\begin{align}
+	f:ℝ^4&\to ℝ^2\\
+	e_1&\mapsto\begin{pmatrix}
+		2\\2
+	\end{pmatrix}\\
+	e_2&\mapsto\begin{pmatrix}
+		1\\3
+	\end{pmatrix}\\
+	e_3&\mapsto\begin{pmatrix}
+		0\\2
+	\end{pmatrix}\\
+	e_4&\mapsto\begin{pmatrix}
+		4\\6
+	\end{pmatrix}
+\end{align}
+$$
+
+> [!success] Teorema
+> $V,W$ spazi vettoriali su $K$. $dim\ V=n,dim\ W=m$
+> $Hom(V,W)\simeq M_{m,n}(K)$
+> L'isomorfismo dipende dalla scelta delle basi di $V$ e $W$
+
+$Hom(V,V)$ quindi un $End(V)\simeq M_{n,n}(K)$
+$\varepsilon$ basi di $V$ nel dominio e codominio 
+
+Sappiamo che
+$id\ n\in M_{n,n}(K) \longleftrightarrow id\ v\in End(V)$
+
+E che lo zero è:
+$0\in M_{n,n}(K) \longleftrightarrow 0 \in End(V)$
+
+> [!success] Proposizione
+> $V,W,U$ spazi vettoriali di dimensioni $n,m,p$ rispettivamente
+> *fissiamo le basi (**importante**)*, $f:V\to W\quad g:W\to U$ applicazioni lineari
+> $M(g\circ f)=M(g)\cdot M(f)$
+> Di cui:
+> - $M(g\circ f) \in M_{p,n}$
+> - $M(g) \in M_{p,m}$
+> - $M(f)\in M_{m,n}$
+
+> [!success] Corollario
+> $f:V\to V$ endomorfismo biiettivo
+> *fissiamo le base di $V$*
+> $M(f^{-1})=M(f)^{-1}$
+
+## Kernel e immagine di $f$
+$f:V\to W\rightsquigarrow \ker f \subseteq V,Im\ f\subseteq W$
+
+> [!success] Proposizione
+> $f:V\to W$ omomorfismo
+> fissiamo le basi sia di $V$ che di $W$ e sia $M$ la matrice rappresentante $f$
+> Otteniamo che:
+> - $\ker f \simeq \ker M$
+> - $\text{Im}\ f \simeq \text{col } M=\text{ spazio generato dalle colonne di }M$
+
+### Esempio
+$$
+\begin{align}
+	f:ℝ^3 &\to ℝ^2\\
+	\begin{pmatrix}
+	x\\ y\\ z
+	\end{pmatrix}&\mapsto \begin{pmatrix}
+	x + y \\ y + z
+	\end{pmatrix}
+\end{align}
+$$
+
+$$
+f\begin{pmatrix}
+	1\\0\\0
+\end{pmatrix}=\begin{pmatrix}
+	1\\0\\
+\end{pmatrix}, f\begin{pmatrix}
+	0\\1\\0
+\end{pmatrix}=\begin{pmatrix}
+	1\\1
+\end{pmatrix},f\begin{pmatrix}
+	0\\0\\1
+\end{pmatrix}=\begin{pmatrix}
+	0\\1
+\end{pmatrix}
+$$ Per trovare il kernel di:
+$$
+\left\{\begin{pmatrix}
+	1\\0
+\end{pmatrix},\begin{pmatrix}
+	1\\1
+\end{pmatrix},\begin{pmatrix}
+	0\\1
+\end{pmatrix}\right\}
+$$
+Di cui la matrice rappresentate è:
+$$
+M(f)=\begin{pmatrix}
+	1&1&0\\
+	0&1&1\\
+\end{pmatrix}
+$$
+Sapendo che $\ker f \simeq \ker M$ dobbiamo trovare il kernel. Quindi si fa la forma di Echelon ridotta:
+$$
+\begin{pmatrix}
+	1&0&-1\\
+	0&1&1
+\end{pmatrix} \begin{cases}
+	x = z\\
+	y = -z
+\end{cases} \implies \begin{pmatrix}
+	x\\
+	y\\
+	z
+\end{pmatrix}=\begin{pmatrix}
+	z\\
+	-z\\
+	z
+\end{pmatrix}=
+$$
+$$
+=z\begin{pmatrix}
+	1\\
+	-1\\
+	1
+\end{pmatrix}= <\begin{pmatrix}
+	1\\-1\\1
+\end{pmatrix}>
+$$
+
+Ottenendo quindi il kernel
+
+Ora dobbiamo trovare l'immagine 
+$$
+Im(f) \simeq <\begin{pmatrix}
+	1\\0
+\end{pmatrix},\begin{pmatrix}
+	1\\1
+\end{pmatrix},\begin{pmatrix}
+	0\\1
+\end{pmatrix}>= \underbrace{<\begin{pmatrix}
+	1\\0
+\end{pmatrix}
+\begin{pmatrix} 0\\1 \end{pmatrix}>}_{\text{base di } ℝ} = ℝ^2
+$$
+
+Otteniamo quindi che $f$ è suriettiva ma non iniettiva.
+
+> [!success] Corollario
+> Se $f$ è un omomorfismo e $M$ la matrice che lo rappresenta
+> $\text{null}(f)=\text{null}(M), \text{rk}(f)=\text{rk}(M)$
+> 
+> E che $\text{null}(f)=\text{dim}(\ker f)$
+
+Ricordare anche che $f\text{ iniettiva }\iff \ker M = \left\{\begin{pmatrix} 0\\0\\\vdots\\0 \end{pmatrix}\right\}$

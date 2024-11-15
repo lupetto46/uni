@@ -3383,6 +3383,7 @@ ICxhzBiZFT
 IFC
 IxcXlRswyVzVVeRJ
 Iyf
+Iniettivit
 sRGB
 sq
 sN
@@ -5161,6 +5162,8 @@ simmetriche
 split
 sorgenti
 stringa
+suriettivit
+stabilire
 gAMA
 go
 gW
@@ -25339,6 +25342,7 @@ TTHJH
 TurB
 THUVFRdLbp
 Trasformazione
+Titolo
 rJ
 rU
 rTkb
@@ -46309,6 +46313,7 @@ baSFpk
 bUnMxigHqENSIHTt
 bNmhEhhD
 bNhQpLsSi
+biiettivit
 Ys
 YV
 Yh
@@ -73712,6 +73717,7 @@ UlTqio
 UUP
 UaTLLYTB
 UjQxL
+Usando
 fN
 feun
 fs
@@ -79521,6 +79527,7 @@ LFjYs
 LJlC
 LEkHnVTOT
 LpjEoU
+Lezione
 dU
 df
 dI
@@ -85347,6 +85354,7 @@ erVNmzakqyLUtqzlJybnHXMkmg
 ePvnjxIuIY
 esle
 esistenti
+evidenziati
 Ve
 VM
 Vka
@@ -86764,6 +86772,7 @@ VzSlVh
 VmppKRA
 VSwNcXWrVsDAgLgiWt
 Vettori
+Vuol
 BdD
 Bp
 Biiettiva
