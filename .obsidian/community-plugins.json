@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-completr",
   "cmdr",
   "table-editor-obsidian",
   "better-export-pdf",
@@ -8,5 +7,10 @@
   "obsidian-plugin-toc",
   "dataview",
   "templater-obsidian",
-  "waypoint"
+  "waypoint",
+  "obisidian-note-linker",
+  "obsidian-enhancing-export",
+  "math-in-callout",
+  "better-mathjax",
+  "obsidian-completr"
 ]

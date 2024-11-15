@@ -1,3 +1,10 @@
+---
+Data: 24-11-2024
+tags: Fondamenti_di_programmazione
+---
+
+
+# Architettura del calcolatore
 I calcolatori utilizzano ormai quasi per standard un'architettura particolare ideata da Von-Neuman
 ![[Pasted image 20241018154310.png]]
 Questa architettura ha 4 componenti principali:

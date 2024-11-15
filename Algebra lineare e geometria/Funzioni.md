@@ -39,20 +39,20 @@ $\begin{align*}b:\ &ℤ\longrightarrow ℤ\\ &n\longmapsto3\end{align*}\quad fun
 - È l'immagine di $a$ via $f$ : $b=f(a)\in B$
 - È la pre-immagine di $b$ via $f$ : $\overbrace{f^{-1}(b)=\{a\in A|f(a)=b\}\subseteq A}^{\text{se f(a) mi restituisce tutti i numeri la cui immagine è b}}$
 
-## Funzione iniettiva e suriettiva
-- Funzione iniettiva:
+## Funzione [[Iniettività|iniettiva]] e [[Suriettività|suriettiva]]
+- Funzione [[Iniettività|iniettiva:]]
 	- Se una funzione data una $x$ da solo un valore
 		$f(a)=f(a')$ allora $a=a'$
 		> [!example] Esempio
-		> Non è iniettiva $\begin{align*}f:&ℤ\longrightarrow ℤ\\ &x\longmapsto x^2\end{align*}$ in quanto per esempio $f(1)=1=f(-1)$ quindi dando due numeri diversi si ottiene lo stesso numero
+		> Non è [[Iniettività|iniettiva]] $\begin{align*}f:&ℤ\longrightarrow ℤ\\ &x\longmapsto x^2\end{align*}$ in quanto per esempio $f(1)=1=f(-1)$ quindi dando due numeri diversi si ottiene lo stesso numero
 		
-- Funzione suriettiva:
+- Funzione [[Suriettività|suriettiva:]]
 	- Se tutti gli elementi del codominio sono immagine degli elementi del dominio
 	  $\forall b\in B \exists a\in A: f(a)=b$
 	  - Si chiama immagine di $f$ :
 	    $immagine(f)=\{f(a)\in B|a \in A\}\subseteq B$
 	    Si chiama immagine di $f$ ogni $f(a)$ appartenente a $B$
-- Funzioni biiettiva se è sia suriettiva che iniettiva
+- Funzioni [[Biiettività|biiettiva]] se è sia [[Suriettività|suriettiva]] che [[Iniettività|iniettiva]]
 
 ## Composizione di funzioni
 La composizione di una funzione è un operazione delle funzioni che indica che si inserisce come argomento di una funzione un'altra funzione.
@@ -135,18 +135,18 @@ Questa operazione è un operazione **non commutativa**
 > [!cite] Proposizione
 > Avendo $f: A\longrightarrow B\quad g:B\longrightarrow C\quad h: C\longrightarrow D$
 > 1. $h\circ(g\circ f)=(h\circ g)\circ f$ la composizione è quindi *associativa*
-> 2. Se $f,g$ sono iniettive allora $g\circ f$ è iniettiva
-> 3. Se $f,g$ sono suriettive allora $g\circ f$ è suriettiva
-> 4. Se $f, g$ sono biiettive allora $g\circ f$ sono biiettive
+> 2. Se $f,g$ sono [[Iniettività|iniettive]] allora $g\circ f$ è [[Iniettività|iniettiva]]
+> 3. Se $f,g$ sono [[Suriettività|suriettive]] allora $g\circ f$ è [[Suriettività|suriettiva]]
+> 4. Se $f, g$ sono [[Biiettività|biiettive]] allora $g\circ f$ sono [[Biiettività|biiettive]]
 
 ## Funzioni invertibili
 > [!cite] Proposizione
-> Avendo $f$ una funzione $f: A\longrightarrow B$. $f$ è invertibile $\leftrightharpoons$ $f$ è biiettiva
+> Avendo $f$ una funzione $f: A\longrightarrow B$. $f$ è invertibile $\leftrightharpoons$ $f$ è [[Biiettività|biiettiva]]
 
 In quanto una funzione:
 $f:A \longrightarrow B$ è invertibile se $\exists g:B\longrightarrow A : g \circ f = id_A \wedge f\circ g: id_B$
 E si scrive $g=f^{-1}$
-Quindi è necessario che ogni elemento $B$ sia immagine di un elemento di $A$ (*iniettiva*) e che ogni elemento di $A$ abbia come immagine un unico elemento $B$ permettendo:
+Quindi è necessario che ogni elemento $B$ sia immagine di un elemento di $A$ (*[[Iniettività|iniettiva*)]] e che ogni elemento di $A$ abbia come immagine un unico elemento $B$ permettendo:
 - Prima uso $g$ andando da $B$ ad $A$ e poi uso $f$ che da $A$ mi riporta a $B$
 ![Disegni a penna
 Disegni a penna
@@ -242,17 +242,17 @@ Abbiamo:
 
 Sapendo questo possiamo fare la dimostrazione della proposizione detta prima
 
-> [!note] Dimostrazione: avendo $f:A\rightarrow B$. Se $f$ è invertibile $\leftrightharpoons$ $f$ é biiettiva
+> [!note] Dimostrazione: avendo $f:A\rightarrow B$. Se $f$ è invertibile $\leftrightharpoons$ $f$ é [[Biiettività|biiettiva]]
 > Per fare questa dimostrazione è necessario dimostrare due cose:
 > Avendo $f:A\longrightarrow B$:
-> 1. $f$ é biiettiva : $\Longrightarrow$ $\forall b\in B \exists !a\in A:f(a)=b$ $\Longrightarrow$ $\exists\ \begin{align*}g:&B\longrightarrow A\\&b\longmapsto a: f(a)=b\end{align*}$
->    *Se $f$ è biiettiva per ogni $b\in B$ esiste un unica $a\in A$ tale che $f(a)=b$ questo implica ($\Longrightarrow$) che esiste una $g$ che va da $A$ in $B$ la cui immagine è $B$*
+> 1. $f$ é [[Biiettività|biiettiva]] : $\Longrightarrow$ $\forall b\in B \exists !a\in A:f(a)=b$ $\Longrightarrow$ $\exists\ \begin{align*}g:&B\longrightarrow A\\&b\longmapsto a: f(a)=b\end{align*}$
+>    *Se $f$ è [[Biiettività|biiettiva]] per ogni $b\in B$ esiste un unica $a\in A$ tale che $f(a)=b$ questo implica ($\Longrightarrow$) che esiste una $g$ che va da $A$ in $B$ la cui immagine è $B$*
 >    Avendo questo sappiamo che la composizione tra $f\circ g= id_B$ e $g\circ f=id_A$ 
 > 2. $f$ è invertibile : 
-> 	- Abbiamo confermato che $f$ è iniettiva quindi:
+> 	- Abbiamo confermato che $f$ è [[Iniettività|iniettiva]] quindi:
 > 		$f(a)=f(a') \Longrightarrow f(g(a))= f(g(a'))\Longrightarrow a=a'$
 > 		*Se esiste per assurdo esiste $f(a)= f(a')$ ma $a$ è unico ($!a\in A$ scritto sopra) allora $a = a'$*
->	- Abbiamo confermato che $f$ è suriettiva quindi:
+>	- Abbiamo confermato che $f$ è [[Suriettività|suriettiva]] quindi:
 >		Sia $b\in B$ e $g(b)\in A \Longrightarrow f\circ g(b)=id_B=b \Longrightarrow g(b)=f^{-1}(b)$
 >		*Se $B$ è il dominio e $A$ il codominio di $g$ allora la composizione tra $f\circ g$ mi ritorna in $B$ dandomi l'identità*
 
@@ -293,30 +293,30 @@ $f=f' \Leftrightarrow A=A', B=B'\ e\ \forall a \in A\ f(a)=f'(a)$
 Ci sono varie definizioni riguardanti le funzioni su insiemi con operazioni
 Avendo due *strutture algebriche* $(A,*_{_A}),\quad (B, *_{_B})$
 E una funzione $f:A\longrightarrow B$
-Se $f(a*_{_A}a')=f(a)*_{_B }f(a')$ allora si chiama *omomorfismo di strutture algebriche*
+Se $f(a*_{_A}a')=f(a)*_{_B }f(a')$ allora si chiama *[[Omomorfismo|omomorfismo]] di strutture algebriche*
 
-Un omomorfismo $f:(A, *_{_A})\longrightarrow (B, *_{_B})$ è detto:
-- *Monomorfismo* se $f$ è iniettiva
-- *Epimorfismo* se $f$ è suriettivo
-- *Isomorfismo* se $f$ è biiettivo
+Un [[Omomorfismo|omomorfismo]] $f:(A, *_{_A})\longrightarrow (B, *_{_B})$ è detto:
+- *Monomorfismo* se $f$ è [[Iniettività|iniettiva]]
+- *Epimorfismo* se $f$ è [[Suriettività|suriettivo]]
+- *[[Isomorfismo]]* se $f$ è [[Biiettività|biiettivo]]
 
 Se abbiamo una mappa tra due anelli:
 $f:(A, +_{_A}, \cdot_{_A})\longrightarrow(B, +_{_B}, \cdot_{_B})$
-Questa si chiama *omomorfismo di anelli* se
+Questa si chiama *[[Omomorfismo|omomorfismo]] di anelli* se
 $f(a+_{_A}a')=f(a) +_{_B}f(a'), \quad f(a \cdot_{_A} a')= f(a)\cdot_{_B}f(a')$
 
 > [!info] Esempio
 > 
-> $\begin{align*}f:(ℤ, +)&\longrightarrow (ℤ,+)\\ x&\longmapsto 2x\end{align*}\quad$ è un *omomorfismo di gruppi* quanto:
+> $\begin{align*}f:(ℤ, +)&\longrightarrow (ℤ,+)\\ x&\longmapsto 2x\end{align*}\quad$ è un *[[Omomorfismo|omomorfismo]] di gruppi* quanto:
 > $f(x+y)=2(x+y)=2x+2y=f(x)+f(y)$
 >  Quindi scrivere $f(x+y)$ è la stessa cosa di scrivere $f(x) + f(y)$
 >  
 >  Mentre invece:
->  $\begin{align*}f:(ℤ, +, \cdotp)&\longrightarrow (ℤ,+, \cdotp)\\ x&\longmapsto 2x\end{align*}\quad$ non è un omomorfismo di anelli perché:
+>  $\begin{align*}f:(ℤ, +, \cdotp)&\longrightarrow (ℤ,+, \cdotp)\\ x&\longmapsto 2x\end{align*}\quad$ non è un [[Omomorfismo|omomorfismo]] di anelli perché:
 >  Anche se come prima: $f(x+y)=2(x+y)=2x+2y=f(x)+f(y)$
 >  
 >  $f(x\cdot y) = 2\cdot (x\cdot y)= \overbrace{2xy}^{\text{proprietà associativa}}\neq 4xy=f(x)\cdot f(y)$
->  La moltiplicazione da un risultato diverso tra $f(x\cdot y)\neq f(x)\cdot f(y)$ quindi ***non è*** *un omomorfismo di anelli*
+>  La moltiplicazione da un risultato diverso tra $f(x\cdot y)\neq f(x)\cdot f(y)$ quindi ***non è*** *un [[Omomorfismo|omomorfismo]] di anelli*
 
 ## Permutazioni
 Cos'è una permutazione.
@@ -325,7 +325,7 @@ $S$ un insieme finito $\#S=n, S=\{a_1,\cdots,a_n\}\rightarrow\{1,2,\cdots,n\}$
 Quindi $S=\{1,2,3,\cdots,n\}$
 
 Una permutazione è una funzione $\sigma:S\longrightarrow S$
-Se questo sigma ($\sigma$)  è una permutazione $\Leftrightarrow$ è biiettiva
+Se questo sigma ($\sigma$)  è una permutazione $\Leftrightarrow$ è [[Biiettività|biiettiva]]
 
 ### Ma cosa fa?
 Una permutazione è semplicemente una funzione che cambia l'ordine dell'insieme.

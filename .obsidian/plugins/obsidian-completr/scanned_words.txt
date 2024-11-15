@@ -1866,6 +1866,7 @@ PHjREsJqDngSsucXgZpw
 PVAmPGjKE
 PFbkZubu
 Piccola
+Passo
 IHDR
 IDATx
 Ii
@@ -5158,6 +5159,8 @@ stdWa
 siP
 simmetriche
 split
+sorgenti
+stringa
 gAMA
 go
 gW
@@ -6731,6 +6734,8 @@ gLk
 gaBQEKXTtcCgwYNqvIoUua
 gpJafkLAapJxdcff
 gepUeeoH
+garantire
+grammaticale
 pHYs
 pJ
 pn
@@ -8273,6 +8278,10 @@ pQclUeKL
 pdganNXWOTGEWEF
 pFWd
 pkplvZR
+portabilit
+pronte
+procedure
+particolarmente
 HBz
 HN
 HU
@@ -12872,6 +12881,16 @@ lQV
 lRIuXrxYctaOGufTp
 lIEE
 lxYmJi
+librerie
+libreria
+linguaggi
+legato
+link
+lessicale
+leggibilit
+linker
+loader
+lista
 oooEDD
 oo
 osv
@@ -14344,6 +14363,9 @@ oaTqnGxcWF
 obtREgn
 oXpfpV
 odrmNbk
+operativo
+ottimizzazione
+oggetti
 QR
 QIYKI
 QG
@@ -19037,6 +19059,7 @@ MzExnZ
 MlLJVEeOrDBHFPGlv
 MFMxU
 Mercato
+Main
 JHH
 Jx
 JIIQTTT
@@ -25315,6 +25338,7 @@ TFEp
 TTHJH
 TurB
 THUVFRdLbp
+Trasformazione
 rJ
 rU
 rTkb
@@ -26861,6 +26885,10 @@ rBmzRphZ
 rdmVgjMd
 rUozMmLxCJnx
 recognition
+realmente
+risolti
+ritrovo
+read
 SL
 SZ
 SO
@@ -33947,6 +33975,16 @@ cNE
 chr
 ckIefy
 case
+cercate
+carica
+compilazione
+contestuale
+concentrarsi
+collega
+compilando
+costituiscono
+creer
+capir
 av
 as
 aIT
@@ -36315,6 +36353,11 @@ aaLeHlIJFc
 atXubm
 adNdlEeHp
 alTpyTxtBth
+avviene
+ambienti
+associo
+assegnano
+automatizzano
 GM
 Gr
 GD
@@ -49475,6 +49518,7 @@ mTg
 mSAD
 mpoYaw
 mie
+moduli
 xUu
 xeV
 xn
@@ -52422,6 +52466,7 @@ qMozcCVhs
 qampNjY
 qEyWSGhIQcOHAATnrt
 qDXDdCHrsS
+qua
 ip
 iz
 iU
@@ -54040,6 +54085,17 @@ iWk
 iXZPiB
 iXcHjxnxW
 introduzione
+intermedio
+impostazioni
+interpretati
+interprete
+inserite
+integrati
+invocano
+inserire
+includere
+inserir
+interpretarla
 Ot
 Ok
 OU
@@ -56232,6 +56288,7 @@ OHDSW
 OjojIyM
 OTkoKAgDPiFCxfCfpYtW
 OaGOvmJubT
+Ottimizzazioni
 nl
 nf
 nP
@@ -57677,6 +57734,9 @@ nQrRa
 nDx
 nyx
 nyYd
+nascosto
+nomi
+necessarie
 Wp
 Wsv
 We
@@ -63333,6 +63393,9 @@ DwePPmTSUXY
 DAwMrK
 DMjuWIf
 Dimostrazioni
+Durante
+Dichiarazione
+Dichiarazioni
 yJJJr
 yyy
 ye
@@ -66581,6 +66644,7 @@ vPp
 vwoULSFBJV
 vdHR
 vJD
+vicino
 tA
 te
 td
@@ -68517,6 +68581,7 @@ tmNsF
 tQUCQSWPSyuPu
 tru
 tags
+tipizzato
 CG
 Cf
 CDDDDD
@@ -70075,6 +70140,12 @@ CwgI
 CHSr
 Cose
 Color
+Controllo
+Collegamento
+Caricamento
+Controlla
+Creazione
+Combinazioni
 Nf
 NR
 Non
@@ -77856,6 +77927,7 @@ AipA
 AdR
 AkRtMnOzt
 APZcX
+Ambienti
 LG
 La
 Linguaggio
@@ -82241,6 +82313,10 @@ dXvy
 dUVZdyOHTssLS
 dTk
 dVUYZqhgaFD
+dagli
+dovr
+dichiarano
+dichiarata
 eA
 eWf
 eddh
@@ -85270,6 +85346,7 @@ eoo
 erVNmzakqyLUtqzlJybnHXMkmg
 ePvnjxIuIY
 esle
+esistenti
 Ve
 VM
 Vka

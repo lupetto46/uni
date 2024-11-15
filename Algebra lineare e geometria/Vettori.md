@@ -189,7 +189,7 @@ Sia $V$ uno spazio vettoriale su $K$. $B\subseteq V$ è una base di $V$ se:
 - $<B>=V$ è un insieme di generatori di $V$
 - $V$ linearmente indipendente
 
-> [!success] Corollario
+> [!success] Corollario 1
 > $B\subseteq V$ è una base di $V$ se e solo se:
 > $$
 > v\in V \exists! \lambda_1, \lambda_2, \dots, \lambda_n \in K : v = \sum_{i=1}^{n} \lambda_i \cdot v_i
@@ -209,7 +209,7 @@ Sia $V$ uno spazio vettoriale su $K$. $B\subseteq V$ è una base di $V$ se:
 > 
 > Se $\{w_1, w_2, \dots, w_r\}$ è un insieme di generatori di $V$ con $r<n$ allora esiste un insieme di generatori $\{w_1, w_2, \dots, w_r, v_{r+1}, \dots, v_n\}$ di $V$ con $r+1\leq n$
 
-> [!success] Corollario
+> [!success] Corollario 2
 > $V=K^n=\{(x_1,, x_2, \dots, x_n)\mid x_i\in K\}$
 > $$
 > 	\left\{\begin{pmatrix} 1 \\ 0 \\ \vdots \\ 0 \end{pmatrix}, \begin{pmatrix} 0 \\ 1 \\ \vdots \\ 0 \end{pmatrix}, \begin{pmatrix} 0 \\ 0 \\ \vdots \\ 1 \end{pmatrix}\right\}
@@ -818,7 +818,7 @@ x_3 = 0
 \end{align*}
 $$
 
-### Omomorfismi tra spazi vettoriali (o applicazioni lineari)
+### [[Omomorfismo|Omomorfismi]] tra spazi vettoriali (o applicazioni lineari)
 $B, W$ spazi vettoriali su $K$, avendo una funzione $f:V\longrightarrow W$ 
 
 $f$ è un'applicazione lineare se:
@@ -865,14 +865,14 @@ $f$ è un'applicazione lineare se:
 \end{pmatrix}
 \end{align}
 > $$
-> Essendo tutte e due questo è un omomorfismo
+> Essendo tutte e due questo è un [[Omomorfismo|omomorfismo]]
 
 > [!example] Esempio 2:
 > $$
 > \begin{align}
 > f:V&\longrightarrow W\\
 > v&\longmapsto 0
-> \end{align}\qquad \text{ si chiama omomorfismo nulllo}
+> \end{align}\qquad \text{ si chiama [[Omomorfismo|omomorfismo]] nulllo}
 > $$
 
 > [!example] Esempio 3
@@ -886,7 +886,7 @@ $f$ è un'applicazione lineare se:
 \end{pmatrix}
 \end{align}
 > $$
-> In questo caso non è un omomorfismo in quanto un polinomio elevato a 2 da un valore particolare 
+> In questo caso non è un [[Omomorfismo|omomorfismo]] in quanto un polinomio elevato a 2 da un valore particolare 
 
 > [!example] Esempio 4
 > $$
@@ -899,7 +899,7 @@ $f$ è un'applicazione lineare se:
 \end{pmatrix}
 \end{align}
 > $$
-> Non è un omomorfismo in quanto non soddisfa la seconda proprietà:
+> Non è un [[Omomorfismo|omomorfismo]] in quanto non soddisfa la seconda proprietà:
 > $$
 > f\begin{pmatrix}
 > 0 \\ 0
@@ -939,14 +939,14 @@ Quindi l'immagine di $f$ è l'insieme di tutte le $w$ immagini di $f$
 
 > [!success] Proposizione 1
 > $$
-> f:V\longrightarrow W \text{ omomorfismo}
+> f:V\longrightarrow W \text{ [[Omomorfismo|omomorfismo}]]
 > $$
 > $\ker f$ è un sottospazio di $V$
 > $Im\ f\subseteq W$ è un sottospazio di $W$
 
 > [!success] Proposizione 2
 > $$
-> f: V\longrightarrow W \text{ omomorfismo}
+> f: V\longrightarrow W \text{ [[Omomorfismo|omomorfismo}]]
 > $$
 > $V = <v_1,\ldots,v_m>$
 > Allora
@@ -1023,33 +1023,114 @@ $$
 \end{align}
 > > $$
 
-### Proprietà degli omomorfismi
+### Proprietà degli [[Omomorfismo|omomorfismi]]
 
 $f: V\longrightarrow W$ combinazione lineare allora:
-1. $f$ è iniettiva $\iff\forall v_1\neq v_2\in V, f(v_1)\neq f(v_2)$
-2. $f$ è suriettiva $\iff \forall v\in V, \exists f(v)=w$
-3. $f$ è biiettiva $\iff f$ iniettiva e suriettiva $\iff$ invertibile
+1. $f$ è [[Iniettività|iniettiva]] $\iff\forall v_1\neq v_2\in V, f(v_1)\neq f(v_2)$
+2. $f$ è [[Suriettività|suriettiva]] $\iff \forall v\in V, \exists f(v)=w$
+3. $f$ è [[Biiettività|biiettiva]] $\iff f$ [[Iniettività|iniettiva]] e [[Suriettività|suriettiva]] $\iff$ invertibile
 
 > [!success] lemma
 > Se $f:V\longrightarrow W$ invertibile. Allora la sua inversa è un'applicazione lineare.
-> $V,W$ apazi vettoriali. Isomorfi ($V\simeq W$) se $\exists f:V\longrightarrow W$ che è un isomorfismo 
+> $V,W$ apazi vettoriali. Isomorfi ($V\simeq W$) se $\exists f:V\longrightarrow W$ che è un [[Isomorfismo]] 
 
 > [!success] Proposizione
 > $f: V\longrightarrow W$ applicazione lineare
-> $f$ è iniettiva $\iff\ker(f)=\{0\}$
+> $f$ è [[Iniettività|iniettiva]] $\iff\ker(f)=\{0\}$
 
 > [!success] Proposizione
-> $f: V\longrightarrow W$ omomorfismo, $B = \{B_i\}_{i=1,\ldots,n}$ base di $B$
+> $f: V\longrightarrow W$ [[Omomorfismo|omomorfismo,]] $B = \{B_i\}_{i=1,\ldots,n}$ base di $B$
 > 1. $f$ è determinata da $f(b_1), \ldots, f(b_n)$
 > 2. Dati $m$ vettori in $W$ allora $\exists!g:V\longrightarrow W\text{ t. c } g(b_i) = w_i \{w_1, \ldots, w_m\}$
 
-> [!success] Corollario
-> $f:V\longrightarrow W$ omomorfismo
+> [!success] Corollario 3
+> $f:V\longrightarrow W$ [[Omomorfismo|omomorfismo]]
 > $B = \{B_i\}_{i=1,\ldots,n}$ base di $V$
-> 1. $f$ iniettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono linearmente indipendenti
-> 2. $f$ suriettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono generatori di $W$
-> 3. $f$ biiettiva $\iff\{f(b_1),\ldots f(b_m)\}$ sono una base di $W$
+> 1. $f$ [[Iniettività|iniettiva]] $\iff\{f(b_1),\ldots f(b_m)\}$ sono linearmente indipendenti
+> 2. $f$ [[Suriettività|suriettiva]] $\iff\{f(b_1),\ldots f(b_m)\}$ sono generatori di $W$
+> 3. $f$ [[Biiettività|biiettiva]] $\iff\{f(b_1),\ldots f(b_m)\}$ sono una base di $W$
+
+^7444b5
 
 > [!warning] attenzione
 > Ci sono un sacco di dimostrazioni che non ho scritto in questi appunti. Riguardarsele
+## Iniettività suriettività e biiettività delle funzioni
+
+> [!success] Corollario 4
+> $V,W$ spazi vettoriali su $K, dim\ V=n,dim\ W=m, f:V\to W$ omomorfismo
+> 1. $f$ iniettiva $\iff n\leq m$
+> 2. $f$ suriettiva $\iff n \geq m$
+> 3. $f$ biiettiva $\iff n = m$
+
+> [!success] Teorema (*dell'isomorfismo*)
+> $V$ spazio vettoriale  su $K$, $dim\ V=n$, allora $V\simeq K^n$
+> > [!summary] Dimostrazione
+> > Avendo $B = \{b_1,\ldots, b_n\}$ base di $V$
+> > $$
+> > \begin{align}
+> > \varphi: V &\to K^n\\
+> > b_1 &\mapsto \varphi(b_1) = e_1 = (1\ 0\ \dots\ 0)
+> > \end{align}
+> > $$
+> > Allora $\{\varphi(b_1), \dotsb, \varphi(b_n)\}= \varepsilon$ che seguendo il [[#^7444b5|corollario 3]] è [[Biiettività|biiettiva]] 
+
+Da qui già si può capire che la cosa più importante è stabilire una base. Infatti:
+
+$V$ spazio vettoriale di $dim\ V=n, B=\{b_1,\dots, b_n\}$ base di $V$
+
+Ma cosa significa che $B$ è una base?
+
+Vuol dire che $v\in V\implies \exists!\lambda_1,\dots,\lambda_n\in K \text( t. c. ) v=\lambda_1b_1 + \dots + \lambda_nb_n \implies$
+$\implies v\in V\rightsquigarrow \begin{pmatrix} \lambda_1\\ \lambda_2\\ \vdots\\ \lambda_n \end{pmatrix} \in K^n$
+
+Quindi $\varphi(v) = \varphi(\lambda_1v_1+\dots+\lambda_nv_n)=\lambda_1\varphi(v_1)+\dots+\lambda_n\varphi(v_n)=$
+$\lambda_1e_1+\dots+\lambda_ne_n=\lambda_1\begin{pmatrix} 1\\ 0\\ \vdots\\ 0 \end{pmatrix} +\dots+\lambda_n \begin{pmatrix} 0\\ 0\\ \vdots\\ 1 \end{pmatrix}= \begin{pmatrix} \lambda_1\\ \lambda_2 \\ \vdots \\ \lambda_n \end{pmatrix}$
+### Con i polinomi
+#### Esempio
+$K[X]_{\leq 2}=\{a+bx+cx^2\mid a,b,c \in ℝ\}$
+In questo caso la dimensione è $dim\ (K[x]_{\leq 2})= 3$ in quanto la base standard $B=\{1, x, x^2\}$
+
+$$
+\begin{align}
+	\varphi: K[X]_{\leq 2} &\to K^3\\
+	1&\mapsto \begin{pmatrix}
+	1\\0\\0
+	\end{pmatrix}\\
+	x& \mapsto \begin{pmatrix}
+	0\\1\\0
+	\end{pmatrix}\\
+	x^2&\mapsto \begin{pmatrix}
+	0\\0\\1
+	\end{pmatrix}
+\end{align}
+$$
+Ottenendo quindi qualcosa come $a+bx+cx^2 = \begin{pmatrix} a\\b\\c \end{pmatrix}$
+
+Ma questo se si sceglie la "*base standard*". È possibile anche cambiare base ed è come se si stesse cambiando **sistema di rappresentazione del vettore**:
+Usando la base $C = \{1+x, x+x^2, 1+x^2\}$
+$$
+\begin{align}
+	\tau:K[X]_{\leq 2}&\to K^3\\
+	1 + x &\mapsto \begin{pmatrix}
+	1\\0\\0
+	\end{pmatrix}\\
+	x + x^2 & \mapsto \begin{pmatrix}
+	0\\1\\0
+	\end{pmatrix}\\
+	1 + x^2 &\mapsto \begin{pmatrix}
+	0\\0\\1
+	\end{pmatrix}
+\end{align}
+$$
+
+## La base standard
+$K^3=\left\{\begin{pmatrix} a\\b\\c \end{pmatrix}\mid a,b,c\in K\right\}$
+
+$v=\begin{pmatrix} 1\\2\\1 \end{pmatrix} = 1\cdot\begin{pmatrix} 1\\0\\0 \end{pmatrix}+2\begin{pmatrix} 0\\1\\0 \end{pmatrix}+1\begin{pmatrix} 0\\0\\1 \end{pmatrix}$
+
+Tutto questo però si può fare seguendo anche un'altra base ad esempio
+$B =\{(1,1,0),(0,1,1),(1,0,1)\}$ base di $K^3$
+
+$v=\begin{pmatrix} 1\\2\\1 \end{pmatrix} =$ *$1$* $\cdot\begin{pmatrix} 1\\1\\0 \end{pmatrix}+$*$1$* $\begin{pmatrix} 0\\1\\1 \end{pmatrix}+$ *$0$*$\begin{pmatrix} 1\\0\\1 \end{pmatrix}=[V]_B=\begin{pmatrix} 1\\1\\0 \end{pmatrix}$
+Di cui il vettore finale sono i vettori evidenziati.
 

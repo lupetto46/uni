@@ -224,8 +224,8 @@ Se $(A|id_n)\in M_{n,2n}(K)$ dopo l'algoritmo Gauss-Jordan otteniamo $(id_n|B)$ 
 
 # Come capire se una matrice è invertibile a priori
 ## Permutazioni
-Abbiamo detto che avendo $S = \{1,2,\dots,n\}$ e $\$_n$ l'insieme di tutte le permutazioni di $S$ possiamo definire una permutazione come una funzione biiettiva da $S$ a $S$.
-Quindi $\sigma \in \$_n$ è una funzione biiettiva da $S$ a $S$.
+Abbiamo detto che avendo $S = \{1,2,\dots,n\}$ e $\$_n$ l'insieme di tutte le permutazioni di $S$ possiamo definire una permutazione come una funzione [[Biiettività|biiettiva]] da $S$ a $S$.
+Quindi $\sigma \in \$_n$ è una funzione [[Biiettività|biiettiva]] da $S$ a $S$.
 
 ### Inversioni nella permutazione
 Una inversione in una permutazione $\sigma \in \$_n$ è una coppia $(i,j)$ tale che $i<j$ e $\sigma(i)>\sigma(j)$ ed è indicato con $i(\sigma)$. Quindi:
