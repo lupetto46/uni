@@ -1,3 +1,7 @@
+---
+Data: 24-11-2024
+---
+
 $$
 \text{sgn}(x)=\begin{cases}
 1\ se\ &x >0\\

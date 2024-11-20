@@ -1,3 +1,7 @@
+---
+Data: 24-11-2024
+---
+
 $$
 [x]=\text{max}\{n\in ℤ:n\leq x\}\forall x \in ℝ
 $$
