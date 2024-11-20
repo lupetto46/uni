@@ -9,7 +9,7 @@
 	- [[Le operazioni]]
 	- [[Omomorfismi tra spazi vettoriali (o applicazioni lineari)]]
 	- [[Proprietà degli omomorfismi]]
-- **[[Funzioni]]**
+- **[[Algebra lineare e geometria/Funzioni/Funzioni]]**
 	- [[Composizione di funzioni]]
 	- [[Funzioni iniettive e suriettive]]
 	- [[Funzioni invertibili]]
