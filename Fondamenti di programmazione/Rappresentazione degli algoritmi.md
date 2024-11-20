@@ -1,1 +1,0 @@
-#fondamenti_di_programmazione 

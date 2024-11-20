@@ -1,4 +1,3 @@
-#fondamenti_di_programmazione
 # Elaborazione dell'informazione
 ## Definire un problema
 Ci sono definizioni particolari per poter dire che un problema è ben formulato:

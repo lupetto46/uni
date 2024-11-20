@@ -5164,6 +5164,9 @@ sorgenti
 stringa
 suriettivit
 stabilire
+simeq
+snippet
+see
 gAMA
 go
 gW
@@ -8285,6 +8288,7 @@ portabilit
 pronte
 procedure
 particolarmente
+pmatrix
 HBz
 HN
 HU
@@ -12894,6 +12898,8 @@ leggibilit
 linker
 loader
 lista
+left
+longleftrightarrow
 oooEDD
 oo
 osv
@@ -25343,6 +25349,7 @@ TurB
 THUVFRdLbp
 Trasformazione
 Titolo
+Trigonometria
 rJ
 rU
 rTkb
@@ -26893,6 +26900,8 @@ realmente
 risolti
 ritrovo
 read
+right
+rightsquigarrow
 SL
 SZ
 SO
@@ -36362,6 +36371,7 @@ ambienti
 associo
 assegnano
 automatizzano
+also
 GM
 Gr
 GD
@@ -37941,6 +37951,7 @@ GHFh
 GQVRYPjw
 GlpmUutKxyshXmdY
 GMmX
+Giorno
 hf
 hN
 hI
@@ -42607,6 +42618,7 @@ kFdWfOKoSVq
 kwdmqvXr
 kuQl
 knKipq
+ker
 EZ
 Ef
 Er
@@ -44153,6 +44165,8 @@ EtIKGuoDJIkIagBFTDyIRD
 EqrxaI
 EFEp
 Esercizi
+End
+Economia
 bfl
 bE
 bg
@@ -54101,6 +54115,7 @@ inserire
 includere
 inserir
 interpretarla
+implies
 Ot
 Ok
 OU
@@ -57742,6 +57757,8 @@ nyYd
 nascosto
 nomi
 necessarie
+null
+name
 Wp
 Wsv
 We
@@ -59216,6 +59233,7 @@ WNWvWODg
 WnnfirIDFbrx
 WHZMweVy
 WTyKEDlrsH
+Waypoint
 zZ
 zG
 zu
@@ -66650,6 +66668,8 @@ vwoULSFBJV
 vdHR
 vJD
 vicino
+vdots
+varepsilon
 tA
 te
 td
@@ -70151,6 +70171,8 @@ Caricamento
 Controlla
 Creazione
 Combinazioni
+Cartesiana
+Corsi
 Nf
 NR
 Non
@@ -77934,6 +77956,7 @@ AdR
 AkRtMnOzt
 APZcX
 Ambienti
+Architettura
 LG
 La
 Linguaggio
@@ -82324,6 +82347,10 @@ dagli
 dovr
 dichiarano
 dichiarata
+ddots
+dotsb
+dim
+description
 eA
 eWf
 eddh
@@ -85355,6 +85382,7 @@ ePvnjxIuIY
 esle
 esistenti
 evidenziati
+examples
 Ve
 VM
 Vka
@@ -88264,4 +88292,5 @@ BaSQ
 BPyMdR
 BlnZ
 BZIszGVzfh
+Begin
 äA

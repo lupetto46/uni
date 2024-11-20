@@ -1,10 +1,3 @@
----
-Data: 24-11-2024
-tags: Analisi_I
----
-
-
-# Goniometria
 ## Gli archi associati
 ![Disegni a penna
 Disegni a penna

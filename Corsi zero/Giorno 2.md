@@ -1,6 +1,5 @@
 ---
 Data: 24-11-2024
-tags: Corsi_zero
 ---
 
 
