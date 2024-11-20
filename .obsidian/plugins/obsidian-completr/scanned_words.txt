@@ -5167,6 +5167,11 @@ stabilire
 simeq
 snippet
 see
+scelta
+scegliamo
+scriviamo
+segnato
+singola
 gAMA
 go
 gW
@@ -14375,6 +14380,7 @@ odrmNbk
 operativo
 ottimizzazione
 oggetti
+ottenuto
 QR
 QIYKI
 QG
@@ -26902,6 +26908,9 @@ ritrovo
 read
 right
 rightsquigarrow
+rispettivamente
+rappresentando
+raggruppato
 SL
 SZ
 SO
@@ -33998,6 +34007,7 @@ compilando
 costituiscono
 creer
 capir
+creata
 av
 as
 aIT
@@ -44167,6 +44177,7 @@ EFEp
 Esercizi
 End
 Economia
+Essendoci
 bfl
 bE
 bg
@@ -46328,6 +46339,7 @@ bUnMxigHqENSIHTt
 bNmhEhhD
 bNhQpLsSi
 biiettivit
+basi
 Ys
 YV
 Yh
@@ -49538,6 +49550,7 @@ mSAD
 mpoYaw
 mie
 moduli
+mettiamoli
 xUu
 xeV
 xn
@@ -68607,6 +68620,7 @@ tQUCQSWPSyuPu
 tru
 tags
 tipizzato
+trovarli
 CG
 Cf
 CDDDDD
@@ -70173,6 +70187,9 @@ Creazione
 Combinazioni
 Cartesiana
 Corsi
+Cambio
+Cambiando
+Chiamandola
 Nf
 NR
 Non
@@ -76355,6 +76372,7 @@ fiK
 fKkBA
 fxYZFTvwEZE
 folder
+fissiamo
 Au
 AV
 AX
@@ -77957,6 +77975,7 @@ AkRtMnOzt
 APZcX
 Ambienti
 Architettura
+Analogamente
 LG
 La
 Linguaggio

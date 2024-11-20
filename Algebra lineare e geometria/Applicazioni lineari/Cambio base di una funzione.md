@@ -2,7 +2,7 @@ Quando fissiamo una base stiamo facendo una scelta. Ovviamente proprio per quest
 
 Ma essendo che due matrici con due basi diverse stanno rappresentando la stessa funzione ci dovrà essere qualcosa che le **mettono in relazione**
 ### Cambio di base tra matrici
-Abbiamo visto che $[f(v)]_{B_W}=[M(f)]^{B_V}_{B_W}\cdot [V]_{B_V}$ in [[#Forma matriciale di una funzione]]
+Abbiamo visto che $[f(v)]_{B_W}=[M(f)]^{B_V}_{B_W}\cdot [V]_{B_V}$ in [[Forma matriciale di una funzione]]
 E otteniamo anche che $[f(v)]_{B'_W}=[M(f)]^{B'_V}_{B'_W}\cdot [V]_{B'_V}$
 
 Ma adesso consideriamo di avere una $b_j \in V$ con $j=1,\dots, n$

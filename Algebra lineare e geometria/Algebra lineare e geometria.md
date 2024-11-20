@@ -1,12 +1,12 @@
 %% Begin Waypoint %%
 - **Applicazioni lineari**
 	- [[Applicazione lineare]]
+	- [[Cambio base di una funzione]]
 	- [[Forma matriciale di una funzione]]
 	- [[Iniettività suriettività e biiettività delle applicazioni lineari]]
 	- [[Kernel e immagine di $f$]]
 	- [[La base standard]]
 	- [[Le operazioni]]
-	- [[Matrici che rappresentano la stessa funzione]]
 	- [[Omomorfismi tra spazi vettoriali (o applicazioni lineari)]]
 	- [[Proprietà degli omomorfismi]]
 - **[[Funzioni]]**
