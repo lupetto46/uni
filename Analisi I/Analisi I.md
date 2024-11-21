@@ -1,8 +1,10 @@
 %% Begin Waypoint %%
 - **Funzioni**
+	- [[Espressione analitica funzioni composte]]
 	- [[Estremo inferiore]]
 	- [[Estremo superiore]]
 	- [[Funzione biiettiva]]
+	- [[Funzione composta]]
 	- [[Funzione di heaviside]]
 	- [[Funzione iniettiva]]
 	- [[Funzione inversa]]
@@ -12,6 +14,9 @@
 	- [[Funzione parte intera]]
 	- [[Funzione segno]]
 	- [[Funzione suriettiva]]
+	- [[Funzioni elementari]]
+	- [[Funzioni monotòne]]
+	- [[Funzioni simmetriche]]
 	- [[Il dominio e il codominio]]
 	- [[Immagine e controimmagine]]
 	- [[Maggiorante]]

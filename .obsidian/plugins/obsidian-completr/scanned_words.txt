@@ -1879,6 +1879,13 @@ Pdaa
 POV
 PSS
 PSr
+Pnt
+PnK
+PnO
+Pnk
+Pna
+Purch
+Presi
 IHDR
 IDATx
 Ii
@@ -5211,6 +5218,8 @@ svvv
 skI
 svh
 sss
+swj
+scambio
 gAMA
 go
 gW
@@ -6794,6 +6803,7 @@ ggG
 ggg
 gle
 gRJ
+glC
 pHYs
 pJ
 pn
@@ -8351,6 +8361,9 @@ pugt
 pNJ
 pZQyT
 psW
+piF
+phJ
+preferisce
 HBz
 HN
 HU
@@ -11522,6 +11535,15 @@ RuM
 RBF
 Riy
 RrDXLoF
+Rnrb
+Rnb
+RnKi
+RnCaZ
+RnCa
+RnY
+Rnw
+Rud
+Rnu
 lL
 lk
 lkS
@@ -14490,6 +14512,8 @@ ojm
 osm
 oGH
 oAp
+oBc
+ojG
 QR
 QIYKI
 QG
@@ -16040,6 +16064,12 @@ QEE
 QQQX
 QuN
 Qtp
+QnSN
+QnQ
+Qnqb
+QnwR
+Qtg
+Qte
 wo
 wx
 ww
@@ -17435,6 +17465,11 @@ wnhh
 wkk
 wnH
 wtB
+wdB
+wwb
+wtr
+wFLG
+wNMg
 MO
 MR
 Ma
@@ -22751,6 +22786,7 @@ uIN
 uMI
 ukk
 usss
+uvi
 Xx
 Xh
 Xr
@@ -24093,6 +24129,8 @@ Xyph
 XQQ
 Xmw
 Xgx
+Xow
+XtQ
 TQ
 Td
 TR
@@ -25536,6 +25574,10 @@ TtJ
 TUu
 TwWU
 TTe
+Tts
+TqZ
+Time
+Tale
 rJ
 rU
 rTkb
@@ -27103,6 +27145,18 @@ reY
 rlP
 rZn
 relativo
+rWI
+rwo
+rKI
+rwauQ
+rgPx
+rKN
+rsI
+rGB
+rWH
+rGJ
+riflesso
+restrizione
 SL
 SZ
 SO
@@ -28614,6 +28668,7 @@ SlT
 SJwt
 SKO
 SBJE
+Spesso
 Zy
 Zar
 ZN
@@ -31728,6 +31783,7 @@ FCH
 Fyu
 Fce
 FLd
+Foq
 cS
 cL
 cNt
@@ -34246,6 +34302,10 @@ cLB
 cNC
 controimmagine
 costituito
+cNNI
+cwi
+cvH
+ciascuna
 av
 as
 aIT
@@ -36631,6 +36691,7 @@ aSR
 akq
 aUU
 associato
+aWc
 GM
 Gr
 GD
@@ -38224,6 +38285,7 @@ Grp
 Gyz
 GDn
 Gln
+Geb
 hf
 hN
 hI
@@ -39712,6 +39774,7 @@ hjj
 hiiq
 hmm
 hrrR
+hrZ
 Kx
 Kl
 KS
@@ -41393,6 +41456,7 @@ KeF
 KPi
 KRd
 KrY
+KvE
 ki
 keY
 kP
@@ -42934,6 +42998,10 @@ kfff
 kggg
 kYQ
 kQI
+kvI
+kwi
+kHp
+kgg
 EZ
 Ef
 Er
@@ -44495,6 +44563,8 @@ EUH
 Eqo
 EGo
 EAM
+EWE
+Ena
 bfl
 bE
 bg
@@ -48291,6 +48361,7 @@ YDd
 YAYk
 YpV
 YMo
+YOtFtz
 ml
 mlBQ
 mBN
@@ -49898,6 +49969,9 @@ mrk
 mmhiMx
 mwx
 mpI
+mTM
+mhV
+monotona
 xUu
 xeV
 xn
@@ -52861,6 +52935,7 @@ qqqw
 quu
 qhI
 qye
+qualora
 ip
 iz
 iU
@@ -54501,6 +54576,10 @@ iCr
 indicato
 include
 indichiamo
+iOD
+iSw
+indicata
+indicare
 Ot
 Ok
 OU
@@ -56706,6 +56785,7 @@ OkP
 OUU
 OzJ
 OMs
+OvgY
 nl
 nf
 nP
@@ -58167,6 +58247,7 @@ nWF
 nZA
 npv
 nef
+nFoc
 Wp
 Wsv
 We
@@ -59654,6 +59735,8 @@ WNI
 WUuYs
 Wam
 WsU
+Wvl
+Wjz
 zZ
 zG
 zu
@@ -62385,6 +62468,7 @@ jLU
 jKnvi
 jGNt
 jFIT
+jTk
 DX
 DsM
 DDDDD
@@ -63885,6 +63969,7 @@ DcK
 DKH
 DUW
 Dnc
+DmQ
 yJJJr
 yyy
 ye
@@ -67163,6 +67248,9 @@ vQu
 vmw
 vbV
 vcfoJ
+vfb
+vmR
+vqtQvatAt
 tA
 te
 td
@@ -69113,6 +69201,10 @@ tpz
 trq
 tibV
 tratti
+tovOtwmwEwFwd
+twk
+tornare
+tracciarne
 CG
 Cf
 CDDDDD
@@ -70690,6 +70782,8 @@ Cvuu
 Cnt
 CCC
 CwA
+CvE
+CrD
 Nf
 NR
 Non
@@ -76903,6 +76997,9 @@ fhr
 fYv
 fjA
 fgg
+flx
+fKE
+fgr
 Au
 AV
 AX
@@ -78516,6 +78613,9 @@ AIk
 AxNL
 APy
 Aol
+AWu
+ALG
+Applicazioni
 LG
 La
 Linguaggio
@@ -80123,6 +80223,7 @@ LOy
 LMM
 LUH
 Lwyi
+LwWV
 dU
 df
 dI
@@ -82931,6 +83032,9 @@ dJe
 dä
 dYv
 dunque
+deR
+determina
+determinare
 eA
 eWf
 eddh
@@ -85976,6 +86080,7 @@ egUUW
 efdFF
 erW
 eLF
+env
 Ve
 VM
 Vka
@@ -87411,6 +87516,7 @@ ViSx
 VPd
 Vth
 VJG
+Viceversa
 BdD
 Bp
 Biiettiva

@@ -25,7 +25,7 @@ Per esempio una matrice:
 $$
 M_{2,2}(ℝ)={\begin{Bmatrix}\begin{pmatrix}
 a,b\\ c,d
-\end{pmatrix} a,b,c,d\inℝ\end{Bmatrix}}
+\end{pmatrix}\mid a,b,c,d\inℝ\end{Bmatrix}}
 $$
 
 > [!important] Importante
