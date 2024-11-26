@@ -51,7 +51,16 @@
 		- [[Trasformare un numero in forma trigonometrica]]
 	- [[Proprietà di $z$]]
 - **Successioni**
+	- **Limiti di successioni**
+		- [[Convergente]]
+		- [[Divergente negativamente]]
+		- [[Divergente positivamente]]
+		- [[Successioni irregolari e oscillanti]]
+		- [[Teorema dell'unicità del limite]]
+	- [[Segno di una successione]]
+	- [[Successioni con segno definitivamente costante]]
 	- [[Successioni limitate e illimitate]]
+	- [[Successioni monotone]]
 	- [[Successioni numeriche]]
 
 %% End Waypoint %%

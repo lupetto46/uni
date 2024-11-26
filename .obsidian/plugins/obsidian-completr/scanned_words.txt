@@ -1903,6 +1903,9 @@ PRUFBQePHjxenW
 PqDAcAAEBqamrZsmVVZbdes
 PSwsjJokqWfPnkOGDHFycqIcAAAAAODDoBzPXHx
 PEPanmU
+PHX
+PqL
+Positiva
 IHDR
 IDATx
 Ii
@@ -3454,6 +3457,7 @@ ISEjlypUpB
 IEtOTk
 ISLhx
 IYa
+IuZ
 sRGB
 sq
 sN
@@ -5264,6 +5268,10 @@ sSSFhoZSa
 sxeU
 sXDLKlS
 szZ
+successione
+soddisfi
+suddivisa
+successioni
 gAMA
 go
 gW
@@ -6864,6 +6872,9 @@ gHQiHPnztHHN
 goC
 gBAAACjBxguCtW
 gqsvqYi
+gOq
+gFA
+gDo
 pHYs
 pJ
 pn
@@ -8440,6 +8451,7 @@ pUqUyvfUTQFvY
 pkrESvEGDBi
 pkedAbN
 perfetto
+presentano
 HBz
 HN
 HU
@@ -14646,6 +14658,7 @@ okS
 ooXL
 oJyXA
 oHUox
+oWc
 QR
 QIYKI
 QG
@@ -16211,6 +16224,8 @@ QkNDL
 QvvqlatSkkeiYyMDA
 QYhjbSWU
 QjkOAAAAAJBnUI
+QXG
+Qualsiasi
 wo
 wx
 ww
@@ -20986,6 +21001,7 @@ JCQh
 Jlyo
 JyUAAABgBomJidu
 JncmM
+Jmv
 ue
 uE
 uT
@@ -28927,6 +28943,7 @@ SCObFNiZXIlLx
 SIEf
 SJFilAOYClQjuv
 Successioni
+SuY
 Zy
 Zar
 ZN
@@ -34633,6 +34650,12 @@ cejRo
 ccQDtQjuvx
 ccfx
 cspMWrYsGFeXl
+csR
+costante
+capita
+caratterizza
+complessivamente
+convergenti
 av
 as
 aIT
@@ -37063,6 +37086,8 @@ awwwQlknT
 atUWLFg
 adLy
 accumulazione
+alterni
+ammettono
 GM
 Gr
 GD
@@ -38670,6 +38695,7 @@ GTA
 GnxYkjuv
 GPYsGEmXiGZPdbW
 GAwAAAAAIKtQjgMAAAAA
+GSe
 hf
 hN
 hI
@@ -40176,6 +40202,7 @@ hBlZ
 hsSHh
 hRJkmq
 hfv
+hmI
 Kx
 Kl
 KS
@@ -43436,6 +43463,7 @@ kFAO
 kuTo
 kwsPj
 kvqMEqc
+kUp
 EZ
 Ef
 Er
@@ -45017,6 +45045,7 @@ EzADatWPHDvpk
 ECJfA
 EAaKnN
 EiRT
+Esistono
 bfl
 bE
 bg
@@ -50498,6 +50527,8 @@ mVpzlGregrZt
 mvwUJGoF
 mODixYu
 miT
+mJe
+mfL
 xUu
 xeV
 xn
@@ -55158,6 +55189,9 @@ ilCwA
 intorni
 isolato
 isolati
+imbattersi
+infinitesima
+irregolari
 Ot
 Ok
 OU
@@ -58874,6 +58908,7 @@ nhYB
 nhqkrFG
 nmyZMnn
 nEjscDxw
+numerica
 Wp
 Wsv
 We
@@ -63136,6 +63171,7 @@ jBNYGCg
 jVHsfrcxDLN
 jXL
 jBs
+jTF
 DX
 DsM
 DDDDD
@@ -64652,6 +64688,9 @@ DQAACpotW
 DcH
 DPoRzXIzU
 DAAAAAOQRSfo
+Dmm
+Diciamo
+Definitivamente
 yJJJr
 yyy
 ye
@@ -66107,6 +66146,8 @@ ytm
 ydO
 ydnYODAykJtM
 ycXLRo
+yde
+yam
 vn
 vi
 vr
@@ -69949,6 +69990,8 @@ tRksrFjx
 tLSVmcPv
 tDTK
 tbE
+termine
+teoriche
 CG
 Cf
 CDDDDD
@@ -71539,6 +71582,7 @@ CmN
 CoA
 CBbqPzliwYAH
 CnD
+Cqw
 Nf
 NR
 Non
@@ -73678,6 +73722,9 @@ NiRkgzs
 NSUAWlDo
 Nlb
 NWvWjHIATUE
+Nelle
+Nulla
+Negativa
 UFF
 Uu
 Uy
@@ -75162,6 +75209,7 @@ UiLDda
 UtOThafEsx
 UncHR
 UYck
+UkX
 fN
 feun
 fs
@@ -77831,6 +77879,7 @@ fuvX
 fAAAAAAD
 formato
 frontiera
+fURg
 Au
 AV
 AX
@@ -79459,6 +79508,7 @@ AAQME
 ANHZ
 AIlON
 AAADml
+AkS
 LG
 La
 Linguaggio
@@ -81085,6 +81135,7 @@ LIjMoXbo
 LDy
 LevHlubm
 LCxsZkwYYKTk
+Limiti
 dU
 df
 dI
@@ -83938,6 +83989,9 @@ dmjRw
 dcSIEapH
 discreto
 derivato
+discorde
+diremo
+divergenti
 eA
 eWf
 eddh
@@ -87050,6 +87104,9 @@ erRr
 ePTzeuXOnOJ
 efG
 eDh
+erA
+esercizi
+eventualmente
 Ve
 VM
 Vka
@@ -88503,6 +88560,7 @@ VJCcnJ
 VKhQgX
 VffDgwZQAWBZra
 VBnTp
+VXlF
 BdD
 Bp
 Biiettiva
