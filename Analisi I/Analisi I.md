@@ -14,7 +14,10 @@
 	- [[Funzione parte intera]]
 	- [[Funzione segno]]
 	- [[Funzione suriettiva]]
-	- [[Funzioni elementari]]
+	- **[[Funzioni elementari]]**
+		- [[Funzioni esponenziali elementari]]
+		- [[Funzioni esponenziali goniometriche]]
+		- [[Funzioni irrazionali]]
 	- [[Funzioni monotòne]]
 	- [[Funzioni simmetriche]]
 	- [[Il dominio e il codominio]]
@@ -25,6 +28,14 @@
 	- [[Minimo assoluto o globale]]
 	- [[Minimo relativo]]
 	- [[Minorante]]
+	- **[[Topologia in ℝ]]**
+		- [[Bolzano-Weiestrass]]
+		- [[Classificazione dei punti di un sottoinsieme di ℝ]]
+		- [[Dintorno di un punto]]
+		- [[Distanza in ℝ]]
+		- [[La retta estesa]]
+		- [[Proprietà locali]]
+		- [[Sintesi della classificazione dei punti x_0 in A]]
 - [[Goniometria]]
 - **[[Insieme dei numeri complessi]]**
 	- [[Definizione di addizione e moltiplicazione]]
@@ -39,5 +50,8 @@
 		- [[Teorema fondamentale dell'algebra]]
 		- [[Trasformare un numero in forma trigonometrica]]
 	- [[Proprietà di $z$]]
+- **Successioni**
+	- [[Successioni limitate e illimitate]]
+	- [[Successioni numeriche]]
 
 %% End Waypoint %%
